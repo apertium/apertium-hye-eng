@@ -1,0 +1,23 @@
+<dictionary>
+<alphabet/>
+<sdefs>
+  <sdef n="n"       c="Noun"/>
+  <sdef n="nn"      c="Inanimate"/>
+  <sdef n="aa"      c="Animate"/>
+  <sdef n="pl"      c="Plural"/>
+</sdefs>
+
+<section id="main" type="standard">
+<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>degree<s n="n"/></r></p></e>
+<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>extent<s n="n"/></r></p></e>
+<e c="of stairs"><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>step<s n="n"/></r></p></e>
+<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>stair<s n="n"/></r></p></e>
+<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/><s n="pl"/></l><r>stairs<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>ladder<s n="n"/></r></p></e>
+<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>class<s n="n"/></r></p></e>
+<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>rank<s n="n"/></r></p></e>
+<e c=""><p><l>աստղ<s n="n"/><s n="nn"/></l><r>celebrity<s n="n"/></r></p></e>
+<e c=""><p><l>աստղ<s n="n"/><s n="nn"/></l><r>star<s n="n"/></r></p></e>
+
+</section>
+</dictionary>
