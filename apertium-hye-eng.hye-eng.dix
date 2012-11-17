@@ -2,12 +2,34 @@
 <alphabet/>
 <sdefs>
   <sdef n="n"       c="Noun"/>
+  <sdef n="vblex"   c="Verb"/>
+  <sdef n="vbser"   c="Verb 'to be'"/>
+  <sdef n="adj"     c="Adjective"/>
+  <sdef n="adv"     c="Adverb"/>
+  <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+
+  <sdef n="sint"    c="Synthetic"/>
+
   <sdef n="nn"      c="Inanimate"/>
   <sdef n="aa"      c="Animate"/>
   <sdef n="pl"      c="Plural"/>
 </sdefs>
 
 <section id="main" type="standard">
+<!-- SECTION: Conjunctions -->
+
+<e c=""><p><l>և<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>կամ<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+
+<!-- SECTION: Adpositions -->
+
+<!-- SECTION: Determiners -->
+
+<!-- SECTION: Pronouns -->
+
+<!-- SECTION: Numerals -->
+
+<!-- SECTION: Nouns -->
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>degree<s n="n"/></r></p></e>
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>extent<s n="n"/></r></p></e>
 <e c="of stairs"><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>step<s n="n"/></r></p></e>
@@ -123,8 +145,6 @@
 <e c=""><p><l>ապստամբ<s n="n"/><s n="aa"/></l><r>rebel<s n="n"/></r></p></e>
 <e c=""><p><l>ապստամբ<s n="n"/><s n="aa"/></l><r>mutineer<s n="n"/></r></p></e>
 <e c=""><p><l>ապստամբ<s n="n"/><s n="aa"/></l><r>insurgent<s n="n"/></r></p></e>
-<e c=""><p><l>ապստամբ<s n="n"/><s n="aa"/></l><r>rebellious<s n="n"/></r></p></e>
-<e c=""><p><l>ապստամբ<s n="n"/><s n="aa"/></l><r>mutinous<s n="n"/></r></p></e>
 <e c=""><p><l>ապստամբություն<s n="n"/><s n="nn"/></l><r>rebellion<s n="n"/></r></p></e>
 <e c=""><p><l>ապստամբություն<s n="n"/><s n="nn"/></l><r>mutiny<s n="n"/></r></p></e>
 <e c=""><p><l>ապրիլ<s n="n"/><s n="nn"/></l><r>April<s n="n"/></r></p></e>
@@ -356,13 +376,33 @@
 <e c=""><p><l>արտ<s n="n"/><s n="nn"/></l><r>arable<b/>land<s n="n"/></r></p></e>
 <e c=""><p><l>արտասուք<s n="n"/><s n="nn"/></l><r>tear<s n="n"/></r></p></e>
 
+<!-- SECTION: Adjectives -->
 
+<e c=""><p><l>լավ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
 
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>honest<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>honest-minded<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>fair<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>straightforward<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>upright<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>straight<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>square<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>decent<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/></l><r>noble<s n="adj"/><s n="sint"/></r></p></e>
 
+<!-- SECTION: Adverbs -->
 
+<e c=""><p><l>ագահաբար<s n="adv"/></l><r>greedily<s n="adv"/></r></p></e>
+<e c=""><p><l>ագահաբար<s n="adv"/></l><r>avidly<s n="adv"/></r></p></e>
+<e c=""><p><l>ագահաբար<s n="adv"/></l><r>eagerly<s n="adv"/></r></p></e>
 
+<!-- SECTION: Verbs -->
 
+<e c=""><p><l>լինել<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 
+<e c=""><p><l>լսել<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
+<e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
+<e c=""><p><l>լսել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
 
 
 
