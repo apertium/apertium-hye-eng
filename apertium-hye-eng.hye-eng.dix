@@ -376,6 +376,53 @@
 <e c=""><p><l>արտ<s n="n"/><s n="nn"/></l><r>arable<b/>land<s n="n"/></r></p></e>
 <e c=""><p><l>արտասուք<s n="n"/><s n="nn"/></l><r>tear<s n="n"/></r></p></e>
 
+<!-- SECTION: Proper names -->
+
+<e c=""><p><l>Աբգար<s n="np"/><s n="ant"/><s n="m"/></l><r>Abgar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Աբրահամ<s n="np"/><s n="ant"/><s n="m"/></l><r>Abraham<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ադամ<s n="np"/><s n="ant"/><s n="m"/></l><r>Adam<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ալբերտ<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ալեքսանդր<s n="np"/><s n="ant"/><s n="m"/></l><r>Alexander<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ալեքսիյ<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksey<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Անդրանիկ<s n="np"/><s n="ant"/><s n="m"/></l><r>Andranik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Անդրեաս<s n="np"/><s n="ant"/><s n="m"/></l><r>Andreas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ավետ<s n="np"/><s n="ant"/><s n="m"/></l><r>Avet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ատոմ<s n="np"/><s n="ant"/><s n="m"/></l><r>Atom<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Արամ<s n="np"/><s n="ant"/><s n="m"/></l><r>Aram<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Արթուր<s n="np"/><s n="ant"/><s n="m"/></l><r>Artur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Արտեմ<s n="np"/><s n="ant"/><s n="m"/></l><r>Artem<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Բարաք<s n="np"/><s n="ant"/><s n="m"/></l><r>Barak<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Գաբրիել<s n="np"/><s n="ant"/><s n="m"/></l><r>Gabriel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Գրիգոր<s n="np"/><s n="ant"/><s n="m"/></l><r>Grigor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Դանիել<s n="np"/><s n="ant"/><s n="m"/></l><r>Daniel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Դավիթ<s n="np"/><s n="ant"/><s n="m"/></l><r>David<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Երվազ<s n="np"/><s n="ant"/><s n="m"/></l><r>Ervaz<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Էդգար<s n="np"/><s n="ant"/><s n="m"/></l><r>Edgar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Էդվարդ<s n="np"/><s n="ant"/><s n="m"/></l><r>Eduard<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Իվան<s n="np"/><s n="ant"/><s n="m"/></l><r>Ivan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Հակոբ<s n="np"/><s n="ant"/><s n="m"/></l><r>Hakob<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Հենրիկ<s n="np"/><s n="ant"/><s n="m"/></l><r>Henrik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Հրանտ<s n="np"/><s n="ant"/><s n="m"/></l><r>Hrant<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Մանվել<s n="np"/><s n="ant"/><s n="m"/></l><r>Manuel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Մատթեոս<s n="np"/><s n="ant"/><s n="m"/></l><r>Matteos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Մարկ<s n="np"/><s n="ant"/><s n="m"/></l><r>Mark<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Մարտին<s n="np"/><s n="ant"/><s n="m"/></l><r>Martin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Միքայել<s n="np"/><s n="ant"/><s n="m"/></l><r>Mikael<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Մովսես<s n="np"/><s n="ant"/><s n="m"/></l><r>Moses<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ոստանիկ<s n="np"/><s n="ant"/><s n="m"/></l><r>Ostanik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Պետրոս<s n="np"/><s n="ant"/><s n="m"/></l><r>Petros<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ռաֆայել<s n="np"/><s n="ant"/><s n="m"/></l><r>Rafayel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ռոբերտ<s n="np"/><s n="ant"/><s n="m"/></l><r>Robert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Սերգեյ<s n="np"/><s n="ant"/><s n="m"/></l><r>Sergey<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Սիմոն<s n="np"/><s n="ant"/><s n="m"/></l><r>Simon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ստեփան<s n="np"/><s n="ant"/><s n="m"/></l><r>Stepan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Վլադիմիր<s n="np"/><s n="ant"/><s n="m"/></l><r>Vladimir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Տարոն<s n="np"/><s n="ant"/><s n="m"/></l><r>Taron<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Տիգրան<s n="np"/><s n="ant"/><s n="m"/></l><r>Tigran<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Րաֆֆի<s n="np"/><s n="ant"/><s n="m"/></l><r>Raffi<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Փիլիպպոս<s n="np"/><s n="ant"/><s n="m"/></l><r>Philippos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
+
 <!-- SECTION: Adjectives -->
 
 <e c=""><p><l>լավ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
