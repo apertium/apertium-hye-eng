@@ -1,2 +1,3 @@
 * text=auto !eol
 /apertium-hye-eng.hye-eng.dix -text
+dev/nouns.txt -text
