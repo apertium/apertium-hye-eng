@@ -1,5 +1,8 @@
 <rules>
   <rule>
+    <match lemma="պեչենի" tags="n.*"><select lemma="biscuit" tags="n.*"/></match>
+  </rule>
+  <rule>
     <match tags="prn.pers.p2.*"/>
     <match lemma="սիրել" tags="vblex.*"><select lemma="love" tags="vblex.*"/></match>
   </rule>
