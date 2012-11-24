@@ -1,3 +1,8 @@
 * text=auto !eol
+/Makefile -text
 /apertium-hye-eng.hye-eng.dix -text
+/apertium-hye-eng.hye-eng.t1x -text
+/apertium-hye-eng.hye-eng.t2x -text
+/apertium-hye-eng.hye-eng.t3x -text
 dev/nouns.txt -text
+/modes.xml -text
