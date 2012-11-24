@@ -9,6 +9,7 @@
   <sdef n="adj"     c="Adjective"/>
   <sdef n="adv"     c="Adverb"/>
   <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+  <sdef n="cnjsub"  c="Subordinating conjunction"/>
 
   <sdef n="sint"    c="Synthetic"/>
 
@@ -29,6 +30,7 @@
 
 <e c=""><p><l>և<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>կամ<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>որ<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
 <!-- SECTION: Adpositions -->
 
