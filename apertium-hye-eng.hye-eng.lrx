@@ -1,0 +1,6 @@
+<rules>
+  <rule>
+    <match tags="prn.pers.p2.*"/>
+    <match lemma="սիրել" tags="vblex.*"><select lemma="love" tags="vblex.*"/></match>
+  </rule>
+</rules>

@@ -13,6 +13,7 @@
     <def-attr n="a_prn">
       <attr-item tags="prn.pers"/>
       <attr-item tags="prn.subj"/>
+      <attr-item tags="prn.obj"/>
       <attr-item tags="prn"/>
     </def-attr>
 
@@ -81,6 +82,11 @@
           <when>
             <test><equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="nom"/></equal></test>
             <let><clip pos="1" side="tl" part="a_prn"/><lit-tag v="prn.subj"/></let>
+            <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+          </when>
+          <when>
+            <test><not><equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="nom"/></equal></not></test>
+            <let><clip pos="1" side="tl" part="a_prn"/><lit-tag v="prn.obj"/></let>
             <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
           </when>
         </choose>

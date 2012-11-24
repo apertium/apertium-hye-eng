@@ -36,7 +36,8 @@
 
 <!-- SECTION: Pronouns -->
 
-<e c=""><p><l>Ես<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/></r></p></e>
+<e c=""><p><l>ես<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/></r></p></e>
+<e c=""><p><l>դու<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/></r></p></e>
 
 <!-- SECTION: Numerals -->
 
@@ -4901,6 +4902,7 @@
 <e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
 <e c=""><p><l>սիրել<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
+<e c=""><p><l>սիրել<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
 
 
 <!-- SECTION: Punctuation -->
