@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
+/apertium-hye-eng.eng.dix -text
 /apertium-hye-eng.hye-eng.dix -text
 /apertium-hye-eng.hye-eng.lrx -text
 /apertium-hye-eng.hye-eng.rlx -text
