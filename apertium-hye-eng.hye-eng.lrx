@@ -1,5 +1,8 @@
 <rules>
   <rule>
+    <match lemma="թռչել" tags="vblex.*"><select lemma="fly" tags="vblex.*"/></match>
+  </rule>
+  <rule>
     <match lemma="խելոք" tags="adj.*"><select lemma="clever" tags="adj.*"/></match>
   </rule>
   <rule>
