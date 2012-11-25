@@ -7,6 +7,18 @@
     </pipeline>
   </mode>
 
+  <mode name="hye-eng-disam">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hye-eng.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="hye-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
   <mode name="hye-eng-tagger">
     <pipeline>
       <program name="lt-proc -w">

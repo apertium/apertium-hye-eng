@@ -8,8 +8,12 @@
   <sdef n="vbser"   c="Verb 'to be'"/>
   <sdef n="adj"     c="Adjective"/>
   <sdef n="adv"     c="Adverb"/>
+  <sdef n="ij"      c="Interjection"/>
+  <sdef n="preadv"  c="Preadverb"/>
+  <sdef n="num"     c="Numeral"/>
   <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
   <sdef n="cnjsub"  c="Subordinating conjunction"/>
+  <sdef n="cnjadv"  c="Adverbial conjunction"/>
 
   <sdef n="sint"    c="Synthetic"/>
 
@@ -23,6 +27,8 @@
   <sdef n="ant"     c="Anthroponym"/>
 
   <sdef n="sent"    c="End of sentence marker"/>
+  <sdef n="cm"      c="Comma"/>
+  <sdef n="guio"    c="Hyphen"/>
 </sdefs>
 
 <section id="main" type="standard">
@@ -31,6 +37,9 @@
 <e c=""><p><l>և<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>կամ<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>որ<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+<e c=""><p><l>իսկ<s n="cnjadv"/></l><r>while<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>իսկ<s n="cnjadv"/></l><r>and<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>քան<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
 
 <!-- SECTION: Adpositions -->
 
@@ -48,7 +57,7 @@
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>extent<s n="n"/></r></p></e>
 <e c="of stairs"><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>step<s n="n"/></r></p></e>
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>stair<s n="n"/></r></p></e>
-<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/><s n="pl"/></l><r>stairs<s n="n"/></r></p></e>
+<e c=""><p><l>աստիճան<s n="n"/><s n="nn"/><s n="pl"/></l><r>stair<s n="n"/><s n="pl"/></r></p></e>
 <e c="colloquial"><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>ladder<s n="n"/></r></p></e>
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>class<s n="n"/></r></p></e>
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>rank<s n="n"/></r></p></e>
@@ -248,8 +257,8 @@
 <e c=""><p><l>ավազակ<s n="n"/><s n="aa"/></l><r>brigand<s n="n"/></r></p></e>
 <e c=""><p><l>ավազակ<s n="n"/><s n="aa"/></l><r>thug<s n="n"/></r></p></e>
 <e c=""><p><l>ավազակ<s n="n"/><s n="aa"/></l><r>bandit<s n="n"/></r></p></e>
-<e c=""><p><l>ավազականոց<s n="n"/><s n="nn"/></l><r>den<b/>of<b/>thieves<s n="n"/></r></p></e>
-<e c=""><p><l>ավազականոց<s n="n"/><s n="nn"/></l><r>den<b/>of<b/>robbers<s n="n"/></r></p></e>
+<e c=""><p><l>ավազականոց<s n="n"/><s n="nn"/></l><r>den<g><b/>of<b/>thieves</g><s n="n"/></r></p></e>
+<e c=""><p><l>ավազականոց<s n="n"/><s n="nn"/></l><r>den<g><b/>of<b/>robbers</g><s n="n"/></r></p></e>
 <e c=""><p><l>ավազուտ<s n="n"/><s n="nn"/></l><r>sands<s n="n"/></r></p></e>
 <e c=""><p><l>ավազուտ<s n="n"/><s n="nn"/></l><r>sandy<b/>terrain<s n="n"/></r></p></e>
 <e c=""><p><l>ավազուտ<s n="n"/><s n="nn"/></l><r>sandy<s n="n"/></r></p></e>
@@ -708,7 +717,7 @@
 <e c="dialectal"><p><l>ղալաթ<s n="n"/><s n="nn"/></l><r>mistake<s n="n"/></r></p></e>
 <e c="dialectal"><p><l>ղայիշ<s n="n"/><s n="nn"/></l><r>belt<s n="n"/></r></p></e>
 <e c="dialectal"><p><l>ղանթար<s n="n"/><s n="nn"/></l><r>marketplace<s n="n"/></r></p></e>
-<e c="dialectal"><p><l>ղանթար<s n="n"/><s n="nn"/></l><r>scales<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ղանթար<s n="n"/><s n="nn"/><s n="pl"/></l><r>scale<s n="n"/><s n="pl"/></r></p></e>
 <e c="dialectal"><p><l>ղասաբ<s n="n"/><s n="aa"/></l><r>butcher<s n="n"/></r></p></e>
 <e c="dialectal"><p><l>ղսմաթ<s n="n"/><s n="nn"/></l><r>luck<s n="n"/></r></p></e>
 <e c="dialectal"><p><l>ճոն<s n="n"/><s n="aa"/></l><r>craftsman<s n="n"/></r></p></e>
@@ -4888,13 +4897,27 @@
 <e c=""><p><l>ազնիվ<s n="adj"/></l><r>square<s n="adj"/></r></p></e>
 <e c=""><p><l>ազնիվ<s n="adj"/></l><r>decent<s n="adj"/></r></p></e>
 <e c=""><p><l>ազնիվ<s n="adj"/></l><r>noble<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/></l><r>clever<s n="adj"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/></l><r>quiet<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/></l><r>obedient<s n="adj"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/></l><r>dutiful<s n="adj"/></r></p></e>
 
 <!-- SECTION: Adverbs -->
+
+<e c=""><p><l>ավելի<s n="adv"/></l><r>more<s n="preadv"/></r></p></e>
+<e c=""><p><l>ոչ<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
 <e c=""><p><l>շատ<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
 <e c=""><p><l>ագահաբար<s n="adv"/></l><r>greedily<s n="adv"/></r></p></e>
 <e c=""><p><l>ագահաբար<s n="adv"/></l><r>avidly<s n="adv"/></r></p></e>
 <e c=""><p><l>ագահաբար<s n="adv"/></l><r>eagerly<s n="adv"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adv"/></l><r>cleverly<s n="adv"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adv"/></l><r>wisely<s n="adv"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adv"/></l><r>sensibly<s n="adv"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adv"/></l><r>quietly<s n="adv"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adv"/></l><r>obediently<s n="adv"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adv"/></l><r>dutifully<s n="adv"/></r></p></e>
 
 <!-- SECTION: Verbs -->
 
@@ -4909,6 +4932,9 @@
 
 <!-- SECTION: Punctuation -->
 <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+<e><re>[№]?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
+<e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+<e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
 
 
 
