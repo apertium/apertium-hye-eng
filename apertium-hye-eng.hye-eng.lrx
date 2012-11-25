@@ -1,5 +1,8 @@
 <rules>
   <rule>
+    <match lemma="խելոք" tags="adj.*"><select lemma="clever" tags="adj.*"/></match>
+  </rule>
+  <rule>
     <match lemma="պեչենի" tags="n.*"><select lemma="biscuit" tags="n.*"/></match>
   </rule>
   <rule>

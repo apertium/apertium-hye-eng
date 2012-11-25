@@ -5,8 +5,10 @@
   <sdef n="np"      c="Proper noun"/>
   <sdef n="vblex"   c="Verb"/>
   <sdef n="prn"     c="Pronoun"/>
+  <sdef n="pr"      c="Preposition"/>
   <sdef n="vbser"   c="Verb 'to be'"/>
   <sdef n="adj"     c="Adjective"/>
+  <sdef n="rel"     c="Relative pronoun"/>
   <sdef n="adv"     c="Adverb"/>
   <sdef n="ij"      c="Interjection"/>
   <sdef n="preadv"  c="Preadverb"/>
@@ -21,8 +23,12 @@
 
   <sdef n="nn"      c="Inanimate"/>
   <sdef n="aa"      c="Animate"/>
+  <sdef n="an"      c="Animate / inanimate"/>
+  <sdef n="sg"      c="Singular"/>
+  <sdef n="sp"      c="Singular / plural"/>
   <sdef n="pl"      c="Plural"/>
   <sdef n="m"       c="Masculine"/>
+  <sdef n="mf"      c="Masculine / feminine"/>
 
   <sdef n="ant"     c="Anthroponym"/>
 
@@ -42,6 +48,8 @@
 <e c=""><p><l>քան<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
 
 <!-- SECTION: Adpositions -->
+<e c=""><p><l>դեպի<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
+<e c=""><p><l>դեպի<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
 
 <!-- SECTION: Determiners -->
 
@@ -49,6 +57,10 @@
 
 <e c=""><p><l>ես<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/></r></p></e>
 <e c=""><p><l>դու<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/></r></p></e>
+<e c="" r="LR"><p><l>որ<s n="rel"/><s n="nn"/><s n="sg"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c="" r="LR"><p><l>որ<s n="rel"/><s n="nn"/><s n="pl"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c="" r="RL"><p><l>որ<s n="rel"/><s n="nn"/><s n="ND"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+
 
 <!-- SECTION: Numerals -->
 
@@ -4888,26 +4900,34 @@
 
 <e c=""><p><l>լավ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
 
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>honest<s n="adj"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>honest-minded<s n="adj"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>fair<s n="adj"/><s n="sint"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>straightforward<s n="adj"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>upright<s n="adj"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>straight<s n="adj"/><s n="sint"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>square<s n="adj"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>decent<s n="adj"/></r></p></e>
-<e c=""><p><l>ազնիվ<s n="adj"/></l><r>noble<s n="adj"/><s n="sint"/></r></p></e>
-<e c=""><p><l>խելոք<s n="adj"/></l><r>clever<s n="adj"/></r></p></e>
-<e c=""><p><l>խելոք<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
-<e c=""><p><l>խելոք<s n="adj"/></l><r>quiet<s n="adj"/><s n="sint"/></r></p></e>
-<e c=""><p><l>խելոք<s n="adj"/></l><r>obedient<s n="adj"/></r></p></e>
-<e c=""><p><l>խելոք<s n="adj"/></l><r>dutiful<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>honest<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>honest-minded<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>fair<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>straightforward<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>upright<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>straight<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>square<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>decent<s n="adj"/></r></p></e>
+<e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>noble<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/><s n="sint"/></l><r>clever<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/><s n="sint"/></l><r>intelligent<s n="adj"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/><s n="sint"/></l><r>quiet<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/><s n="sint"/></l><r>obedient<s n="adj"/></r></p></e>
+<e c=""><p><l>խելոք<s n="adj"/><s n="sint"/></l><r>dutiful<s n="adj"/></r></p></e>
+<e c=""><p><l>կարող<s n="adj"/><s n="sint"/></l><r>capable<s n="adj"/></r></p></e>
+<e c=""><p><l>կարող<s n="adj"/><s n="sint"/></l><r>competent<s n="adj"/></r></p></e>
+<e c=""><p><l>կարող<s n="adj"/><s n="sint"/></l><r>able<s n="adj"/></r></p></e>
+<e c=""><p><l>կարող<s n="adj"/><s n="sint"/></l><r>potent<s n="adj"/></r></p></e>
+<e c=""><p><l>կարող<s n="adj"/><s n="sint"/></l><r>powerful<s n="adj"/></r></p></e>
+<e c=""><p><l>կարող<s n="adj"/><s n="sint"/></l><r>clever<s n="adj"/><s n="sint"/></r></p></e>
 
 <!-- SECTION: Adverbs -->
 
 <e c=""><p><l>ավելի<s n="adv"/></l><r>more<s n="preadv"/></r></p></e>
 <e c=""><p><l>ոչ<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
+<e c=""><p><l>ետ<s n="adv"/></l><r>back<s n="adv"/></r></p></e>
+<e c=""><p><l>ետ<s n="adv"/></l><r>backwards<s n="adv"/></r></p></e>
 <e c=""><p><l>շատ<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
 <e c=""><p><l>ագահաբար<s n="adv"/></l><r>greedily<s n="adv"/></r></p></e>
 <e c=""><p><l>ագահաբար<s n="adv"/></l><r>avidly<s n="adv"/></r></p></e>
