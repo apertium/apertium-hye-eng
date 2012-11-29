@@ -458,6 +458,26 @@
       <e>       <p><l>իներում</l><r>ի<s n="n"/><s n="nn"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p><par n="poss"/></e>
     </pardef>
 
+    <pardef n="գ/իրք__n_nn">
+      <e>       <p><l>րքից</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքի</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքին</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e>       <p><l>րքում</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքով</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>իրք</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>իրքը</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>       <p><l>իրքն</l><r>իրք<s n="n"/><s n="nn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>       <p><l>րքերից</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="abl"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքերի</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքերին</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e>       <p><l>րքերում</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքերով</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="ins"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքեր</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>րքերը</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>       <p><l>րքերն</l><r>իրք<s n="n"/><s n="nn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+
     <!-- SECTION: Proper nouns -->
 
     <pardef n="Գրիգոր__np">
@@ -730,8 +750,7 @@
     <e lm="աստված"><i>աստ</i><par n="աստ/ված__n_aa"/></e>
     <e lm="արքայադուստր"><i>արքայադ</i><par n="արքայադ/ուստր__n_aa"/></e>
     <e lm="դուստր"><i>դ</i><par n="դ/ուստր__n_aa"/></e>
-
-
+    <e lm="գիրք"><i>գ</i><par n="գ/իրք__n_nn"/></e>
 
     <e lm="արև"><i>արև</i><par n="արև__n_nn"/></e>
     <e lm="անգամ"><i>անգամ</i><par n="արև__n_nn"/></e>
