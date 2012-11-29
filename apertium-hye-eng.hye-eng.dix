@@ -46,10 +46,85 @@
 <e c=""><p><l>իսկ<s n="cnjadv"/></l><r>while<s n="cnjadv"/></r></p></e>
 <e c=""><p><l>իսկ<s n="cnjadv"/></l><r>and<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>քան<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>ժամանակ<s n="cnjadv"/></l><r>during<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>ժամանակ<s n="cnjadv"/></l><r>at<b/>the<b/>time<b/>of<s n="cnjadv"/></r></p></e>
+
+<e c=""><p><l>այլ<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>այլ<s n="cnjadv"/></l><r>however<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>այլ<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>բայց<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>բացի<s n="cnjcoo"/></l><r>except<s n="pr"/></r></p></e>
+<e c=""><p><l>եթե<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+<e c=""><p><l>եւ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>թե<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+<e c=""><p><l>թե<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>իսկ<s n="cnjadv"/></l><r>while<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>իսկ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>կամ<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>նաև<s n="cnjadv"/></l><r>also<s n="adv"/></r></p></e>
+<e c=""><p><l>նաև<s n="cnjadv"/></l><r>too<s n="adv"/></r></p></e>
+<e c=""><p><l>նաև<s n="cnjadv"/></l><r>as<b/>well<s n="adv"/></r></p></e>
+<e c=""><p><l>նաև<s n="cnjadv"/></l><r>including<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>նույնպես<s n="cnjadv"/></l><r>also<s n="adv"/></r></p></e>
+<e c=""><p><l>նույնպես<s n="cnjadv"/></l><r>too<s n="adv"/></r></p></e>
+<e c=""><p><l>նույնպես<s n="cnjadv"/></l><r>as<b/>well<s n="adv"/></r></p></e>
+<e c=""><p><l>որովհետև<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+<e c=""><p><l>ու<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>ուրեմն<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>ուրեմն<s n="cnjadv"/></l><r>consequently<s n="adv"/></r></p></e>
+<e c=""><p><l>քան<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
+
 
 <!-- SECTION: Adpositions -->
 <e c=""><p><l>դեպի<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
 <e c=""><p><l>դեպի<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+
+<e c=""><p><l>աղագավ<s n="post"/></l><r>by<b/>reason<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>աղագավ<s n="post"/></l><r>because<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>աղագավ<s n="post"/></l><r>for<b/>the<b/>purpose<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>առաջ<s n="post"/></l><r>before<s n="post"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>outside<s n="post"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>beyond<s n="post"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>over<s n="post"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>above<s n="post"/></r></p></e>
+<e c=""><p><l>համար<s n="post"/></l><r>for<s n="post"/></r></p></e>
+<e c=""><p><l>համար<s n="post"/></l><r>for<b/>the<b/>sake<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>համար<s n="post"/></l><r>in<b/>order<b/>to<s n="post"/></r></p></e>
+<e c=""><p><l>հետ<s n="post"/></l><r>with<s n="post"/></r></p></e>
+<e c=""><p><l>հետո<s n="post"/></l><r>after<s n="post"/></r></p></e>
+<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>on<b/>the<b/>basis<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>based<b/>on<s n="post"/></r></p></e>
+<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>on<b/>the<b/>grounds<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>մասին<s n="post"/></l><r>about<s n="post"/></r></p></e>
+<e c=""><p><l>մասին<s n="post"/></l><r>regarding<s n="post"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>in<s n="post"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>inside<s n="post"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>among<s n="post"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>amid<s n="post"/></r></p></e>
+<e c=""><p><l>միջով<s n="post"/></l><r>through<s n="post"/></r></p></e>
+<e c=""><p><l>միջով<s n="post"/></l><r>across<s n="post"/></r></p></e>
+<e c=""><p><l>միջև<s n="post"/></l><r>among<s n="post"/></r></p></e>
+<e c=""><p><l>միջև<s n="post"/></l><r>between<s n="post"/></r></p></e>
+<e c=""><p><l>նման<s n="post"/></l><r>like<s n="post"/></r></p></e>
+<e c=""><p><l>նման<s n="post"/></l><r>as<s n="post"/></r></p></e>
+<e c=""><p><l>նման<s n="post"/></l><r>such<b/>as<s n="post"/></r></p></e>
+<e c=""><p><l>շուրջ<s n="post"/></l><r>about<s n="post"/></r></p></e>
+<e c=""><p><l>չափ<s n="post"/></l><r>equal<b/>to<s n="post"/></r></p></e>
+<e c=""><p><l>վեր<s n="post"/></l><r>higher<b/>than<s n="post"/></r></p></e>
+<e c=""><p><l>վրա<s n="post"/></l><r>on<s n="post"/></r></p></e>
+<e c=""><p><l>վրա<s n="post"/></l><r>upon<s n="post"/></r></p></e>
+<e c=""><p><l>վրա<s n="post"/></l><r>over<s n="post"/></r></p></e>
+<e c=""><p><l>տակ<s n="post"/></l><r>under<s n="post"/></r></p></e>
+<e c=""><p><l>տակ<s n="post"/></l><r>beneath<s n="post"/></r></p></e>
+<e c=""><p><l>տակ<s n="post"/></l><r>below<s n="post"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>instead<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>rather<b/>than<s n="post"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>instead<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>in<b/>place<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>փոխարեն<s n="post"/></l><r>instead<b/>of<s n="post"/></r></p></e>
+<e c=""><p><l>փոխարեն<s n="post"/></l><r>in<b/>return<b/>for<s n="post"/></r></p></e>
+<e c=""><p><l>փոխարեն<s n="post"/></l><r>in<b/>exchange<b/>for<s n="post"/></r></p></e>
+
 
 <!-- SECTION: Determiners -->
 
@@ -61,6 +136,13 @@
 <e c="" r="LR"><p><l>որ<s n="rel"/><s n="nn"/><s n="pl"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="" r="RL"><p><l>որ<s n="rel"/><s n="nn"/><s n="ND"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 
+<e c=""><p><l>այնտեղ<s n="prn"/><s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+<e c=""><p><l>այստեղ<s n="prn"/><s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենայն<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p></e>
+<e c=""><p><l>ոք<s n="prn"/><s n="ind"/></l><r>someone<s n="prn"/><s n="ind"/></r></p></e>
+<e c=""><p><l>ոք<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="ind"/></r></p></e>
+<e c=""><p><l>սա<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
+<e c=""><p><l>ով<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p></e>
 
 <!-- SECTION: Numerals -->
 
