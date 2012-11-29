@@ -13,6 +13,7 @@
   <sdef n="ij"      c="Interjection"/>
   <sdef n="preadv"  c="Preadverb"/>
   <sdef n="num"     c="Numeral"/>
+  <sdef n="post"    c="Postposition"/>
   <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
   <sdef n="cnjsub"  c="Subordinating conjunction"/>
   <sdef n="cnjadv"  c="Adverbial conjunction"/>
@@ -20,6 +21,10 @@
   <sdef n="sint"    c="Synthetic"/>
 
   <sdef n="pers"    c="Personal"/>
+  <sdef n="qnt"     c="Quantifier"/>
+  <sdef n="dem"     c="Demonstrative"/>
+  <sdef n="ind"     c="Indefinite"/>
+  <sdef n="itg"     c="Interrogative"/>
 
   <sdef n="nn"      c="Inanimate"/>
   <sdef n="aa"      c="Animate"/>
