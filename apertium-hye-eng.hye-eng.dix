@@ -207,7 +207,6 @@
 <e c=""><p><l>անեկդոտ<s n="n"/><s n="nn"/></l><r>anecdote<s n="n"/></r></p></e>
 <e c=""><p><l>անեկդոտ<s n="n"/><s n="nn"/></l><r>joke<s n="n"/></r></p></e>
 <e c=""><p><l>աներ<s n="n"/><s n="aa"/></l><r>father-in-law<s n="n"/></r></p></e>
-<e c=""><p><l>աներ<s n="n"/><s n="aa"/></l><r>wife’s<b/>father<s n="n"/></r></p></e>
 <e c=""><p><l>անթացուպ<s n="n"/><s n="nn"/></l><r>crutch<s n="n"/></r></p></e>
 <e c=""><p><l>անթեղ<s n="n"/><s n="nn"/></l><r>hot<b/>coal<s n="n"/></r></p></e>
 <e c=""><p><l>անթեղ<s n="n"/><s n="nn"/></l><r>ember<s n="n"/></r></p></e>
@@ -385,7 +384,7 @@
 <e c=""><p><l>ատամ<s n="n"/><s n="nn"/></l><r>merlon<s n="n"/></r></p></e>
 <e c="law"><p><l>ատյան<s n="n"/><s n="nn"/></l><r>instance<s n="n"/></r></p></e>
 <e c="physics"><p><l>ատոմ<s n="n"/><s n="nn"/></l><r>atom<s n="n"/></r></p></e>
-<e c="astronomy"><p><l>արև<s n="n"/><s n="nn"/></l><r>the<b/>sun<s n="n"/></r></p></e>
+<e c="astronomy"><p><l>արև<s n="n"/><s n="nn"/></l><r>sun<s n="n"/></r></p></e> <!-- the sun -->
 <e c=""><p><l>արագություն<s n="n"/><s n="nn"/></l><r>speed<s n="n"/></r></p></e>
 <e c=""><p><l>արագություն<s n="n"/><s n="nn"/></l><r>rate<s n="n"/></r></p></e>
 <e c=""><p><l>արագություն<s n="n"/><s n="nn"/></l><r>velocity<s n="n"/></r></p></e>
@@ -416,14 +415,14 @@
 <e c=""><p><l>արբանյակ<s n="n"/><s n="nn"/></l><r>myrmidon<s n="n"/></r></p></e>
 <e c=""><p><l>արբունք<s n="n"/><s n="nn"/></l><r>puberty<s n="n"/></r></p></e>
 <e c=""><p><l>արբունք<s n="n"/><s n="nn"/></l><r>pubescence<s n="n"/></r></p></e>
-<e c=""><p><l>արբունք<s n="n"/><s n="nn"/></l><r>age<b/>of<b/>puberty<s n="n"/></r></p></e>
+<e c=""><p><l>արբունք<s n="n"/><s n="nn"/></l><r>age<g><b/>of<b/>puberty</g><s n="n"/></r></p></e>
 <e c="figuratively"><p><l>արբունք<s n="n"/><s n="nn"/></l><r>vigour<s n="n"/></r></p></e>
 <e c="figuratively"><p><l>արբունք<s n="n"/><s n="nn"/></l><r>force<s n="n"/></r></p></e>
 <e c=""><p><l>արգանակ<s n="n"/><s n="nn"/></l><r>broth<s n="n"/></r></p></e>
 <e c="anatomy"><p><l>արգանդ<s n="n"/><s n="nn"/></l><r>womb<s n="n"/></r></p></e>
 <e c="anatomy"><p><l>արգանդ<s n="n"/><s n="nn"/></l><r>uterus<s n="n"/></r></p></e>
 <e c=""><p><l>արգասիք<s n="n"/><s n="nn"/></l><r>product<s n="n"/></r></p></e>
-<e c=""><p><l>արգասիք<s n="n"/><s n="nn"/></l><r>fruit<b/>of<b/>labour<s n="n"/></r></p></e>
+<e c=""><p><l>արգասիք<s n="n"/><s n="nn"/></l><r>fruit<g><b/>of<b/>labour</g><s n="n"/></r></p></e>
 <e c=""><p><l>արգասիք<s n="n"/><s n="nn"/></l><r>result<s n="n"/></r></p></e>
 <e c=""><p><l>արգասիք<s n="n"/><s n="nn"/></l><r>harvest<s n="n"/></r></p></e>
 <e c=""><p><l>արգասիք<s n="n"/><s n="nn"/></l><r>yield<s n="n"/></r></p></e>
@@ -440,7 +439,7 @@
 <e c=""><p><l>արդյունք<s n="n"/><s n="nn"/></l><r>product<s n="n"/></r></p></e>
 <e c=""><p><l>արդուկ<s n="n"/><s n="nn"/></l><r>iron<s n="n"/></r></p></e>
 <e c=""><p><l>արդուկ<s n="n"/><s n="nn"/></l><r>smoothing<b/>iron<s n="n"/></r></p></e>
-<e c=""><p><l>արեգակ<s n="n"/><s n="nn"/></l><r>the<b/>sun<s n="n"/></r></p></e>
+<e c=""><p><l>արեգակ<s n="n"/><s n="nn"/></l><r>sun<s n="n"/></r></p></e> <!-- the -->
 <e c=""><p><l>արևելագետ<s n="n"/><s n="aa"/></l><r>orientalist<s n="n"/></r></p></e>
 <e c=""><p><l>արծաթ<s n="n"/><s n="nn"/></l><r>silver<s n="n"/></r></p></e>
 <e c=""><p><l>արծաթ<s n="n"/><s n="nn"/></l><r>silver<b/>coin<s n="n"/></r></p></e>
@@ -486,7 +485,7 @@
 <e c=""><p><l>արշավանք<s n="n"/><s n="nn"/></l><r>raid<s n="n"/></r></p></e>
 <e c="military"><p><l>արշավանք<s n="n"/><s n="nn"/></l><r>campaign<s n="n"/></r></p></e>
 <e c=""><p><l>արոտ<s n="n"/><s n="nn"/></l><r>herbage<s n="n"/></r></p></e>
-<e c=""><p><l>արոտ<s n="n"/><s n="nn"/></l><r>grass<b/>for<b/>grazing<s n="n"/></r></p></e>
+<e c=""><p><l>արոտ<s n="n"/><s n="nn"/></l><r>grass<g><b/>for<b/>grazing</g><s n="n"/></r></p></e>
 <e c=""><p><l>արոտ<s n="n"/><s n="nn"/></l><r>pasture<s n="n"/></r></p></e>
 <e c=""><p><l>արոտ<s n="n"/><s n="nn"/></l><r>pasture-ground<s n="n"/></r></p></e>
 <e c=""><p><l>արոտավայր<s n="n"/><s n="nn"/></l><r>pasture<s n="n"/></r></p></e>
@@ -5038,7 +5037,7 @@
 <e c=""><p><l>ահագին<s n="adj"/><s n="sint"/></l><r>very<s n="adj"/></r></p></e>
 <e c=""><p><l>ահագին<s n="adj"/><s n="sint"/></l><r>very<s n="adj"/></r></p></e>
 <e c=""><p><l>աղանդավորական<s n="adj"/><s n="sint"/></l><r>sectarian<s n="adj"/></r></p></e>
-<e c=""><p><l>աղանդավորական<s n="adj"/><s n="sint"/></l><r>pertaining<b/>to<b/><s n="adj"/></r></p></e>
+<e c=""><p><l>աղանդավորական<s n="adj"/><s n="sint"/></l><r>pertaining<b/>to<s n="adj"/></r></p></e>
 <e c=""><p><l>աղիողորմ<s n="adj"/><s n="sint"/></l><r>sorrowful<s n="adj"/></r></p></e>
 <e c=""><p><l>աղիողորմ<s n="adj"/><s n="sint"/></l><r>mournful<s n="adj"/></r></p></e>
 <e c=""><p><l>աղյուսե<s n="adj"/></l><r>brick<s n="adj"/></r></p></e>
@@ -5180,12 +5179,12 @@
 <e c=""><p><l>գաղտնի<s n="adj"/><s n="sint"/></l><r>clandestine<s n="adj"/></r></p></e>
 <e c=""><p><l>գաղտնի<s n="adj"/><s n="sint"/></l><r>latent<s n="adj"/></r></p></e>
 <e c=""><p><l>գաղտնի<s n="adj"/><s n="sint"/></l><r>veiled<s n="adj"/></r></p></e>
-<e c=""><p><l>գառնենի<s n="adj"/></l><r>made<b/>of<b/><s n="adj"/></r></p></e>
+<e c=""><p><l>գառնենի<s n="adj"/></l><r>made<b/>of<s n="adj"/></r></p></e>
 <e c=""><p><l>գարնանային<s n="adj"/></l><r>vernal<s n="adj"/></r></p></e>
 <e c=""><p><l>գեղեցիկ<s n="adj"/><s n="sint"/></l><r>beautiful<s n="adj"/></r></p></e>
 <e c=""><p><l>գեղջուկ<s n="adj"/></l><r>peasant<s n="adj"/></r></p></e>
 <e c=""><p><l>գերմանական<s n="adj"/><s n="sint"/></l><r>German<s n="adj"/></r></p></e>
-<e c=""><p><l>գերմանական<s n="adj"/><s n="sint"/></l><r>relating<b/>to<b/><s n="adj"/></r></p></e>
+<e c=""><p><l>գերմանական<s n="adj"/><s n="sint"/></l><r>relating<b/>to<s n="adj"/></r></p></e>
 <e c=""><p><l>գիշերային<s n="adj"/></l><r>night<s n="adj"/></r></p></e>
 <e c=""><p><l>գլխատառ<s n="adj"/></l><r>capital<s n="adj"/></r></p></e>
 <e c=""><p><l>գլխատառ<s n="adj"/></l><r>uppercase<s n="adj"/></r></p></e>
@@ -5198,7 +5197,7 @@
 <e c=""><p><l>գորշավուն<s n="adj"/></l><r>grayish<s n="adj"/></r></p></e>
 <e c=""><p><l>գորովագին<s n="adj"/><s n="sint"/></l><r>tender<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>գորովագին<s n="adj"/><s n="sint"/></l><r>affectionate<s n="adj"/></r></p></e>
-<e c=""><p><l>գրենական<s n="adj"/></l><r>related<b/>to<b/> <s n="adj"/></r></p></e>
+<e c=""><p><l>գրենական<s n="adj"/></l><r>related<b/>to<s n="adj"/></r></p></e>
 <e c=""><p><l>դալար<s n="adj"/><s n="sint"/></l><r>verdant<s n="adj"/></r></p></e>
 <e c=""><p><l>դալար<s n="adj"/><s n="sint"/></l><r>covered<b/>in<s n="adj"/></r></p></e>
 <e c=""><p><l>դալուկ<s n="adj"/><s n="sint"/></l><r>pallid<s n="adj"/></r></p></e>
@@ -5214,7 +5213,7 @@
 <e c=""><p><l>դարչնագույն<s n="adj"/><s n="sint"/></l><r>brown<s n="adj"/></r></p></e>
 <e c=""><p><l>դեղին<s n="adj"/><s n="sint"/></l><r>yellow<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>դեղնավուն<s n="adj"/></l><r>yellowish<s n="adj"/></r></p></e>
-<e c=""><p><l>դեղոտ<s n="adj"/><s n="sint"/></l><r>covered<b/>with<b/>medicine<s n="adj"/></r></p></e>
+<!--<e c=""><p><l>դեղոտ<s n="adj"/><s n="sint"/></l><r>covered<b/>with<b/>medicine<s n="adj"/></r></p></e>-->
 <e c=""><p><l>դեղոտ<s n="adj"/><s n="sint"/></l><r>venomous<s n="adj"/></r></p></e>
 <e c=""><p><l>դեղոտ<s n="adj"/><s n="sint"/></l><r>poisoned<s n="adj"/></r></p></e>
 <e c=""><p><l>դժբախտ<s n="adj"/><s n="sint"/></l><r>unhappy<s n="adj"/><s n="sint"/></r></p></e>
@@ -5295,7 +5294,7 @@
 <e c=""><p><l>ծայրակարմիր<s n="adj"/></l><r>red<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>ծանծաղուտ<s n="adj"/><s n="sint"/></l><r>shallow<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>ծանոթ<s n="adj"/><s n="sint"/></l><r>familiar<s n="adj"/></r></p></e>
-<e c=""><p><l>ծանրաբեռ<s n="adj"/><s n="sint"/></l><r>loaded<b/>with<b/>heavy<b/>weights<s n="adj"/></r></p></e>
+<!--<e c=""><p><l>ծանրաբեռ<s n="adj"/><s n="sint"/></l><r>loaded<b/>with<b/>heavy<b/>weights<s n="adj"/></r></p></e>-->
 <e c=""><p><l>ծանրաբեռ<s n="adj"/><s n="sint"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>ծերունի<s n="adj"/></l><r>aged<s n="adj"/></r></p></e>
 <e c=""><p><l>ծիծաղաշարժ<s n="adj"/><s n="sint"/></l><r>funny<s n="adj"/><s n="sint"/></r></p></e>
@@ -5414,7 +5413,7 @@
 <e c=""><p><l>մարդկային<s n="adj"/><s n="sint"/></l><r>humane<s n="adj"/></r></p></e>
 <e c=""><p><l>մացառուտ<s n="adj"/><s n="sint"/></l><r>bushy<s n="adj"/></r></p></e>
 <e c=""><p><l>մացառուտ<s n="adj"/><s n="sint"/></l><r>full<b/>of<b/>bushes<s n="adj"/></r></p></e>
-<e c=""><p><l>մեծաբեռ<s n="adj"/><s n="sint"/></l><r>carrying<b/>a<b/>heavy<b/>burden<s n="adj"/></r></p></e>
+<!--<e c=""><p><l>մեծաբեռ<s n="adj"/><s n="sint"/></l><r>carrying<b/>a<b/>heavy<b/>burden<s n="adj"/></r></p></e>-->
 <e c=""><p><l>մեծաբեռ<s n="adj"/><s n="sint"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>մեծահասակ<s n="adj"/><s n="sint"/></l><r>adult<s n="adj"/></r></p></e>
 <e c=""><p><l>մեծահասակ<s n="adj"/><s n="sint"/></l><r>of<s n="adj"/></r></p></e>
@@ -5436,7 +5435,7 @@
 <e c=""><p><l>միջին<s n="adj"/></l><r>mean<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>մոխրագույն<s n="adj"/><s n="sint"/></l><r>grey<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>մոխրոտ<s n="adj"/><s n="sint"/></l><r>ashy<s n="adj"/></r></p></e>
-<e c=""><p><l>մուրացիկ<s n="adj"/></l><r>given<b/>to<b/>begging<s n="adj"/></r></p></e>
+<!--<e c=""><p><l>մուրացիկ<s n="adj"/></l><r>given<b/>to<b/>begging<s n="adj"/></r></p></e>-->
 <e c=""><p><l>մուրացիկ<s n="adj"/></l><r>begged<s n="adj"/></r></p></e>
 <e c=""><p><l>մուրացիկ<s n="adj"/></l><r>mendicant<s n="adj"/></r></p></e>
 <e c=""><p><l>յուրաքանչյուր<s n="adj"/></l><r>each<s n="adj"/></r></p></e>
@@ -5508,7 +5507,7 @@
 <e c=""><p><l>ջղային<s n="adj"/></l><r>nervous<s n="adj"/></r></p></e>
 <e c=""><p><l>ջղային<s n="adj"/></l><r>angry<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>ջղային<s n="adj"/></l><r>irritable<s n="adj"/></r></p></e>
-<e c=""><p><l>ջրածին<s n="adj"/></l><r>born<b/>in<b/><s n="adj"/></r></p></e>
+<e c=""><p><l>ջրածին<s n="adj"/></l><r>born<b/>in<s n="adj"/></r></p></e>
 <e c=""><p><l>ջրածին<s n="adj"/></l><r>aquatic<s n="adj"/></r></p></e>
 <e c=""><p><l>ռացիոնալ<s n="adj"/><s n="sint"/></l><r>rational<s n="adj"/></r></p></e>
 <e c=""><p><l>ռեկորդային<s n="adj"/><s n="sint"/></l><r>record<s n="adj"/></r></p></e>
@@ -5599,7 +5598,8 @@
 <e c=""><p><l>ցածրահասակ<s n="adj"/><s n="sint"/></l><r>shortish<s n="adj"/></r></p></e>
 <e c=""><p><l>ցամաք<s n="adj"/><s n="sint"/></l><r>dry<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>ցամաք<s n="adj"/><s n="sint"/></l><r>lifeless<s n="adj"/></r></p></e>
-<e c=""><p><l>ցասկոտ<s n="adj"/><s n="sint"/></l><r>inclined<b/>to<b/>anger<s n="adj"/></r></p></e>
+<!--<e c=""><p><l>ցասկոտ<s n="adj"/><s n="sint"/></l><r>inclined<b/>to<b/>anger<s n="adj"/></r></p></e>-->
+<e c=""><p><l>ցասկոտ<s n="adj"/><s n="sint"/></l><r>angry<s n="adj"/></r></p></e>
 <e c=""><p><l>ցասկոտ<s n="adj"/><s n="sint"/></l><r>irascible<s n="adj"/></r></p></e>
 <e c=""><p><l>ցարական<s n="adj"/></l><r>of<s n="adj"/></r></p></e>
 <e c=""><p><l>ցարական<s n="adj"/></l><r>relating<b/>to<s n="adj"/></r></p></e>
@@ -6185,6 +6185,7 @@
 
 <e c=""><p><l>ավելի<s n="adv"/></l><r>more<s n="preadv"/></r></p></e>
 <e c=""><p><l>ոչ<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+<e c=""><p><l>չ<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
 
 <e c=""><p><l>ետ<s n="adv"/></l><r>back<s n="adv"/></r></p></e>
 <e c=""><p><l>ետ<s n="adv"/></l><r>backwards<s n="adv"/></r></p></e>
