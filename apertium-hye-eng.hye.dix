@@ -390,6 +390,30 @@
       <e>       <p><l>ներով</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="ins"/><s n="ind"/></r></p><par n="poss"/></e>
     </pardef>
 
+    <pardef n="հայ__n_aa">  <!-- i-type, plural in -er, animate; No locative -->
+      <e>       <p><l></l><r><s n="n"/><s n="aa"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>ը</l><r><s n="n"/><s n="aa"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>ն</l><r><s n="n"/><s n="aa"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+
+      <e>       <p><l>ի</l><r><s n="n"/><s n="aa"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>ին</l><r><s n="n"/><s n="aa"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+
+      <e>       <p><l>ից</l><r><s n="n"/><s n="aa"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>ով</l><r><s n="n"/><s n="aa"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p><par n="poss"/></e>
+
+      <e>       <p><l>եր</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>երը</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>       <p><l>երն</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+
+      <e>       <p><l>երի</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>երին</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+
+      <e>       <p><l>երից</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="abl"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>երով</l><r><s n="n"/><s n="aa"/><s n="pl"/><s n="ins"/><s n="ind"/></r></p><par n="poss"/></e>
+    </pardef>
+
+
+
     <pardef n="արև__n_nn">
       <e>       <p><l></l><r><s n="n"/><s n="nn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p><par n="poss"/></e>
       <e>       <p><l>ը</l><r><s n="n"/><s n="nn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -791,6 +815,8 @@
     <e lm="գնացք"><i>գնացք</i><par n="արև__n_nn"/></e>
     <e lm="մատիտ"><i>մատիտ</i><par n="արև__n_nn"/></e>
     <e lm="բժիշկ"><i>բժիշկ</i><par n="արև__n_nn"/></e>
+
+    <e lm="հայ"><i>հայ</i><par n="հայ__n_aa"/></e>
 
     <e lm="իր"><i>իր</i><par n="իր__n_nn"/></e>
 

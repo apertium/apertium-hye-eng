@@ -23,6 +23,21 @@
       <attr-item tags="prn"/>
     </def-attr>
 
+    <def-attr n="a_func">
+      <attr-item tags="subj"/>
+      <attr-item tags="obj"/>
+      <attr-item tags="FD"/>
+    </def-attr>
+
+    <def-attr n="a_gen">
+      <attr-item tags="m"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="GD"/>
+    </def-attr>
+
+
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
@@ -91,14 +106,20 @@
       </pattern>
       <action>
         <choose>
+          <when> <!-- do something cleverer here -->
+            <test><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="GD"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></let>
+          </when>
+        </choose>
+        <choose>
           <when>
             <test><equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="nom"/></equal></test>
-            <let><clip pos="1" side="tl" part="a_prn"/><lit-tag v="prn.subj"/></let>
+            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
             <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
           </when>
           <when>
             <test><not><equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="nom"/></equal></not></test>
-            <let><clip pos="1" side="tl" part="a_prn"/><lit-tag v="prn.obj"/></let>
+            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="obj"/></let>
             <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
           </when>
         </choose>
