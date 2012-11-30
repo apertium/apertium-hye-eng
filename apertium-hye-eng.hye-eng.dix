@@ -147,7 +147,9 @@
 
 <!-- SECTION: Determiners -->
 
-<e c=""><p><l>Այն<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
+<e c="" r="LR"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="ND"/></r></p></e>
+<e c="" r="RL"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+<e c="" r="RL"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
 
 <!-- SECTION: Pronouns -->
 
@@ -167,6 +169,8 @@
 <e c=""><p><l>ով<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p></e>
 
 <!-- SECTION: Numerals -->
+
+<e c=""><p><l>մի<s n="num"/></l><r>one<s n="num"/></r></p></e>
 
 <!-- SECTION: Nouns -->
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>degree<s n="n"/></r></p></e>

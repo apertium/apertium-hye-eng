@@ -11,6 +11,9 @@
     <def-cat n="inf">
       <cat-item tags="vblex.inf.*"/>
     </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.dem.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -75,6 +78,7 @@
     </def-macro>
   </section-def-macros>
   <section-rules>
+
   <rule comment="REGLA: nom">
       <pattern>
         <pattern-item n="nom"/>
@@ -99,6 +103,43 @@
         </call-macro>
       </action>
     </rule>
+
+   <rule comment="REGLA: det nom">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <choose>
+          <when> <!-- do something cleverer here -->
+            <test><equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="ND"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_nbr"/><clip pos="2" side="tl" part="a_nbr"/></let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_cas"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="a_nbr"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="reset-vars1">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: prn-pers">
       <pattern>

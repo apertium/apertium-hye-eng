@@ -154,7 +154,7 @@
     </pardef>
 
     <pardef n="այն__det"> <!-- Check declension; maybe only declines as prn -->
-      <e><p><l></l><r><s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l></l><r><s n="det"/><s n="dem"/><s n="sp"/></r></p></e>
     </pardef>
  
     <!-- SECTION: Numerals -->
