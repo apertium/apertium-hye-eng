@@ -1,5 +1,11 @@
 <rules>
   <rule>
+    <or>
+      <match lemma="մարդ" tags="n.aa.*.*.*.px1sg"><select lemma="husband" tags="n.*"/></match>
+      <match lemma="մարդ" tags="n.aa.*.*.*.px2sg"><select lemma="husband" tags="n.*"/></match>
+    </or>
+  </rule>
+  <rule>
     <match lemma="թռչել" tags="vblex.*"><select lemma="fly" tags="vblex.*"/></match>
   </rule>
   <rule>
