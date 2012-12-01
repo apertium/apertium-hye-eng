@@ -40130,6 +40130,7 @@
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/></e>
     <e lm="hush"><i>hush</i><par n="approach__vblex"/></e>
     <e lm="cash"><i>cash</i><par n="approach__vblex"/></e>
+    <e lm="thrash"><i>thrash</i><par n="approach__vblex"/></e>
     <e lm="cash in"><i>cash</i><par n="approach__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="shelter"><i>shelter</i><par n="accept__vblex"/></e>
     <e lm="compliment"><i>compliment</i><par n="accept__vblex"/></e>

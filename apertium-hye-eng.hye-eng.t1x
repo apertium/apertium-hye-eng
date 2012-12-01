@@ -10,7 +10,7 @@
       <cat-item tags="prn.emph.*"/>
     </def-cat>
     <def-cat n="inf">
-      <cat-item tags="vblex.inf.*"/>
+      <cat-item tags="vblex.*.inf.*"/>
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.dem.*"/>

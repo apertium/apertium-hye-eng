@@ -25,6 +25,9 @@
   <sdef n="sup"     c="Superlative"/>
   <sdef n="comp"    c="Comparative"/>
 
+  <sdef n="tv"      c="Transitive"/>
+  <sdef n="iv"      c="Intransitive"/>
+
   <sdef n="pers"    c="Personal"/>
   <sdef n="emph"    c="Emphatic"/>
   <sdef n="qnt"     c="Quantifier"/>
@@ -100,51 +103,51 @@
 <e c=""><p><l>դեպի<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
 <e c=""><p><l>դեպի<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
 
-<e c=""><p><l>աղագավ<s n="post"/></l><r>by<b/>reason<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>աղագավ<s n="post"/></l><r>because<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>աղագավ<s n="post"/></l><r>for<b/>the<b/>purpose<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>առաջ<s n="post"/></l><r>before<s n="post"/></r></p></e>
-<e c=""><p><l>դուրս<s n="post"/></l><r>outside<s n="post"/></r></p></e>
-<e c=""><p><l>դուրս<s n="post"/></l><r>beyond<s n="post"/></r></p></e>
-<e c=""><p><l>դուրս<s n="post"/></l><r>over<s n="post"/></r></p></e>
-<e c=""><p><l>դուրս<s n="post"/></l><r>above<s n="post"/></r></p></e>
-<e c=""><p><l>համար<s n="post"/></l><r>for<s n="post"/></r></p></e>
-<e c=""><p><l>համար<s n="post"/></l><r>for<b/>the<b/>sake<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>համար<s n="post"/></l><r>in<b/>order<b/>to<s n="post"/></r></p></e>
-<e c=""><p><l>հետ<s n="post"/></l><r>with<s n="post"/></r></p></e>
-<e c=""><p><l>հետո<s n="post"/></l><r>after<s n="post"/></r></p></e>
-<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>on<b/>the<b/>basis<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>based<b/>on<s n="post"/></r></p></e>
-<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>on<b/>the<b/>grounds<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>մասին<s n="post"/></l><r>about<s n="post"/></r></p></e>
-<e c=""><p><l>մասին<s n="post"/></l><r>regarding<s n="post"/></r></p></e>
-<e c=""><p><l>մեջ<s n="post"/></l><r>in<s n="post"/></r></p></e>
-<e c=""><p><l>մեջ<s n="post"/></l><r>inside<s n="post"/></r></p></e>
-<e c=""><p><l>մեջ<s n="post"/></l><r>among<s n="post"/></r></p></e>
-<e c=""><p><l>մեջ<s n="post"/></l><r>amid<s n="post"/></r></p></e>
-<e c=""><p><l>միջով<s n="post"/></l><r>through<s n="post"/></r></p></e>
-<e c=""><p><l>միջով<s n="post"/></l><r>across<s n="post"/></r></p></e>
-<e c=""><p><l>միջև<s n="post"/></l><r>among<s n="post"/></r></p></e>
-<e c=""><p><l>միջև<s n="post"/></l><r>between<s n="post"/></r></p></e>
-<e c=""><p><l>նման<s n="post"/></l><r>like<s n="post"/></r></p></e>
-<e c=""><p><l>նման<s n="post"/></l><r>as<s n="post"/></r></p></e>
-<e c=""><p><l>նման<s n="post"/></l><r>such<b/>as<s n="post"/></r></p></e>
-<e c=""><p><l>շուրջ<s n="post"/></l><r>about<s n="post"/></r></p></e>
-<e c=""><p><l>չափ<s n="post"/></l><r>equal<b/>to<s n="post"/></r></p></e>
-<e c=""><p><l>վեր<s n="post"/></l><r>higher<b/>than<s n="post"/></r></p></e>
-<e c=""><p><l>վրա<s n="post"/></l><r>on<s n="post"/></r></p></e>
-<e c=""><p><l>վրա<s n="post"/></l><r>upon<s n="post"/></r></p></e>
-<e c=""><p><l>վրա<s n="post"/></l><r>over<s n="post"/></r></p></e>
-<e c=""><p><l>տակ<s n="post"/></l><r>under<s n="post"/></r></p></e>
-<e c=""><p><l>տակ<s n="post"/></l><r>beneath<s n="post"/></r></p></e>
-<e c=""><p><l>տակ<s n="post"/></l><r>below<s n="post"/></r></p></e>
-<e c=""><p><l>փոխանակ<s n="post"/></l><r>instead<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>փոխանակ<s n="post"/></l><r>rather<b/>than<s n="post"/></r></p></e>
-<e c=""><p><l>փոխանակ<s n="post"/></l><r>instead<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>փոխանակ<s n="post"/></l><r>in<b/>place<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>փոխարեն<s n="post"/></l><r>instead<b/>of<s n="post"/></r></p></e>
-<e c=""><p><l>փոխարեն<s n="post"/></l><r>in<b/>return<b/>for<s n="post"/></r></p></e>
-<e c=""><p><l>փոխարեն<s n="post"/></l><r>in<b/>exchange<b/>for<s n="post"/></r></p></e>
+<e c=""><p><l>աղագավ<s n="post"/></l><r>by<b/>reason<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>աղագավ<s n="post"/></l><r>because<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>աղագավ<s n="post"/></l><r>for<b/>the<b/>purpose<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>առաջ<s n="post"/></l><r>before<s n="pr"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>outside<s n="pr"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>beyond<s n="pr"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+<e c=""><p><l>դուրս<s n="post"/></l><r>above<s n="pr"/></r></p></e>
+<e c=""><p><l>համար<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+<e c=""><p><l>համար<s n="post"/></l><r>for<b/>the<b/>sake<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>համար<s n="post"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
+<e c=""><p><l>հետ<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+<e c=""><p><l>հետո<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>on<b/>the<b/>basis<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>based<b/>on<s n="pr"/></r></p></e>
+<e c=""><p><l>հիման<b/>վրա<s n="post"/></l><r>on<b/>the<b/>grounds<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>մասին<s n="post"/></l><r>about<s n="pr"/></r></p></e>
+<e c=""><p><l>մասին<s n="post"/></l><r>regarding<s n="pr"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>inside<s n="pr"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>among<s n="pr"/></r></p></e>
+<e c=""><p><l>մեջ<s n="post"/></l><r>amid<s n="pr"/></r></p></e>
+<e c=""><p><l>միջով<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+<e c=""><p><l>միջով<s n="post"/></l><r>across<s n="pr"/></r></p></e>
+<e c=""><p><l>միջև<s n="post"/></l><r>among<s n="pr"/></r></p></e>
+<e c=""><p><l>միջև<s n="post"/></l><r>between<s n="pr"/></r></p></e>
+<e c=""><p><l>նման<s n="post"/></l><r>like<s n="pr"/></r></p></e>
+<e c=""><p><l>նման<s n="post"/></l><r>as<s n="pr"/></r></p></e>
+<e c=""><p><l>նման<s n="post"/></l><r>such<b/>as<s n="pr"/></r></p></e>
+<e c=""><p><l>շուրջ<s n="post"/></l><r>about<s n="pr"/></r></p></e>
+<e c=""><p><l>չափ<s n="post"/></l><r>equal<b/>to<s n="pr"/></r></p></e>
+<e c=""><p><l>վեր<s n="post"/></l><r>higher<b/>than<s n="pr"/></r></p></e>
+<e c=""><p><l>վրա<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+<e c=""><p><l>վրա<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
+<e c=""><p><l>վրա<s n="post"/></l><r>over<s n="pr"/></r></p></e>
+<e c=""><p><l>տակ<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+<e c=""><p><l>տակ<s n="post"/></l><r>beneath<s n="pr"/></r></p></e>
+<e c=""><p><l>տակ<s n="post"/></l><r>below<s n="pr"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>instead<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>rather<b/>than<s n="pr"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>instead<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>փոխանակ<s n="post"/></l><r>in<b/>place<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>փոխարեն<s n="post"/></l><r>instead<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>փոխարեն<s n="post"/></l><r>in<b/>return<b/>for<s n="pr"/></r></p></e>
+<e c=""><p><l>փոխարեն<s n="post"/></l><r>in<b/>exchange<b/>for<s n="pr"/></r></p></e>
 
 
 <!-- SECTION: Determiners -->
@@ -6535,6 +6538,7 @@
 <e c=""><p><l>կատաղի<s n="adj"/><s n="sint"/></l><r>furious<s n="adj"/></r></p></e>
 <e c=""><p><l>կատաղի<s n="adj"/><s n="sint"/></l><r>violent<s n="adj"/></r></p></e>
 <e c=""><p><l>կարեւոր<s n="adj"/><s n="sint"/></l><r>important<s n="adj"/></r></p></e>
+<e c=""><p><l>կարևոր<s n="adj"/><s n="sint"/></l><r>important<s n="adj"/></r></p></e>
 <e c=""><p><l>կարիբյան<s n="adj"/><s n="sint"/></l><r>Caribbean<s n="adj"/></r></p></e>
 <e c=""><p><l>կարծր<s n="adj"/><s n="sint"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>կարճավուն<s n="adj"/><s n="sint"/></l><r>shortish<s n="adj"/></r></p></e>
@@ -7428,11 +7432,28 @@
 <e c=""><p><l>լինել<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 <e c="" r="LR"><p><l>եմ<s n="vaux"/></l><r>be<s n="vbser"/></r></p></e>
 
+<e c=""><p><l>սպանել<s n="vblex"/><s n="tv"/></l><r>kill<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպանել<s n="vblex"/><s n="tv"/></l><r>murder<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպանել<s n="vblex"/><s n="tv"/></l><r>assassinate<s n="vblex"/></r></p></e>
+<e c=""><p><l>սիրել<s n="vblex"/><s n="tv"/></l><r>like<s n="vblex"/></r></p></e>
+<e c=""><p><l>սիրել<s n="vblex"/><s n="tv"/></l><r>love<s n="vblex"/></r></p></e>
+<e c=""><p><l>խոսել<s n="vblex"/><s n="tv"/></l><r>speak<s n="vblex"/></r></p></e>
+<e c=""><p><l>խոսել<s n="vblex"/><s n="tv"/></l><r>talk<s n="vblex"/></r></p></e>
+<e c=""><p><l>ուզել<s n="vblex"/><s n="tv"/></l><r>want<s n="vblex"/></r></p></e>
+<e c=""><p><l>ուզել<s n="vblex"/><s n="tv"/></l><r>wish<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>beat<g><b/>up</g><s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>whip<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>lash<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>thrash<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>pound<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>grind<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>forge<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>knock<g><b/>on</g><s n="vblex"/></r></p></e> <!-- door -->
+
 <e c=""><p><l>լսել<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
-<e c=""><p><l>սիրել<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
-<e c=""><p><l>սիրել<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
 <e c=""><p><l>թռչել<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
 <e c=""><p><l>թռչել<s n="vblex"/></l><r>jump<s n="vblex"/></r></p></e>
 <e c=""><p><l>թռչել<s n="vblex"/></l><r>leap<s n="vblex"/></r></p></e>
