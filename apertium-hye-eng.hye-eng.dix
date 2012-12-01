@@ -335,6 +335,8 @@
 <e c=""><p><l>առեղծված<s n="n"/><s n="nn"/></l><r>riddle<s n="n"/></r></p></e>
 <e c=""><p><l>առեղծված<s n="n"/><s n="nn"/></l><r>conundrum<s n="n"/></r></p></e>
 <e c=""><p><l>առէջ<s n="n"/><s n="nn"/></l><r>warp<s n="n"/></r></p></e>
+<e c=""><p><l>Վերելակ<s n="n"/><s n="nn"/></l><r>lift<s n="n"/></r></p></e>
+<!--<e c=""><p><l>Վերելակ<s n="n"/><s n="nn"/></l><r>elevator<s n="n"/></r></p></e>-->
 <e c="botany"><p><l>առէջ<s n="n"/><s n="nn"/></l><r>stamen<s n="n"/></r></p></e>
 <e c=""><p><l>առէջ<s n="n"/><s n="nn"/></l><r>shuttle<s n="n"/></r></p></e>
 <e c=""><p><l>առէջ<s n="n"/><s n="nn"/></l><r>spindle<s n="n"/></r></p></e>
@@ -2173,10 +2175,11 @@
 <e c=""><p><l>դուխի<s n="n"/><s n="nn"/></l><r>non<s n="n"/></r></p></e>
 <e c=""><p><l>դույլ<s n="n"/><s n="nn"/></l><r>bucket<s n="n"/></r></p></e>
 <e c=""><p><l>դուստր<s n="n"/><s n="aa"/></l><r>daughter<s n="n"/></r></p></e>
+<e c=""><p><l>դուր<s n="n"/><s n="nn"/></l><r>chisel<s n="n"/></r></p></e>
 <e c=""><p><l>դուրգ<s n="n"/><s n="nn"/></l><r>potter<s n="n"/></r></p></e>
 <e c=""><p><l>դուրգար<s n="n"/><s n="aa"/></l><r>carpenter<s n="n"/></r></p></e>
 <e c=""><p><l>դուրգար<s n="n"/><s n="aa"/></l><r>joiner<s n="n"/></r></p></e>
-<e c=""><p><l>դուրս<s n="n"/><s n="nn"/></l><r>the <s n="n"/></r></p></e>
+<e c=""><p><l>դուրս<s n="n"/><s n="nn"/></l><r>outdoors<s n="n"/></r></p></e> <!-- the-->
 <e c=""><p><l>դպրոց<s n="n"/><s n="nn"/></l><r>school<s n="n"/></r></p></e>
 <e c=""><p><l>դռնապան<s n="n"/><s n="aa"/></l><r>doorkeeper<s n="n"/></r></p></e>
 <e c=""><p><l>դռնապան<s n="n"/><s n="aa"/></l><r>porter<s n="n"/></r></p></e>
