@@ -152,6 +152,9 @@
 
 <!-- SECTION: Determiners -->
 
+<e c=""><p><l>մի<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+
+
 <e c="" r="LR"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="ND"/></r></p></e>
 <e c="" r="RL"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
 <e c="" r="RL"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
@@ -176,7 +179,27 @@
 
 <!-- SECTION: Numerals -->
 
-<e c=""><p><l>մի<s n="num"/></l><r>one<s n="num"/></r></p></e>
+<e c=""><p><l>մեկ<s n="num"/></l><r>one<s n="num"/></r></p></e>
+<e><p><l>երկու<s n="num"/></l><r>two<s n="num"/></r></p></e>
+<e><p><l>երեք<s n="num"/></l><r>three<s n="num"/></r></p></e>
+<e><p><l>չորս<s n="num"/></l><r>four<s n="num"/></r></p></e>
+<e><p><l>հինգ<s n="num"/></l><r>five<s n="num"/></r></p></e>
+<e><p><l>վեց<s n="num"/></l><r>six<s n="num"/></r></p></e>
+<e><p><l>յոթ<s n="num"/></l><r>seven<s n="num"/></r></p></e>
+<e><p><l>ութ<s n="num"/></l><r>eight<s n="num"/></r></p></e>
+<e><p><l>ինը<s n="num"/></l><r>nine<s n="num"/></r></p></e>
+<e><p><l>տասը<s n="num"/></l><r>ten<s n="num"/></r></p></e>
+<e><p><l>տասնմեկ<s n="num"/></l><r>eleven<s n="num"/></r></p></e>
+<e><p><l>տասներկու<s n="num"/></l><r>twelve<s n="num"/></r></p></e>
+<e><p><l>տասներեք<s n="num"/></l><r>thirteen<s n="num"/></r></p></e>
+<e><p><l>տասնչորս<s n="num"/></l><r>fourteen<s n="num"/></r></p></e>
+<e><p><l>տասնհինգ<s n="num"/></l><r>fifteen<s n="num"/></r></p></e>
+<e><p><l>տասնվեց<s n="num"/></l><r>sixteen<s n="num"/></r></p></e>
+<e><p><l>տասնյոթ<s n="num"/></l><r>seventeen<s n="num"/></r></p></e>
+<e><p><l>տասնութ<s n="num"/></l><r>eighteen<s n="num"/></r></p></e>
+<e><p><l>տասնինը<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
+<e><p><l>քսան<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
+
 
 <!-- SECTION: Nouns -->
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>degree<s n="n"/></r></p></e>
