@@ -4,6 +4,7 @@
   <sdef n="n"       c="Noun"/>
   <sdef n="np"      c="Proper noun"/>
   <sdef n="vblex"   c="Verb"/>
+  <sdef n="vaux"    c="Auxiliary verb"/>
   <sdef n="prn"     c="Pronoun"/>
   <sdef n="det"     c="Determiner"/>
   <sdef n="pr"      c="Preposition"/>
@@ -25,6 +26,7 @@
   <sdef n="comp"    c="Comparative"/>
 
   <sdef n="pers"    c="Personal"/>
+  <sdef n="emph"    c="Emphatic"/>
   <sdef n="qnt"     c="Quantifier"/>
   <sdef n="dem"     c="Demonstrative"/>
   <sdef n="ind"     c="Indefinite"/>
@@ -156,6 +158,7 @@
 <e c=""><p><l>ես<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="FD"/></r></p></e>
 <e c=""><p><l>դու<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="FD"/></r></p></e>
 <e c=""><p><l>Նա<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
+<e c=""><p><l>ինքը<s n="prn"/><s n="emph"/><s n="p3"/><s n="mf"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
 <e c="" r="LR"><p><l>որ<s n="rel"/><s n="nn"/><s n="sg"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="" r="LR"><p><l>որ<s n="rel"/><s n="nn"/><s n="pl"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="" r="RL"><p><l>որ<s n="rel"/><s n="nn"/><s n="ND"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -1353,7 +1356,12 @@
 <e c=""><p><l>ախտ<s n="n"/><s n="nn"/></l><r>illness<s n="n"/></r></p></e>
 <e c=""><p><l>ախտաբան<s n="n"/><s n="aa"/></l><r>pathologist<s n="n"/></r></p></e>
 <e c=""><p><l>ախտաբանություն<s n="n"/><s n="nn"/></l><r>pathology<s n="n"/></r></p></e>
-<e c=""><p><l>ածական<s n="n"/><s n="aa"/></l><r>adjective<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>man<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>human<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>human<b/>being<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>husband<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>person<s n="n"/></r></p></e>
+<e c=""><p><l>ածական<s n="n"/><s n="aa"/></l><r>adjective<s n="n"/></r></p></e> <!-- XX -->
 <e c=""><p><l>ածանց<s n="n"/><s n="nn"/></l><r>archaic<s n="n"/></r></p></e>
 <e c=""><p><l>ածխածին<s n="n"/><s n="nn"/></l><r>carbon<s n="n"/></r></p></e>
 <e c=""><p><l>ակ<s n="n"/><s n="nn"/></l><r>fountain<s n="n"/></r></p></e>
@@ -1682,11 +1690,13 @@
 <e c=""><p><l>արշավանք<s n="n"/><s n="nn"/></l><r>incursion<s n="n"/></r></p></e>
 <e c=""><p><l>արշավանք<s n="n"/><s n="nn"/></l><r>invasion<s n="n"/></r></p></e>
 <e c=""><p><l>արոտավայր<s n="n"/><s n="nn"/></l><r>pasture<s n="n"/></r></p></e>
-<e c=""><p><l>արույր<s n="n"/><s n="nn"/></l><r>alloy of <s n="n"/></r></p></e>
+<e c=""><p><l>արույր<s n="n"/><s n="nn"/></l><r>alloy of <s n="n"/></r></p></e> <!-- XX -->
 <e c=""><p><l>արույր<s n="n"/><s n="nn"/></l><r>brass<s n="n"/></r></p></e>
 <e c=""><p><l>արջ<s n="n"/><s n="aa"/></l><r>bear<s n="n"/></r></p></e>
 <e c=""><p><l>արջամուկ<s n="n"/><s n="aa"/></l><r>marmot<s n="n"/></r></p></e>
-<e c=""><p><l>արջառ<s n="n"/><s n="aa"/></l><r>young <s n="n"/></r></p></e>
+<e c=""><p><l>ինձ<s n="n"/><s n="aa"/></l><r>leopard<s n="n"/></r></p></e>
+<e c=""><p><l>ինձ<s n="n"/><s n="aa"/></l><r>panther<s n="n"/></r></p></e>
+<e c=""><p><l>արջառ<s n="n"/><s n="aa"/></l><r>young <s n="n"/></r></p></e> <!-- XX -->
 <e c=""><p><l>արսեն<s n="n"/><s n="nn"/></l><r>arsenic<s n="n"/></r></p></e>
 <e c=""><p><l>արվարձան<s n="n"/><s n="nn"/></l><r>suburb<s n="n"/></r></p></e>
 <e c=""><p><l>արվեստ<s n="n"/><s n="nn"/></l><r>art<s n="n"/></r></p></e>
@@ -3576,7 +3586,7 @@
 <e c=""><p><l>մատուռ<s n="n"/><s n="nn"/></l><r>chapel<s n="n"/></r></p></e>
 <e c=""><p><l>մատուցող<s n="n"/><s n="aa"/></l><r>waiter<s n="n"/></r></p></e>
 <e c=""><p><l>մատուցողուհի<s n="n"/><s n="aa"/></l><r>waitress<s n="n"/></r></p></e>
-<e c=""><p><l>մար<s n="n"/><s n="aa"/></l><r>inhabitant of historical <s n="n"/></r></p></e>
+<!--<e c=""><p><l>մար<s n="n"/><s n="aa"/></l><r>inhabitant of historical <s n="n"/></r></p></e>-->
 <e c=""><p><l>մար<s n="n"/><s n="aa"/></l><r>Mede<s n="n"/></r></p></e>
 <e c=""><p><l>մարաթի<s n="n"/><s n="nn"/></l><r>Marathi<s n="n"/></r></p></e>
 <e c=""><p><l>մարգագետին<s n="n"/><s n="nn"/></l><r>meadow<s n="n"/></r></p></e>
@@ -4595,9 +4605,9 @@
 <e c=""><p><l>տիպ<s n="n"/><s n="nn"/></l><r>type<s n="n"/></r></p></e>
 <e c=""><p><l>տխմար<s n="n"/><s n="nn"/></l><r>blockhead<s n="n"/></r></p></e>
 <e c=""><p><l>տխմար<s n="n"/><s n="nn"/></l><r>jolterhead<s n="n"/></r></p></e>
-<e c=""><p><l>տղամարդ<s n="n"/><s n="aa"/></l><r>adult <s n="n"/></r></p></e>
+<e c=""><p><l>տղամարդ<s n="n"/><s n="aa"/></l><r>adult<b/>male<s n="n"/></r></p></e>
 <e c=""><p><l>տղամարդ<s n="n"/><s n="aa"/></l><r>man<s n="n"/></r></p></e>
-<e c=""><p><l>տնային_աշխատանք<s n="n"/><s n="aa"/></l><r>homework<s n="n"/></r></p></e>
+<e c=""><p><l>տնային<b/>աշխատանք<s n="n"/><s n="nn"/></l><r>homework<s n="n"/></r></p></e>
 <e c=""><p><l>տոկոս<s n="n"/><s n="nn"/></l><r>percent<s n="n"/></r></p></e>
 <e c=""><p><l>տողադարձ<s n="n"/><s n="nn"/></l><r>hyphenation<s n="n"/></r></p></e>
 <e c=""><p><l>տողադարձ<s n="n"/><s n="nn"/></l><r>word division<s n="n"/></r></p></e>
@@ -4605,7 +4615,7 @@
 <e c=""><p><l>տողան<s n="n"/><s n="nn"/></l><r>line<s n="n"/></r></p></e>
 <e c=""><p><l>տողան<s n="n"/><s n="nn"/></l><r>rank<s n="n"/></r></p></e>
 <e c=""><p><l>տողան<s n="n"/><s n="nn"/></l><r>row<s n="n"/></r></p></e>
-<e c=""><p><l>տոմատի_մածուկ<s n="n"/><s n="aa"/></l><r>tomato paste<s n="n"/></r></p></e>
+<e c=""><p><l>տոմատի<b/>մածուկ<s n="n"/><s n="nn"/></l><r>tomato<b/>paste<s n="n"/></r></p></e>
 <e c=""><p><l>տոպրակ<s n="n"/><s n="nn"/></l><r>bag<s n="n"/></r></p></e>
 <e c=""><p><l>տոպրակ<s n="n"/><s n="nn"/></l><r>sack<s n="n"/></r></p></e>
 <e c=""><p><l>տորմիղ<s n="n"/><s n="nn"/></l><r>fleet<s n="n"/></r></p></e>
@@ -4959,6 +4969,13 @@
 <e c="Western Armenian"><p><l>վալիզ<s n="n"/><s n="nn"/></l><r>suitcase<s n="n"/></r></p></e>
 <e c="Western Armenian"><p><l>վայրկյան<s n="n"/><s n="nn"/></l><r>minute<s n="n"/></r></p></e>
 <e c="zoology"><p><l>երկկենցաղ<s n="n"/><s n="aa"/></l><r>amphibian<s n="n"/></r></p></e>
+
+<e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>boy<s n="n"/></r></p></e>
+<e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>son<s n="n"/></r></p></e>
+<e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>lad<s n="n"/></r></p></e>
+<e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>youngster<s n="n"/></r></p></e>
+<e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>young<b/>man<s n="n"/></r></p></e>
+<e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>apprentice<s n="n"/></r></p></e>
 
 <!-- SECTION: Proper names -->
 
@@ -6836,8 +6853,19 @@
 <e c=""><p><l>ֆրանկական<s n="adj"/></l><r>Frankish<s n="adj"/></r></p></e>
 <e c=""><p><l>ֆրանսիական<s n="adj"/></l><r>French<s n="adj"/></r></p></e>
 <e c=""><p><l>ֆրիզյան<s n="adj"/></l><r>Frisian<s n="adj"/></r></p></e>
+<e c=""><p><l>միակ<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
+<e c=""><p><l>միակ<s n="adj"/></l><r>sole<s n="adj"/></r></p></e>
 
 <!-- SECTION: Adverbs -->
+
+<e c=""><p><l>ավելի<s n="adv"/></l><r>more<s n="preadv"/></r></p></e>
+<e c=""><p><l>ոչ<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+<e c=""><p><l>չ<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
+
+<e c=""><p><l>ինչպես<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+<e c=""><p><l>քանի<s n="adv"/></l><r>how<b/>many<s n="adv"/></r></p></e>
+<e c=""><p><l>քանիցս<s n="adv"/></l><r>how<b/>many<b/>times<s n="adv"/></r></p></e>
+
     <e c=""><p><l>ագահաբար<s n="adv"/></l><r>eagerly<s n="adv"/></r></p></e>
     <e c=""><p><l>ագահաբար<s n="adv"/></l><r>avidly<s n="adv"/></r></p></e>
     <e c=""><p><l>ագահաբար<s n="adv"/></l><r>greedily<s n="adv"/></r></p></e>
@@ -7341,8 +7369,6 @@
     <e c=""><p><l>փոքր<s n="adv"/></l><r>little<s n="adv"/></r></p></e>
     <e c=""><p><l>քաղաքավարի<s n="adv"/></l><r>politely<s n="adv"/></r></p></e>
     <e c=""><p><l>քաղցր<s n="adv"/></l><r>sweetly<s n="adv"/></r></p></e>
-    <e c=""><p><l>քանի<s n="adv"/></l><r>how<b/>many?<s n="adv"/></r></p></e>
-    <e c=""><p><l>քանիցս<s n="adv"/></l><r>how<b/>many<b/>times?<s n="adv"/></r></p></e>
     <e c=""><p><l>քանիցս<s n="adv"/></l><r>many<b/>times<s n="adv"/></r></p></e>
     <e c=""><p><l>քաոսայնորեն<s n="adv"/></l><r>chaotically<s n="adv"/></r></p></e>
     <e c=""><p><l>քաջ<s n="adv"/></l><r>excellently<s n="adv"/></r></p></e>
@@ -7375,11 +7401,6 @@
     <e c=""><p><l>ևս<s n="adv"/></l><r>as<b/>well<s n="adv"/></r></p></e>
     <e c=""><p><l>ևս<s n="adv"/></l><r>too<s n="adv"/></r></p></e>
     <e c=""><p><l>ևս<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
-
-<e c=""><p><l>ավելի<s n="adv"/></l><r>more<s n="preadv"/></r></p></e>
-<e c=""><p><l>ոչ<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
-<e c=""><p><l>չ<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
-
 <e c=""><p><l>ետ<s n="adv"/></l><r>back<s n="adv"/></r></p></e>
 <e c=""><p><l>ետ<s n="adv"/></l><r>backwards<s n="adv"/></r></p></e>
 <e c=""><p><l>շատ<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
@@ -7396,6 +7417,7 @@
 <!-- SECTION: Verbs -->
 
 <e c=""><p><l>լինել<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
+<e c="" r="LR"><p><l>եմ<s n="vaux"/></l><r>be<s n="vbser"/></r></p></e>
 
 <e c=""><p><l>լսել<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>

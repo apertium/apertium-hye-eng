@@ -7,6 +7,7 @@
     </def-cat>
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
+      <cat-item tags="prn.emph.*"/>
     </def-cat>
     <def-cat n="inf">
       <cat-item tags="vblex.inf.*"/>
@@ -20,6 +21,7 @@
   </section-def-cats>
   <section-def-attrs>
     <def-attr n="a_prn">
+      <attr-item tags="prn.emph"/>
       <attr-item tags="prn.pers"/>
       <attr-item tags="prn.subj"/>
       <attr-item tags="prn.obj"/>
@@ -64,6 +66,7 @@
       <attr-item tags="abl"/>
       <attr-item tags="ins"/>
       <attr-item tags="loc"/>
+      <attr-item tags="gen"/>
     </def-attr>
   </section-def-attrs>
   <section-def-vars>

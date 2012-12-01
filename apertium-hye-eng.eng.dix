@@ -14824,6 +14824,7 @@
     <e lm="biomass"><i>biomass</i><par n="access__n"/></e>
     <e lm="biopsy"><i>biops</i><par n="bab/y__n"/></e>
     <e lm="bird"><i>bird</i><par n="house__n"/></e>
+    <e lm="hummingbird"><i>hummingbird</i><par n="house__n"/></e>
     <e lm="birth"><i>birth</i><par n="house__n"/></e>
     <e lm="childbirth"><i>childbirth</i><par n="house__n"/></e>
     <e lm="birthday"><i>birthday</i><par n="house__n"/></e>
