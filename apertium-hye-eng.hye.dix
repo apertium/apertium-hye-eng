@@ -12,6 +12,7 @@
      <sdef n="adv"    c="Adverb"/>
      <sdef n="np"     c="Proper noun"/>
      <sdef n="pr"     c="Preposition"/>
+     <sdef n="ij"     c="Interjection"/>
      <sdef n="num"    c="Numeral"/>
      <sdef n="prn"    c="Pronoun"/>
      <sdef n="rel"    c="Relative"/>
@@ -143,6 +144,13 @@
     <pardef n="տ-ն__abbr">    
       <e><p><l></l><r><s n="abbr"/></r></p></e>
     </pardef>
+
+    <!-- SECTION: Interjections -->
+
+    <pardef n="այո__ij">    
+      <e><p><l></l><r><s n="ij"/></r></p></e>
+    </pardef>
+
 
     <!-- SECTION: Conjunctions -->
 
@@ -10981,6 +10989,10 @@
     <e lm="բարբանջել"><par n="part-neg"/><i>բարբանջ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="բարբանջել"><p><l>կբարբանջ</l><r>բարբանջ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
+    <e lm="շեշտել"><i>շեշտ</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="շեշտել"><par n="part-neg"/><i>շեշտ</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="շեշտել"><p><l>կշեշտ</l><r>շեշտ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+
     <e lm="բաղբաջել"><i>բաղբաջ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="բաղբաջել"><par n="part-neg"/><i>բաղբաջ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="բաղբաջել"><p><l>կբաղբաջ</l><r>բաղբաջ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
@@ -12377,6 +12389,8 @@
 -->
 
     <!-- SECTION: Interjections -->
+
+    <e lm="այո"><i>այո</i><par n="այո__ij"/></e>
 
     <!-- SECTION: Abbreviations -->
 
