@@ -211,7 +211,9 @@
 <e><p><l>քսան<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
 
 
+
 <!-- SECTION: Nouns -->
+
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>degree<s n="n"/></r></p></e>
 <e c=""><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>extent<s n="n"/></r></p></e>
 <e c="of stairs"><p><l>աստիճան<s n="n"/><s n="nn"/></l><r>step<s n="n"/></r></p></e>
@@ -5039,6 +5041,8 @@
 <e c=""><p><l>հոդված<s n="n"/><s n="nn"/></l><r>paragraph<s n="n"/></r></p></e>
 <e c=""><p><l>հոդված<s n="n"/><s n="nn"/></l><r>section<s n="n"/></r></p></e>
 <e c=""><p><l>հոդված<s n="n"/><s n="nn"/></l><r>item<s n="n"/></r></p></e>
+
+
 
 <!-- SECTION: Proper names -->
 
