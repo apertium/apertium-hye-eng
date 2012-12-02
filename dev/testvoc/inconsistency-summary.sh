@@ -1,3 +1,5 @@
+#!/bin/bash
+
 INC=$1
 OUT=testvoc-summary.txt
 POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv post prn rel vaux vblex vbser"

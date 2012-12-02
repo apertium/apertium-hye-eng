@@ -1,6 +1,8 @@
+#!/bin/bash
+
 TMPDIR=/tmp
 
-lt-expand ../../apertium-hye-eng.hye.dix | grep -v ':>:' | sed 's/:<:/%/g' | sed 's/:/%/g' | cut -f2 -d'%' | sed 's/^/^/g' | sed 's/$/$/g' | grep -v 'REGEX' | tee $TMPDIR/tmp_testvoc1.txt |
+lt-expand ../../apertium-hye-eng.hye.dix | grep -v 'REGEX' | grep -v ':>:' | sed 's/:<:/%/g' | sed 's/:/%/g' | cut -f2 -d'%' | sed 's/^/^/g' | sed 's/$/$/g' | grep -v 'REGEX' | tee $TMPDIR/tmp_testvoc1.txt |
         apertium-pretransfer|
         lt-proc -b ../../hye-eng.autobil.bin | tee $TMPDIR/tmp_testvoc2.txt |
         apertium-transfer -b ../../apertium-hye-eng.hye-eng.t1x  ../../hye-eng.t1x.bin | 
