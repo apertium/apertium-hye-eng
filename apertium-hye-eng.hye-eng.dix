@@ -184,7 +184,8 @@
 <e c=""><p><l>ոք<s n="prn"/><s n="ind"/></l><r>someone<s n="prn"/><s n="ind"/></r></p></e>
 <e c=""><p><l>ոք<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="ind"/></r></p></e>
 <e c=""><p><l>սա<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
-<e c=""><p><l>ով<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p></e>
+<e c=""><p><l>ով<s n="prn"/><s n="itg"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c=""><p><l>ով<s n="prn"/><s n="itg"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
 <!-- SECTION: Numerals -->
 
@@ -6256,6 +6257,13 @@
 <e c=""><p><l>պետք<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
 <e c=""><p><l>նոր<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>մեծ<s n="adj"/><s n="sint"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մոտ<s n="adj"/><s n="sint"/></l><r>close<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մոտ<s n="adj"/><s n="sint"/></l><r>near<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հայտնի<s n="adj"/><s n="sint"/></l><r>famous<s n="adj"/></r></p></e>
+<e c=""><p><l>հայտնի<s n="adj"/><s n="sint"/></l><r>well-known<s n="adj"/></r></p></e>
+<e c=""><p><l>հայտնի<s n="adj"/><s n="sint"/></l><r>apparent<s n="adj"/></r></p></e>
+<e c=""><p><l>հայտնի<s n="adj"/><s n="sint"/></l><r>manifest<s n="adj"/></r></p></e>
+<e c=""><p><l>հայտնի<s n="adj"/><s n="sint"/></l><r>known<s n="adj"/></r></p></e>
 
 <e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>honest<s n="adj"/></r></p></e>
 <e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>honest-minded<s n="adj"/></r></p></e>
