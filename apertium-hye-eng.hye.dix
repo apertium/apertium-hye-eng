@@ -359,14 +359,16 @@
       <e>       <p><l>քեր</l><r>վ<s n="prn"/><s n="itg"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
 
-    <pardef n="որտեղ__prn"> 
-      <e>       <p><l></l><r><s n="prn"/><s n="itg"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>       <p><l>ը</l><r><s n="prn"/><s n="itg"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>ն</l><r><s n="prn"/><s n="itg"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>       <p><l>ի</l><r><s n="prn"/><s n="itg"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e>       <p><l>ին</l><r><s n="prn"/><s n="itg"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
-      <e>       <p><l>ից</l><r><s n="prn"/><s n="itg"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
-      <e>       <p><l>ով</l><r><s n="prn"/><s n="itg"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    <pardef n="որտե/ղ__prn"> 
+      <e>       <p><l>ղ</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e r="LR"><p><l>՞ղ</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>       <p><l>ղը</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>ղն</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>       <p><l>ղի</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e>       <p><l>ղին</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e>       <p><l>ղից</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e r="LR"><p><l>ղի՞ց</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e>       <p><l>ղով</l><r>ղ<s n="prn"/><s n="itg"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
     </pardef>
 
     <pardef n="ինչ__prn"> 
@@ -4400,7 +4402,7 @@
     <e lm="emphatic pronouns"><i/><par n="/emph_pronouns__prn"/></e>
 
     <e lm="որ"><i>որ</i><par n="որ__rel"/></e>
-    <e lm="որտեղ"><i>որտեղ</i><par n="որտեղ__prn"/></e>
+    <e lm="որտեղ"><i>որտե</i><par n="որտե/ղ__prn"/></e>
     <e lm="այնտեղ"><i>այնտեղ</i><par n="այնտեղ__prn"/></e>
     <e lm="ինչ"><i>ինչ</i><par n="ինչ__prn"/></e>
     <e lm="ով"><i>ո</i><par n="ո/վ__prn"/></e>
