@@ -21,6 +21,9 @@
     <match lemma="խելոք" tags="adj.*"><select lemma="clever" tags="adj.*"/></match>
   </rule>
   <rule>
+    <match lemma="հանդես" tags="n.*"><select lemma="magazine" tags="n.*"/></match>
+  </rule>
+  <rule>
     <match lemma="պեչենի" tags="n.*"><select lemma="biscuit" tags="n.*"/></match>
   </rule>
   <rule>

@@ -684,9 +684,9 @@
 <e c="archaic"><p><l>կնճիռ<s n="n"/><s n="nn"/></l><r>tie<s n="n"/></r></p></e>
 <e c="archaic"><p><l>կոչում<s n="n"/><s n="nn"/></l><r>class<s n="n"/></r></p></e>
 <e c="archaic"><p><l>հան<s n="n"/><s n="aa"/></l><r>grandmother<s n="n"/></r></p></e>
-<e c="archaic"><p><l>հանդես<s n="n"/><s n="nn"/></l><r>exhibit<s n="n"/></r></p></e>
-<e c="archaic"><p><l>հանդես<s n="n"/><s n="nn"/></l><r>field<s n="n"/></r></p></e>
-<e c="archaic"><p><l>հանդես<s n="n"/><s n="nn"/></l><r>military<s n="n"/></r></p></e>
+<!--<e c="archaic"><p><l>հանդես<s n="n"/><s n="nn"/></l><r>exhibit<s n="n"/></r></p></e>-->
+<!--<e c="archaic"><p><l>հանդես<s n="n"/><s n="nn"/></l><r>field<s n="n"/></r></p></e>-->
+<!--<e c="archaic"><p><l>հանդես<s n="n"/><s n="nn"/></l><r>military<s n="n"/></r></p></e>-->
 <e c="archaic"><p><l>հորան<s n="n"/><s n="nn"/></l><r>enclosure<s n="n"/></r></p></e>
 <e c="archaic"><p><l>հորան<s n="n"/><s n="nn"/></l><r>flock<s n="n"/></r></p></e>
 <e c="archaic"><p><l>միանձն<s n="n"/><s n="aa"/></l><r>anachorite<s n="n"/></r></p></e>
@@ -3018,10 +3018,9 @@
 <e c=""><p><l>կենսաբանություն<s n="n"/><s n="nn"/></l><r>biology<s n="n"/></r></p></e>
 <e c=""><p><l>կենսագրություն<s n="n"/><s n="nn"/></l><r>biography<s n="n"/></r></p></e>
 <e c=""><p><l>կենսաֆիզիկա<s n="n"/><s n="nn"/></l><r>biophysics<s n="n"/></r></p></e>
-<e c=""><p><l>կենտրոն<s n="n"/><s n="nn"/></l><r>center<s n="n"/></r></p></e>
 <e c=""><p><l>կենտրոն<s n="n"/><s n="nn"/></l><r>centre<s n="n"/></r></p></e>
 <e c=""><p><l>կենցաղ<s n="n"/><s n="nn"/></l><r>mode<s n="n"/></r></p></e>
-<e c=""><p><l>կենցաղ<s n="n"/><s n="nn"/></l><r>way of life<s n="n"/></r></p></e>
+<e c=""><p><l>կենցաղ<s n="n"/><s n="nn"/></l><r>way<g><b/>of<b/>life</g><s n="n"/></r></p></e>
 <e c=""><p><l>կեչուա<s n="n"/><s n="aa"/></l><r>Quechua<s n="n"/></r></p></e>
 <e c=""><p><l>կեռաս<s n="n"/><s n="aa"/></l><r>sweet<s n="n"/></r></p></e>
 <e c=""><p><l>կեռնեխ<s n="n"/><s n="aa"/></l><r>thrush<s n="n"/></r></p></e>
@@ -3204,6 +3203,7 @@
 <e c=""><p><l>հանգույց<s n="n"/><s n="nn"/></l><r>knot<s n="n"/></r></p></e>
 <e c=""><p><l>հանգույց<s n="n"/><s n="nn"/></l><r>thread<s n="n"/></r></p></e>
 <e c=""><p><l>հանդես<s n="n"/><s n="nn"/></l><r>celebrations<s n="n"/></r></p></e>
+<e c=""><p><l>հանդես<s n="n"/><s n="nn"/></l><r>magazine<s n="n"/></r></p></e>
 <e c=""><p><l>հանդես<s n="n"/><s n="nn"/></l><r>concert<s n="n"/></r></p></e>
 <e c=""><p><l>հանդես<s n="n"/><s n="nn"/></l><r>exhibition<s n="n"/></r></p></e>
 <e c=""><p><l>հանդես<s n="n"/><s n="nn"/></l><r>festival<s n="n"/></r></p></e>
@@ -7859,7 +7859,7 @@
 <e c="somewhat poetic and literary"><p><l>ռազմիկ<s n="n"/><s n="aa"/></l><r>warrior<s n="n"/></r></p></e>
 <e c="somewhat poetic and literary"><p><l>ռազմիկ<s n="n"/><s n="aa"/></l><r>soldier<s n="n"/></r></p></e>
 <e c=""><p><l>ռնգեղջյուր<s n="n"/><s n="aa"/></l><r>rhinoceros<s n="n"/></r></p></e>
-<e c=""><p><l>ռուս<s n="n"/><s n="aa"/></l><r>an ethnic Russian person<s n="n"/></r></p></e>
+<e c="ethnic Russian"><p><l>ռուս<s n="n"/><s n="aa"/></l><r>Russian<s n="n"/></r></p></e>
 <e c=""><p><l>սարդ<s n="n"/><s n="aa"/></l><r>spider<s n="n"/></r></p></e>
 <e c=""><p><l>սերբ<s n="n"/><s n="aa"/></l><r>a Serb person<s n="n"/></r></p></e>
 <e c=""><p><l>սիգ<s n="n"/><s n="aa"/></l><r>cisco<s n="n"/></r></p></e>
@@ -9314,6 +9314,8 @@
 <e c="grammar"><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>compound<s n="adj"/></r></p></e>
 <e c="grammar"><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>composite<s n="adj"/></r></p></e>
 
+<e c=""><p><l>համաձայն<s n="adj"/></l><r>in<b/>agreement<s n="adj"/></r></p></e>
+
 <e c=""><p><l>դիտորդական<s n="adj"/></l><r>observer<s n="adj"/></r></p></e>
 <e c=""><p><l>դիտորդական<s n="adj"/></l><r>observation<s n="adj"/></r></p></e>
 
@@ -9327,6 +9329,8 @@
 <e c=""><p><l>հայտնի<s n="adj"/><s n="sint"/></l><r>manifest<s n="adj"/></r></p></e>
 <e c=""><p><l>հայտնի<s n="adj"/><s n="sint"/></l><r>known<s n="adj"/></r></p></e>
 
+<e c=""><p><l>օդային<s n="adj"/></l><r>air<s n="adj"/></r></p></e>
+<e c=""><p><l>օդային<s n="adj"/></l><r>aerial<s n="adj"/></r></p></e>
 <e c=""><p><l>լեռնային<s n="adj"/></l><r>mountain<s n="adj"/></r></p></e>
 <e c=""><p><l>լեռնային<s n="adj"/></l><r>mountainous<s n="adj"/></r></p></e>
 <e c=""><p><l>միջազգային<s n="adj"/><s n="sint"/></l><r>international<s n="adj"/></r></p></e>
@@ -10640,6 +10644,10 @@
 <e c=""><p><l>ընդունել<s n="vblex"/><s n="tv"/></l><r>assume<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդունել<s n="vblex"/><s n="tv"/></l><r>admit<s n="vblex"/></r></p></e>
 <e c=""><p><l>շեշտել<s n="vblex"/><s n="tv"/></l><r>emphasise<s n="vblex"/></r></p></e>
+<e c=""><p><l>օգտագործել<s n="vblex"/><s n="tv"/></l><r>use<s n="vblex"/></r></p></e>
+<e c=""><p><l>օգտագործել<s n="vblex"/><s n="tv"/></l><r>utilise<s n="vblex"/></r></p></e>
+<e c=""><p><l>գրել<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
+<e c=""><p><l>կոտրել<s n="vblex"/><s n="tv"/></l><r>break<s n="vblex"/></r></p></e>
 
 
 
