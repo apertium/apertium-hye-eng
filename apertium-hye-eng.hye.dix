@@ -4347,7 +4347,7 @@
     <e lm="բացի" c="except"><i>բացի</i><par n="և__cnjcoo"/></e>
     <e lm="և"><i>և</i><par n="և__cnjcoo"/></e>
     <e lm="կամ"><i>կամ</i><par n="և__cnjcoo"/></e>
-    <e lm="նաև" c="also"><i>նաև</i><par n="և__cnjcoo"/></e>
+    <e lm="նաև" c="also"><i>նաև</i><par n="իսկ__cnjadv"/></e>
     <e lm="նույնպես" c="also"><i>նույնպես</i><par n="և__cnjcoo"/></e>
     <e lm="ու"><i>ու</i><par n="և__cnjcoo"/></e>
     <e lm="եւ"><i>եւ</i><par n="և__cnjcoo"/></e>
