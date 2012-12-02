@@ -175,7 +175,9 @@
 <e c=""><p><l>նա<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
 <e c=""><p><l>ինքը<s n="prn"/><s n="emph"/><s n="p3"/><s n="mf"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
 <e c=""><p><l>մենք<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="FD"/></r></p></e>
+<e c=""><p><l>դուք<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="FD"/></r></p></e>
 <e c=""><p><l>նրանք<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="FD"/></r></p></e>
+
 <e c="" r="LR"><p><l>որ<s n="rel"/><s n="nn"/><s n="sg"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="" r="LR"><p><l>որ<s n="rel"/><s n="nn"/><s n="pl"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c="" r="RL"><p><l>որ<s n="rel"/><s n="nn"/><s n="ND"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -188,6 +190,8 @@
 <e c=""><p><l>սա<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
 <e c=""><p><l>նա<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
 <e c=""><p><l>դա<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
+<e c=""><p><l>ինչ<s n="prn"/><s n="itg"/><s n="sg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c=""><p><l>ինչ<s n="prn"/><s n="itg"/><s n="pl"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c=""><p><l>ով<s n="prn"/><s n="itg"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 <e c=""><p><l>ով<s n="prn"/><s n="itg"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
@@ -1408,11 +1412,11 @@
 <e c=""><p><l>ախտ<s n="n"/><s n="nn"/></l><r>illness<s n="n"/></r></p></e>
 <e c=""><p><l>ախտաբան<s n="n"/><s n="aa"/></l><r>pathologist<s n="n"/></r></p></e>
 <e c=""><p><l>ախտաբանություն<s n="n"/><s n="nn"/></l><r>pathology<s n="n"/></r></p></e>
-<e c=""><p><l>մարդ<s n="n"/><s n="nn"/></l><r>man<s n="n"/></r></p></e>
-<e c=""><p><l>մարդ<s n="n"/><s n="nn"/></l><r>human<s n="n"/></r></p></e>
-<e c=""><p><l>մարդ<s n="n"/><s n="nn"/></l><r>human<b/>being<s n="n"/></r></p></e>
-<e c=""><p><l>մարդ<s n="n"/><s n="nn"/></l><r>husband<s n="n"/></r></p></e>
-<e c=""><p><l>մարդ<s n="n"/><s n="nn"/></l><r>person<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>man<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>human<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>human<b/>being<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>husband<s n="n"/></r></p></e>
+<e c=""><p><l>մարդ<s n="n"/><s n="aa"/></l><r>person<s n="n"/></r></p></e>
 <e c=""><p><l>ածական<s n="n"/><s n="nn"/></l><r>adjective<s n="n"/></r></p></e> <!-- XX -->
 <e c=""><p><l>ածանց<s n="n"/><s n="nn"/></l><r>archaic<s n="n"/></r></p></e>
 <e c=""><p><l>ածխածին<s n="n"/><s n="nn"/></l><r>carbon<s n="n"/></r></p></e>
@@ -1529,10 +1533,10 @@
 <e c=""><p><l>անարդարություն<s n="n"/><s n="nn"/></l><r>injustice<s n="n"/></r></p></e>
 <e c=""><p><l>անարխիզմ<s n="n"/><s n="nn"/></l><r>anarchism<s n="n"/></r></p></e>
 <e c=""><p><l>անգամ<s n="n"/><s n="nn"/></l><r>an <s n="n"/></r></p></e>
-<e c=""><p><l>անգլերեն<s n="n"/><s n="aa"/></l><r>English<s n="n"/></r></p></e>
-<e c=""><p><l>անգլիացի<s n="n"/><s n="nn"/></l><r>Englishman<s n="n"/></r></p></e>
-<e c=""><p><l>անգլիացի<s n="n"/><s n="nn"/></l><r>Englishwoman<s n="n"/></r></p></e>
-<e c=""><p><l>անգլոսաքսոներեն<s n="n"/><s n="aa"/></l><r>Old English<s n="n"/></r></p></e>
+<e c=""><p><l>անգլերեն<s n="n"/><s n="nn"/></l><r>English<s n="n"/></r></p></e>
+<e c=""><p><l>անգլիացի<s n="n"/><s n="aa"/></l><r>Englishman<s n="n"/></r></p></e>
+<e c=""><p><l>անգլիացի<s n="n"/><s n="aa"/></l><r>Englishwoman<s n="n"/></r></p></e>
+<e c=""><p><l>անգլոսաքսոներեն<s n="n"/><s n="nn"/></l><r>Old<b/>English<s n="n"/></r></p></e>
 <e c=""><p><l>անդամ<s n="n"/><s n="nn"/></l><r>member<s n="n"/></r></p></e>
 <e c=""><p><l>անդաստան<s n="n"/><s n="nn"/></l><r>arena<s n="n"/></r></p></e>
 <e c=""><p><l>անդաստան<s n="n"/><s n="nn"/></l><r>field<s n="n"/></r></p></e>
@@ -2483,7 +2487,7 @@
 <e c=""><p><l>թամիլերեն<s n="n"/><s n="nn"/></l><r>Tamil<s n="n"/></r></p></e>
 <e c=""><p><l>թայֆա<s n="n"/><s n="nn"/></l><r>derogatory<s n="n"/></r></p></e>
 <e c=""><p><l>թան<s n="n"/><s n="nn"/></l><r>Armenian<s n="n"/></r></p></e>
-<e c="language"><p><l>հայերեն<s n="n"/><s n="aa"/></l><r>Armenian<s n="n"/></r></p></e> 
+<e c="language"><p><l>հայերեն<s n="n"/><s n="nn"/></l><r>Armenian<s n="n"/></r></p></e> 
 <e c=""><p><l>թանաք<s n="n"/><s n="nn"/></l><r>ink<s n="n"/></r></p></e>
 <e c=""><p><l>թանաքաձուկ<s n="n"/><s n="aa"/></l><r>squid<s n="n"/></r></p></e>
 <e c=""><p><l>թանգարան<s n="n"/><s n="nn"/></l><r>museum<s n="n"/></r></p></e>
@@ -5512,8 +5516,8 @@
 <e c=""><p><l>ընդավոր<s n="n"/><s n="nn"/></l><r>legumes<s n="n"/></r></p></e>
 <e c=""><p><l>ընդավոր<s n="n"/><s n="nn"/></l><r>leguminous<b/>plants<s n="n"/></r></p></e>
 <e c=""><p><l>ընդերք<s n="n"/><s n="nn"/></l><r>bosom<s n="n"/></r></p></e>
-<e c=""><p><l>ընտրություն<s n="n"/><s n="nn"/></l><r>elections<s n="n"/></r></p></e>
 <e c=""><p><l>ընտրություն<s n="n"/><s n="nn"/></l><r>election<s n="n"/></r></p></e>
+<e c=""><p><l>ընտրություն<s n="n"/><s n="nn"/><s n="pl"/></l><r>election<s n="n"/><s n="pl"/></r></p></e>
 <e c=""><p><l>ընտրություն<s n="n"/><s n="nn"/></l><r>selection<s n="n"/></r></p></e>
 <e c=""><p><l>ընտրություն<s n="n"/><s n="nn"/></l><r>choice<s n="n"/></r></p></e>
 <e c=""><p><l>թագավորություն<s n="n"/><s n="nn"/></l><r>realm<s n="n"/></r></p></e>
@@ -6606,7 +6610,1467 @@
 <e c=""><p><l>ֆրիուլերեն<s n="n"/><s n="nn"/></l><r>Friulian<s n="n"/></r></p></e>
 
 
-<!-- SECTION: Proper names -->
+<e c=""><p><l>ազդր<s n="n"/><s n="nn"/></l><r>thigh<s n="n"/></r></p></e>
+<e c=""><p><l>ազդր<s n="n"/><s n="nn"/></l><r>hip<s n="n"/></r></p></e>
+<e c=""><p><l>ազոտ<s n="n"/><s n="nn"/></l><r>nitrogen<s n="n"/></r></p></e>
+<e c=""><p><l>աթոռ<s n="n"/><s n="nn"/></l><r>chair<s n="n"/></r></p></e>
+<e c="rare"><p><l>աթոռ<s n="n"/><s n="nn"/></l><r>throne<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ալամ<s n="n"/><s n="nn"/></l><r>world<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ալամ<s n="n"/><s n="nn"/></l><r>universe<s n="n"/></r></p></e>
+<e c=""><p><l>ալոճ<s n="n"/><s n="nn"/></l><r>haw<s n="n"/></r></p></e>
+<e c=""><p><l>ալոճ<s n="n"/><s n="nn"/></l><r>fruit of hawthorn<s n="n"/></r></p></e>
+<e c=""><p><l>ալոջ<s n="n"/><s n="nn"/></l><r>she-kid<s n="n"/></r></p></e>
+<e c=""><p><l>ածու<s n="n"/><s n="nn"/></l><r>garden-bed<s n="n"/></r></p></e>
+<e c=""><p><l>ածուխ<s n="n"/><s n="nn"/></l><r>coal<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ածք<s n="n"/><s n="nn"/></l><r>a sprout<s n="n"/></r></p></e>
+<e c="trench concealing an assailant's approach to a fortified place"><p><l>ական<s n="n"/><s n="nn"/></l><r>sap<s n="n"/></r></p></e>
+<e c="trench concealing an assailant's approach to a fortified place"><p><l>ական<s n="n"/><s n="nn"/></l><r>tunnel<s n="n"/></r></p></e>
+<e c="military"><p><l>ական<s n="n"/><s n="nn"/></l><r>mine<s n="n"/></r></p></e>
+<e c="military"><p><l>ական<s n="n"/><s n="nn"/></l><r>mortar shell<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ակն<s n="n"/><s n="nn"/></l><r>eye<s n="n"/></r></p></e>
+<e c="agriculture"><p><l>ակոս<s n="n"/><s n="nn"/></l><r>furrow<s n="n"/></r></p></e>
+<e c="technology"><p><l>ակոս<s n="n"/><s n="nn"/></l><r>groove<s n="n"/></r></p></e>
+<e c="technology"><p><l>ակոս<s n="n"/><s n="nn"/></l><r>furrow<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>աղատ<s n="n"/><s n="nn"/></l><r>supplication<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>աղատ<s n="n"/><s n="nn"/></l><r>caress<s n="n"/></r></p></e>
+<e c=""><p><l>աղբ<s n="n"/><s n="nn"/></l><r>garbage<s n="n"/></r></p></e>
+<e c=""><p><l>աղբ<s n="n"/><s n="nn"/></l><r>trash<s n="n"/></r></p></e>
+<e c=""><p><l>աղբ<s n="n"/><s n="nn"/></l><r>rubbish<s n="n"/></r></p></e>
+<e c="rare"><p><l>աղբ<s n="n"/><s n="nn"/></l><r>feces<s n="n"/></r></p></e>
+<e c="rare"><p><l>աղբ<s n="n"/><s n="nn"/></l><r>excrement<s n="n"/></r></p></e>
+<e c="military"><p><l>աղեղնավոր<s n="n"/><s n="nn"/></l><r>bowman<s n="n"/></r></p></e>
+<e c="military"><p><l>աղեղնավոր<s n="n"/><s n="nn"/></l><r>archer<s n="n"/></r></p></e>
+<e c="capitalized, astronomy"><p><l>աղեղնավոր<s n="n"/><s n="nn"/></l><r>Sagittarius<s n="n"/></r></p></e>
+<e c="capitalized, astrology"><p><l>աղեղնավոր<s n="n"/><s n="nn"/></l><r>Sagittarius<s n="n"/></r></p></e>
+<e c=""><p><l>աղոթկեր<s n="n"/><s n="nn"/></l><r>someone who prays<s n="n"/></r></p></e>
+<e c=""><p><l>աման<s n="n"/><s n="nn"/></l><r>vessel<s n="n"/></r></p></e>
+<e c=""><p><l>աման<s n="n"/><s n="nn"/></l><r>jar<s n="n"/></r></p></e>
+<e c=""><p><l>աման<s n="n"/><s n="nn"/></l><r>pot<s n="n"/></r></p></e>
+<e c=""><p><l>աման<s n="n"/><s n="nn"/></l><r>container<s n="n"/></r></p></e>
+<e c=""><p><l>աման<s n="n"/><s n="nn"/></l><r>tray<s n="n"/></r></p></e>
+<e c=""><p><l>ամառ<s n="n"/><s n="nn"/></l><r>summer<s n="n"/></r></p></e>
+<e c=""><p><l>ամբար<s n="n"/><s n="nn"/></l><r>granary<s n="n"/></r></p></e>
+<e c=""><p><l>ամբար<s n="n"/><s n="nn"/></l><r>barn<s n="n"/></r></p></e>
+<e c=""><p><l>ամոթ<s n="n"/><s n="nn"/></l><r>shame<s n="n"/></r></p></e>
+<e c=""><p><l>ամոթ<s n="n"/><s n="nn"/></l><r>shyness<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>ամորձի<s n="n"/><s n="nn"/></l><r>testicle<s n="n"/></r></p></e>
+<e c=""><p><l>ամպ<s n="n"/><s n="nn"/></l><r>cloud<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ամպ<s n="n"/><s n="nn"/></l><r>sorrow<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ամպ<s n="n"/><s n="nn"/></l><r>grief<s n="n"/></r></p></e>
+<e c="Western Armenian"><p><l>այգի<s n="n"/><s n="nn"/></l><r>vineyard<s n="n"/></r></p></e>
+<e c="Eastern Armenian"><p><l>այգի<s n="n"/><s n="nn"/></l><r>garden<s n="n"/></r></p></e>
+<e c="Eastern Armenian"><p><l>այգի<s n="n"/><s n="nn"/></l><r>park<s n="n"/></r></p></e>
+<e c="archaic, poetic"><p><l>այր<s n="n"/><s n="nn"/></l><r>man<s n="n"/></r></p></e>
+<e c="archaic, poetic"><p><l>այր<s n="n"/><s n="nn"/></l><r>husband<s n="n"/></r></p></e>
+<e c="archaic, poetic"><p><l>այր<s n="n"/><s n="nn"/></l><r>spouse<s n="n"/></r></p></e>
+<e c="archaic, poetic, figuratively"><p><l>այր<s n="n"/><s n="nn"/></l><r>brave person<s n="n"/></r></p></e>
+<e c="archaic, poetic, figuratively"><p><l>այր<s n="n"/><s n="nn"/></l><r>daredevil<s n="n"/></r></p></e>
+<e c=""><p><l>անագ<s n="n"/><s n="nn"/></l><r>tin<s n="n"/></r></p></e>
+<e c="of a man"><p><l>անդրի<s n="n"/><s n="nn"/></l><r>statue<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>անթ<s n="n"/><s n="nn"/></l><r>embrace<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>անթ<s n="n"/><s n="nn"/></l><r>grasp<s n="n"/></r></p></e>
+<e c="dialectal, figuratively"><p><l>անթ<s n="n"/><s n="nn"/></l><r>bundle<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>անթ<s n="n"/><s n="nn"/></l><r>shoulder<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>անթ<s n="n"/><s n="nn"/></l><r>back<s n="n"/></r></p></e>
+<e c=""><p><l>անկյուն<s n="n"/><s n="nn"/></l><r>angle<s n="n"/></r></p></e>
+<e c="mathematics, physics"><p><l>անկյուն<s n="n"/><s n="nn"/></l><r>angle<s n="n"/></r></p></e>
+<e c=""><p><l>անկյուն<s n="n"/><s n="nn"/></l><r>corner<s n="n"/></r></p></e>
+<e c=""><p><l>անկյուն<s n="n"/><s n="nn"/></l><r>nook<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>աչք<s n="n"/><s n="nn"/></l><r>eye<s n="n"/></r></p></e>
+<e c="dated"><p><l>արդ<s n="n"/><s n="nn"/></l><r>structure<s n="n"/></r></p></e>
+<e c="dated"><p><l>արդ<s n="n"/><s n="nn"/></l><r>form<s n="n"/></r></p></e>
+<e c="dated"><p><l>արդ<s n="n"/><s n="nn"/></l><r>ornament<s n="n"/></r></p></e>
+<e c="rare"><p><l>արեգ<s n="n"/><s n="nn"/></l><r>the sun<s n="n"/></r></p></e>
+<e c="fruit"><p><l>արմավ<s n="n"/><s n="nn"/></l><r>date<s n="n"/></r></p></e>
+<e c=""><p><l>արմավենի<s n="n"/><s n="nn"/></l><r>palm tree<s n="n"/></r></p></e>
+<e c=""><p><l>արմավենի<s n="n"/><s n="nn"/></l><r>palm<s n="n"/></r></p></e>
+<e c="tree"><p><l>արմավենի<s n="n"/><s n="nn"/></l><r>coconut tree<s n="n"/></r></p></e>
+<e c=""><p><l>արյուն<s n="n"/><s n="nn"/></l><r>blood<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>արյուն<s n="n"/><s n="nn"/></l><r>slaughter<s n="n"/></r></p></e>
+<e c="chemistry"><p><l>արջասպ<s n="n"/><s n="nn"/></l><r>vitriol<s n="n"/></r></p></e>
+<e c=""><p><l>աքացի<s n="n"/><s n="nn"/></l><r>kicking<s n="n"/></r></p></e>
+<e c="fruit"><p><l>բալ<s n="n"/><s n="nn"/></l><r>sour cherry<s n="n"/></r></p></e>
+<e c="good or bad"><p><l>բախտ<s n="n"/><s n="nn"/></l><r>luck<s n="n"/></r></p></e>
+<e c=""><p><l>բախտ<s n="n"/><s n="nn"/></l><r>good fortune<s n="n"/></r></p></e>
+<e c=""><p><l>բախտ<s n="n"/><s n="nn"/></l><r>good luck<s n="n"/></r></p></e>
+<e c=""><p><l>բախտ<s n="n"/><s n="nn"/></l><r>fate<s n="n"/></r></p></e>
+<e c=""><p><l>բախտ<s n="n"/><s n="nn"/></l><r>lot<s n="n"/></r></p></e>
+<e c=""><p><l>բախտ<s n="n"/><s n="nn"/></l><r>destiny<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>բամբաս<s n="n"/><s n="nn"/></l><r>gossip<s n="n"/></r></p></e>
+<e c="grammar"><p><l>բայ<s n="n"/><s n="nn"/></l><r>verb<s n="n"/></r></p></e>
+<e c="financial institution"><p><l>բանկ<s n="n"/><s n="nn"/></l><r>bank<s n="n"/></r></p></e>
+<e c=""><p><l>բանտ<s n="n"/><s n="nn"/></l><r>prison<s n="n"/></r></p></e>
+<e c=""><p><l>բանտ<s n="n"/><s n="nn"/></l><r>jail<s n="n"/></r></p></e>
+<e c=""><p><l>բարի<s n="n"/><s n="nn"/></l><r>good<s n="n"/></r></p></e>
+<e c=""><p><l>բարձ<s n="n"/><s n="nn"/></l><r>pillow<s n="n"/></r></p></e>
+<e c=""><p><l>բարձ<s n="n"/><s n="nn"/></l><r>cushion<s n="n"/></r></p></e>
+<e c="geography"><p><l>բևեռ<s n="n"/><s n="nn"/></l><r>pole<s n="n"/></r></p></e>
+<e c="physics, electricity"><p><l>բևեռ<s n="n"/><s n="nn"/></l><r>pole<s n="n"/></r></p></e>
+<e c="archaic"><p><l>բևեռ<s n="n"/><s n="nn"/></l><r>nail<s n="n"/></r></p></e>
+<e c="archaic"><p><l>բյուր<s n="n"/><s n="nn"/></l><r>ten thousand<s n="n"/></r></p></e>
+<e c="archaic"><p><l>բյուր<s n="n"/><s n="nn"/></l><r>myriad<s n="n"/></r></p></e>
+<e c=""><p><l>բողկ<s n="n"/><s n="nn"/></l><r>radish<s n="n"/></r></p></e>
+<e c=""><p><l>բոր<s n="n"/><s n="nn"/></l><r>boron<s n="n"/></r></p></e>
+<e c=""><p><l>բորբ<s n="n"/><s n="nn"/></l><r>inflammation<s n="n"/></r></p></e>
+<e c="somewhat colloquial"><p><l>բուդ<s n="n"/><s n="nn"/></l><r>thigh<s n="n"/></r></p></e>
+<e c="as a food"><p><l>բուդ<s n="n"/><s n="nn"/></l><r>haunch<s n="n"/></r></p></e>
+<e c="as a food"><p><l>բուդ<s n="n"/><s n="nn"/></l><r>hindquarter<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>բութ<s n="n"/><s n="nn"/></l><r>thumb<s n="n"/></r></p></e>
+<e c=""><p><l>բուն<s n="n"/><s n="nn"/></l><r>trunk of a tree<s n="n"/></r></p></e>
+<e c=""><p><l>բուն<s n="n"/><s n="nn"/></l><r>shank<s n="n"/></r></p></e>
+<e c=""><p><l>բուտ<s n="n"/><s n="nn"/></l><r>food for animals<s n="n"/></r></p></e>
+<e c="biology"><p><l>բջիջ<s n="n"/><s n="nn"/></l><r>cell<s n="n"/></r></p></e>
+<e c="state of matter"><p><l>գազ<s n="n"/><s n="nn"/></l><r>gas<s n="n"/></r></p></e>
+<e c=""><p><l>գազար<s n="n"/><s n="nn"/></l><r>carrot<s n="n"/></r></p></e>
+<e c="archaic"><p><l>գայռ<s n="n"/><s n="nn"/></l><r>foul-smelling mud<s n="n"/></r></p></e>
+<e c="archaic"><p><l>գայռ<s n="n"/><s n="nn"/></l><r>mire<s n="n"/></r></p></e>
+<e c="archaic"><p><l>գայռ<s n="n"/><s n="nn"/></l><r>filth<s n="n"/></r></p></e>
+<e c=""><p><l>գանձ<s n="n"/><s n="nn"/></l><r>treasure<s n="n"/></r></p></e>
+<e c=""><p><l>գանձ<s n="n"/><s n="nn"/></l><r>riches<s n="n"/></r></p></e>
+<e c=""><p><l>գարի<s n="n"/><s n="nn"/></l><r>barley<s n="n"/></r></p></e>
+<e c="archaic"><p><l>գեղ<s n="n"/><s n="nn"/></l><r>beauty<s n="n"/></r></p></e>
+<e c=""><p><l>գեղձ<s n="n"/><s n="nn"/></l><r>convolvulus<s n="n"/></r></p></e>
+<e c="archaic"><p><l>գեղմ<s n="n"/><s n="nn"/></l><r>fleece<s n="n"/></r></p></e>
+<e c="archaic"><p><l>գեղմ<s n="n"/><s n="nn"/></l><r>wool<s n="n"/></r></p></e>
+<e c=""><p><l>գետ<s n="n"/><s n="nn"/></l><r>river<s n="n"/></r></p></e>
+<e c=""><p><l>գիլ<s n="n"/><s n="nn"/></l><r>stone for throwing<s n="n"/></r></p></e>
+<e c="geometry"><p><l>գլան<s n="n"/><s n="nn"/></l><r>cylinder<s n="n"/></r></p></e>
+<e c=""><p><l>գլան<s n="n"/><s n="nn"/></l><r>roll<s n="n"/></r></p></e>
+<e c=""><p><l>գծիկ<s n="n"/><s n="nn"/></l><r>stroke<s n="n"/></r></p></e>
+<e c=""><p><l>գծիկ<s n="n"/><s n="nn"/></l><r>dash<s n="n"/></r></p></e>
+<e c=""><p><l>գծիկ<s n="n"/><s n="nn"/></l><r>small line<s n="n"/></r></p></e>
+<e c=""><p><l>գյուղ<s n="n"/><s n="nn"/></l><r>village<s n="n"/></r></p></e>
+<e c=""><p><l>գյուղ<s n="n"/><s n="nn"/></l><r>country<s n="n"/></r></p></e>
+<e c=""><p><l>գյուտ<s n="n"/><s n="nn"/></l><r>invention<s n="n"/></r></p></e>
+<e c=""><p><l>գոտի<s n="n"/><s n="nn"/></l><r>belt<s n="n"/></r></p></e>
+<e c=""><p><l>գոտի<s n="n"/><s n="nn"/></l><r>girdle<s n="n"/></r></p></e>
+<e c=""><p><l>գոտի<s n="n"/><s n="nn"/></l><r>sash<s n="n"/></r></p></e>
+<e c=""><p><l>գոտի<s n="n"/><s n="nn"/></l><r>waistband<s n="n"/></r></p></e>
+<e c="geography"><p><l>գոտի<s n="n"/><s n="nn"/></l><r>zone<s n="n"/></r></p></e>
+<e c="geography"><p><l>գոտի<s n="n"/><s n="nn"/></l><r>belt<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>work<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>job<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>occupation<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>employment<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>concern<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>business<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>affair<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>work<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>paper<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>file<s n="n"/></r></p></e>
+<e c=""><p><l>գործ<s n="n"/><s n="nn"/></l><r>dossier<s n="n"/></r></p></e>
+<e c="s"><p><l>գործ<s n="n"/><s n="nn"/></l><r>record<s n="n"/></r></p></e>
+<e c="law"><p><l>գործ<s n="n"/><s n="nn"/></l><r>case<s n="n"/></r></p></e>
+<e c="law"><p><l>գործ<s n="n"/><s n="nn"/></l><r>legal case<s n="n"/></r></p></e>
+<e c=""><p><l>գույն<s n="n"/><s n="nn"/></l><r>color<s n="n"/></r></p></e>
+<e c=""><p><l>գուն<s n="n"/><s n="nn"/></l><r>effort<s n="n"/></r></p></e>
+<e c=""><p><l>գուն<s n="n"/><s n="nn"/></l><r>գուն գործել<s n="n"/></r></p></e>
+<e c="pathology"><p><l>գրիպ<s n="n"/><s n="nn"/></l><r>influenza<s n="n"/></r></p></e>
+<e c="pathology"><p><l>գրիպ<s n="n"/><s n="nn"/></l><r>grippe<s n="n"/></r></p></e>
+<e c="pathology"><p><l>գրիպ<s n="n"/><s n="nn"/></l><r>flu<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>գրիպ<s n="n"/><s n="nn"/></l><r>common cold<s n="n"/></r></p></e>
+<e c=""><p><l>դալ<s n="n"/><s n="nn"/></l><r>colostrum<s n="n"/></r></p></e>
+<e c=""><p><l>դալ<s n="n"/><s n="nn"/></l><r>beestings<s n="n"/></r></p></e>
+<e c=""><p><l>դաշն<s n="n"/><s n="nn"/></l><r>treaty<s n="n"/></r></p></e>
+<e c=""><p><l>դաշն<s n="n"/><s n="nn"/></l><r>agreement<s n="n"/></r></p></e>
+<e c=""><p><l>դաշն<s n="n"/><s n="nn"/></l><r>harmony<s n="n"/></r></p></e>
+<e c=""><p><l>դաշտ<s n="n"/><s n="nn"/></l><r>field<s n="n"/></r></p></e>
+<e c="sports"><p><l>դաշտ<s n="n"/><s n="nn"/></l><r>playing field<s n="n"/></r></p></e>
+<e c="sports"><p><l>դաշտ<s n="n"/><s n="nn"/></l><r>sports ground<s n="n"/></r></p></e>
+<e c="physics"><p><l>դաշտ<s n="n"/><s n="nn"/></l><r>field<s n="n"/></r></p></e>
+<e c=""><p><l>դաշտ<s n="n"/><s n="nn"/></l><r>field<s n="n"/></r></p></e>
+<e c=""><p><l>դաշտ<s n="n"/><s n="nn"/></l><r>sphere<s n="n"/></r></p></e>
+<e c=""><p><l>դաշտ<s n="n"/><s n="nn"/></l><r>sphere of action<s n="n"/></r></p></e>
+<e c=""><p><l>դավաճան<s n="n"/><s n="nn"/></l><r>traitor<s n="n"/></r></p></e>
+<e c=""><p><l>դավաճան<s n="n"/><s n="nn"/></l><r>betrayer<s n="n"/></r></p></e>
+<e c=""><p><l>դավաճան<s n="n"/><s n="nn"/></l><r>renegade<s n="n"/></r></p></e>
+<e c=""><p><l>դավաճան<s n="n"/><s n="nn"/></l><r>adulterer<s n="n"/></r></p></e>
+<e c=""><p><l>դավաճան<s n="n"/><s n="nn"/></l><r>adulteress<s n="n"/></r></p></e>
+<e c=""><p><l>դար<s n="n"/><s n="nn"/></l><r>century<s n="n"/></r></p></e>
+<e c=""><p><l>դար<s n="n"/><s n="nn"/></l><r>100 years<s n="n"/></r></p></e>
+<e c=""><p><l>դար<s n="n"/><s n="nn"/></l><r>age<s n="n"/></r></p></e>
+<e c=""><p><l>դար<s n="n"/><s n="nn"/></l><r>epoch<s n="n"/></r></p></e>
+<e c=""><p><l>դարձ<s n="n"/><s n="nn"/></l><r>return<s n="n"/></r></p></e>
+<e c=""><p><l>դեզ<s n="n"/><s n="nn"/></l><r>haystack<s n="n"/></r></p></e>
+<e c=""><p><l>դեզ<s n="n"/><s n="nn"/></l><r>stack<s n="n"/></r></p></e>
+<e c=""><p><l>դեզ<s n="n"/><s n="nn"/></l><r>heap<s n="n"/></r></p></e>
+<e c=""><p><l>դեզ<s n="n"/><s n="nn"/></l><r>pile<s n="n"/></r></p></e>
+<e c="fruit"><p><l>դեղձ<s n="n"/><s n="nn"/></l><r>peach<s n="n"/></r></p></e>
+<e c=""><p><l>դիրք<s n="n"/><s n="nn"/></l><r>position<s n="n"/></r></p></e>
+<e c="archaic, collective"><p><l>դիք<s n="n"/><s n="nn"/></l><r>gods<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ել<s n="n"/><s n="nn"/></l><r>ascension<s n="n"/></r></p></e>
+<e c=""><p><l>ելակ<s n="n"/><s n="nn"/></l><r>garden strawberry<s n="n"/></r></p></e>
+<e c=""><p><l>եղեգ<s n="n"/><s n="nn"/></l><r>reed<s n="n"/></r></p></e>
+<e c=""><p><l>եղեգ<s n="n"/><s n="nn"/></l><r>cane<s n="n"/></r></p></e>
+<e c="imaginary events seen while sleeping"><p><l>երազ<s n="n"/><s n="nn"/></l><r>dream<s n="n"/></r></p></e>
+<e c=""><p><l>երազ<s n="n"/><s n="nn"/></l><r>have a dream<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>երակ<s n="n"/><s n="nn"/></l><r>vein<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>երակ<s n="n"/><s n="nn"/></l><r>blood vessel<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>երակ<s n="n"/><s n="nn"/></l><r>artery or vein<s n="n"/></r></p></e>
+<e c="geology"><p><l>երակ<s n="n"/><s n="nn"/></l><r>vein<s n="n"/></r></p></e>
+<e c="geology"><p><l>երակ<s n="n"/><s n="nn"/></l><r>lode<s n="n"/></r></p></e>
+<e c="of birds"><p><l>երամ<s n="n"/><s n="nn"/></l><r>flock<s n="n"/></r></p></e>
+<e c="of birds"><p><l>երամ<s n="n"/><s n="nn"/></l><r>flight<s n="n"/></r></p></e>
+<e c="of bees"><p><l>երամ<s n="n"/><s n="nn"/></l><r>swarm<s n="n"/></r></p></e>
+<e c="of bees"><p><l>երամ<s n="n"/><s n="nn"/></l><r>bevy<s n="n"/></r></p></e>
+<e c="of sheep"><p><l>երամ<s n="n"/><s n="nn"/></l><r>shoal<s n="n"/></r></p></e>
+<e c="of sheep"><p><l>երամ<s n="n"/><s n="nn"/></l><r>school<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>երես<s n="n"/><s n="nn"/></l><r>face<s n="n"/></r></p></e>
+<e c=""><p><l>երկաթ<s n="n"/><s n="nn"/></l><r>iron<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>երկաթ<s n="n"/><s n="nn"/></l><r>any metal<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>երկաթ<s n="n"/><s n="nn"/></l><r>metallic object<s n="n"/></r></p></e>
+<e c="rare"><p><l>երկան<s n="n"/><s n="nn"/></l><r>millstone<s n="n"/></r></p></e>
+<e c=""><p><l>երրորդ<s n="n"/><s n="nn"/></l><r>the third part<s n="n"/></r></p></e>
+<e c=""><p><l>զանգ<s n="n"/><s n="nn"/></l><r>bell<s n="n"/></r></p></e>
+<e c=""><p><l>զանգ<s n="n"/><s n="nn"/></l><r>ring<s n="n"/></r></p></e>
+<e c=""><p><l>զանգ<s n="n"/><s n="nn"/></l><r>phonecall<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>accumulation<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>mass<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>heap<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>congeries<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>aggregation<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>pile<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>medley<s n="n"/></r></p></e>
+<e c=""><p><l>զանգված<s n="n"/><s n="nn"/></l><r>jumble<s n="n"/></r></p></e>
+<e c="physics"><p><l>զանգված<s n="n"/><s n="nn"/></l><r>mass<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>adornment<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>decoration<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>ornament<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>embellishment<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>trimming<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>garniture<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>ornamental pattern<s n="n"/></r></p></e>
+<e c=""><p><l>զարդ<s n="n"/><s n="nn"/></l><r>design<s n="n"/></r></p></e>
+<e c="archaic"><p><l>զարմ<s n="n"/><s n="nn"/></l><r>family<s n="n"/></r></p></e>
+<e c="archaic"><p><l>զարմ<s n="n"/><s n="nn"/></l><r>kin<s n="n"/></r></p></e>
+<e c="archaic"><p><l>զարմ<s n="n"/><s n="nn"/></l><r>clan<s n="n"/></r></p></e>
+<e c="archaic"><p><l>զարմ<s n="n"/><s n="nn"/></l><r>generation<s n="n"/></r></p></e>
+<e c="archaic, sarcastic"><p><l>զարմ<s n="n"/><s n="nn"/></l><r>descendant<s n="n"/></r></p></e>
+<e c="archaic, sarcastic"><p><l>զարմ<s n="n"/><s n="nn"/></l><r>scion<s n="n"/></r></p></e>
+<e c=""><p><l>զգեստ<s n="n"/><s n="nn"/></l><r>clothing<s n="n"/></r></p></e>
+<e c=""><p><l>զգեստ<s n="n"/><s n="nn"/></l><r>garment<s n="n"/></r></p></e>
+<e c=""><p><l>զգեստ<s n="n"/><s n="nn"/></l><r>dress<s n="n"/></r></p></e>
+<e c="rare"><p><l>զոր<s n="n"/><s n="nn"/></l><r>strength<s n="n"/></r></p></e>
+<e c="rare"><p><l>զոր<s n="n"/><s n="nn"/></l><r>vigour<s n="n"/></r></p></e>
+<e c="rare"><p><l>զոր<s n="n"/><s n="nn"/></l><r>force<s n="n"/></r></p></e>
+<e c=""><p><l>ընկույզ<s n="n"/><s n="nn"/></l><r>nut<s n="n"/></r></p></e>
+<e c=""><p><l>ընկույզ<s n="n"/><s n="nn"/></l><r>walnut<s n="n"/></r></p></e>
+<e c=""><p><l>թագուհի<s n="n"/><s n="nn"/></l><r>queen<s n="n"/></r></p></e>
+<e c="chess"><p><l>թագուհի<s n="n"/><s n="nn"/></l><r>queen<s n="n"/></r></p></e>
+<e c=""><p><l>թթու<s n="n"/><s n="nn"/></l><r>marinated food<s n="n"/></r></p></e>
+<e c=""><p><l>թթու<s n="n"/><s n="nn"/></l><r>pickles<s n="n"/></r></p></e>
+<e c="t’t’u dnel"><p><l>թթու<s n="n"/><s n="nn"/></l><r>to pickle<s n="n"/></r></p></e>
+<e c=""><p><l>թթու<s n="n"/><s n="nn"/></l><r>acid<s n="n"/></r></p></e>
+<e c=""><p><l>թլփատ<s n="n"/><s n="nn"/></l><r>foreskin<s n="n"/></r></p></e>
+<e c=""><p><l>թլփատ<s n="n"/><s n="nn"/></l><r>prepuce<s n="n"/></r></p></e>
+<e c="fruit"><p><l>թուզ<s n="n"/><s n="nn"/></l><r>fig<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>թոք<s n="n"/><s n="nn"/></l><r>lung<s n="n"/></r></p></e>
+<e c=""><p><l>իլ<s n="n"/><s n="nn"/></l><r>spindle<s n="n"/></r></p></e>
+<e c=""><p><l>իմաստուն<s n="n"/><s n="nn"/></l><r>wise man<s n="n"/></r></p></e>
+<e c=""><p><l>իմաստուն<s n="n"/><s n="nn"/></l><r>sage<s n="n"/></r></p></e>
+<e c=""><p><l>լաստ<s n="n"/><s n="nn"/></l><r>raft<s n="n"/></r></p></e>
+<e c=""><p><l>լաստ<s n="n"/><s n="nn"/></l><r>float<s n="n"/></r></p></e>
+<e c=""><p><l>լավաշ<s n="n"/><s n="nn"/></l><r>lavash<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>լարի<s n="n"/><s n="nn"/></l><r>lari<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>լարի<s n="n"/><s n="nn"/></l><r>currency of Georgia<s n="n"/></r></p></e>
+<e c=""><p><l>լեռ<s n="n"/><s n="nn"/></l><r>mountain<s n="n"/></r></p></e>
+<e c=""><p><l>լեռ<s n="n"/><s n="nn"/></l><r>mount<s n="n"/></r></p></e>
+<e c=""><p><l>լոբի<s n="n"/><s n="nn"/></l><r>bean<s n="n"/></r></p></e>
+<e c=""><p><l>լոբի<s n="n"/><s n="nn"/></l><r>haricot<s n="n"/></r></p></e>
+<e c=""><p><l>լոբի<s n="n"/><s n="nn"/></l><r>kidney bean<s n="n"/></r></p></e>
+<e c=""><p><l>լող<s n="n"/><s n="nn"/></l><r>swimming<s n="n"/></r></p></e>
+<e c="language"><p><l>լուժիկերեն<s n="n"/><s n="nn"/></l><r>Sorbian<s n="n"/></r></p></e>
+<e c="language"><p><l>լուժիկերեն<s n="n"/><s n="nn"/></l><r>Lusatian<s n="n"/></r></p></e>
+<e c=""><p><l>լույս<s n="n"/><s n="nn"/></l><r>light<s n="n"/></r></p></e>
+<e c=""><p><l>լույս<s n="n"/><s n="nn"/></l><r>faint light<s n="n"/></r></p></e>
+<e c=""><p><l>լույս<s n="n"/><s n="nn"/></l><r>dawn<s n="n"/></r></p></e>
+<e c=""><p><l>լույս<s n="n"/><s n="nn"/></l><r>daybreak<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>լույս<s n="n"/><s n="nn"/></l><r>electricity<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>լույս<s n="n"/><s n="nn"/></l><r>power<s n="n"/></r></p></e>
+<e c="piece of"><p><l>լուր<s n="n"/><s n="nn"/></l><r>news<s n="n"/></r></p></e>
+<e c="piece of"><p><l>լուր<s n="n"/><s n="nn"/></l><r>report<s n="n"/></r></p></e>
+<e c="piece of"><p><l>լուր<s n="n"/><s n="nn"/></l><r>information<s n="n"/></r></p></e>
+<e c="piece of"><p><l>լուր<s n="n"/><s n="nn"/></l><r>tidings<s n="n"/></r></p></e>
+<e c="archaic"><p><l>խահ<s n="n"/><s n="nn"/></l><r>food<s n="n"/></r></p></e>
+<e c="archaic"><p><l>խահ<s n="n"/><s n="nn"/></l><r>victuals<s n="n"/></r></p></e>
+<e c=""><p><l>խայթ<s n="n"/><s n="nn"/></l><r>bite<s n="n"/></r></p></e>
+<e c=""><p><l>խայթ<s n="n"/><s n="nn"/></l><r>sting<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>խայթ<s n="n"/><s n="nn"/></l><r>pang<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>խայթ<s n="n"/><s n="nn"/></l><r>sting<s n="n"/></r></p></e>
+<e c=""><p><l>խանութ<s n="n"/><s n="nn"/></l><r>shop<s n="n"/></r></p></e>
+<e c=""><p><l>խանութ<s n="n"/><s n="nn"/></l><r>store<s n="n"/></r></p></e>
+<e c=""><p><l>խաչ<s n="n"/><s n="nn"/></l><r>cross<s n="n"/></r></p></e>
+<e c=""><p><l>խավար<s n="n"/><s n="nn"/></l><r>dark<s n="n"/></r></p></e>
+<e c=""><p><l>խավար<s n="n"/><s n="nn"/></l><r>darkness<s n="n"/></r></p></e>
+<e c=""><p><l>խավար<s n="n"/><s n="nn"/></l><r>ignorance<s n="n"/></r></p></e>
+<e c=""><p><l>խմոր<s n="n"/><s n="nn"/></l><r>dough<s n="n"/></r></p></e>
+<e c=""><p><l>խնձոր<s n="n"/><s n="nn"/></l><r>apple<s n="n"/></r></p></e>
+<e c=""><p><l>խոսք<s n="n"/><s n="nn"/></l><r>speech<s n="n"/></r></p></e>
+<e c=""><p><l>խոսք<s n="n"/><s n="nn"/></l><r>word<s n="n"/></r></p></e>
+<e c=""><p><l>խոսք<s n="n"/><s n="nn"/></l><r>talk<s n="n"/></r></p></e>
+<e c=""><p><l>խոսք<s n="n"/><s n="nn"/></l><r>conversation<s n="n"/></r></p></e>
+<e c=""><p><l>խոսք<s n="n"/><s n="nn"/></l><r>word<s n="n"/></r></p></e>
+<e c=""><p><l>խոսք<s n="n"/><s n="nn"/></l><r>promise<s n="n"/></r></p></e>
+<e c=""><p><l>խոտ<s n="n"/><s n="nn"/></l><r>grass<s n="n"/></r></p></e>
+<e c="slang"><p><l>խոտ<s n="n"/><s n="nn"/></l><r>weed<s n="n"/></r></p></e>
+<e c="slang"><p><l>խոտ<s n="n"/><s n="nn"/></l><r>marijuana<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>chink<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>cleft<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>opening<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>pit<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>hole<s n="n"/></r></p></e>
+<e c="in a mountain or ground"><p><l>խորշ<s n="n"/><s n="nn"/></l><r>cave<s n="n"/></r></p></e>
+<e c="in a mountain or ground"><p><l>խորշ<s n="n"/><s n="nn"/></l><r>cavern<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>fold<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>plait<s n="n"/></r></p></e>
+<e c=""><p><l>խորշ<s n="n"/><s n="nn"/></l><r>wrinkle on a skin<s n="n"/></r></p></e>
+<e c="geography"><p><l>խորշ<s n="n"/><s n="nn"/></l><r>bay<s n="n"/></r></p></e>
+<e c="architecture"><p><l>խորշ<s n="n"/><s n="nn"/></l><r>niche<s n="n"/></r></p></e>
+<e c="military, historical"><p><l>խրամ<s n="n"/><s n="nn"/></l><r>moat<s n="n"/></r></p></e>
+<e c="military"><p><l>խրամ<s n="n"/><s n="nn"/></l><r>trench<s n="n"/></r></p></e>
+<e c="military"><p><l>խրամ<s n="n"/><s n="nn"/></l><r>entrenchment<s n="n"/></r></p></e>
+<e c=""><p><l>խրամ<s n="n"/><s n="nn"/></l><r>breach<s n="n"/></r></p></e>
+<e c=""><p><l>խրամ<s n="n"/><s n="nn"/></l><r>rupture<s n="n"/></r></p></e>
+<e c=""><p><l>խցան<s n="n"/><s n="nn"/></l><r>cork<s n="n"/></r></p></e>
+<e c=""><p><l>ծաղր<s n="n"/><s n="nn"/></l><r>mockery<s n="n"/></r></p></e>
+<e c=""><p><l>ծաղր<s n="n"/><s n="nn"/></l><r>sneer<s n="n"/></r></p></e>
+<e c=""><p><l>ծաղր<s n="n"/><s n="nn"/></l><r>gibe<s n="n"/></r></p></e>
+<e c=""><p><l>ծաղր<s n="n"/><s n="nn"/></l><r>scoff<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>tip<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>end<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>border<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>edge<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>brim<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>brink<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>top<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>summit<s n="n"/></r></p></e>
+<e c=""><p><l>ծայր<s n="n"/><s n="nn"/></l><r>beginning<s n="n"/></r></p></e>
+<e c="slang, vulgar"><p><l>ծայր<s n="n"/><s n="nn"/></l><r>penis<s n="n"/></r></p></e>
+<e c="slang, vulgar"><p><l>ծայր<s n="n"/><s n="nn"/></l><r>helmet<s n="n"/></r></p></e>
+<e c="slang, vulgar"><p><l>ծայր<s n="n"/><s n="nn"/></l><r>knob<s n="n"/></r></p></e>
+<e c="slang, vulgar"><p><l>ծայր<s n="n"/><s n="nn"/></l><r><s n="n"/></r></p></e>
+<e c=""><p><l>ծեր<s n="n"/><s n="nn"/></l><r>old<s n="n"/></r></p></e>
+<e c=""><p><l>ծեր<s n="n"/><s n="nn"/></l><r>aged man<s n="n"/></r></p></e>
+<e c=""><p><l>ծով<s n="n"/><s n="nn"/></l><r>sea<s n="n"/></r></p></e>
+<e c=""><p><l>ծով<s n="n"/><s n="nn"/></l><r>big lake<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ծով<s n="n"/><s n="nn"/></l><r>a large quantity<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ծով<s n="n"/><s n="nn"/></l><r>a sea<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ծով<s n="n"/><s n="nn"/></l><r>an ocean<s n="n"/></r></p></e>
+<e c=""><p><l>ծուխ<s n="n"/><s n="nn"/></l><r>smoke<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ծուխ<s n="n"/><s n="nn"/></l><r>household<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ծուխ<s n="n"/><s n="nn"/></l><r>family<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ծուխ<s n="n"/><s n="nn"/></l><r>hearth<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ծուխ<s n="n"/><s n="nn"/></l><r>home<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>composition<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>structure<s n="n"/></r></p></e>
+<e c="of"><p><l>կազմ<s n="n"/><s n="nn"/></l><r>be included<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>squad<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>personnel<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>contingent<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>complement of officers<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>in full strength<s n="n"/></r></p></e>
+<e c="transport"><p><l>կազմ<s n="n"/><s n="nn"/></l><r>train<s n="n"/></r></p></e>
+<e c=""><p><l>կազմ<s n="n"/><s n="nn"/></l><r>binding<s n="n"/></r></p></e>
+<e c=""><p><l>կակաչ<s n="n"/><s n="nn"/></l><r>poppy<s n="n"/></r></p></e>
+<e c=""><p><l>կակաչ<s n="n"/><s n="nn"/></l><r>tulip<s n="n"/></r></p></e>
+<e c=""><p><l>կամ<s n="n"/><s n="nn"/></l><r>a thresher device<s n="n"/></r></p></e>
+<e c=""><p><l>կայծ<s n="n"/><s n="nn"/></l><r>spark<s n="n"/></r></p></e>
+<e c=""><p><l>կայծ<s n="n"/><s n="nn"/></l><r>sparkle<s n="n"/></r></p></e>
+<e c=""><p><l>կայծ<s n="n"/><s n="nn"/></l><r>scintillate<s n="n"/></r></p></e>
+<e c=""><p><l>կայք<s n="n"/><s n="nn"/></l><r>possessions<s n="n"/></r></p></e>
+<e c=""><p><l>կայք<s n="n"/><s n="nn"/></l><r>belongings<s n="n"/></r></p></e>
+<e c="archaic"><p><l>կայք<s n="n"/><s n="nn"/></l><r>standing place<s n="n"/></r></p></e>
+<e c="archaic"><p><l>կայք<s n="n"/><s n="nn"/></l><r>station<s n="n"/></r></p></e>
+<e c="archaic"><p><l>կայք<s n="n"/><s n="nn"/></l><r>site<s n="n"/></r></p></e>
+<e c="Internet"><p><l>կայք<s n="n"/><s n="nn"/></l><r>website<s n="n"/></r></p></e>
+<e c=""><p><l>կառք<s n="n"/><s n="nn"/></l><r>carriage<s n="n"/></r></p></e>
+<e c=""><p><l>կառք<s n="n"/><s n="nn"/></l><r>coach<s n="n"/></r></p></e>
+<e c=""><p><l>կավ<s n="n"/><s n="nn"/></l><r>clay<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>կավառ<s n="n"/><s n="nn"/></l><r>narrow brook<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>կավառ<s n="n"/><s n="nn"/></l><r>canal<s n="n"/></r></p></e>
+<e c="where two pieces of fabric are sewn together"><p><l>կար<s n="n"/><s n="nn"/></l><r>seam<s n="n"/></r></p></e>
+<e c=""><p><l>կար<s n="n"/><s n="nn"/></l><r>sewing<s n="n"/></r></p></e>
+<e c=""><p><l>կարգ<s n="n"/><s n="nn"/></l><r>system<s n="n"/></r></p></e>
+<e c=""><p><l>կարգ<s n="n"/><s n="nn"/></l><r>order<s n="n"/></r></p></e>
+<e c=""><p><l>կարգ<s n="n"/><s n="nn"/></l><r>rank<s n="n"/></r></p></e>
+<e c=""><p><l>կարգ<s n="n"/><s n="nn"/></l><r>class<s n="n"/></r></p></e>
+<e c=""><p><l>կարգ<s n="n"/><s n="nn"/></l><r>category<s n="n"/></r></p></e>
+<e c=""><p><l>կարգ<s n="n"/><s n="nn"/></l><r>row<s n="n"/></r></p></e>
+<e c=""><p><l>կարգ<s n="n"/><s n="nn"/></l><r>custom<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>crust<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>cortex<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>bark<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>rind<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>peel<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>husk<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>shell<s n="n"/></r></p></e>
+<e c="of a tree"><p><l>կեղև<s n="n"/><s n="nn"/></l><r>scab<s n="n"/></r></p></e>
+<e c="geometry"><p><l>կետ<s n="n"/><s n="nn"/></l><r>point<s n="n"/></r></p></e>
+<e c="law"><p><l>կետ<s n="n"/><s n="nn"/></l><r>article<s n="n"/></r></p></e>
+<e c=""><p><l>կետ<s n="n"/><s n="nn"/></l><r>dot<s n="n"/></r></p></e>
+<e c="especially for animals"><p><l>կեր<s n="n"/><s n="nn"/></l><r>food<s n="n"/></r></p></e>
+<e c="especially for animals"><p><l>կեր<s n="n"/><s n="nn"/></l><r>nourishment<s n="n"/></r></p></e>
+<e c=""><p><l>կեր<s n="n"/><s n="nn"/></l><r>fodder<s n="n"/></r></p></e>
+<e c=""><p><l>կեր<s n="n"/><s n="nn"/></l><r>bait<s n="n"/></r></p></e>
+<e c=""><p><l>կերպ<s n="n"/><s n="nn"/></l><r>method<s n="n"/></r></p></e>
+<e c=""><p><l>կերպ<s n="n"/><s n="nn"/></l><r>way<s n="n"/></r></p></e>
+<e c=""><p><l>կերպ<s n="n"/><s n="nn"/></l><r>mode<s n="n"/></r></p></e>
+<e c=""><p><l>կերպ<s n="n"/><s n="nn"/></l><r>manner<s n="n"/></r></p></e>
+<e c=""><p><l>կերպ<s n="n"/><s n="nn"/></l><r>shape<s n="n"/></r></p></e>
+<e c=""><p><l>կերպ<s n="n"/><s n="nn"/></l><r>form<s n="n"/></r></p></e>
+<e c=""><p><l>կերպ<s n="n"/><s n="nn"/></l><r>appearance<s n="n"/></r></p></e>
+<e c=""><p><l>կիթ<s n="n"/><s n="nn"/></l><r>milking<s n="n"/></r></p></e>
+<e c=""><p><l>կղզի<s n="n"/><s n="nn"/></l><r>island<s n="n"/></r></p></e>
+<e c=""><p><l>կղզի<s n="n"/><s n="nn"/></l><r>isle<s n="n"/></r></p></e>
+<e c=""><p><l>կողմ<s n="n"/><s n="nn"/></l><r>side<s n="n"/></r></p></e>
+<e c=""><p><l>կողմ<s n="n"/><s n="nn"/></l><r>direction<s n="n"/></r></p></e>
+<e c="law"><p><l>կողմ<s n="n"/><s n="nn"/></l><r>party<s n="n"/></r></p></e>
+<e c="geometry"><p><l>կողմ<s n="n"/><s n="nn"/></l><r>side<s n="n"/></r></p></e>
+<e c=""><p><l>կոճղ<s n="n"/><s n="nn"/></l><r>tree stump<s n="n"/></r></p></e>
+<e c=""><p><l>կոճղ<s n="n"/><s n="nn"/></l><r>stub<s n="n"/></r></p></e>
+<e c=""><p><l>կոճղ<s n="n"/><s n="nn"/></l><r>block<s n="n"/></r></p></e>
+<e c=""><p><l>կոճղ<s n="n"/><s n="nn"/></l><r>log<s n="n"/></r></p></e>
+<e c="punishment device"><p><l>կոճղ<s n="n"/><s n="nn"/></l><r>stocks<s n="n"/></r></p></e>
+<e c=""><p><l>կորտ<s n="n"/><s n="nn"/></l><r>tennis court<s n="n"/></r></p></e>
+<e c=""><p><l>կորտ<s n="n"/><s n="nn"/></l><r>court<s n="n"/></r></p></e>
+<e c=""><p><l>կութ<s n="n"/><s n="nn"/></l><r>harvest<s n="n"/></r></p></e>
+<e c=""><p><l>կույս<s n="n"/><s n="nn"/></l><r>virgin<s n="n"/></r></p></e>
+<e c=""><p><l>կույս<s n="n"/><s n="nn"/></l><r>maiden<s n="n"/></r></p></e>
+<e c="capitalized, astronomy"><p><l>կույս<s n="n"/><s n="nn"/></l><r>Virgo<s n="n"/></r></p></e>
+<e c=""><p><l>կույտ<s n="n"/><s n="nn"/></l><r>heap<s n="n"/></r></p></e>
+<e c=""><p><l>կույտ<s n="n"/><s n="nn"/></l><r>pile<s n="n"/></r></p></e>
+<e c=""><p><l>կույտ<s n="n"/><s n="nn"/></l><r>mass<s n="n"/></r></p></e>
+<e c=""><p><l>կույտ<s n="n"/><s n="nn"/></l><r>stack<s n="n"/></r></p></e>
+<e c=""><p><l>կույտ<s n="n"/><s n="nn"/></l><r>amassment<s n="n"/></r></p></e>
+<e c="bird"><p><l>կռունկ<s n="n"/><s n="nn"/></l><r>crane<s n="n"/></r></p></e>
+<e c="lifting device"><p><l>կռունկ<s n="n"/><s n="nn"/></l><r>crane<s n="n"/></r></p></e>
+<e c=""><p><l>կռունկ<s n="n"/><s n="nn"/></l><r>lift crane<s n="n"/></r></p></e>
+<e c=""><p><l>կռունկ<s n="n"/><s n="nn"/></l><r>crane<s n="n"/></r></p></e>
+<e c=""><p><l>կտակ<s n="n"/><s n="nn"/></l><r>will<s n="n"/></r></p></e>
+<e c=""><p><l>կտակ<s n="n"/><s n="nn"/></l><r>testament<s n="n"/></r></p></e>
+<e c=""><p><l>կտոր<s n="n"/><s n="nn"/></l><r>morsel<s n="n"/></r></p></e>
+<e c=""><p><l>կտոր<s n="n"/><s n="nn"/></l><r>part<s n="n"/></r></p></e>
+<e c=""><p><l>կտոր<s n="n"/><s n="nn"/></l><r>fragment<s n="n"/></r></p></e>
+<e c=""><p><l>կտոր<s n="n"/><s n="nn"/></l><r>slice<s n="n"/></r></p></e>
+<e c=""><p><l>կտոր<s n="n"/><s n="nn"/></l><r>bit<s n="n"/></r></p></e>
+<e c=""><p><l>կտոր<s n="n"/><s n="nn"/></l><r>piece<s n="n"/></r></p></e>
+<e c=""><p><l>կտոր<s n="n"/><s n="nn"/></l><r>lump<s n="n"/></r></p></e>
+<e c=""><p><l>կտուց<s n="n"/><s n="nn"/></l><r>beak<s n="n"/></r></p></e>
+<e c=""><p><l>կտուց<s n="n"/><s n="nn"/></l><r>bill<s n="n"/></r></p></e>
+<e c=""><p><l>կտրոն<s n="n"/><s n="nn"/></l><r>coupon<s n="n"/></r></p></e>
+<e c=""><p><l>կտրոն<s n="n"/><s n="nn"/></l><r>counterfoil<s n="n"/></r></p></e>
+<e c=""><p><l>հաղթանակ<s n="n"/><s n="nn"/></l><r>victory<s n="n"/></r></p></e>
+<e c=""><p><l>հաղթանակ<s n="n"/><s n="nn"/></l><r>win<s n="n"/></r></p></e>
+<e c="law"><p><l>հայց<s n="n"/><s n="nn"/></l><r>lawsuit<s n="n"/></r></p></e>
+<e c="law"><p><l>հայց<s n="n"/><s n="nn"/></l><r>action<s n="n"/></r></p></e>
+<e c=""><p><l>հանդ<s n="n"/><s n="nn"/></l><r>cornfield<s n="n"/></r></p></e>
+<e c=""><p><l>հանդ<s n="n"/><s n="nn"/></l><r>arable field<s n="n"/></r></p></e>
+<e c=""><p><l>հանդ<s n="n"/><s n="nn"/></l><r>pastureland<s n="n"/></r></p></e>
+<e c=""><p><l>հարկ<s n="n"/><s n="nn"/></l><r>floor<s n="n"/></r></p></e>
+<e c=""><p><l>հարկ<s n="n"/><s n="nn"/></l><r>storey<s n="n"/></r></p></e>
+<e c=""><p><l>հարկ<s n="n"/><s n="nn"/></l><r>roof<s n="n"/></r></p></e>
+<e c=""><p><l>հարություն<s n="n"/><s n="nn"/></l><r>resurrection<s n="n"/></r></p></e>
+<e c=""><p><l>հարց<s n="n"/><s n="nn"/></l><r>question<s n="n"/></r></p></e>
+<e c=""><p><l>հարց<s n="n"/><s n="nn"/></l><r>question<s n="n"/></r></p></e>
+<e c=""><p><l>հարց<s n="n"/><s n="nn"/></l><r>issue<s n="n"/></r></p></e>
+<e c=""><p><l>հարց<s n="n"/><s n="nn"/></l><r>problem<s n="n"/></r></p></e>
+<e c="of"><p><l>հարց<s n="n"/><s n="nn"/></l><r>matter<s n="n"/></r></p></e>
+<e c="of"><p><l>հարց<s n="n"/><s n="nn"/></l><r>question<s n="n"/></r></p></e>
+<e c="archaic"><p><l>հեգ<s n="n"/><s n="nn"/></l><r>syllable<s n="n"/></r></p></e>
+<e c="archaic"><p><l>հեգ<s n="n"/><s n="nn"/></l><r>spelling<s n="n"/></r></p></e>
+<e c="of hair"><p><l>հյուս<s n="n"/><s n="nn"/></l><r>plait<s n="n"/></r></p></e>
+<e c="of hair"><p><l>հյուս<s n="n"/><s n="nn"/></l><r>tress<s n="n"/></r></p></e>
+<e c="of hair"><p><l>հյուս<s n="n"/><s n="nn"/></l><r>braid<s n="n"/></r></p></e>
+<e c=""><p><l>հողմ<s n="n"/><s n="nn"/></l><r>storm<s n="n"/></r></p></e>
+<e c=""><p><l>հողմ<s n="n"/><s n="nn"/></l><r>gale<s n="n"/></r></p></e>
+<e c=""><p><l>հողմ<s n="n"/><s n="nn"/></l><r>tempest<s n="n"/></r></p></e>
+<e c=""><p><l>հողմ<s n="n"/><s n="nn"/></l><r>hurricane<s n="n"/></r></p></e>
+<e c=""><p><l>հոր<s n="n"/><s n="nn"/></l><r>pit<s n="n"/></r></p></e>
+<e c=""><p><l>հոր<s n="n"/><s n="nn"/></l><r>hole<s n="n"/></r></p></e>
+<e c=""><p><l>հուր<s n="n"/><s n="nn"/></l><r>fire<s n="n"/></r></p></e>
+<e c=""><p><l>ձայն<s n="n"/><s n="nn"/></l><r>sound<s n="n"/></r></p></e>
+<e c=""><p><l>ձայն<s n="n"/><s n="nn"/></l><r>voice<s n="n"/></r></p></e>
+<e c=""><p><l>ձայն<s n="n"/><s n="nn"/></l><r>ձենդ կտրի՛<s n="n"/></r></p></e>
+<e c="politics"><p><l>ձայն<s n="n"/><s n="nn"/></l><r>vote<s n="n"/></r></p></e>
+<e c=""><p><l>ձայն<s n="n"/><s n="nn"/></l><r>right to vote<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>ձեռք<s n="n"/><s n="nn"/></l><r>hand<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>ձեռք<s n="n"/><s n="nn"/></l><r>arm<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ձեռք<s n="n"/><s n="nn"/></l><r>writing<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ձեռք<s n="n"/><s n="nn"/></l><r>handwriting<s n="n"/></r></p></e>
+<e c="for animals"><p><l>ձմեռոց<s n="n"/><s n="nn"/></l><r>winter quarters<s n="n"/></r></p></e>
+<e c=""><p><l>ձվաձեղ<s n="n"/><s n="nn"/></l><r>Common misspelling of ձվածեղ.<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ղուշ<s n="n"/><s n="nn"/></l><r>bird<s n="n"/></r></p></e>
+<e c="of a coin"><p><l>ղուշ<s n="n"/><s n="nn"/></l><r>head<s n="n"/></r></p></e>
+<e c=""><p><l>ճպուռ<s n="n"/><s n="nn"/></l><r>dragonfly<s n="n"/></r></p></e>
+<e c=""><p><l>մահ<s n="n"/><s n="nn"/></l><r>death<s n="n"/></r></p></e>
+<e c=""><p><l>մանթ<s n="n"/><s n="nn"/></l><r>manti<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>մատ<s n="n"/><s n="nn"/></l><r>finger<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>մատ<s n="n"/><s n="nn"/></l><r>toe<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>մարկ<s n="n"/><s n="nn"/></l><r>mark<s n="n"/></r></p></e>
+<e c=""><p><l>մարտ<s n="n"/><s n="nn"/></l><r>battle<s n="n"/></r></p></e>
+<e c=""><p><l>մարտ<s n="n"/><s n="nn"/></l><r>fight<s n="n"/></r></p></e>
+<e c=""><p><l>մարտ<s n="n"/><s n="nn"/></l><r>action<s n="n"/></r></p></e>
+<e c=""><p><l>մարտ<s n="n"/><s n="nn"/></l><r>combat<s n="n"/></r></p></e>
+<e c=""><p><l>մարտ<s n="n"/><s n="nn"/></l><r>struggle<s n="n"/></r></p></e>
+<e c=""><p><l>մարտ<s n="n"/><s n="nn"/></l><r>fight<s n="n"/></r></p></e>
+<e c=""><p><l>մաքս<s n="n"/><s n="nn"/></l><r>duty<s n="n"/></r></p></e>
+<e c=""><p><l>մաքս<s n="n"/><s n="nn"/></l><r>excise<s n="n"/></r></p></e>
+<e c=""><p><l>մաքս<s n="n"/><s n="nn"/></l><r>tariff<s n="n"/></r></p></e>
+<e c=""><p><l>մեգ<s n="n"/><s n="nn"/></l><r>fog<s n="n"/></r></p></e>
+<e c=""><p><l>մեգ<s n="n"/><s n="nn"/></l><r>haze<s n="n"/></r></p></e>
+<e c="formal"><p><l>մեզ<s n="n"/><s n="nn"/></l><r>urine<s n="n"/></r></p></e>
+<e c=""><p><l>մեղր<s n="n"/><s n="nn"/></l><r>honey<s n="n"/></r></p></e>
+<e c="measurement unit"><p><l>մետր<s n="n"/><s n="nn"/></l><r>meter<s n="n"/></r></p></e>
+<e c="measurement unit"><p><l>մետր<s n="n"/><s n="nn"/></l><r>metre<s n="n"/></r></p></e>
+<e c=""><p><l>միություն<s n="n"/><s n="nn"/></l><r>union<s n="n"/></r></p></e>
+<e c=""><p><l>միություն<s n="n"/><s n="nn"/></l><r>alliance<s n="n"/></r></p></e>
+<e c=""><p><l>միություն<s n="n"/><s n="nn"/></l><r>federation<s n="n"/></r></p></e>
+<e c=""><p><l>միություն<s n="n"/><s n="nn"/></l><r>union<s n="n"/></r></p></e>
+<e c=""><p><l>միություն<s n="n"/><s n="nn"/></l><r>league<s n="n"/></r></p></e>
+<e c=""><p><l>միություն<s n="n"/><s n="nn"/></l><r>organisation<s n="n"/></r></p></e>
+<e c=""><p><l>մորթ<s n="n"/><s n="nn"/></l><r>skin<s n="n"/></r></p></e>
+<e c=""><p><l>մորթ<s n="n"/><s n="nn"/></l><r>skin<s n="n"/></r></p></e>
+<e c=""><p><l>մորթ<s n="n"/><s n="nn"/></l><r>hide<s n="n"/></r></p></e>
+<e c=""><p><l>մորթ<s n="n"/><s n="nn"/></l><r>fur<s n="n"/></r></p></e>
+<e c=""><p><l>մորի<s n="n"/><s n="nn"/></l><r>wild strawberry<s n="n"/></r></p></e>
+<e c="colloquial, Armenia and ex-USSR"><p><l>յաշիկ<s n="n"/><s n="nn"/></l><r>box<s n="n"/></r></p></e>
+<e c="colloquial, Armenia and ex-USSR"><p><l>յաշիկ<s n="n"/><s n="nn"/></l><r>case<s n="n"/></r></p></e>
+<e c="colloquial, Armenia and ex-USSR"><p><l>յաշիկ<s n="n"/><s n="nn"/></l><r>chest<s n="n"/></r></p></e>
+<e c="zibili yašik"><p><l>յաշիկ<s n="n"/><s n="nn"/></l><r>dustbin<s n="n"/></r></p></e>
+<e c=""><p><l>յուղ<s n="n"/><s n="nn"/></l><r>oil<s n="n"/></r></p></e>
+<e c=""><p><l>նավ<s n="n"/><s n="nn"/></l><r>ship<s n="n"/></r></p></e>
+<e c=""><p><l>նավակ<s n="n"/><s n="nn"/></l><r>boat<s n="n"/></r></p></e>
+<e c="chess"><p><l>նավակ<s n="n"/><s n="nn"/></l><r>rook<s n="n"/></r></p></e>
+<e c="chess"><p><l>նավակ<s n="n"/><s n="nn"/></l><r>castle<s n="n"/></r></p></e>
+<e c=""><p><l>ներկ<s n="n"/><s n="nn"/></l><r>paint<s n="n"/></r></p></e>
+<e c=""><p><l>ներկ<s n="n"/><s n="nn"/></l><r>dye<s n="n"/></r></p></e>
+<e c="archaic"><p><l>նիստ<s n="n"/><s n="nn"/></l><r>sitting posture<s n="n"/></r></p></e>
+<e c="archaic"><p><l>նիստ<s n="n"/><s n="nn"/></l><r>position<s n="n"/></r></p></e>
+<e c="archaic"><p><l>նիստ<s n="n"/><s n="nn"/></l><r>situation<s n="n"/></r></p></e>
+<e c=""><p><l>նիստ<s n="n"/><s n="nn"/></l><r>meeting<s n="n"/></r></p></e>
+<e c=""><p><l>նիստ<s n="n"/><s n="nn"/></l><r>session<s n="n"/></r></p></e>
+<e c=""><p><l>նիստ<s n="n"/><s n="nn"/></l><r>sitting<s n="n"/></r></p></e>
+<e c="geometry"><p><l>նիստ<s n="n"/><s n="nn"/></l><r>facet<s n="n"/></r></p></e>
+<e c="geometry"><p><l>նիստ<s n="n"/><s n="nn"/></l><r>face<s n="n"/></r></p></e>
+<e c=""><p><l>նկար<s n="n"/><s n="nn"/></l><r>picture<s n="n"/></r></p></e>
+<e c=""><p><l>նկար<s n="n"/><s n="nn"/></l><r>drawing<s n="n"/></r></p></e>
+<e c=""><p><l>նկար<s n="n"/><s n="nn"/></l><r>painting<s n="n"/></r></p></e>
+<e c=""><p><l>նկար<s n="n"/><s n="nn"/></l><r>image<s n="n"/></r></p></e>
+<e c=""><p><l>նուշ<s n="n"/><s n="nn"/></l><r>almond<s n="n"/></r></p></e>
+<e c="rare, poetic"><p><l>շանթ<s n="n"/><s n="nn"/></l><r>lightning<s n="n"/></r></p></e>
+<e c=""><p><l>շապիկ<s n="n"/><s n="nn"/></l><r>shirt<s n="n"/></r></p></e>
+<e c=""><p><l>շապիկ<s n="n"/><s n="nn"/></l><r>sheath<s n="n"/></r></p></e>
+<e c=""><p><l>շապիկ<s n="n"/><s n="nn"/></l><r>case<s n="n"/></r></p></e>
+<e c=""><p><l>շապիկ<s n="n"/><s n="nn"/></l><r>covering<s n="n"/></r></p></e>
+<e c=""><p><l>շապիկ<s n="n"/><s n="nn"/></l><r>hood<s n="n"/></r></p></e>
+<e c=""><p><l>շապիկ<s n="n"/><s n="nn"/></l><r>wrapper<s n="n"/></r></p></e>
+<e c=""><p><l>շարժ<s n="n"/><s n="nn"/></l><r>movement<s n="n"/></r></p></e>
+<e c=""><p><l>շարժ<s n="n"/><s n="nn"/></l><r>motion<s n="n"/></r></p></e>
+<e c=""><p><l>շեն<s n="n"/><s n="nn"/></l><r>hamlet<s n="n"/></r></p></e>
+<e c=""><p><l>շեն<s n="n"/><s n="nn"/></l><r>small village<s n="n"/></r></p></e>
+<e c=""><p><l>շերտ<s n="n"/><s n="nn"/></l><r>layer<s n="n"/></r></p></e>
+<e c=""><p><l>շերտ<s n="n"/><s n="nn"/></l><r>strip<s n="n"/></r></p></e>
+<e c=""><p><l>շերտ<s n="n"/><s n="nn"/></l><r>stripe<s n="n"/></r></p></e>
+<e c=""><p><l>շերտ<s n="n"/><s n="nn"/></l><r>slice<s n="n"/></r></p></e>
+<e c=""><p><l>շերտ<s n="n"/><s n="nn"/></l><r>hunk<s n="n"/></r></p></e>
+<e c=""><p><l>շերտ<s n="n"/><s n="nn"/></l><r>chunk<s n="n"/></r></p></e>
+<e c=""><p><l>շերտ<s n="n"/><s n="nn"/></l><r>coating of a paint<s n="n"/></r></p></e>
+<e c="geology"><p><l>շերտ<s n="n"/><s n="nn"/></l><r>stratum<s n="n"/></r></p></e>
+<e c="geology"><p><l>շերտ<s n="n"/><s n="nn"/></l><r>bed<s n="n"/></r></p></e>
+<e c=""><p><l>ոգի<s n="n"/><s n="nn"/></l><r>spirit<s n="n"/></r></p></e>
+<e c=""><p><l>ոստ<s n="n"/><s n="nn"/></l><r>branch<s n="n"/></r></p></e>
+<e c=""><p><l>ոստ<s n="n"/><s n="nn"/></l><r>bough<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>ոտք<s n="n"/><s n="nn"/></l><r>leg<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>ոտք<s n="n"/><s n="nn"/></l><r>foot<s n="n"/></r></p></e>
+<e c=""><p><l>որակ<s n="n"/><s n="nn"/></l><r>quality<s n="n"/></r></p></e>
+<e c="anatomy, somewhat formal"><p><l>որովայն<s n="n"/><s n="nn"/></l><r>abdomen<s n="n"/></r></p></e>
+<e c="anatomy, somewhat formal"><p><l>որովայն<s n="n"/><s n="nn"/></l><r>belly<s n="n"/></r></p></e>
+<e c="anatomy, somewhat formal"><p><l>որովայն<s n="n"/><s n="nn"/></l><r>paunch<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>hunt<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>hunting<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>catching<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>chase<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>game<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>catch<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>take<s n="n"/></r></p></e>
+<e c=""><p><l>որս<s n="n"/><s n="nn"/></l><r>prey<s n="n"/></r></p></e>
+<e c=""><p><l>ուլ<s n="n"/><s n="nn"/></l><r>kid<s n="n"/></r></p></e>
+<e c=""><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>vow<s n="n"/></r></p></e>
+<e c=""><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>promise<s n="n"/></r></p></e>
+<e c=""><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>oath<s n="n"/></r></p></e>
+<e c=""><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>agreement<s n="n"/></r></p></e>
+<e c=""><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>covenant<s n="n"/></r></p></e>
+<e c="Christianity"><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>fraternity<s n="n"/></r></p></e>
+<e c="Christianity"><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>cloister<s n="n"/></r></p></e>
+<e c="Christianity"><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>abbey<s n="n"/></r></p></e>
+<e c=""><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>holy place<s n="n"/></r></p></e>
+<e c=""><p><l>ուխտ<s n="n"/><s n="nn"/></l><r>sanctuary<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>ուղեղ<s n="n"/><s n="nn"/></l><r>brain<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ուղեղ<s n="n"/><s n="nn"/></l><r>mind<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ուղեղ<s n="n"/><s n="nn"/></l><r>intellect<s n="n"/></r></p></e>
+<e c=""><p><l>ուղի<s n="n"/><s n="nn"/></l><r>way<s n="n"/></r></p></e>
+<e c=""><p><l>ուղի<s n="n"/><s n="nn"/></l><r>track<s n="n"/></r></p></e>
+<e c=""><p><l>ուղի<s n="n"/><s n="nn"/></l><r>path<s n="n"/></r></p></e>
+<e c=""><p><l>ուղի<s n="n"/><s n="nn"/></l><r>railway<s n="n"/></r></p></e>
+<e c=""><p><l>ուղի<s n="n"/><s n="nn"/></l><r>passage<s n="n"/></r></p></e>
+<e c=""><p><l>ուղի<s n="n"/><s n="nn"/></l><r>duct<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ուղի<s n="n"/><s n="nn"/></l><r>journey<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ուղի<s n="n"/><s n="nn"/></l><r>voyage<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ուղի<s n="n"/><s n="nn"/></l><r>means<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ուղի<s n="n"/><s n="nn"/></l><r>way<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ունկ<s n="n"/><s n="nn"/></l><r>ear<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ունկ<s n="n"/><s n="nn"/></l><r>handle<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ունչ<s n="n"/><s n="nn"/></l><r>nose<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ունչ<s n="n"/><s n="nn"/></l><r>nostril<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ունչ<s n="n"/><s n="nn"/></l><r>moustache<s n="n"/></r></p></e>
+<e c="archaic, poetic"><p><l>ուռ<s n="n"/><s n="nn"/></l><r>sledgehammer<s n="n"/></r></p></e>
+<e c=""><p><l>չափ<s n="n"/><s n="nn"/></l><r>limit<s n="n"/></r></p></e>
+<e c=""><p><l>չափ<s n="n"/><s n="nn"/></l><r>degree<s n="n"/></r></p></e>
+<e c=""><p><l>չափ<s n="n"/><s n="nn"/></l><r>size<s n="n"/></r></p></e>
+<e c=""><p><l>չափ<s n="n"/><s n="nn"/></l><r>measure<s n="n"/></r></p></e>
+<e c=""><p><l>պահապան<s n="n"/><s n="nn"/></l><r>guard<s n="n"/></r></p></e>
+<e c=""><p><l>պահապան<s n="n"/><s n="nn"/></l><r>keeper<s n="n"/></r></p></e>
+<e c=""><p><l>պահապան<s n="n"/><s n="nn"/></l><r>protector<s n="n"/></r></p></e>
+<e c=""><p><l>պահապան<s n="n"/><s n="nn"/></l><r>sentinel<s n="n"/></r></p></e>
+<e c=""><p><l>պահապան<s n="n"/><s n="nn"/></l><r>watchman<s n="n"/></r></p></e>
+<e c=""><p><l>պահապան<s n="n"/><s n="nn"/></l><r>amulet<s n="n"/></r></p></e>
+<e c=""><p><l>պահապան<s n="n"/><s n="nn"/></l><r>talisman<s n="n"/></r></p></e>
+<e c=""><p><l>պան<s n="n"/><s n="nn"/></l><r>round loaf<s n="n"/></r></p></e>
+<e c=""><p><l>պան<s n="n"/><s n="nn"/></l><r>bread<s n="n"/></r></p></e>
+<e c=""><p><l>պան<s n="n"/><s n="nn"/></l><r>honeycomb<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>position<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>job<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>post<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>office<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>duty<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>obligation<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>function<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>duty<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>role<s n="n"/></r></p></e>
+<e c="archaic"><p><l>պաշտոն<s n="n"/><s n="nn"/></l><r>religious worship<s n="n"/></r></p></e>
+<e c=""><p><l>պատասխան<s n="n"/><s n="nn"/></l><r>answer<s n="n"/></r></p></e>
+<e c=""><p><l>պատասխան<s n="n"/><s n="nn"/></l><r>reply<s n="n"/></r></p></e>
+<e c=""><p><l>պատասխան<s n="n"/><s n="nn"/></l><r>response<s n="n"/></r></p></e>
+<e c=""><p><l>պար<s n="n"/><s n="nn"/></l><r>dance<s n="n"/></r></p></e>
+<e c=""><p><l>պարս<s n="n"/><s n="nn"/></l><r>swarm of bees<s n="n"/></r></p></e>
+<e c="rare"><p><l>պիոն<s n="n"/><s n="nn"/></l><r>peony<s n="n"/></r></p></e>
+<e c=""><p><l>պորտ<s n="n"/><s n="nn"/></l><r>navel<s n="n"/></r></p></e>
+<e c="archaic, literary"><p><l>պույտ<s n="n"/><s n="nn"/></l><r>pot<s n="n"/></r></p></e>
+<e c="archaic, literary"><p><l>պույտ<s n="n"/><s n="nn"/></l><r>broth-pot<s n="n"/></r></p></e>
+<e c="botany"><p><l>պտուկ<s n="n"/><s n="nn"/></l><r>button<s n="n"/></r></p></e>
+<e c="botany"><p><l>պտուկ<s n="n"/><s n="nn"/></l><r>bud<s n="n"/></r></p></e>
+<e c="botany"><p><l>պտուկ<s n="n"/><s n="nn"/></l><r>eye<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>պտուկ<s n="n"/><s n="nn"/></l><r>nipple<s n="n"/></r></p></e>
+<e c="rare"><p><l>ջաղաց<s n="n"/><s n="nn"/></l><r>mill<s n="n"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="n"/><s n="nn"/></l><r>fever<s n="n"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="n"/><s n="nn"/></l><r>warmth<s n="n"/></r></p></e>
+<e c=""><p><l>ջորի<s n="n"/><s n="nn"/></l><r>mule<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ջորի<s n="n"/><s n="nn"/></l><r>the VAZ-2101 car<s n="n"/></r></p></e>
+<e c=""><p><l>ջուր<s n="n"/><s n="nn"/></l><r>water<s n="n"/></r></p></e>
+<e c=""><p><l>ջրաղաց<s n="n"/><s n="nn"/></l><r>watermill<s n="n"/></r></p></e>
+<e c="Armenia and CIS, colloquial"><p><l>ռակ<s n="n"/><s n="nn"/></l><r>crawfish<s n="n"/></r></p></e>
+<e c="Armenia and CIS, colloquial"><p><l>ռակ<s n="n"/><s n="nn"/></l><r>crayfish<s n="n"/></r></p></e>
+<e c="fruit"><p><l>սալոր<s n="n"/><s n="nn"/></l><r>plum<s n="n"/></r></p></e>
+<e c="biology"><p><l>սաղմ<s n="n"/><s n="nn"/></l><r>embryo<s n="n"/></r></p></e>
+<e c=""><p><l>սայլ<s n="n"/><s n="nn"/></l><r>cart<s n="n"/></r></p></e>
+<e c=""><p><l>սայլ<s n="n"/><s n="nn"/></l><r>waggon<s n="n"/></r></p></e>
+<e c=""><p><l>սան<s n="n"/><s n="nn"/></l><r>nursling<s n="n"/></r></p></e>
+<e c=""><p><l>սան<s n="n"/><s n="nn"/></l><r>pupil<s n="n"/></r></p></e>
+<e c=""><p><l>սան<s n="n"/><s n="nn"/></l><r>alumnus<s n="n"/></r></p></e>
+<e c=""><p><l>սան<s n="n"/><s n="nn"/></l><r>godchild<s n="n"/></r></p></e>
+<e c=""><p><l>սան<s n="n"/><s n="nn"/></l><r>adopted child<s n="n"/></r></p></e>
+<e c=""><p><l>սան<s n="n"/><s n="nn"/></l><r>foster child<s n="n"/></r></p></e>
+<e c=""><p><l>սանր<s n="n"/><s n="nn"/></l><r>a comb<s n="n"/></r></p></e>
+<e c="poetic"><p><l>սաստ<s n="n"/><s n="nn"/></l><r>prohibition<s n="n"/></r></p></e>
+<e c="poetic"><p><l>սաստ<s n="n"/><s n="nn"/></l><r>ban<s n="n"/></r></p></e>
+<e c="archaic, poetic"><p><l>սաստ<s n="n"/><s n="nn"/></l><r>punishment<s n="n"/></r></p></e>
+<e c=""><p><l>սաստ<s n="n"/><s n="nn"/></l><r>reproof<s n="n"/></r></p></e>
+<e c=""><p><l>սաստ<s n="n"/><s n="nn"/></l><r>scolding<s n="n"/></r></p></e>
+<e c=""><p><l>սաստ<s n="n"/><s n="nn"/></l><r>rebuke<s n="n"/></r></p></e>
+<e c=""><p><l>սարդի<s n="n"/><s n="nn"/></l><r>genitive singular of սարդ<s n="n"/></r></p></e>
+<e c=""><p><l>սարդի<s n="n"/><s n="nn"/></l><r>dative singular of սարդ<s n="n"/></r></p></e>
+<e c=""><p><l>սարք<s n="n"/><s n="nn"/></l><r>device<s n="n"/></r></p></e>
+<e c=""><p><l>սարք<s n="n"/><s n="nn"/></l><r>equipment<s n="n"/></r></p></e>
+<e c=""><p><l>սենյակ<s n="n"/><s n="nn"/></l><r>room<s n="n"/></r></p></e>
+<e c=""><p><l>սեր<s n="n"/><s n="nn"/></l><r>cream<s n="n"/></r></p></e>
+<e c="botany"><p><l>սերմ<s n="n"/><s n="nn"/></l><r>seed<s n="n"/></r></p></e>
+<e c="biology"><p><l>սերմ<s n="n"/><s n="nn"/></l><r>semen<s n="n"/></r></p></e>
+<e c="biology"><p><l>սերմ<s n="n"/><s n="nn"/></l><r>sperm<s n="n"/></r></p></e>
+<e c=""><p><l>սեքս<s n="n"/><s n="nn"/></l><r>sex<s n="n"/></r></p></e>
+<e c=""><p><l>սեքս<s n="n"/><s n="nn"/></l><r>sexual intercourse<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>heart<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>heart<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>soul<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>mind<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>intellect<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>memory<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>intelligence<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>courage<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>spirit<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>heart<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>heart<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>inmost thought<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>heart<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>centre<s n="n"/></r></p></e>
+<e c="card games"><p><l>սիրտ<s n="n"/><s n="nn"/></l><r>hearts<s n="n"/></r></p></e>
+<e c=""><p><l>սոր<s n="n"/><s n="nn"/></l><r>hole<s n="n"/></r></p></e>
+<e c=""><p><l>սոր<s n="n"/><s n="nn"/></l><r>bore<s n="n"/></r></p></e>
+<e c=""><p><l>սոր<s n="n"/><s n="nn"/></l><r>opening<s n="n"/></r></p></e>
+<e c=""><p><l>սոր<s n="n"/><s n="nn"/></l><r>orifice<s n="n"/></r></p></e>
+<e c=""><p><l>սոր<s n="n"/><s n="nn"/></l><r>mouth<s n="n"/></r></p></e>
+<e c=""><p><l>սոր<s n="n"/><s n="nn"/></l><r>cave<s n="n"/></r></p></e>
+<e c=""><p><l>սոր<s n="n"/><s n="nn"/></l><r>cavern<s n="n"/></r></p></e>
+<e c="built in a hole"><p><l>սոր<s n="n"/><s n="nn"/></l><r>den<s n="n"/></r></p></e>
+<e c="built in a hole"><p><l>սոր<s n="n"/><s n="nn"/></l><r>lair<s n="n"/></r></p></e>
+<e c="built in a hole"><p><l>սոր<s n="n"/><s n="nn"/></l><r>burrow<s n="n"/></r></p></e>
+<e c=""><p><l>սուպ<s n="n"/><s n="nn"/></l><r>soup<s n="n"/></r></p></e>
+<e c=""><p><l>սուտ<s n="n"/><s n="nn"/></l><r>lie<s n="n"/></r></p></e>
+<e c=""><p><l>սուտ<s n="n"/><s n="nn"/></l><r>falsehood<s n="n"/></r></p></e>
+<e c=""><p><l>սուտ<s n="n"/><s n="nn"/></l><r>untruth<s n="n"/></r></p></e>
+<e c=""><p><l>սուր<s n="n"/><s n="nn"/></l><r>sword<s n="n"/></r></p></e>
+<e c="archaic"><p><l>սպաս<s n="n"/><s n="nn"/></l><r>service<s n="n"/></r></p></e>
+<e c=""><p><l>սպաս<s n="n"/><s n="nn"/></l><r>explot<s n="n"/></r></p></e>
+<e c=""><p><l>սրահ<s n="n"/><s n="nn"/></l><r>hall<s n="n"/></r></p></e>
+<e c=""><p><l>սրահ<s n="n"/><s n="nn"/></l><r>salon<s n="n"/></r></p></e>
+<e c=""><p><l>վազ<s n="n"/><s n="nn"/></l><r>vine<s n="n"/></r></p></e>
+<e c=""><p><l>վազ<s n="n"/><s n="nn"/></l><r>grapevine<s n="n"/></r></p></e>
+<e c=""><p><l>վախ<s n="n"/><s n="nn"/></l><r>fear<s n="n"/></r></p></e>
+<e c=""><p><l>վախ<s n="n"/><s n="nn"/></l><r>fright<s n="n"/></r></p></e>
+<e c=""><p><l>վախ<s n="n"/><s n="nn"/></l><r>dread<s n="n"/></r></p></e>
+<e c=""><p><l>վաճառ<s n="n"/><s n="nn"/></l><r>merchandise<s n="n"/></r></p></e>
+<e c=""><p><l>վաճառ<s n="n"/><s n="nn"/></l><r>wares<s n="n"/></r></p></e>
+<e c=""><p><l>վայր<s n="n"/><s n="nn"/></l><r>place<s n="n"/></r></p></e>
+<e c=""><p><l>վայր<s n="n"/><s n="nn"/></l><r>location<s n="n"/></r></p></e>
+<e c=""><p><l>վայր<s n="n"/><s n="nn"/></l><r>locality<s n="n"/></r></p></e>
+<e c=""><p><l>վանք<s n="n"/><s n="nn"/></l><r>monastery<s n="n"/></r></p></e>
+<e c="flower"><p><l>վարդ<s n="n"/><s n="nn"/></l><r>rose<s n="n"/></r></p></e>
+<e c=""><p><l>վարձ<s n="n"/><s n="nn"/></l><r>fee<s n="n"/></r></p></e>
+<e c=""><p><l>վարձ<s n="n"/><s n="nn"/></l><r>payment<s n="n"/></r></p></e>
+<e c=""><p><l>վարձ<s n="n"/><s n="nn"/></l><r>rent<s n="n"/></r></p></e>
+<e c=""><p><l>վարձ<s n="n"/><s n="nn"/></l><r>to let out<s n="n"/></r></p></e>
+<e c=""><p><l>վարձ<s n="n"/><s n="nn"/></l><r>to lease<s n="n"/></r></p></e>
+<e c="archaic, poetic"><p><l>վարս<s n="n"/><s n="nn"/></l><r>hair<s n="n"/></r></p></e>
+<e c=""><p><l>վեգ<s n="n"/><s n="nn"/></l><r>knucklebone<s n="n"/></r></p></e>
+<e c=""><p><l>վեճ<s n="n"/><s n="nn"/></l><r>argument<s n="n"/></r></p></e>
+<e c=""><p><l>վեճ<s n="n"/><s n="nn"/></l><r>argumentation<s n="n"/></r></p></e>
+<e c=""><p><l>վեճ<s n="n"/><s n="nn"/></l><r>controversy<s n="n"/></r></p></e>
+<e c=""><p><l>վեճ<s n="n"/><s n="nn"/></l><r>dispute<s n="n"/></r></p></e>
+<e c=""><p><l>վերջ<s n="n"/><s n="nn"/></l><r>end<s n="n"/></r></p></e>
+<e c=""><p><l>վերջ<s n="n"/><s n="nn"/></l><r>ending<s n="n"/></r></p></e>
+<e c=""><p><l>վերջ<s n="n"/><s n="nn"/></l><r>finish<s n="n"/></r></p></e>
+<e c=""><p><l>վտանգ<s n="n"/><s n="nn"/></l><r>danger<s n="n"/></r></p></e>
+<e c=""><p><l>վտանգ<s n="n"/><s n="nn"/></l><r>peril<s n="n"/></r></p></e>
+<e c=""><p><l>վտանգ<s n="n"/><s n="nn"/></l><r>jeopardy<s n="n"/></r></p></e>
+<e c=""><p><l>վտանգ<s n="n"/><s n="nn"/></l><r>hazard<s n="n"/></r></p></e>
+<e c=""><p><l>տախտ<s n="n"/><s n="nn"/></l><r>couch<s n="n"/></r></p></e>
+<e c=""><p><l>տախտ<s n="n"/><s n="nn"/></l><r>sofa<s n="n"/></r></p></e>
+<e c=""><p><l>տախտակ<s n="n"/><s n="nn"/></l><r>board<s n="n"/></r></p></e>
+<e c=""><p><l>տախտակ<s n="n"/><s n="nn"/></l><r>plank<s n="n"/></r></p></e>
+<e c="a matrix or grid of data arranged in rows and columns"><p><l>տախտակ<s n="n"/><s n="nn"/></l><r>table<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>տախտակ<s n="n"/><s n="nn"/></l><r>stupid person<s n="n"/></r></p></e>
+<e c=""><p><l>տակառ<s n="n"/><s n="nn"/></l><r>barrel<s n="n"/></r></p></e>
+<e c=""><p><l>տակառ<s n="n"/><s n="nn"/></l><r>cask<s n="n"/></r></p></e>
+<e c=""><p><l>տանձ<s n="n"/><s n="nn"/></l><r>pear<s n="n"/></r></p></e>
+<e c="slang"><p><l>տանձ<s n="n"/><s n="nn"/></l><r>scrotum<s n="n"/></r></p></e>
+<e c=""><p><l>տարի<s n="n"/><s n="nn"/></l><r>year<s n="n"/></r></p></e>
+<e c="chemistry"><p><l>տարր<s n="n"/><s n="nn"/></l><r>element<s n="n"/></r></p></e>
+<e c=""><p><l>տարր<s n="n"/><s n="nn"/></l><r>element<s n="n"/></r></p></e>
+<e c=""><p><l>տարր<s n="n"/><s n="nn"/></l><r>rudiment<s n="n"/></r></p></e>
+<e c=""><p><l>տարր<s n="n"/><s n="nn"/></l><r>principle<s n="n"/></r></p></e>
+<e c=""><p><l>տարր<s n="n"/><s n="nn"/></l><r>fundamental<s n="n"/></r></p></e>
+<e c=""><p><l>տարր<s n="n"/><s n="nn"/></l><r>component<s n="n"/></r></p></e>
+<e c="member of a social group"><p><l>տարր<s n="n"/><s n="nn"/></l><r>element<s n="n"/></r></p></e>
+<e c=""><p><l>տափ<s n="n"/><s n="nn"/></l><r>plain<s n="n"/></r></p></e>
+<e c=""><p><l>տափ<s n="n"/><s n="nn"/></l><r>earth<s n="n"/></r></p></e>
+<e c=""><p><l>տափ<s n="n"/><s n="nn"/></l><r>arable land<s n="n"/></r></p></e>
+<e c=""><p><l>տեգ<s n="n"/><s n="nn"/></l><r>spearhead<s n="n"/></r></p></e>
+<e c=""><p><l>տեգ<s n="n"/><s n="nn"/></l><r>short spear<s n="n"/></r></p></e>
+<e c=""><p><l>տեգ<s n="n"/><s n="nn"/></l><r>dart<s n="n"/></r></p></e>
+<e c=""><p><l>տեգ<s n="n"/><s n="nn"/></l><r>javelin<s n="n"/></r></p></e>
+<e c=""><p><l>տեղ<s n="n"/><s n="nn"/></l><r>place<s n="n"/></r></p></e>
+<e c=""><p><l>տեղ<s n="n"/><s n="nn"/></l><r>location<s n="n"/></r></p></e>
+<e c=""><p><l>տեղ<s n="n"/><s n="nn"/></l><r>locality<s n="n"/></r></p></e>
+<e c=""><p><l>տեղ<s n="n"/><s n="nn"/></l><r>position<s n="n"/></r></p></e>
+<e c="archaic, literary"><p><l>տեղի<s n="n"/><s n="nn"/></l><r>place<s n="n"/></r></p></e>
+<e c=""><p><l>տեղի<s n="n"/><s n="nn"/></l><r>to give up<s n="n"/></r></p></e>
+<e c=""><p><l>տեղի<s n="n"/><s n="nn"/></l><r>to acquiesce<s n="n"/></r></p></e>
+<e c=""><p><l>տեղի<s n="n"/><s n="nn"/></l><r>to consent<s n="n"/></r></p></e>
+<e c=""><p><l>տենդ<s n="n"/><s n="nn"/></l><r>fever<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>տենդ<s n="n"/><s n="nn"/></l><r>excitement<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>տենդ<s n="n"/><s n="nn"/></l><r>agitation<s n="n"/></r></p></e>
+<e c=""><p><l>տեսություն<s n="n"/><s n="nn"/></l><r>survey<s n="n"/></r></p></e>
+<e c=""><p><l>տեսություն<s n="n"/><s n="nn"/></l><r>roundup<s n="n"/></r></p></e>
+<e c=""><p><l>տեսություն<s n="n"/><s n="nn"/></l><r>press review<s n="n"/></r></p></e>
+<e c=""><p><l>տեսություն<s n="n"/><s n="nn"/></l><r>theory<s n="n"/></r></p></e>
+<e c=""><p><l>տեսություն<s n="n"/><s n="nn"/></l><r>visit<s n="n"/></r></p></e>
+<e c=""><p><l>տեսություն<s n="n"/><s n="nn"/></l><r>meeting<s n="n"/></r></p></e>
+<e c=""><p><l>տետր<s n="n"/><s n="nn"/></l><r>copybook<s n="n"/></r></p></e>
+<e c=""><p><l>տետր<s n="n"/><s n="nn"/></l><r>exercise book<s n="n"/></r></p></e>
+<e c="archaic"><p><l>տիվ<s n="n"/><s n="nn"/></l><r>daytime<s n="n"/></r></p></e>
+<e c="archaic"><p><l>տիվ<s n="n"/><s n="nn"/></l><r>light<s n="n"/></r></p></e>
+<e c=""><p><l>տնտեսություն<s n="n"/><s n="nn"/></l><r>economy<s n="n"/></r></p></e>
+<e c=""><p><l>տնտեսություն<s n="n"/><s n="nn"/></l><r>stewardship<s n="n"/></r></p></e>
+<e c=""><p><l>տնտեսություն<s n="n"/><s n="nn"/></l><r>housekeeping<s n="n"/></r></p></e>
+<e c=""><p><l>տնտեսություն<s n="n"/><s n="nn"/></l><r>household<s n="n"/></r></p></e>
+<e c=""><p><l>տոն<s n="n"/><s n="nn"/></l><r>holiday<s n="n"/></r></p></e>
+<e c=""><p><l>տոն<s n="n"/><s n="nn"/></l><r>feast<s n="n"/></r></p></e>
+<e c=""><p><l>տոն<s n="n"/><s n="nn"/></l><r>festive occasion<s n="n"/></r></p></e>
+<e c=""><p><l>տոն<s n="n"/><s n="nn"/></l><r>festival<s n="n"/></r></p></e>
+<e c=""><p><l>տոն<s n="n"/><s n="nn"/></l><r>solemnity<s n="n"/></r></p></e>
+<e c=""><p><l>տոն<s n="n"/><s n="nn"/></l><r>festivities<s n="n"/></r></p></e>
+<e c=""><p><l>տոն<s n="n"/><s n="nn"/></l><r>celebrations<s n="n"/></r></p></e>
+<e c="rare"><p><l>տորմ<s n="n"/><s n="nn"/></l><r>fleet<s n="n"/></r></p></e>
+<e c="rare"><p><l>տորմ<s n="n"/><s n="nn"/></l><r>group of ships<s n="n"/></r></p></e>
+<e c="Eastern Armenian"><p><l>րոպե<s n="n"/><s n="nn"/></l><r>minute<s n="n"/></r></p></e>
+<e c="Western Armenian, rare"><p><l>րոպե<s n="n"/><s n="nn"/></l><r>unspecified short time<s n="n"/></r></p></e>
+<e c=""><p><l>ցանց<s n="n"/><s n="nn"/></l><r>net<s n="n"/></r></p></e>
+<e c=""><p><l>ցանց<s n="n"/><s n="nn"/></l><r>netting<s n="n"/></r></p></e>
+<e c="series of stores or businesses with the same brand name"><p><l>ցանց<s n="n"/><s n="nn"/></l><r>network<s n="n"/></r></p></e>
+<e c="series of stores or businesses with the same brand name"><p><l>ցանց<s n="n"/><s n="nn"/></l><r>chain<s n="n"/></r></p></e>
+<e c="computing"><p><l>ցանց<s n="n"/><s n="nn"/></l><r>network<s n="n"/></r></p></e>
+<e c=""><p><l>ցավ<s n="n"/><s n="nn"/></l><r>pain<s n="n"/></r></p></e>
+<e c=""><p><l>ցավ<s n="n"/><s n="nn"/></l><r>ache<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>illness<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>sickness<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>grief<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>sorrow<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>woe<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>anxiety<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>concern<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>misfortune<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>ցավ<s n="n"/><s n="nn"/></l><r>disaster<s n="n"/></r></p></e>
+<e c=""><p><l>ցող<s n="n"/><s n="nn"/></l><r>dew<s n="n"/></r></p></e>
+<e c=""><p><l>փախ<s n="n"/><s n="nn"/></l><r>massive flight<s n="n"/></r></p></e>
+<e c=""><p><l>փախ<s n="n"/><s n="nn"/></l><r>the crowd of refugees<s n="n"/></r></p></e>
+<e c=""><p><l>փական<s n="n"/><s n="nn"/></l><r>valve<s n="n"/></r></p></e>
+<e c=""><p><l>փայլ<s n="n"/><s n="nn"/></l><r>glitter<s n="n"/></r></p></e>
+<e c=""><p><l>փայլ<s n="n"/><s n="nn"/></l><r>lustre<s n="n"/></r></p></e>
+<e c=""><p><l>փայլ<s n="n"/><s n="nn"/></l><r>brilliance<s n="n"/></r></p></e>
+<e c=""><p><l>փայլ<s n="n"/><s n="nn"/></l><r>shine<s n="n"/></r></p></e>
+<e c=""><p><l>փայլ<s n="n"/><s n="nn"/></l><r>radiance<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>փայլ<s n="n"/><s n="nn"/></l><r>magnificence<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>փայլ<s n="n"/><s n="nn"/></l><r>gorgeousness<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>փայլ<s n="n"/><s n="nn"/></l><r>lustre<s n="n"/></r></p></e>
+<e c="material"><p><l>փայտ<s n="n"/><s n="nn"/></l><r>wood<s n="n"/></r></p></e>
+<e c="material"><p><l>փայտ<s n="n"/><s n="nn"/></l><r>firewood<s n="n"/></r></p></e>
+<e c=""><p><l>փայտ<s n="n"/><s n="nn"/></l><r>stick<s n="n"/></r></p></e>
+<e c=""><p><l>փայտ<s n="n"/><s n="nn"/></l><r>walking stick<s n="n"/></r></p></e>
+<e c=""><p><l>փայտ<s n="n"/><s n="nn"/></l><r>cane<s n="n"/></r></p></e>
+<e c=""><p><l>փայտ<s n="n"/><s n="nn"/></l><r>staff<s n="n"/></r></p></e>
+<e c=""><p><l>փաստ<s n="n"/><s n="nn"/></l><r>fact<s n="n"/></r></p></e>
+<e c=""><p><l>փաստ<s n="n"/><s n="nn"/></l><r>reason<s n="n"/></r></p></e>
+<e c=""><p><l>փաստ<s n="n"/><s n="nn"/></l><r>argument<s n="n"/></r></p></e>
+<e c=""><p><l>փաստ<s n="n"/><s n="nn"/></l><r>proof<s n="n"/></r></p></e>
+<e c=""><p><l>փոխանակություն<s n="n"/><s n="nn"/></l><r>exchange<s n="n"/></r></p></e>
+<e c=""><p><l>փոխանակություն<s n="n"/><s n="nn"/></l><r>interchange<s n="n"/></r></p></e>
+<e c=""><p><l>փոխանակություն<s n="n"/><s n="nn"/></l><r>barter<s n="n"/></r></p></e>
+<e c="somewhat colloquial"><p><l>փող<s n="n"/><s n="nn"/></l><r>money<s n="n"/></r></p></e>
+<e c=""><p><l>փոր<s n="n"/><s n="nn"/></l><r>belly<s n="n"/></r></p></e>
+<e c=""><p><l>փոր<s n="n"/><s n="nn"/></l><r>abdomen<s n="n"/></r></p></e>
+<e c=""><p><l>փոր<s n="n"/><s n="nn"/></l><r>stomach<s n="n"/></r></p></e>
+<e c=""><p><l>փուլ<s n="n"/><s n="nn"/></l><r>phase<s n="n"/></r></p></e>
+<e c=""><p><l>փուլ<s n="n"/><s n="nn"/></l><r>stage<s n="n"/></r></p></e>
+<e c=""><p><l>փուլ<s n="n"/><s n="nn"/></l><r>crumbling<s n="n"/></r></p></e>
+<e c=""><p><l>փուլ<s n="n"/><s n="nn"/></l><r>falling<s n="n"/></r></p></e>
+<e c=""><p><l>փուլ<s n="n"/><s n="nn"/></l><r>fall<s n="n"/></r></p></e>
+<e c=""><p><l>փուշ<s n="n"/><s n="nn"/></l><r>thorn<s n="n"/></r></p></e>
+<e c=""><p><l>փուշ<s n="n"/><s n="nn"/></l><r>prickle<s n="n"/></r></p></e>
+<e c=""><p><l>փուշ<s n="n"/><s n="nn"/></l><r>fishbone<s n="n"/></r></p></e>
+<e c=""><p><l>փուշ<s n="n"/><s n="nn"/></l><r>bur<s n="n"/></r></p></e>
+<e c=""><p><l>փուշ<s n="n"/><s n="nn"/></l><r>thornbush<s n="n"/></r></p></e>
+<e c=""><p><l>քամի<s n="n"/><s n="nn"/></l><r>wind<s n="n"/></r></p></e>
+<e c=""><p><l>քամի<s n="n"/><s n="nn"/></l><r>rheumatic pain<s n="n"/></r></p></e>
+<e c=""><p><l>քայլ<s n="n"/><s n="nn"/></l><r>step<s n="n"/></r></p></e>
+<e c=""><p><l>քայլ<s n="n"/><s n="nn"/></l><r>pace<s n="n"/></r></p></e>
+<e c=""><p><l>քայլ<s n="n"/><s n="nn"/></l><r>stride<s n="n"/></r></p></e>
+<e c=""><p><l>քայլ<s n="n"/><s n="nn"/></l><r>footstep<s n="n"/></r></p></e>
+<e c="chess"><p><l>քայլ<s n="n"/><s n="nn"/></l><r>move<s n="n"/></r></p></e>
+<e c=""><p><l>քայլ<s n="n"/><s n="nn"/></l><r>move<s n="n"/></r></p></e>
+<e c=""><p><l>քայլ<s n="n"/><s n="nn"/></l><r>step<s n="n"/></r></p></e>
+<e c=""><p><l>քայլ<s n="n"/><s n="nn"/></l><r>action<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>քաշ<s n="n"/><s n="nn"/></l><r>weight<s n="n"/></r></p></e>
+<e c=""><p><l>քաջ<s n="n"/><s n="nn"/></l><r>man of courage<s n="n"/></r></p></e>
+<e c=""><p><l>քառակուսի<s n="n"/><s n="nn"/></l><r>square<s n="n"/></r></p></e>
+<e c="used only in the below set phrase"><p><l>քավ<s n="n"/><s n="nn"/></l><r>expiation<s n="n"/></r></p></e>
+<e c="used only in the below set phrase"><p><l>քավ<s n="n"/><s n="nn"/></l><r>atonement<s n="n"/></r></p></e>
+<e c="used only in the below set phrase"><p><l>քավ<s n="n"/><s n="nn"/></l><r>redemption<s n="n"/></r></p></e>
+<e c=""><p><l>քարտ<s n="n"/><s n="nn"/></l><r>card<s n="n"/></r></p></e>
+<e c=""><p><l>քարտ<s n="n"/><s n="nn"/></l><r>playing card<s n="n"/></r></p></e>
+<e c=""><p><l>քարտեզ<s n="n"/><s n="nn"/></l><r>map<s n="n"/></r></p></e>
+<e c=""><p><l>քեն<s n="n"/><s n="nn"/></l><r>spite<s n="n"/></r></p></e>
+<e c=""><p><l>քեն<s n="n"/><s n="nn"/></l><r>rancour<s n="n"/></r></p></e>
+<e c=""><p><l>քեն<s n="n"/><s n="nn"/></l><r>malice<s n="n"/></r></p></e>
+<e c=""><p><l>քեն<s n="n"/><s n="nn"/></l><r>revenge<s n="n"/></r></p></e>
+<e c=""><p><l>քլոր<s n="n"/><s n="nn"/></l><r>chlorine<s n="n"/></r></p></e>
+<e c=""><p><l>քյուֆթա<s n="n"/><s n="nn"/></l><r>kofta<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>քոչ<s n="n"/><s n="nn"/></l><r>camp of nomads<s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>քոռ<s n="n"/><s n="nn"/></l><r>blind person<s n="n"/></r></p></e>
+<e c=""><p><l>քուն<s n="n"/><s n="nn"/></l><r>sleep<s n="n"/></r></p></e>
+<e c=""><p><l>քուն<s n="n"/><s n="nn"/></l><r>slumber<s n="n"/></r></p></e>
+<e c=""><p><l>օդ<s n="n"/><s n="nn"/></l><r>air<s n="n"/></r></p></e>
+<e c="somewhat formal"><p><l>օդանավ<s n="n"/><s n="nn"/></l><r>plane<s n="n"/></r></p></e>
+<e c="somewhat formal"><p><l>օդանավ<s n="n"/><s n="nn"/></l><r>airplane<s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>օյին<s n="n"/><s n="nn"/></l><r>trick<s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>օյին<s n="n"/><s n="nn"/></l><r>prank<s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>օյին<s n="n"/><s n="nn"/></l><r>turn<s n="n"/></r></p></e>
+<e c=""><p><l>օր<s n="n"/><s n="nn"/></l><r>day<s n="n"/></r></p></e>
+<e c=""><p><l>օր<s n="n"/><s n="nn"/></l><r>once<s n="n"/></r></p></e>
+<e c=""><p><l>ֆարերեն<s n="n"/><s n="nn"/></l><r>Faroese language<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ֆլոմ<s n="n"/><s n="nn"/></l><r>felt-tip pen<s n="n"/></r></p></e>
+<e c="different standards of weight"><p><l>ֆունտ<s n="n"/><s n="nn"/></l><r>pound<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>ֆունտ<s n="n"/><s n="nn"/></l><r>pound sterling<s n="n"/></r></p></e>
+<e c="different standards of weight"><p><l>ֆունտ<s n="n"/><s n="nn"/></l><r>pound<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>ֆունտ<s n="n"/><s n="nn"/></l><r>pound sterling<s n="n"/></r></p></e>
+
+
+<e c=""><p><l>ադամանդագործ<s n="n"/><s n="aa"/></l><r>diamond-cutter<s n="n"/></r></p></e>
+<e c=""><p><l>ադամանդագործ<s n="n"/><s n="aa"/></l><r>diamond-maker<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>huge man<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>giant<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>supernatural being<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>spirit<s n="n"/></r></p></e>
+<e c="historical"><p><l>ալան<s n="n"/><s n="aa"/></l><r>Alan<s n="n"/></r></p></e>
+<e c=""><p><l>ախազ<s n="n"/><s n="aa"/></l><r>ermine<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>ախպար<s n="n"/><s n="aa"/></l><r>a Western Armenian<s n="n"/></r></p></e>
+<e c=""><p><l>աղանդավոր<s n="n"/><s n="aa"/></l><r>sectary<s n="n"/></r></p></e>
+<e c=""><p><l>աղանդավոր<s n="n"/><s n="aa"/></l><r>sectarian<s n="n"/></r></p></e>
+<!--<e c=""><p><l>աղանդավոր<s n="n"/><s n="aa"/></l><r>member of a sect<s n="n"/></r></p></e>-->
+<e c=""><p><l>աղավնի<s n="n"/><s n="aa"/></l><r>dove<s n="n"/></r></p></e>
+<e c=""><p><l>աղավնի<s n="n"/><s n="aa"/></l><r>pigeon<s n="n"/></r></p></e>
+<e c="archaic, poetic"><p><l>աղիճ<s n="n"/><s n="aa"/></l><r>girl<s n="n"/></r></p></e>
+<e c=""><p><l>աղվես<s n="n"/><s n="aa"/></l><r>fox<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>աղվես<s n="n"/><s n="aa"/></l><r>cunning person<s n="n"/></r></p></e>
+<e c=""><p><l>ամիկ<s n="n"/><s n="aa"/></l><r>one year old he-kid<s n="n"/></r></p></e>
+<!--<e c=""><p><l>ամլիկ<s n="n"/><s n="aa"/></l><r>a lamb or child of<s n="n"/></r></p></e>-->
+<e c=""><p><l>ամլիկ<s n="n"/><s n="aa"/></l><r>under one year age<s n="n"/></r></p></e>
+<e c=""><p><l>այծ<s n="n"/><s n="aa"/></l><r>goat<s n="n"/></r></p></e>
+<e c="archaic"><p><l>այս<s n="n"/><s n="aa"/></l><r>evil spirit<s n="n"/></r></p></e>
+<e c="usually a widow"><p><l>այրի<s n="n"/><s n="aa"/></l><r>widow or widower<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>այրուկ<s n="n"/><s n="aa"/></l><r>small man<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>այրուկ<s n="n"/><s n="aa"/></l><r>puny man<s n="n"/></r></p></e>
+<e c="historical"><p><l>անարի<s n="n"/><s n="aa"/></l><r>non-Aryan<s n="n"/></r></p></e>
+<e c="historical"><p><l>անարի<s n="n"/><s n="aa"/></l><r>non-Iranian<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ապեր<s n="n"/><s n="aa"/></l><r>brother<s n="n"/></r></p></e>
+<e c="colloquial, informal form of address to a male of equal age"><p><l>ապեր<s n="n"/><s n="aa"/></l><r>buddy<s n="n"/></r></p></e>
+<e c="colloquial, informal form of address to a male of equal age"><p><l>ապեր<s n="n"/><s n="aa"/></l><r>pal<s n="n"/></r></p></e>
+<e c=""><p><l>աստվածուհի<s n="n"/><s n="aa"/></l><r>goddess<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ատտա<s n="n"/><s n="aa"/></l><r>mother<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ատտա<s n="n"/><s n="aa"/></l><r>mummy<s n="n"/></r></p></e>
+<e c=""><p><l>արքա<s n="n"/><s n="aa"/></l><r>king<s n="n"/></r></p></e>
+<e c=""><p><l>արքա<s n="n"/><s n="aa"/></l><r>monarch<s n="n"/></r></p></e>
+<e c="chess"><p><l>արքա<s n="n"/><s n="aa"/></l><r>king<s n="n"/></r></p></e>
+<e c=""><p><l>արքայազն<s n="n"/><s n="aa"/></l><r>prince<s n="n"/></r></p></e>
+<!--<e c=""><p><l>արքայազն<s n="n"/><s n="aa"/></l><r>son of a king<s n="n"/></r></p></e>-->
+<e c="dialectal"><p><l>ափի<s n="n"/><s n="aa"/></l><r>father<s n="n"/></r></p></e>
+<!--<e c="dialectal"><p><l>ափի<s n="n"/><s n="aa"/></l><r>honouring address to old people<s n="n"/></r></p></e>-->
+<e c=""><p><l>աքաղաղ<s n="n"/><s n="aa"/></l><r>rooster<s n="n"/></r></p></e>
+<e c=""><p><l>աքիս<s n="n"/><s n="aa"/></l><r>weasel<s n="n"/></r></p></e>
+<e c=""><p><l>բազե<s n="n"/><s n="aa"/></l><r>hawk<s n="n"/></r></p></e>
+<e c=""><p><l>բազե<s n="n"/><s n="aa"/></l><r>falcon<s n="n"/></r></p></e>
+<e c="politics"><p><l>բազե<s n="n"/><s n="aa"/></l><r>hawk<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>բեգեմոտ<s n="n"/><s n="aa"/></l><r>hippopotamus<s n="n"/></r></p></e>
+<e c="colloquial, figuratively, pejorative"><p><l>բեգեմոտ<s n="n"/><s n="aa"/></l><r>fat person<s n="n"/></r></p></e>
+<e c=""><p><l>բզեզ<s n="n"/><s n="aa"/></l><r>beetle<s n="n"/></r></p></e>
+<e c=""><p><l>բլոգեր<s n="n"/><s n="aa"/></l><r>blogger<s n="n"/></r></p></e>
+<!--<e c="sometimes offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>a member of the Bosha<s n="n"/></r></p></e>-->
+<!--<e c="sometimes offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>an Armenian Gypsy : a member of the Lom people<s n="n"/></r></p></e>-->
+<e c="colloquial, offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>beggar<s n="n"/></r></p></e>
+<e c="colloquial, offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>bum<s n="n"/></r></p></e>
+<e c="colloquial, offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>hobo<s n="n"/></r></p></e>
+<e c="colloquial, offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>tramp<s n="n"/></r></p></e>
+<e c="colloquial, offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>impudent<s n="n"/></r></p></e>
+<e c="colloquial, offensive"><p><l>բոշա<s n="n"/><s n="aa"/></l><r>barefaced person<s n="n"/></r></p></e>
+<e c=""><p><l>բորենի<s n="n"/><s n="aa"/></l><r>hyena<s n="n"/></r></p></e>
+<e c=""><p><l>բու<s n="n"/><s n="aa"/></l><r>owl<s n="n"/></r></p></e>
+<!--<e c="archaic"><p><l>բուծ<s n="n"/><s n="aa"/></l><r>suckling lamb or kid<s n="n"/></r></p></e>-->
+<e c=""><p><l>բվեճ<s n="n"/><s n="aa"/></l><r>eagle owl<s n="n"/></r></p></e>
+<e c=""><p><l>գաղտակուր<s n="n"/><s n="aa"/></l><r>pearl oyster<s n="n"/></r></p></e>
+<e c=""><p><l>գաղտակուր<s n="n"/><s n="aa"/></l><r>pearl shell<s n="n"/></r></p></e>
+<!--<e c=""><p><l>գամփռ<s n="n"/><s n="aa"/></l><r>any big and powerful dog<s n="n"/></r></p></e>-->
+<!--<e c=""><p><l>գամփռ<s n="n"/><s n="aa"/></l><r>especially the Caucasian Shepherd Dog<s n="n"/></r></p></e>-->
+<e c=""><p><l>գայլ<s n="n"/><s n="aa"/></l><r>wolf<s n="n"/></r></p></e>
+<e c="rare"><p><l>գետնառյուծ<s n="n"/><s n="aa"/></l><r>chameleon<s n="n"/></r></p></e>
+<e c=""><p><l>գերի<s n="n"/><s n="aa"/></l><r>captive<s n="n"/></r></p></e>
+<e c=""><p><l>գերի<s n="n"/><s n="aa"/></l><r>prisoner<s n="n"/></r></p></e>
+<e c="vulgar, slang, offensive"><p><l>գյոթ<s n="n"/><s n="aa"/></l><r>faggot<s n="n"/></r></p></e>
+<e c="vulgar, slang, offensive"><p><l>գյոթ<s n="n"/><s n="aa"/></l><r>fag<s n="n"/></r></p></e>
+<e c="vulgar, slang, offensive"><p><l>գյոթ<s n="n"/><s n="aa"/></l><r>motherfucker<s n="n"/></r></p></e>
+<e c="vulgar, slang, offensive"><p><l>գյոթ<s n="n"/><s n="aa"/></l><r>dickhead<s n="n"/></r></p></e>
+<!--<e c="dialectal, Karabakh"><p><l>գոդի<s n="n"/><s n="aa"/></l><r>the female personage of the rain-invoking ritual and the doll personifying her<s n="n"/></r></p></e>-->
+<e c="dialectal, Karabakh"><p><l>գոդի<s n="n"/><s n="aa"/></l><r>Regenmädchen<s n="n"/></r></p></e>
+<e c=""><p><l>գոճի<s n="n"/><s n="aa"/></l><r>sucking pig<s n="n"/></r></p></e>
+<e c=""><p><l>գոճի<s n="n"/><s n="aa"/></l><r>piglet<s n="n"/></r></p></e>
+<e c=""><p><l>գոճի<s n="n"/><s n="aa"/></l><r>farrow<s n="n"/></r></p></e>
+<!--<e c=""><p><l>գոճի<s n="n"/><s n="aa"/></l><r>meat of the young pig<s n="n"/></r></p></e>-->
+<e c=""><p><l>գոմեշ<s n="n"/><s n="aa"/></l><r>buffalo<s n="n"/></r></p></e>
+<e c=""><p><l>գովասան<s n="n"/><s n="aa"/></l><r>one that praises<s n="n"/></r></p></e>
+<e c=""><p><l>գովասան<s n="n"/><s n="aa"/></l><r>praiser<s n="n"/></r></p></e>
+<e c=""><p><l>գորտ<s n="n"/><s n="aa"/></l><r>frog<s n="n"/></r></p></e>
+<e c=""><p><l>գրող<s n="n"/><s n="aa"/></l><r>writer<s n="n"/></r></p></e>
+<e c=""><p><l>դայակ<s n="n"/><s n="aa"/></l><r>nanny<s n="n"/></r></p></e>
+<e c=""><p><l>դայակ<s n="n"/><s n="aa"/></l><r>nurse<s n="n"/></r></p></e>
+<e c="Western Armenian"><p><l>դայակ<s n="n"/><s n="aa"/></l><r>midwife<s n="n"/></r></p></e>
+<e c="archaic"><p><l>դայակ<s n="n"/><s n="aa"/></l><r>tutor<s n="n"/></r></p></e>
+<!--<e c=""><p><l>դաշնակցական<s n="n"/><s n="aa"/></l><r>a member of the Armenian Revolutionary Federation<s n="n"/></r></p></e>-->
+<e c=""><p><l>դասախոս<s n="n"/><s n="aa"/></l><r>lecturer<s n="n"/></r></p></e>
+<e c=""><p><l>դասախոս<s n="n"/><s n="aa"/></l><r>university professor<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>դավա<s n="n"/><s n="aa"/></l><r>camel<s n="n"/></r></p></e>
+<!--<e c="dialectal"><p><l>դավա<s n="n"/><s n="aa"/></l><r>fabric made from camel hair<s n="n"/></r></p></e>-->
+<e c=""><p><l>դատավոր<s n="n"/><s n="aa"/></l><r>judge<s n="n"/></r></p></e>
+<!--<e c="dialectal"><p><l>դարձվոր<s n="n"/><s n="aa"/></l><r>someone with disfigured appearance<s n="n"/></r></p></e>-->
+<e c="dialectal"><p><l>դարձվոր<s n="n"/><s n="aa"/></l><r>monster<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>դարձվոր<s n="n"/><s n="aa"/></l><r>freak<s n="n"/></r></p></e>
+<e c=""><p><l>դելֆին<s n="n"/><s n="aa"/></l><r>dolphin<s n="n"/></r></p></e>
+<e c=""><p><l>դիվանագետ<s n="n"/><s n="aa"/></l><r>diplomat<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>դղեզ<s n="n"/><s n="aa"/></l><r>bee<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>դղեզ<s n="n"/><s n="aa"/></l><r>bumble-bee<s n="n"/></r></p></e>
+<e c="mythology"><p><l>դյուցազն<s n="n"/><s n="aa"/></l><r>demigod<s n="n"/></r></p></e>
+<e c=""><p><l>դյուցազն<s n="n"/><s n="aa"/></l><r>epical hero<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>դյուցազն<s n="n"/><s n="aa"/></l><r>strong<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>դյուցազն<s n="n"/><s n="aa"/></l><r>powerful man<s n="n"/></r></p></e>
+<e c="ecclesiastical"><p><l>դպիր<s n="n"/><s n="aa"/></l><r>psalm-reader<s n="n"/></r></p></e>
+<e c="historical"><p><l>դպիր<s n="n"/><s n="aa"/></l><r>scribe<s n="n"/></r></p></e>
+<e c="historical"><p><l>դպիր<s n="n"/><s n="aa"/></l><r>scholar<s n="n"/></r></p></e>
+<e c="historical"><p><l>դպիր<s n="n"/><s n="aa"/></l><r>learned man<s n="n"/></r></p></e>
+<e c=""><p><l>ելուզակ<s n="n"/><s n="aa"/></l><r>robber<s n="n"/></r></p></e>
+<e c=""><p><l>եղբայր<s n="n"/><s n="aa"/></l><r>brother<s n="n"/></r></p></e>
+<e c="informal"><p><l>եղբայր<s n="n"/><s n="aa"/></l><r>bro<s n="n"/></r></p></e>
+<e c="informal"><p><l>եղբայր<s n="n"/><s n="aa"/></l><r>buddy<s n="n"/></r></p></e>
+<e c="informal"><p><l>եղբայր<s n="n"/><s n="aa"/></l><r>pal<s n="n"/></r></p></e>
+<e c=""><p><l>եղնորթ<s n="n"/><s n="aa"/></l><r>young of the deer<s n="n"/></r></p></e>
+<e c=""><p><l>եղնորթ<s n="n"/><s n="aa"/></l><r>fawn<s n="n"/></r></p></e>
+<e c="historical"><p><l>ենիչերի<s n="n"/><s n="aa"/></l><r>janissary<s n="n"/></r></p></e>
+<e c=""><p><l>երե<s n="n"/><s n="aa"/></l><r>herbivorous game animal<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>a son or daughter<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>an offspring<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>child<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>child<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>kid<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>minor<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>baby<s n="n"/></r></p></e>
+<e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>infant<s n="n"/></r></p></e>
+<e c=""><p><l>երեց<s n="n"/><s n="aa"/></l><r>priest<s n="n"/></r></p></e>
+<e c=""><p><l>երեց<s n="n"/><s n="aa"/></l><r>presbyter<s n="n"/></r></p></e>
+<e c=""><p><l>երեց<s n="n"/><s n="aa"/></l><r>minister<s n="n"/></r></p></e>
+<e c=""><p><l>երիվար<s n="n"/><s n="aa"/></l><r>saddle horse<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>երնջակ<s n="n"/><s n="aa"/></l><r>spider<s n="n"/></r></p></e>
+<e c="male or female"><p><l>զավակ<s n="n"/><s n="aa"/></l><r>child<s n="n"/></r></p></e>
+<e c="male or female"><p><l>զավակ<s n="n"/><s n="aa"/></l><r>offspring<s n="n"/></r></p></e>
+<e c=""><p><l>զեբր<s n="n"/><s n="aa"/></l><r>zebra<s n="n"/></r></p></e>
+<e c=""><p><l>զիգն<s n="n"/><s n="aa"/></l><r>hammerhead shark<s n="n"/></r></p></e>
+<e c=""><p><l>զինվոր<s n="n"/><s n="aa"/></l><r>soldier<s n="n"/></r></p></e>
+<e c="chess"><p><l>զինվոր<s n="n"/><s n="aa"/></l><r>pawn<s n="n"/></r></p></e>
+<e c="military"><p><l>զորավար<s n="n"/><s n="aa"/></l><r>commander<s n="n"/></r></p></e>
+<e c="military"><p><l>զորավար<s n="n"/><s n="aa"/></l><r>military leader<s n="n"/></r></p></e>
+<e c="military"><p><l>զորավար<s n="n"/><s n="aa"/></l><r>general<s n="n"/></r></p></e>
+<e c=""><p><l>էգ<s n="n"/><s n="aa"/></l><r>female animal<s n="n"/></r></p></e>
+<e c="derogatory"><p><l>էգ<s n="n"/><s n="aa"/></l><r>woman<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>էրիկ<s n="n"/><s n="aa"/></l><r>husband<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>էրիկ<s n="n"/><s n="aa"/></l><r>man<s n="n"/></r></p></e>
+<e c=""><p><l>ընձառյուծ<s n="n"/><s n="aa"/></l><r>leopard<s n="n"/></r></p></e>
+<e c=""><p><l>ընձուղտ<s n="n"/><s n="aa"/></l><r>giraffe<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ընտանի<s n="n"/><s n="aa"/></l><r>wife<s n="n"/></r></p></e>
+<e c=""><p><l>ընտրյալ<s n="n"/><s n="aa"/></l><r>the chosen one<s n="n"/></r></p></e>
+<e c=""><p><l>թագավոր<s n="n"/><s n="aa"/></l><r>king<s n="n"/></r></p></e>
+<e c="card games"><p><l>թագավոր<s n="n"/><s n="aa"/></l><r>king<s n="n"/></r></p></e>
+<e c="because he carries a crown during the wedding"><p><l>թագավոր<s n="n"/><s n="aa"/></l><r>bridegroom<s n="n"/></r></p></e>
+<e c=""><p><l>թարգման<s n="n"/><s n="aa"/></l><r>translator<s n="n"/></r></p></e>
+<e c=""><p><l>թարգման<s n="n"/><s n="aa"/></l><r>interpreter<s n="n"/></r></p></e>
+<e c="opinion, etc."><p><l>թարգման<s n="n"/><s n="aa"/></l><r>exponent of<s n="n"/></r></p></e>
+<e c=""><p><l>ժամհար<s n="n"/><s n="aa"/></l><r>bell ringer<s n="n"/></r></p></e>
+<e c=""><p><l>իժ<s n="n"/><s n="aa"/></l><r>viper<s n="n"/></r></p></e>
+<e c=""><p><l>իժ<s n="n"/><s n="aa"/></l><r>any snake<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>իժ<s n="n"/><s n="aa"/></l><r>cruel<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>իժ<s n="n"/><s n="aa"/></l><r>wicked person<s n="n"/></r></p></e>
+<e c=""><p><l>իշայծյամ<s n="n"/><s n="aa"/></l><r>elk<s n="n"/></r></p></e>
+<e c=""><p><l>իշայծյամ<s n="n"/><s n="aa"/></l><r>moose<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>լալ<s n="n"/><s n="aa"/></l><r>dumb<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>լալ<s n="n"/><s n="aa"/></l><r>mute person<s n="n"/></r></p></e>
+<e c=""><p><l>լամա<s n="n"/><s n="aa"/></l><r>llama<s n="n"/></r></p></e>
+<e c="slang"><p><l>լոխ<s n="n"/><s n="aa"/></l><r>simpleton<s n="n"/></r></p></e>
+<e c="slang"><p><l>լոխ<s n="n"/><s n="aa"/></l><r>dummy<s n="n"/></r></p></e>
+<e c="mammal"><p><l>խլուրդ<s n="n"/><s n="aa"/></l><r>mole<s n="n"/></r></p></e>
+<e c="rare"><p><l>խոհակեր<s n="n"/><s n="aa"/></l><r>cook<s n="n"/></r></p></e>
+<!--<e c=""><p><l>խորենացի<s n="n"/><s n="aa"/></l><r>someone from a village called Khoren or Khorean<s n="n"/></r></p></e>-->
+<e c=""><p><l>ծառա<s n="n"/><s n="aa"/></l><r>servant<s n="n"/></r></p></e>
+<e c="bird"><p><l>ծիծեռնակ<s n="n"/><s n="aa"/></l><r>swallow<s n="n"/></r></p></e>
+<e c=""><p><l>ծնող<s n="n"/><s n="aa"/></l><r>parent<s n="n"/></r></p></e>
+<e c=""><p><l>ծովահեն<s n="n"/><s n="aa"/></l><r>pirate<s n="n"/></r></p></e>
+<e c="historical"><p><l>կասպ<s n="n"/><s n="aa"/></l><r>Caspian<s n="n"/></r></p></e>
+<e c=""><p><l>կավատ<s n="n"/><s n="aa"/></l><r>pimp<s n="n"/></r></p></e>
+<e c=""><p><l>կավատ<s n="n"/><s n="aa"/></l><r>pander<s n="n"/></r></p></e>
+<e c=""><p><l>կավատ<s n="n"/><s n="aa"/></l><r>procurer<s n="n"/></r></p></e>
+<!--<e c="historical"><p><l>կատապան<s n="n"/><s n="aa"/></l><r>a title of governors in medieval Armenia<s n="n"/></r></p></e>-->
+<!--<e c="rare"><p><l>կարգիչ<s n="n"/><s n="aa"/></l><r>someone who puts in order<s n="n"/></r></p></e>-->
+<e c="rare"><p><l>կարգիչ<s n="n"/><s n="aa"/></l><r>who arranges<s n="n"/></r></p></e>
+<e c=""><p><l>կաքավ<s n="n"/><s n="aa"/></l><r>partridge<s n="n"/></r></p></e>
+<e c="slang"><p><l>կաքավ<s n="n"/><s n="aa"/></l><r>young woman<s n="n"/></r></p></e>
+<e c="slang"><p><l>կաքավ<s n="n"/><s n="aa"/></l><r>chick<s n="n"/></r></p></e>
+<e c=""><p><l>կելտ<s n="n"/><s n="aa"/></l><r>Celt<s n="n"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="n"/><s n="aa"/></l><r>animal<s n="n"/></r></p></e>
+<!--<e c=""><p><l>կողբացի<s n="n"/><s n="aa"/></l><r>someone from the village of Koghb<s n="n"/></r></p></e>-->
+<e c=""><p><l>կոշկակար<s n="n"/><s n="aa"/></l><r>bootmaker<s n="n"/></r></p></e>
+<e c=""><p><l>կոշկակար<s n="n"/><s n="aa"/></l><r>shoemaker<s n="n"/></r></p></e>
+<e c=""><p><l>կոշկակար<s n="n"/><s n="aa"/></l><r>cobbler<s n="n"/></r></p></e>
+<e c=""><p><l>կույր<s n="n"/><s n="aa"/></l><r>blind person<s n="n"/></r></p></e>
+<e c="colloquial, mammals"><p><l>կռիս<s n="n"/><s n="aa"/></l><r>rat<s n="n"/></r></p></e>
+<e c="colloquial, figuratively, derogatory"><p><l>կռիս<s n="n"/><s n="aa"/></l><r>mean<s n="n"/></r></p></e>
+<e c="colloquial, figuratively, derogatory"><p><l>կռիս<s n="n"/><s n="aa"/></l><r>base<s n="n"/></r></p></e>
+<e c="colloquial, figuratively, derogatory"><p><l>կռիս<s n="n"/><s n="aa"/></l><r>roguish person<s n="n"/></r></p></e>
+<e c="colloquial, figuratively, derogatory"><p><l>կռիս<s n="n"/><s n="aa"/></l><r>scoundrel<s n="n"/></r></p></e>
+<e c=""><p><l>կրիա<s n="n"/><s n="aa"/></l><r>turtle<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>կրիա<s n="n"/><s n="aa"/></l><r>slow person<s n="n"/></r></p></e>
+<e c=""><p><l>համր<s n="n"/><s n="aa"/></l><r>dumb<s n="n"/></r></p></e>
+<e c=""><p><l>համր<s n="n"/><s n="aa"/></l><r>speechless<s n="n"/></r></p></e>
+<e c=""><p><l>համր<s n="n"/><s n="aa"/></l><r>mute person<s n="n"/></r></p></e>
+<e c=""><p><l>հայագետ<s n="n"/><s n="aa"/></l><r>Armenologist<s n="n"/></r></p></e>
+<e c="poetic"><p><l>հայկազն<s n="n"/><s n="aa"/></l><r>Armenian<s n="n"/></r></p></e>
+<e c=""><p><l>հայր<s n="n"/><s n="aa"/></l><r>father<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>հանի<s n="n"/><s n="aa"/></l><r>grandmother<s n="n"/></r></p></e>
+<e c=""><p><l>հանցագործ<s n="n"/><s n="aa"/></l><r>criminal<s n="n"/></r></p></e>
+<e c=""><p><l>հավ<s n="n"/><s n="aa"/></l><r>hen<s n="n"/></r></p></e>
+<e c=""><p><l>հավ<s n="n"/><s n="aa"/></l><r>chicken<s n="n"/></r></p></e>
+<e c="slang"><p><l>հավ<s n="n"/><s n="aa"/></l><r>woman<s n="n"/></r></p></e>
+<e c="slang"><p><l>հավ<s n="n"/><s n="aa"/></l><r>chick<s n="n"/></r></p></e>
+<!--<e c="colloquial"><p><l>հավ<s n="n"/><s n="aa"/></l><r>someone with a short memory<s n="n"/></r></p></e>-->
+<e c=""><p><l>հավփալ<s n="n"/><s n="aa"/></l><r>wood pigeon<s n="n"/></r></p></e>
+<e c=""><p><l>հավք<s n="n"/><s n="aa"/></l><r>bird<s n="n"/></r></p></e>
+<e c="in the plural"><p><l>հարազատ<s n="n"/><s n="aa"/></l><r>relatives<s n="n"/></r></p></e>
+<e c="in the plural"><p><l>հարազատ<s n="n"/><s n="aa"/></l><r>relations<s n="n"/></r></p></e>
+<e c="in the plural"><p><l>հարազատ<s n="n"/><s n="aa"/></l><r>kinsfolk<s n="n"/></r></p></e>
+<e c="in the plural"><p><l>հարազատ<s n="n"/><s n="aa"/></l><r>kin<s n="n"/></r></p></e>
+<e c="in the plural"><p><l>հարազատ<s n="n"/><s n="aa"/></l><r>one's people<s n="n"/></r></p></e>
+<e c="in the plural"><p><l>հարազատ<s n="n"/><s n="aa"/></l><r>folk<s n="n"/></r></p></e>
+<e c=""><p><l>հարս<s n="n"/><s n="aa"/></l><r>fiancée<s n="n"/></r></p></e>
+<e c=""><p><l>հարս<s n="n"/><s n="aa"/></l><r>bride<s n="n"/></r></p></e>
+<e c=""><p><l>հարս<s n="n"/><s n="aa"/></l><r>a newlywed woman<s n="n"/></r></p></e>
+<e c="the woman in relation to her husband's family"><p><l>հարս<s n="n"/><s n="aa"/></l><r>daughter-in-law<s n="n"/></r></p></e>
+<e c="the woman in relation to her husband's family"><p><l>հարս<s n="n"/><s n="aa"/></l><r>sister-in-law<s n="n"/></r></p></e>
+<e c="computing"><p><l>հաքեր<s n="n"/><s n="aa"/></l><r>hacker<s n="n"/></r></p></e>
+<e c=""><p><l>հեծյալ<s n="n"/><s n="aa"/></l><r>horseman<s n="n"/></r></p></e>
+<e c=""><p><l>հեծյալ<s n="n"/><s n="aa"/></l><r>rider<s n="n"/></r></p></e>
+<e c=""><p><l>հիվանդ<s n="n"/><s n="aa"/></l><r>patient<s n="n"/></r></p></e>
+<!--<e c=""><p><l>հիվանդ<s n="n"/><s n="aa"/></l><r>person who receives treatment<s n="n"/></r></p></e>-->
+<e c="diplomatics"><p><l>հյուպատոս<s n="n"/><s n="aa"/></l><r>consul<s n="n"/></r></p></e>
+<e c="dated"><p><l>հնախոս<s n="n"/><s n="aa"/></l><r>archaeologist<s n="n"/></r></p></e>
+<e c=""><p><l>հոբելյար<s n="n"/><s n="aa"/></l><r>person whose anniversary<s n="n"/></r></p></e>
+<e c=""><p><l>հոբելյար<s n="n"/><s n="aa"/></l><r>jubilee is celebrated<s n="n"/></r></p></e>
+<e c=""><p><l>հոպոպ<s n="n"/><s n="aa"/></l><r>hoopoe<s n="n"/></r></p></e>
+<e c=""><p><l>հորաքույր<s n="n"/><s n="aa"/></l><r>paternal aunt<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged woman"><p><l>հորաքույր<s n="n"/><s n="aa"/></l><r>madam<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged woman"><p><l>հորաքույր<s n="n"/><s n="aa"/></l><r>lady<s n="n"/></r></p></e>
+<e c="father's brother"><p><l>հորեղբայր<s n="n"/><s n="aa"/></l><r>paternal uncle<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged man"><p><l>հորեղբայր<s n="n"/><s n="aa"/></l><r>sir<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged man"><p><l>հորեղբայր<s n="n"/><s n="aa"/></l><r>mister<s n="n"/></r></p></e>
+<e c=""><p><l>հորթ<s n="n"/><s n="aa"/></l><r>calf<s n="n"/></r></p></e>
+<e c=""><p><l>հույն<s n="n"/><s n="aa"/></l><r>Greek<s n="n"/></r></p></e>
+<e c=""><p><l>հռետոր<s n="n"/><s n="aa"/></l><r>orator<s n="n"/></r></p></e>
+<e c=""><p><l>հռետոր<s n="n"/><s n="aa"/></l><r>public speaker<s n="n"/></r></p></e>
+<e c=""><p><l>հռետոր<s n="n"/><s n="aa"/></l><r>rhetorician<s n="n"/></r></p></e>
+<e c=""><p><l>հսկա<s n="n"/><s n="aa"/></l><r>giant<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>հսկա<s n="n"/><s n="aa"/></l><r>very tall person<s n="n"/></r></p></e>
+<e c=""><p><l>հրեա<s n="n"/><s n="aa"/></l><r>Jew<s n="n"/></r></p></e>
+<e c=""><p><l>հրեա<s n="n"/><s n="aa"/></l><r>Hebrew<s n="n"/></r></p></e>
+<e c=""><p><l>հրեշտակ<s n="n"/><s n="aa"/></l><r>angel<s n="n"/></r></p></e>
+<e c=""><p><l>ձի<s n="n"/><s n="aa"/></l><r>horse<s n="n"/></r></p></e>
+<e c="chess"><p><l>ձի<s n="n"/><s n="aa"/></l><r>knight<s n="n"/></r></p></e>
+<e c="Vespa crabro"><p><l>ձիաստաց<s n="n"/><s n="aa"/></l><r>hornet<s n="n"/></r></p></e>
+<e c=""><p><l>ձուկ<s n="n"/><s n="aa"/></l><r>fish<s n="n"/></r></p></e>
+<e c="anatomy"><p><l>ձուկ<s n="n"/><s n="aa"/></l><r>calf muscle<s n="n"/></r></p></e>
+<!--<e c="dialectal"><p><l>ձուկ<s n="n"/><s n="aa"/></l><r>a lightning flashing far on the horizon<s n="n"/></r></p></e>-->
+<e c=""><p><l>ղպտի<s n="n"/><s n="aa"/></l><r>a Copt<s n="n"/></r></p></e>
+<e c="colloquial, dialectal"><p><l>ճամփորդ<s n="n"/><s n="aa"/></l><r>traveller<s n="n"/></r></p></e>
+<e c="colloquial, dialectal"><p><l>ճամփորդ<s n="n"/><s n="aa"/></l><r>wayfarer<s n="n"/></r></p></e>
+<e c="insect"><p><l>ճանճ<s n="n"/><s n="aa"/></l><r>fly<s n="n"/></r></p></e>
+<e c=""><p><l>ճուտ<s n="n"/><s n="aa"/></l><r>chick<s n="n"/></r></p></e>
+<e c=""><p><l>ճուտ<s n="n"/><s n="aa"/></l><r>nestling<s n="n"/></r></p></e>
+<!--<e c=""><p><l>ճուտ<s n="n"/><s n="aa"/></l><r>young of a bird<s n="n"/></r></p></e>-->
+<e c=""><p><l>ճուտ<s n="n"/><s n="aa"/></l><r>young chicken<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ճուտ<s n="n"/><s n="aa"/></l><r>small child<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ճուտ<s n="n"/><s n="aa"/></l><r>youngster<s n="n"/></r></p></e>
+<e c=""><p><l>մայա<s n="n"/><s n="aa"/></l><r>Maya<s n="n"/></r></p></e>
+<e c=""><p><l>մայր<s n="n"/><s n="aa"/></l><r>mother<s n="n"/></r></p></e>
+<e c=""><p><l>մայրապետ<s n="n"/><s n="aa"/></l><r>abbess<s n="n"/></r></p></e>
+<!--<e c=""><p><l>մայրապետ<s n="n"/><s n="aa"/></l><r>Mother Superior of a nunnery<s n="n"/></r></p></e>-->
+<e c="historical"><p><l>մարաջախտ<s n="n"/><s n="aa"/></l><r>marshal<s n="n"/></r></p></e>
+<e c="historical"><p><l>մարաջախտ<s n="n"/><s n="aa"/></l><r>chief commander<s n="n"/></r></p></e>
+<e c=""><p><l>մարգարեուհի<s n="n"/><s n="aa"/></l><r>prophetess<s n="n"/></r></p></e>
+<e c=""><p><l>մարդելույզ<s n="n"/><s n="aa"/></l><r>flatterer<s n="n"/></r></p></e>
+<e c=""><p><l>մարդելույզ<s n="n"/><s n="aa"/></l><r>seducer<s n="n"/></r></p></e>
+<e c=""><p><l>մարի<s n="n"/><s n="aa"/></l><r>hen<s n="n"/></r></p></e>
+<e c=""><p><l>մարի<s n="n"/><s n="aa"/></l><r>female chicken<s n="n"/></r></p></e>
+<!--<e c=""><p><l>մարի<s n="n"/><s n="aa"/></l><r>the female of any bird<s n="n"/></r></p></e>-->
+<e c=""><p><l>մարտիրոս<s n="n"/><s n="aa"/></l><r>martyr<s n="n"/></r></p></e>
+<e c=""><p><l>միլիարդատեր<s n="n"/><s n="aa"/></l><r>billionaire<s n="n"/></r></p></e>
+<e c=""><p><l>միլիոնատեր<s n="n"/><s n="aa"/></l><r>millionaire<s n="n"/></r></p></e>
+<e c=""><p><l>միմոս<s n="n"/><s n="aa"/></l><r>mime<s n="n"/></r></p></e>
+<e c=""><p><l>միմոս<s n="n"/><s n="aa"/></l><r>clown<s n="n"/></r></p></e>
+<e c=""><p><l>միմոս<s n="n"/><s n="aa"/></l><r>buffoon<s n="n"/></r></p></e>
+<e c=""><p><l>միմոս<s n="n"/><s n="aa"/></l><r>jester<s n="n"/></r></p></e>
+<e c=""><p><l>մորաքույր<s n="n"/><s n="aa"/></l><r>maternal aunt<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged woman"><p><l>մորաքույր<s n="n"/><s n="aa"/></l><r>madam<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged woman"><p><l>մորաքույր<s n="n"/><s n="aa"/></l><r>lady<s n="n"/></r></p></e>
+<e c=""><p><l>մուկ<s n="n"/><s n="aa"/></l><r>mouse<s n="n"/></r></p></e>
+<!--<e c=""><p><l>մուն<s n="n"/><s n="aa"/></l><r>kind of a small insect<s n="n"/></r></p></e>-->
+<e c=""><p><l>մուն<s n="n"/><s n="aa"/></l><r>itch<s n="n"/></r></p></e>
+<e c=""><p><l>մուն<s n="n"/><s n="aa"/></l><r>fleshworm<s n="n"/></r></p></e>
+<e c=""><p><l>մտրուկ<s n="n"/><s n="aa"/></l><r>colt<s n="n"/></r></p></e>
+<e c=""><p><l>մտրուկ<s n="n"/><s n="aa"/></l><r>young male horse<s n="n"/></r></p></e>
+<e c=""><p><l>մտրուկ<s n="n"/><s n="aa"/></l><r>male horse in general<s n="n"/></r></p></e>
+<e c="rare"><p><l>նավազ<s n="n"/><s n="aa"/></l><r>sailor<s n="n"/></r></p></e>
+<e c=""><p><l>նավաստի<s n="n"/><s n="aa"/></l><r>sailor<s n="n"/></r></p></e>
+<e c=""><p><l>նավաստի<s n="n"/><s n="aa"/></l><r>seaman<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ներ<s n="n"/><s n="aa"/></l><r>sister-in-law<s n="n"/></r></p></e>
+<e c=""><p><l>նիդերլանդացի<s n="n"/><s n="aa"/></l><r>Dutch person<s n="n"/></r></p></e>
+<e c="musician"><p><l>նվագածու<s n="n"/><s n="aa"/></l><r>performer<s n="n"/></r></p></e>
+<e c=""><p><l>շնիկ<s n="n"/><s n="aa"/></l><r>little dog<s n="n"/></r></p></e>
+<e c=""><p><l>շնիկ<s n="n"/><s n="aa"/></l><r>doggy<s n="n"/></r></p></e>
+<e c=""><p><l>շնիկ<s n="n"/><s n="aa"/></l><r>bow-wow<s n="n"/></r></p></e>
+<e c=""><p><l>շուն<s n="n"/><s n="aa"/></l><r>dog<s n="n"/></r></p></e>
+<e c="informal"><p><l>շոֆեր<s n="n"/><s n="aa"/></l><r>driver<s n="n"/></r></p></e>
+<e c=""><p><l>շփագետ<s n="n"/><s n="aa"/></l><r>tribologist<s n="n"/></r></p></e>
+<e c=""><p><l>ոզնի<s n="n"/><s n="aa"/></l><r>hedgehog<s n="n"/></r></p></e>
+<e c=""><p><l>ոջիլ<s n="n"/><s n="aa"/></l><r>louse<s n="n"/></r></p></e>
+<e c=""><p><l>ոստիկան<s n="n"/><s n="aa"/></l><r>policeman<s n="n"/></r></p></e>
+<e c=""><p><l>որդի<s n="n"/><s n="aa"/></l><r>son<s n="n"/></r></p></e>
+<!--<e c=""><p><l>որդի<s n="n"/><s n="aa"/></l><r>Վարուժանը հպարտանում է իր որդով.<s n="n"/></r></p></e>-->
+<!--<e c=""><p><l>որդի<s n="n"/><s n="aa"/></l><r>Varužanə hpartanum ē ir ordov.<s n="n"/></r></p></e>-->
+<!--<e c=""><p><l>որդի<s n="n"/><s n="aa"/></l><r>Varuzhan is proud of his son.<s n="n"/></r></p></e>-->
+<!--<e c="rare"><p><l>որդի<s n="n"/><s n="aa"/></l><r>offspring of any gender<s n="n"/></r></p></e>-->
+<e c="rare"><p><l>որդի<s n="n"/><s n="aa"/></l><r>child<s n="n"/></r></p></e>
+<e c=""><p><l>որդի<s n="n"/><s n="aa"/></l><r>heir<s n="n"/></r></p></e>
+<e c=""><p><l>որդյակ<s n="n"/><s n="aa"/></l><r>Diminutive of որդի<s n="n"/></r></p></e>
+<e c=""><p><l>որոր<s n="n"/><s n="aa"/></l><r>seagull<s n="n"/></r></p></e>
+<e c=""><p><l>որոր<s n="n"/><s n="aa"/></l><r>gull<s n="n"/></r></p></e>
+<e c=""><p><l>ուղտ<s n="n"/><s n="aa"/></l><r>camel<s n="n"/></r></p></e>
+<e c=""><p><l>ուշաստիկ<s n="n"/><s n="aa"/></l><r>someone with big ears<s n="n"/></r></p></e>
+<e c=""><p><l>ուտի<s n="n"/><s n="aa"/></l><r>Udi person<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>չաղո<s n="n"/><s n="aa"/></l><r>fatty<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>չաղո<s n="n"/><s n="aa"/></l><r>fatso<s n="n"/></r></p></e>
+<e c=""><p><l>չքավոր<s n="n"/><s n="aa"/></l><r>poor man<s n="n"/></r></p></e>
+<!--<e c="usually old woman"><p><l>պառավ<s n="n"/><s n="aa"/></l><r>old man or old woman<s n="n"/></r></p></e>-->
+<e c=""><p><l>պատանյակ<s n="n"/><s n="aa"/></l><r>Diminutive of պատանի<s n="n"/></r></p></e>
+<e c=""><p><l>պարտատեր<s n="n"/><s n="aa"/></l><r>creditor<s n="n"/></r></p></e>
+<e c=""><p><l>պարտատեր<s n="n"/><s n="aa"/></l><r>lender<s n="n"/></r></p></e>
+<e c=""><p><l>պարտիզպան<s n="n"/><s n="aa"/></l><r>gardener<s n="n"/></r></p></e>
+<e c="somewhat poetic and literary"><p><l>ռազմիկ<s n="n"/><s n="aa"/></l><r>warrior<s n="n"/></r></p></e>
+<e c="somewhat poetic and literary"><p><l>ռազմիկ<s n="n"/><s n="aa"/></l><r>soldier<s n="n"/></r></p></e>
+<e c=""><p><l>ռնգեղջյուր<s n="n"/><s n="aa"/></l><r>rhinoceros<s n="n"/></r></p></e>
+<e c=""><p><l>ռուս<s n="n"/><s n="aa"/></l><r>an ethnic Russian person<s n="n"/></r></p></e>
+<e c=""><p><l>սարդ<s n="n"/><s n="aa"/></l><r>spider<s n="n"/></r></p></e>
+<e c=""><p><l>սերբ<s n="n"/><s n="aa"/></l><r>a Serb person<s n="n"/></r></p></e>
+<e c=""><p><l>սիգ<s n="n"/><s n="aa"/></l><r>cisco<s n="n"/></r></p></e>
+<e c=""><p><l>սիմոնական<s n="n"/><s n="aa"/></l><r>simoniac<s n="n"/></r></p></e>
+<e c=""><p><l>սիմոնական<s n="n"/><s n="aa"/></l><r>simonist<s n="n"/></r></p></e>
+<e c="husband's mother"><p><l>սկեսուր<s n="n"/><s n="aa"/></l><r>mother-in-law<s n="n"/></r></p></e>
+<e c="husband's father"><p><l>սկեսրայր<s n="n"/><s n="aa"/></l><r>father-in-law<s n="n"/></r></p></e>
+<e c="military"><p><l>սպա<s n="n"/><s n="aa"/></l><r>officer<s n="n"/></r></p></e>
+<e c=""><p><l>սպասավոր<s n="n"/><s n="aa"/></l><r>servant<s n="n"/></r></p></e>
+<e c=""><p><l>սպասավոր<s n="n"/><s n="aa"/></l><r>footman<s n="n"/></r></p></e>
+<e c=""><p><l>սպասավոր<s n="n"/><s n="aa"/></l><r>lackey<s n="n"/></r></p></e>
+<e c="military"><p><l>սպասյակ<s n="n"/><s n="aa"/></l><r>batman<s n="n"/></r></p></e>
+<e c="military"><p><l>սպասյակ<s n="n"/><s n="aa"/></l><r>striker<s n="n"/></r></p></e>
+<e c=""><p><l>սպասյակ<s n="n"/><s n="aa"/></l><r>servant<s n="n"/></r></p></e>
+<e c="historical"><p><l>սպարապետ<s n="n"/><s n="aa"/></l><r>sparapet<s n="n"/></r></p></e>
+<e c=""><p><l>ստեղծիչ<s n="n"/><s n="aa"/></l><r>creator<s n="n"/></r></p></e>
+<e c=""><p><l>սրբուհի<s n="n"/><s n="aa"/></l><r>holy woman<s n="n"/></r></p></e>
+<e c=""><p><l>սրբուհի<s n="n"/><s n="aa"/></l><r>female saint<s n="n"/></r></p></e>
+<e c=""><p><l>վագր<s n="n"/><s n="aa"/></l><r>tiger<s n="n"/></r></p></e>
+<!--<e c=""><p><l>վարձվոր<s n="n"/><s n="aa"/></l><r>someone hired to do some work<s n="n"/></r></p></e>-->
+<e c=""><p><l>վարձվոր<s n="n"/><s n="aa"/></l><r>tenant<s n="n"/></r></p></e>
+<e c=""><p><l>վարձվոր<s n="n"/><s n="aa"/></l><r>renter<s n="n"/></r></p></e>
+<e c=""><p><l>վարուժան<s n="n"/><s n="aa"/></l><r>male bird<s n="n"/></r></p></e>
+<e c=""><p><l>վեզիր<s n="n"/><s n="aa"/></l><r>vizier<s n="n"/></r></p></e>
+<e c="Armenian mythology"><p><l>վիշապ<s n="n"/><s n="aa"/></l><r>vishap<s n="n"/></r></p></e>
+<e c=""><p><l>վհուկ<s n="n"/><s n="aa"/></l><r>magician<s n="n"/></r></p></e>
+<e c=""><p><l>վհուկ<s n="n"/><s n="aa"/></l><r>sorcerer<s n="n"/></r></p></e>
+<e c=""><p><l>վհուկ<s n="n"/><s n="aa"/></l><r>wizard<s n="n"/></r></p></e>
+<e c=""><p><l>վհուկ<s n="n"/><s n="aa"/></l><r>witch<s n="n"/></r></p></e>
+<e c=""><p><l>վհուկ<s n="n"/><s n="aa"/></l><r>evil woman<s n="n"/></r></p></e>
+<e c=""><p><l>վհուկ<s n="n"/><s n="aa"/></l><r>vixen<s n="n"/></r></p></e>
+<e c=""><p><l>վհուկ<s n="n"/><s n="aa"/></l><r>hag<s n="n"/></r></p></e>
+<e c="husband's brother's wife"><p><l>տագերակին<s n="n"/><s n="aa"/></l><r>sister-in-law<s n="n"/></r></p></e>
+<e c="husband's sister"><p><l>տալ<s n="n"/><s n="aa"/></l><r>sister-in-law<s n="n"/></r></p></e>
+<e c="historical"><p><l>տանուտեր<s n="n"/><s n="aa"/></l><r>village elder<s n="n"/></r></p></e>
+<e c="historical"><p><l>տանուտեր<s n="n"/><s n="aa"/></l><r>headman<s n="n"/></r></p></e>
+<e c="historical"><p><l>տանուտեր<s n="n"/><s n="aa"/></l><r>patriarch<s n="n"/></r></p></e>
+<!--<e c="historical"><p><l>տանուտեր<s n="n"/><s n="aa"/></l><r>chief of a family or race<s n="n"/></r></p></e>-->
+<e c=""><p><l>տանուտեր<s n="n"/><s n="aa"/></l><r>tenant<s n="n"/></r></p></e>
+<e c=""><p><l>տանուտեր<s n="n"/><s n="aa"/></l><r>occupant<s n="n"/></r></p></e>
+<!--<e c="archaic, astrology"><p><l>տանուտեր<s n="n"/><s n="aa"/></l><r>the sign of the zodiac which houses the Sun in the current month<s n="n"/></r></p></e>-->
+<e c=""><p><l>տանտեր<s n="n"/><s n="aa"/></l><r>house owner<s n="n"/></r></p></e>
+<e c=""><p><l>տանտեր<s n="n"/><s n="aa"/></l><r>householder<s n="n"/></r></p></e>
+<e c=""><p><l>տառեխ<s n="n"/><s n="aa"/></l><r>Chalcalburnus tarichi<s n="n"/></r></p></e>
+<e c=""><p><l>տավար<s n="n"/><s n="aa"/></l><r>cattle<s n="n"/></r></p></e>
+<e c="derogatory"><p><l>տավար<s n="n"/><s n="aa"/></l><r>brute<s n="n"/></r></p></e>
+<e c="derogatory"><p><l>տավար<s n="n"/><s n="aa"/></l><r>beast<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>տատմեր<s n="n"/><s n="aa"/></l><r>midwife<s n="n"/></r></p></e>
+<e c=""><p><l>տգետ<s n="n"/><s n="aa"/></l><r>ignoramus<s n="n"/></r></p></e>
+<e c="husband's brother"><p><l>տեգր<s n="n"/><s n="aa"/></l><r>brother-in-law<s n="n"/></r></p></e>
+<e c=""><p><l>տեր<s n="n"/><s n="aa"/></l><r>owner<s n="n"/></r></p></e>
+<e c=""><p><l>տեր<s n="n"/><s n="aa"/></l><r>proprietor<s n="n"/></r></p></e>
+<e c=""><p><l>տեր<s n="n"/><s n="aa"/></l><r>lord<s n="n"/></r></p></e>
+<e c=""><p><l>տեր<s n="n"/><s n="aa"/></l><r>master<s n="n"/></r></p></e>
+<e c="capitalized"><p><l>տեր<s n="n"/><s n="aa"/></l><r>God<s n="n"/></r></p></e>
+<e c="capitalized"><p><l>տեր<s n="n"/><s n="aa"/></l><r>the Lord<s n="n"/></r></p></e>
+<e c="capitalized"><p><l>տեր<s n="n"/><s n="aa"/></l><r>Jesus<s n="n"/></r></p></e>
+<e c="form of address to a priest"><p><l>տեր<s n="n"/><s n="aa"/></l><r>father<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>տերտեր<s n="n"/><s n="aa"/></l><r>priest<s n="n"/></r></p></e>
+<!--<e c="archaic"><p><l>տիրացու<s n="n"/><s n="aa"/></l><r>someone preparing to become a priest<s n="n"/></r></p></e>-->
+<!--<e c="religion"><p><l>տիրացու<s n="n"/><s n="aa"/></l><r>a low rank in church hierarchy<s n="n"/></r></p></e>-->
+<!--<e c="religion"><p><l>տիրացու<s n="n"/><s n="aa"/></l><r>one step lower than deacon: reader<s n="n"/></r></p></e>-->
+<e c="religion"><p><l>տիրացու<s n="n"/><s n="aa"/></l><r>psalm-reader<s n="n"/></r></p></e>
+<e c="religion"><p><l>տիրացու<s n="n"/><s n="aa"/></l><r>sexton<s n="n"/></r></p></e>
+<e c=""><p><l>տնտեսագետ<s n="n"/><s n="aa"/></l><r>economist<s n="n"/></r></p></e>
+<e c=""><p><l>տնօրեն<s n="n"/><s n="aa"/></l><r>director<s n="n"/></r></p></e>
+<e c=""><p><l>տնօրեն<s n="n"/><s n="aa"/></l><r>manager<s n="n"/></r></p></e>
+<e c=""><p><l>տնօրեն<s n="n"/><s n="aa"/></l><r>principal<s n="n"/></r></p></e>
+<e c=""><p><l>ցուլ<s n="n"/><s n="aa"/></l><r>bull<s n="n"/></r></p></e>
+<e c="Western Armenian"><p><l>փախստյա<s n="n"/><s n="aa"/></l><r>refugee<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>փահլեւան<s n="n"/><s n="aa"/></l><r>ropedancer<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>փահլեւան<s n="n"/><s n="aa"/></l><r>tightrope walker<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>փահլեւան<s n="n"/><s n="aa"/></l><r>ropewalker<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>փահլեւան<s n="n"/><s n="aa"/></l><r>wrestler<s n="n"/></r></p></e>
+<!--<e c="dialectal"><p><l>փահլեւան<s n="n"/><s n="aa"/></l><r>big strong brave man<s n="n"/></r></p></e>-->
+<e c="title"><p><l>փաշա<s n="n"/><s n="aa"/></l><r>pasha<s n="n"/></r></p></e>
+<e c=""><p><l>փարավոն<s n="n"/><s n="aa"/></l><r>pharaoh<s n="n"/></r></p></e>
+<!--<e c=""><p><l>փարպեցի<s n="n"/><s n="aa"/></l><r>someone from the village of Parpi<s n="n"/></r></p></e>-->
+<e c=""><p><l>փեսա<s n="n"/><s n="aa"/></l><r>fiancé<s n="n"/></r></p></e>
+<e c=""><p><l>փեսա<s n="n"/><s n="aa"/></l><r>bridegroom<s n="n"/></r></p></e>
+<e c=""><p><l>փեսա<s n="n"/><s n="aa"/></l><r>groom<s n="n"/></r></p></e>
+<e c="husband of a sister or sister-in-law"><p><l>փեսա<s n="n"/><s n="aa"/></l><r>brother-in-law<s n="n"/></r></p></e>
+<e c=""><p><l>փեսա<s n="n"/><s n="aa"/></l><r>son-in-law<s n="n"/></r></p></e>
+<!--<e c=""><p><l>փեսա<s n="n"/><s n="aa"/></l><r>husband of any close relative<s n="n"/></r></p></e>-->
+<e c=""><p><l>փիլիսոփա<s n="n"/><s n="aa"/></l><r>philosopher<s n="n"/></r></p></e>
+<e c=""><p><l>փիղ<s n="n"/><s n="aa"/></l><r>elephant<s n="n"/></r></p></e>
+<e c="chess"><p><l>փիղ<s n="n"/><s n="aa"/></l><r>bishop<s n="n"/></r></p></e>
+<e c="mythology"><p><l>փյունիկ<s n="n"/><s n="aa"/></l><r>phoenix<s n="n"/></r></p></e>
+<e c=""><p><l>փողահար<s n="n"/><s n="aa"/></l><r>trumpeter<s n="n"/></r></p></e>
+<e c=""><p><l>քահանա<s n="n"/><s n="aa"/></l><r>priest<s n="n"/></r></p></e>
+<e c=""><p><l>քահանա<s n="n"/><s n="aa"/></l><r>religious minister<s n="n"/></r></p></e>
+<e c=""><p><l>քաղաքագետ<s n="n"/><s n="aa"/></l><r>political scientist<s n="n"/></r></p></e>
+<e c=""><p><l>քաղաքագետ<s n="n"/><s n="aa"/></l><r>politician<s n="n"/></r></p></e>
+<e c="Armenian mythology"><p><l>քաջք<s n="n"/><s n="aa"/></l><r>kaj<s n="n"/></r></p></e>
+<e c=""><p><l>քարտուղար<s n="n"/><s n="aa"/></l><r>secretary<s n="n"/></r></p></e>
+<e c="husband of one's wife's sister"><p><l>քենակալ<s n="n"/><s n="aa"/></l><r>brother-in-law<s n="n"/></r></p></e>
+<e c="wife's sister"><p><l>քենի<s n="n"/><s n="aa"/></l><r>sister-in-law<s n="n"/></r></p></e>
+<e c="mother's sister-in-law"><p><l>քեռակին<s n="n"/><s n="aa"/></l><r>maternal aunt<s n="n"/></r></p></e>
+<e c=""><p><l>քեռի<s n="n"/><s n="aa"/></l><r>maternal uncle<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged man"><p><l>քեռի<s n="n"/><s n="aa"/></l><r>sir<s n="n"/></r></p></e>
+<e c="a polite way of addressing a middle-aged man"><p><l>քեռի<s n="n"/><s n="aa"/></l><r>mister<s n="n"/></r></p></e>
+<e c=""><p><l>քերականագետ<s n="n"/><s n="aa"/></l><r>grammarian<s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>քյանդրբազ<s n="n"/><s n="aa"/></l><r>ropedancer<s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>քյանդրբազ<s n="n"/><s n="aa"/></l><r>tightrope walker<s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>քյանդրբազ<s n="n"/><s n="aa"/></l><r>ropewalker<s n="n"/></r></p></e>
+<e c=""><p><l>քոշ<s n="n"/><s n="aa"/></l><r>he-goat<s n="n"/></r></p></e>
+<e c=""><p><l>քոշ<s n="n"/><s n="aa"/></l><r>billygoat<s n="n"/></r></p></e>
+<e c=""><p><l>քոչվոր<s n="n"/><s n="aa"/></l><r>nomad<s n="n"/></r></p></e>
+<e c=""><p><l>քույր<s n="n"/><s n="aa"/></l><r>sister<s n="n"/></r></p></e>
+<e c=""><p><l>քույր<s n="n"/><s n="aa"/></l><r>nurse<s n="n"/></r></p></e>
+<!--<e c=""><p><l>քուռակ<s n="n"/><s n="aa"/></l><r>young of a horse or a donkey<s n="n"/></r></p></e>-->
+<e c=""><p><l>քուռակ<s n="n"/><s n="aa"/></l><r>colt<s n="n"/></r></p></e>
+<e c=""><p><l>քուռակ<s n="n"/><s n="aa"/></l><r>foal<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>քուռակ<s n="n"/><s n="aa"/></l><r>generic mild insult<s n="n"/></r></p></e>
+<e c=""><p><l>օձ<s n="n"/><s n="aa"/></l><r>snake<s n="n"/></r></p></e>
+<e c=""><p><l>օձ<s n="n"/><s n="aa"/></l><r>serpent<s n="n"/></r></p></e>
+<e c=""><p><l>օմար<s n="n"/><s n="aa"/></l><r>lobster<s n="n"/></r></p></e>
+<e c=""><p><l>օսեթ<s n="n"/><s n="aa"/></l><r>Ossetian<s n="n"/></r></p></e>
+<e c=""><p><l>օրանգուտան<s n="n"/><s n="aa"/></l><r>orangutan<s n="n"/></r></p></e>
+<e c=""><p><l>օրիորդ<s n="n"/><s n="aa"/></l><r>girl<s n="n"/></r></p></e>
+<e c=""><p><l>օրիորդ<s n="n"/><s n="aa"/></l><r>unmarried woman<s n="n"/></r></p></e>
+<e c=""><p><l>օրիորդ<s n="n"/><s n="aa"/></l><r>maid<s n="n"/></r></p></e>
+<e c=""><p><l>օրիորդ<s n="n"/><s n="aa"/></l><r>maiden<s n="n"/></r></p></e>
+<e c=""><p><l>օրիորդ<s n="n"/><s n="aa"/></l><r>damsel<s n="n"/></r></p></e>
+<e c="formal, way of address"><p><l>օրիորդ<s n="n"/><s n="aa"/></l><r>young lady<s n="n"/></r></p></e>
+<e c="formal, way of address"><p><l>օրիորդ<s n="n"/><s n="aa"/></l><r>miss<s n="n"/></r></p></e>
+<e c="history"><p><l>ֆեոդալ<s n="n"/><s n="aa"/></l><r>feudal lord<s n="n"/></r></p></e>
+<e c=""><p><l>ֆիզիկոս<s n="n"/><s n="aa"/></l><r>physicist<s n="n"/></r></p></e>
+<e c="person"><p><l>ֆինն<s n="n"/><s n="aa"/></l><r>Finn<s n="n"/></r></p></e>
+<e c="person"><p><l>ֆիջիացի<s n="n"/><s n="aa"/></l><r>Fijian<s n="n"/></r></p></e>
+<e c="person"><p><l>ֆլորենցիացի<s n="n"/><s n="aa"/></l><r>Florentine<s n="n"/></r></p></e>
+<e c=""><p><l>ֆուտբոլասեր<s n="n"/><s n="aa"/></l><r>football fan<s n="n"/></r></p></e>
+<e c=""><p><l>ֆուտբոլասեր<s n="n"/><s n="aa"/></l><r>soccer fan<s n="n"/></r></p></e>
+<e c="person"><p><l>ֆրիզ<s n="n"/><s n="aa"/></l><r>Frisian<s n="n"/></r></p></e>
+<e c="Western Armenian"><p><l>ակռա<s n="n"/><s n="nn"/></l><r>tooth<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ավտո<s n="n"/><s n="nn"/></l><r>car<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>ավտո<s n="n"/><s n="nn"/></l><r>automobile<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ափի<s n="n"/><s n="nn"/></l><r>father<s n="n"/></r></p></e>
+<!--<e c="dialectal"><p><l>ափի<s n="n"/><s n="nn"/></l><r>honouring address to old people<s n="n"/></r></p></e>-->
+<e c=""><p><l>աքիս<s n="n"/><s n="nn"/></l><r>weasel<s n="n"/></r></p></e>
+<e c="music"><p><l>բալալայկա<s n="n"/><s n="nn"/></l><r>balalaika<s n="n"/></r></p></e>
+<e c=""><p><l>բլոգեր<s n="n"/><s n="nn"/></l><r>blogger<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>եվրո<s n="n"/><s n="nn"/></l><r>euro<s n="n"/></r></p></e>
+<e c="music"><p><l>զուռնա<s n="n"/><s n="nn"/></l><r>zurna<s n="n"/></r></p></e>
+<e c=""><p><l>էներգիա<s n="n"/><s n="nn"/></l><r>energy<s n="n"/></r></p></e>
+<e c=""><p><l>ընծա<s n="n"/><s n="nn"/></l><r>offering<s n="n"/></r></p></e>
+<e c=""><p><l>ընծա<s n="n"/><s n="nn"/></l><r>present<s n="n"/></r></p></e>
+<e c=""><p><l>ընծա<s n="n"/><s n="nn"/></l><r>gift<s n="n"/></r></p></e>
+<e c="archaic"><p><l>ընծա<s n="n"/><s n="nn"/></l><r>sacrifice<s n="n"/></r></p></e>
+<e c=""><p><l>թավա<s n="n"/><s n="nn"/></l><r>frying pan<s n="n"/></r></p></e>
+<e c=""><p><l>թավա<s n="n"/><s n="nn"/></l><r>pan<s n="n"/></r></p></e>
+<e c=""><p><l>թավա<s n="n"/><s n="nn"/></l><r>skillet<s n="n"/></r></p></e>
+<e c=""><p><l>թարխանա<s n="n"/><s n="nn"/></l><r>tarhana<s n="n"/></r></p></e>
+<e c=""><p><l>իմունիզացիա<s n="n"/><s n="nn"/></l><r>immunisation<s n="n"/></r></p></e>
+<e c=""><p><l>լահմաջո<s n="n"/><s n="nn"/></l><r>lahmacun<s n="n"/></r></p></e>
+<e c="geology"><p><l>լավա<s n="n"/><s n="nn"/></l><r>lava<s n="n"/></r></p></e>
+<e c="game of chance similar to bingo"><p><l>լոտո<s n="n"/><s n="nn"/></l><r>lotto<s n="n"/></r></p></e>
+<e c="historical"><p><l>լումա<s n="n"/><s n="nn"/></l><r>small currency unit<s n="n"/></r></p></e>
+<e c="historical"><p><l>լումա<s n="n"/><s n="nn"/></l><r>mite<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>լումա<s n="n"/><s n="nn"/></l><r>luma<s n="n"/></r></p></e>
+<!--<e c="numismatics"><p><l>լումա<s n="n"/><s n="nn"/></l><r>currency unit of Armenia worth one hundredth of dram<s n="n"/></r></p></e>-->
+<e c="figuratively"><p><l>լումա<s n="n"/><s n="nn"/></l><r>contribution<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>լումա<s n="n"/><s n="nn"/></l><r>usually small one<s n="n"/></r></p></e>
+<e c=""><p><l>լումա<s n="n"/><s n="nn"/></l><r>contribute one's mite<s n="n"/></r></p></e>
+<e c=""><p><l>լումա<s n="n"/><s n="nn"/></l><r>do one's bit<s n="n"/></r></p></e>
+<e c="fruit"><p><l>խուրմա<s n="n"/><s n="nn"/></l><r>date<s n="n"/></r></p></e>
+<e c="fruit"><p><l>խուրմա<s n="n"/><s n="nn"/></l><r>persimmon<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>կիլո<s n="n"/><s n="nn"/></l><r>kilogram<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>կիլո<s n="n"/><s n="nn"/></l><r>kilo<s n="n"/></r></p></e>
+<e c=""><p><l>կինո<s n="n"/><s n="nn"/></l><r>cinematography<s n="n"/></r></p></e>
+<e c=""><p><l>կինո<s n="n"/><s n="nn"/></l><r>filmmaking<s n="n"/></r></p></e>
+<e c=""><p><l>կինո<s n="n"/><s n="nn"/></l><r>cinema<s n="n"/></r></p></e>
+<e c=""><p><l>կինո<s n="n"/><s n="nn"/></l><r>movie theater<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>կինո<s n="n"/><s n="nn"/></l><r>movie<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>կինո<s n="n"/><s n="nn"/></l><r>film<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>կրեսլո<s n="n"/><s n="nn"/></l><r>armchair<s n="n"/></r></p></e>
+<e c=""><p><l>հարիսա<s n="n"/><s n="nn"/></l><r>harissa<s n="n"/></r></p></e>
+<e c=""><p><l>ձուլածո<s n="n"/><s n="nn"/></l><r>moulding<s n="n"/></r></p></e>
+<e c=""><p><l>ձուլածո<s n="n"/><s n="nn"/></l><r>something moulded<s n="n"/></r></p></e>
+<e c=""><p><l>ձուլածո<s n="n"/><s n="nn"/></l><r>cast<s n="n"/></r></p></e>
+<e c=""><p><l>ղափամա<s n="n"/><s n="nn"/></l><r>ghapama<s n="n"/></r></p></e>
+<e c=""><p><l>մեքենա<s n="n"/><s n="nn"/></l><r>machine<s n="n"/></r></p></e>
+<e c=""><p><l>մեքենա<s n="n"/><s n="nn"/></l><r>car<s n="n"/></r></p></e>
+<e c=""><p><l>մեքենա<s n="n"/><s n="nn"/></l><r>automobile<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>մոտո<s n="n"/><s n="nn"/></l><r>bike<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>մոտո<s n="n"/><s n="nn"/></l><r>motorcycle<s n="n"/></r></p></e>
+<e c="colloquial"><p><l>մոտո<s n="n"/><s n="nn"/></l><r>motorbike<s n="n"/></r></p></e>
+<e c=""><p><l>մուրաբա<s n="n"/><s n="nn"/></l><r>murabba<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>յարա<s n="n"/><s n="nn"/></l><r>wound<s n="n"/></r></p></e>
+<e c=""><p><l>յոգա<s n="n"/><s n="nn"/></l><r>yoga<s n="n"/></r></p></e>
+<e c=""><p><l>շղթա<s n="n"/><s n="nn"/></l><r>chain<s n="n"/></r></p></e>
+<e c=""><p><l>շղթա<s n="n"/><s n="nn"/></l><r>fetters<s n="n"/></r></p></e>
+<e c=""><p><l>շղթա<s n="n"/><s n="nn"/></l><r>shackles<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>շղթա<s n="n"/><s n="nn"/></l><r>series<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>շղթա<s n="n"/><s n="nn"/></l><r>succession<s n="n"/></r></p></e>
+<e c=""><p><l>շուկա<s n="n"/><s n="nn"/></l><r>market<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>չանա<s n="n"/><s n="nn"/></l><r>jaw<s n="n"/></r></p></e>
+<e c="numismatics"><p><l>պեսո<s n="n"/><s n="nn"/></l><r>peso<s n="n"/></r></p></e>
+<e c=""><p><l>պիցցա<s n="n"/><s n="nn"/></l><r>pizza<s n="n"/></r></p></e>
+<e c=""><p><l>սագո<s n="n"/><s n="nn"/></l><r>sago<s n="n"/></r></p></e>
+<e c=""><p><l>սարդ<s n="n"/><s n="nn"/></l><r>spider<s n="n"/></r></p></e>
+<e c=""><p><l>վիզա<s n="n"/><s n="nn"/></l><r>visa<s n="n"/></r></p></e>
+<e c=""><p><l>վուվուզելա<s n="n"/><s n="nn"/></l><r>vuvuzela<s n="n"/></r></p></e>
+<e c="music"><p><l>քամանչա<s n="n"/><s n="nn"/></l><r>kamancheh<s n="n"/></r></p></e>
+<e c="wife's sister"><p><l>քենի<s n="n"/><s n="nn"/></l><r>sister-in-law<s n="n"/></r></p></e>
+<e c=""><p><l>քուրա<s n="n"/><s n="nn"/></l><r>furnace<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>քուրա<s n="n"/><s n="nn"/></l><r>blaze<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>քուրա<s n="n"/><s n="nn"/></l><r>glow<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>քուրա<s n="n"/><s n="nn"/></l><r>gleam<s n="n"/></r></p></e>
+<e c="Western Armenian"><p><l>օթո<s n="n"/><s n="nn"/></l><r>car<s n="n"/></r></p></e>
+<e c="Western Armenian"><p><l>օթո<s n="n"/><s n="nn"/></l><r>automobile<s n="n"/></r></p></e>
+<e c=""><p><l>օսլա<s n="n"/><s n="nn"/></l><r>starch<s n="n"/></r></p></e>
+
+<!-- SECTION: Proper nouns -->
 
 <e c=""><p><l>Աբգար<s n="np"/><s n="ant"/><s n="m"/></l><r>Abgar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Աբրահամ<s n="np"/><s n="ant"/><s n="m"/></l><r>Abraham<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -6756,7 +8220,8 @@
 <e c=""><p><l>Ավետ<s n="np"/><s n="ant"/><s n="m"/></l><r>Avet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Ավետիս<s n="np"/><s n="ant"/><s n="m"/></l><r>Avetis<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Ավետիք<s n="np"/><s n="ant"/><s n="m"/></l><r>Avetik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e c=""><p><l>Ավոգադրո<s n="np"/><s n="cog"/><s n="nn"/></l><r>Avogadro<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Ավոգադրո<s n="np"/><s n="cog"/><s n="mf"/></l><r>Avogadro<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Պուտին<s n="np"/><s n="cog"/><s n="mf"/></l><r>Putin<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Ավստրալիա<s n="np"/><s n="top"/></l><r>Australia<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Ավստրիա<s n="np"/><s n="top"/></l><r>Austria<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Ատլանտյան<b/>օվկիանոս<s n="np"/><s n="top"/></l><r>the<b/>Atlantic<b/>Ocean<s n="np"/><s n="top"/></r></p></e>
@@ -6777,13 +8242,13 @@
 <e c=""><p><l>Արգիշտի<s n="np"/><s n="ant"/><s n="m"/></l><r>Argishti<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Արեգ<s n="np"/><s n="ant"/><s n="m"/></l><r>Areg<b/>or<b/>Arek<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Արեգակնային<b/>համակարգ<s n="np"/><s n="top"/></l><r>the<b/>Solar<b/>System<s n="np"/><s n="top"/></r></p></e>
-<e c=""><p><l>Արես<s n="np"/><s n="cog"/><s n="nn"/></l><r>Ares<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Արես<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ares<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Արթուր<s n="np"/><s n="ant"/><s n="m"/></l><r>Artur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Արիստոտել<s n="np"/><s n="ant"/><s n="m"/></l><r>Aristotle<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Արխանգելսկ<s n="np"/><s n="top"/></l><r>Arkhangelsk<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Արծրուն<s n="np"/><s n="ant"/><s n="m"/></l><r>Artsrun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Արծրունի<s n="np"/><s n="al"/><s n="nn"/></l><r>Artsruni<s n="np"/><s n="al"/></r></p></e>
-<e c=""><p><l>Արման<s n="np"/><s n="cog"/><s n="nn"/></l><r>Arman<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Արման<s n="np"/><s n="cog"/><s n="mf"/></l><r>Arman<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Արմավիր<s n="np"/><s n="al"/><s n="nn"/></l><r>Armavir<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Արմեն<s n="np"/><s n="ant"/><s n="m"/></l><r>Armen<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Արմենակ<s n="np"/><s n="ant"/><s n="m"/></l><r>Armenak<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -7058,7 +8523,7 @@
 <e c=""><p><l>Լատվիա<s n="np"/><s n="top"/></l><r>Latvia<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Լեհաստան<s n="np"/><s n="top"/></l><r>Poland<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Լենա<s n="np"/><s n="al"/><s n="nn"/></l><r>Lena<s n="np"/><s n="al"/></r></p></e>
-<e c=""><p><l>Լենին<s n="np"/><s n="cog"/><s n="nn"/></l><r>Lenin<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Լենին<s n="np"/><s n="cog"/><s n="mf"/></l><r>Lenin<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Լենինգրադ<s n="np"/><s n="top"/></l><r>Leningrad<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Լեռնային<b/>Ղարաբաղ<s n="np"/><s n="top"/></l><r>Nagorno-Karabakh<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Լեռնային<b/>Ղարաբաղի<b/>Ինքնավար<b/>Մարզ<s n="np"/><s n="top"/></l><r>Nagorno-Karabakh<b/>Autonomous<b/>Oblast<s n="np"/><s n="top"/></r></p></e>
@@ -7244,7 +8709,7 @@
 <e c=""><p><l>Հին<b/>կտակարան<s n="np"/><s n="al"/><s n="nn"/></l><r>Old<b/>Testament<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Հիսուս<b/>Քրիստոս<s n="np"/><s n="ant"/><s n="m"/></l><r>Jesus<b/>Christ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Հիսուս<s n="np"/><s n="ant"/><s n="m"/></l><r>Jesus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e c=""><p><l>Հիտլեր<s n="np"/><s n="cog"/><s n="nn"/></l><r>Hitler<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Հիտլեր<s n="np"/><s n="cog"/><s n="mf"/></l><r>Hitler<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Հյուսիսային<b/>Ամերիկա<s n="np"/><s n="top"/></l><r>North<b/>America<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Հյուսիսային<b/>Եվրոպա<s n="np"/><s n="top"/></l><r>Northern<b/>Europe<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Հյուսիսային<b/>Իռլանդիա<s n="np"/><s n="top"/></l><r>Northern<b/>Ireland<s n="np"/><s n="top"/></r></p></e>
@@ -7297,7 +8762,7 @@
 <e c=""><p><l>ՄԱԿ<s n="np"/><s n="top"/></l><r>UN<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Մագադան<s n="np"/><s n="top"/></l><r>Magadan<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Մագաս<s n="np"/><s n="top"/></l><r>Magas<s n="np"/><s n="top"/></r></p></e>
-<e c=""><p><l>Մագելան<s n="np"/><s n="cog"/><s n="nn"/></l><r>Magellan<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Մագելան<s n="np"/><s n="cog"/><s n="mf"/></l><r>Magellan<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Մագելանի<b/>նեղուց<s n="np"/><s n="top"/></l><r>Strait<b/>of<b/>Magellan<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Մադագասկար<s n="np"/><s n="top"/></l><r>Madagascar<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Մադհյա<b/>Պրադեշ<s n="np"/><s n="top"/></l><r>Madhya<b/>Pradesh<s n="np"/><s n="top"/></r></p></e>
@@ -7447,7 +8912,7 @@
 <e c=""><p><l>Նջամենա<s n="np"/><s n="top"/></l><r>N'Djamena<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Նևա<s n="np"/><s n="al"/><s n="nn"/></l><r>Neva<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Շաքար<s n="np"/><s n="ant"/><s n="f"/></l><r>Shakar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e c=""><p><l>Շեքսպիր<s n="np"/><s n="cog"/><s n="nn"/></l><r>Shakespeare<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Շեքսպիր<s n="np"/><s n="cog"/><s n="mf"/></l><r>Shakespeare<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Շիլոնգ<s n="np"/><s n="top"/></l><r>Shillong<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Շիվա<s n="np"/><s n="al"/><s n="nn"/></l><r>Shiva<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Շոտլանդիա<s n="np"/><s n="top"/></l><r>Scotland<s n="np"/><s n="top"/></r></p></e>
@@ -7542,7 +9007,7 @@
 <e c=""><p><l>Պորտուգալիա<s n="np"/><s n="top"/></l><r>Portugal<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Պուերտո<b/>Ռիկո<s n="np"/><s n="top"/></l><r>Puerto<b/>Rico<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Պունգգոլ<s n="np"/><s n="top"/></l><r>Punggol<s n="np"/><s n="top"/></r></p></e>
-<e c=""><p><l>Պուտին<s n="np"/><s n="cog"/><s n="nn"/></l><r>Putin<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Պուտին<s n="np"/><s n="cog"/><s n="mf"/></l><r>Putin<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Պուտտուչչերի<s n="np"/><s n="top"/></l><r>Puducherry<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Պսկով<s n="np"/><s n="top"/></l><r>Pskov<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Պտղոմեոս<s n="np"/><s n="ant"/><s n="m"/></l><r>Ptolemy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -7617,7 +9082,7 @@
 <e c=""><p><l>Սերժ<s n="np"/><s n="ant"/><s n="m"/></l><r>Serzh<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Սերոբ<s n="np"/><s n="ant"/><s n="m"/></l><r>Serob<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Սիբիր<s n="np"/><s n="top"/></l><r>Siberia<s n="np"/><s n="top"/></r></p></e>
-<e c=""><p><l>Սիլվա<s n="np"/><s n="cog"/><s n="nn"/></l><r>Silva<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Սիլվա<s n="np"/><s n="cog"/><s n="mf"/></l><r>Silva<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Սիկկիմ<s n="np"/><s n="top"/></l><r>Sikkim<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Սիկոկու<s n="np"/><s n="top"/></l><r>Shikoku<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Սիկտիվկար<s n="np"/><s n="top"/></l><r>Syktyvkar<s n="np"/><s n="top"/></r></p></e>
@@ -7657,7 +9122,7 @@
 <e c=""><p><l>Սպիտակ<b/>ծով<s n="np"/><s n="top"/></l><r>White<b/>Sea<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Սվազիլենդ<s n="np"/><s n="top"/></l><r>Swaziland<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Սվերդլովսկ<s n="np"/><s n="al"/><s n="nn"/></l><r>Sverdlovsk<s n="np"/><s n="al"/></r></p></e>
-<e c=""><p><l>Ստալին<s n="np"/><s n="cog"/><s n="nn"/></l><r>Stalin<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Ստալին<s n="np"/><s n="cog"/><s n="mf"/></l><r>Stalin<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Ստալինգրադ<s n="np"/><s n="top"/></l><r>Stalingrad<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Ստամբուլ<s n="np"/><s n="top"/></l><r>Istanbul<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Ստավրոպոլ<s n="np"/><s n="top"/></l><r>Stavropol<s n="np"/><s n="top"/></r></p></e>
@@ -7791,7 +9256,7 @@
 <e c=""><p><l>Քարոն<s n="np"/><s n="al"/><s n="nn"/></l><r>Charon<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Քեմբրիջ<s n="np"/><s n="top"/></l><r>Cambridge<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Քենիա<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/></r></p></e>
-<e c=""><p><l>Քլինթոն<s n="np"/><s n="cog"/><s n="nn"/></l><r>Clinton<s n="np"/><s n="cog"/></r></p></e>
+<e c=""><p><l>Քլինթոն<s n="np"/><s n="cog"/><s n="mf"/></l><r>Clinton<s n="np"/><s n="cog"/></r></p></e>
 <e c=""><p><l>Քյոլն<s n="np"/><s n="top"/></l><r>Cologne<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Քնարիկ<s n="np"/><s n="ant"/><s n="f"/></l><r>Knarik<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e c=""><p><l>Քուվեյթ<s n="np"/><s n="top"/></l><r>Kuwait<s n="np"/><s n="top"/></r></p></e>
@@ -7831,6 +9296,8 @@
 <!-- SECTION: Adjectives -->
 
 <e c=""><p><l>լավ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>easy<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>light<s n="adj"/><s n="sint"/></r></p></e>
 
 <e c=""><p><l>նոր<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>մեծ<s n="adj"/><s n="sint"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>

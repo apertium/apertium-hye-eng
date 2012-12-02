@@ -9,4 +9,8 @@
 /apertium-hye-eng.hye-eng.t3x -text
 /apertium-hye-eng.hye.dix -text
 dev/nouns.txt -text
+dev/testvoc/inconsistency-summary.sh -text
+dev/testvoc/inconsistency.sh -text
+dev/testvoc/testvoc-summary.txt -text
+dev/testvoc/testvoc.sh -text
 /modes.xml -text
