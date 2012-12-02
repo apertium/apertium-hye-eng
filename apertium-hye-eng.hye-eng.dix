@@ -7473,13 +7473,13 @@
 <e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>grind<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>forge<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>knock<g><b/>on</g><s n="vblex"/></r></p></e> <!-- door -->
+<e c=""><p><l>թռչել<s n="vblex"/><s n="iv"/></l><r>fly<s n="vblex"/></r></p></e>
+<e c=""><p><l>թռչել<s n="vblex"/><s n="iv"/></l><r>jump<s n="vblex"/></r></p></e>
+<e c=""><p><l>թռչել<s n="vblex"/><s n="iv"/></l><r>leap<s n="vblex"/></r></p></e>
 
 <e c=""><p><l>լսել<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
-<e c=""><p><l>թռչել<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
-<e c=""><p><l>թռչել<s n="vblex"/></l><r>jump<s n="vblex"/></r></p></e>
-<e c=""><p><l>թռչել<s n="vblex"/></l><r>leap<s n="vblex"/></r></p></e>
 
 
 <!-- SECTION: Punctuation -->

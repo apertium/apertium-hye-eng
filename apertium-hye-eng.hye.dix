@@ -3680,6 +3680,14 @@
       <e r="LR"><p><l>ին</l><r><s n="p3"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="decl-aor-pers-2"> <!-- Personal endings for the aorist -->
+      <e>       <p><l>ա</l><r><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ար</l><r><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ավ</l><r><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>անք</l><r><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>աք</l><r><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ան</l><r><s n="p3"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <pardef n="/եմ__vaux"> <!-- The defective auxiliary verb 'to be' -->
       <e>       <p><l>եմ</l><r>եմ<s n="vaux"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -3804,6 +3812,13 @@
       <e>       <p><l></l><r><s n="cnk"/></r></p><par n="decl-ftk-pers-1"/></e>
     </pardef>
 
+    <pardef n="թռ/չել__vblex_iv_1"> <!-- no pass: This paradigm implements the forms which cannot take negative -->
+      <e>       <p><l>չ</l><r>չել<s n="vblex"/><s n="iv"/></r></p><par n="decl-prc-1"/></e>
+
+      <e>       <p><l>ի՛ր</l><r>չել<s n="vblex"/><s n="iv"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ե՛ք</l><r>չել<s n="vblex"/><s n="iv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="ուզ/ել__vblex_tv_1"> <!-- no pass: This paradigm implements the forms which cannot take negative -->
       <e>       <p><l></l><r>ել<s n="vblex"/><s n="tv"/></r></p><par n="decl-prc-1"/></e>
 
@@ -3812,7 +3827,6 @@
       <e>       <p><l>ե՛ք</l><r>ել<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>եցե՛ք</l><r>ել<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
-
 
     <pardef n="սիր/ել__vblex_tv_1"> <!-- pass: This paradigm implements the forms which cannot take negative -->
 
@@ -3838,6 +3852,15 @@
       <e>       <p><l>ե՛ք</l><r>ել<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>եցե՛ք</l><r>ել<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
 
+    </pardef>
+
+    <pardef n="թռ/չել__vblex_iv_2"> <!-- no pass: This paradigm implements the synthetic 
+                                         forms and participles which can take negative -->
+      <e>       <p><l>չ</l><r>չել<s n="vblex"/><s n="iv"/></r></p><par n="decl-prc-2"/></e>
+
+      <e>       <p><l></l><r>չել<s n="vblex"/><s n="iv"/><s n="aor"/></r></p><par n="decl-aor-pers-2"/></e>
+      <e>       <p><l>չ</l><r>չել<s n="vblex"/><s n="iv"/><s n="fts"/></r></p><par n="decl-fts-pers-1"/></e>
+      <e>       <p><l>չ</l><r>չել<s n="vblex"/><s n="iv"/><s n="ftk"/></r></p><par n="decl-ftk-pers-1"/></e>
     </pardef>
 
     <pardef n="ուզ/ել__vblex_tv_2"> <!-- no pass: This paradigm implements the synthetic 
@@ -3872,11 +3895,15 @@
       <e>       <p><l></l><r>ել<s n="vblex"/><s n="tv"/><s n="ftk"/></r></p><par n="decl-ftk-pers-1"/></e>
     </pardef>
 
+    <pardef n="թռչ/ել__vblex_iv_3"> <!-- no pass: This paradigm implements the conditional forms -->
+      <e>       <p><l></l><r><s n="vblex"/><s n="iv"/><s n="cni"/></r></p><par n="decl-fts-pers-1"/></e>
+      <e>       <p><l></l><r><s n="vblex"/><s n="iv"/><s n="cnk"/></r></p><par n="decl-ftk-pers-1"/></e>
+    </pardef>
+
     <pardef n="ուզ/ել__vblex_tv_3"> <!-- no pass: This paradigm implements the conditional forms -->
       <e>       <p><l></l><r><s n="vblex"/><s n="tv"/><s n="cni"/></r></p><par n="decl-fts-pers-1"/></e>
       <e>       <p><l></l><r><s n="vblex"/><s n="tv"/><s n="cnk"/></r></p><par n="decl-ftk-pers-1"/></e>
     </pardef>
-
 
     <pardef n="սիր/ել__vblex_tv_3"> <!-- pass: This paradigm implements the conditional forms -->
       <e>       <p><l>վ</l><r>ել<s n="vblex"/><s n="tv"/><s n="pass"/></r></p><par n="սիրվ/ել__pass_3"/></e>
@@ -3890,6 +3917,11 @@
 
       <e>       <p><l></l><r><s n="vblex"/><s n="tv"/><s n="cni"/></r></p><par n="decl-fts-pers-1"/></e>
       <e>       <p><l></l><r><s n="vblex"/><s n="tv"/><s n="cnk"/></r></p><par n="decl-ftk-pers-1"/></e>
+    </pardef>
+
+    <pardef n="թռ/չել__vblex_iv"> <!-- No passive -->
+      <e><i></i><par n="թռ/չել__vblex_iv_1"/></e>
+      <e><i></i><par n="թռ/չել__vblex_iv_2"/></e>
     </pardef>
 
     <pardef n="ուզ/ել__vblex_tv"> <!-- No passive -->
@@ -8360,21 +8392,21 @@
     <e lm="այրվել"><par n="part-neg"/><i>այրվ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="այրվել"><p><l>կայրվ</l><r>այրվ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="այցել}}ել"><i>այցել}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="այցել}}ել"><par n="part-neg"/><i>այցել}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="այցել}}ել"><p><l>կայցել}}</l><r>այցել}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="այցելել"><i>այցել</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="այցելել"><par n="part-neg"/><i>այցել</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="այցելել"><p><l>կայցել</l><r>այցել</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="անկանել"><i>անկան</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="անկանել"><par n="part-neg"/><i>անկան</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="անկանել"><p><l>կանկան</l><r>անկան</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="անձրև}}ել"><i>անձրև}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="անձրև}}ել"><par n="part-neg"/><i>անձրև}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="անձրև}}ել"><p><l>կանձրև}}</l><r>անձրև}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="անձրևել"><i>անձրև</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="անձրևել"><par n="part-neg"/><i>անձրև</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="անձրևել"><p><l>կանձրև</l><r>անձրև</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="անվան}}ել"><i>անվան}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="անվան}}ել"><par n="part-neg"/><i>անվան}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="անվան}}ել"><p><l>կանվան}}</l><r>անվան}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="անվանել"><i>անվան</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="անվանել"><par n="part-neg"/><i>անվան</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="անվանել"><p><l>կանվան</l><r>անվան</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="անցնել"><i>անցն</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="անցնել"><par n="part-neg"/><i>անցն</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -8396,17 +8428,17 @@
     <e lm="արարել"><par n="part-neg"/><i>արար</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="արարել"><p><l>կարար</l><r>արար</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="արձագանք}}ել"><i>արձագանք}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="արձագանք}}ել"><par n="part-neg"/><i>արձագանք}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="արձագանք}}ել"><p><l>կարձագանք}}</l><r>արձագանք}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="արձագանքել"><i>արձագանք</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="արձագանքել"><par n="part-neg"/><i>արձագանք</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="արձագանքել"><p><l>կարձագանք</l><r>արձագանք</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="արձակել"><i>արձակ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="արձակել"><par n="part-neg"/><i>արձակ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="արձակել"><p><l>կարձակ</l><r>արձակ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="արյունահոս}}ել"><i>արյունահոս}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="արյունահոս}}ել"><par n="part-neg"/><i>արյունահոս}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="արյունահոս}}ել"><p><l>կարյունահոս}}</l><r>արյունահոս}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="արյունահոսել"><i>արյունահոս</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="արյունահոսել"><par n="part-neg"/><i>արյունահոս</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="արյունահոսել"><p><l>կարյունահոս</l><r>արյունահոս</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="բարբանջել"><i>բարբանջ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="բարբանջել"><par n="part-neg"/><i>բարբանջ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -8600,9 +8632,9 @@
     <e lm="կակազել"><par n="part-neg"/><i>կակազ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="կակազել"><p><l>կկակազ</l><r>կակազ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="կապ}}ել"><i>կապ}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="կապ}}ել"><par n="part-neg"/><i>կապ}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="կապ}}ել"><p><l>կկապ}}</l><r>կապ}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="կապել"><i>կապ</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="կապել"><par n="part-neg"/><i>կապ</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="կապել"><p><l>կկապ</l><r>կապ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="կառչել"><i>կառչ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="կառչել"><par n="part-neg"/><i>կառչ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -8652,9 +8684,9 @@
     <e lm="կտրել"><par n="part-neg"/><i>կտր</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="կտրել"><p><l>կկտր</l><r>կտր</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="կրակ}}ել"><i>կրակ}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="կրակ}}ել"><par n="part-neg"/><i>կրակ}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="կրակ}}ել"><p><l>կկրակ}}</l><r>կրակ}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="կրակել"><i>կրակ</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="կրակել"><par n="part-neg"/><i>կրակ</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="կրակել"><p><l>կկրակ</l><r>կրակ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="կրծել"><i>կրծ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="կրծել"><par n="part-neg"/><i>կրծ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -8824,9 +8856,9 @@
     <e lm="շիկնել"><par n="part-neg"/><i>շիկն</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="շիկնել"><p><l>կշիկն</l><r>շիկն</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="շին}}ել"><i>շին}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="շին}}ել"><par n="part-neg"/><i>շին}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="շին}}ել"><p><l>կշին}}</l><r>շին}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="շինել"><i>շին</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="շինել"><par n="part-neg"/><i>շին</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="շինել"><p><l>կշին</l><r>շին</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="շիջել"><i>շիջ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="շիջել"><par n="part-neg"/><i>շիջ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -8880,9 +8912,9 @@
     <e lm="չափել"><par n="part-neg"/><i>չափ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="չափել"><p><l>կչափ</l><r>չափ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="չորացն}}ել"><i>չորացն}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="չորացն}}ել"><par n="part-neg"/><i>չորացն}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="չորացն}}ել"><p><l>կչորացն}}</l><r>չորացն}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="չորացնել"><i>չորացն</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="չորացնել"><par n="part-neg"/><i>չորացն</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="չորացնել"><p><l>կչորացն</l><r>չորացն</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="չվել"><i>չվ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="չվել"><par n="part-neg"/><i>չվ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -8908,17 +8940,17 @@
     <e lm="ջնջել"><par n="part-neg"/><i>ջնջ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="ջնջել"><p><l>կջնջ</l><r>ջնջ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="սանձ}}ել"><i>սանձ}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="սանձ}}ել"><par n="part-neg"/><i>սանձ}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="սանձ}}ել"><p><l>կսանձ}}</l><r>սանձ}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="սանձել"><i>սանձ</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="սանձել"><par n="part-neg"/><i>սանձ</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="սանձել"><p><l>կսանձ</l><r>սանձ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="սանր}}ել"><i>սանր}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="սանր}}ել"><par n="part-neg"/><i>սանր}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="սանր}}ել"><p><l>կսանր}}</l><r>սանր}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="սանրել"><i>սանր</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="սանրել"><par n="part-neg"/><i>սանր</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="սանրել"><p><l>կսանր</l><r>սանր</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="սանրվ}}ել"><i>սանրվ}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="սանրվ}}ել"><par n="part-neg"/><i>սանրվ}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="սանրվ}}ել"><p><l>կսանրվ}}</l><r>սանրվ}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="սանրվել"><i>սանրվ</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="սանրվել"><par n="part-neg"/><i>սանրվ</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="սանրվել"><p><l>կսանրվ</l><r>սանրվ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="սառչել"><i>սառչ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="սառչել"><par n="part-neg"/><i>սառչ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -8968,9 +9000,9 @@
     <e lm="սրտառել"><par n="part-neg"/><i>սրտառ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="սրտառել"><p><l>կսրտառ</l><r>սրտառ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
-    <e lm="վառվ}}ել"><i>վառվ}}</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="վառվ}}ել"><par n="part-neg"/><i>վառվ}}</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="վառվ}}ել"><p><l>կվառվ}}</l><r>վառվ}}</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
+    <e lm="վառվել"><i>վառվ</i><par n="ուզ/ել__vblex_tv"/></e>
+    <e lm="վառվել"><par n="part-neg"/><i>վառվ</i><par n="ուզ/ել__vblex_tv_2"/></e>
+    <e lm="վառվել"><p><l>կվառվ</l><r>վառվ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="վիճել"><i>վիճ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="վիճել"><par n="part-neg"/><i>վիճ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -9793,6 +9825,11 @@
     <e lm="օծել"><i>օծ</i><par n="սիր/ել__vblex_tv"/></e>
     <e lm="օծել"><par n="part-neg"/><i>օծ</i><par n="սիր/ել__vblex_tv_2"/></e>
     <e lm="օծել"><p><l>կօծ</l><r>օծ</r></p><par n="սիր/ել__vblex_tv_3"/></e>
+
+    <!-- Missing causative -->
+    <e lm="թռչել"><i>թռ</i><par n="թռ/չել__vblex_iv"/></e>
+    <e lm="թռչել"><par n="part-neg"/><i>թռ</i><par n="թռ/չել__vblex_iv_2"/></e>
+    <e lm="թռչել"><p><l>կթռչ</l><r>թռչ</r></p><par n="թռչ/ել__vblex_iv_3"/></e>
 
 
 <!-- !! CAUS !!
