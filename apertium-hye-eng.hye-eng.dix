@@ -19,6 +19,7 @@
   <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
   <sdef n="cnjsub"  c="Subordinating conjunction"/>
   <sdef n="cnjadv"  c="Adverbial conjunction"/>
+  <sdef n="abbr"    c="Abbreviation"/>
 
   <sdef n="sint"    c="Synthetic"/>
 
@@ -33,6 +34,7 @@
   <sdef n="qnt"     c="Quantifier"/>
   <sdef n="dem"     c="Demonstrative"/>
   <sdef n="ind"     c="Indefinite"/>
+  <sdef n="ord"     c="Ordinal"/>
   <sdef n="itg"     c="Interrogative"/>
 
   <sdef n="p3"      c="Third person"/>
@@ -162,10 +164,15 @@
 <!-- SECTION: Determiners -->
 
 <e c=""><p><l>մի<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+<e c=""><p><l>այլ<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
 
 <e c="" r="LR"><p><l>այս<s n="det"/><s n="dem"/><s n="sp"/></l><r>this<s n="det"/><s n="dem"/><s n="ND"/></r></p></e>
 <e c="" r="RL"><p><l>այս<s n="det"/><s n="dem"/><s n="sp"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
 <e c="" r="RL"><p><l>այս<s n="det"/><s n="dem"/><s n="sp"/></l><r>this<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
+
+<e c="" r="LR"><p><l>այդ<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="ND"/></r></p></e>
+<e c="" r="RL"><p><l>այդ<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+<e c="" r="RL"><p><l>այդ<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
 
 <e c="" r="LR"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="ND"/></r></p></e>
 <e c="" r="RL"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
@@ -221,7 +228,10 @@
 <e><p><l>տասնութ<s n="num"/></l><r>eighteen<s n="num"/></r></p></e>
 <e><p><l>տասնինը<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
 <e><p><l>քսան<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
+<e><p><l>միլիոն<s n="num"/></l><r>million<s n="num"/></r></p></e>
+<e><p><l>հազար<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
 
+<e><p><l>երկրորդ<s n="num"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
 
 <!-- SECTION: Nouns -->
 <e c=""><p><l>պետք<s n="n"/><s n="nn"/></l><r>need<s n="n"/></r></p></e>
@@ -2505,7 +2515,7 @@
 <e c=""><p><l>թել<s n="n"/><s n="nn"/></l><r>thread<s n="n"/></r></p></e>
 <e c=""><p><l>թելով<b/>լոբի<s n="n"/><s n="nn"/></l><r>string bean<s n="n"/></r></p></e>
 <e c=""><p><l>թելուգու<s n="n"/><s n="nn"/></l><r>Telugu<s n="n"/></r></p></e>
-<e c=""><p><l>թեկնածու<s n="n"/><s n="nn"/></l><r>candidate<s n="n"/></r></p></e>
+<e c=""><p><l>թեկնածու<s n="n"/><s n="aa"/></l><r>candidate<s n="n"/></r></p></e>
 <e c=""><p><l>թեմ<s n="n"/><s n="nn"/></l><r>diocese<s n="n"/></r></p></e>
 <e c=""><p><l>թեյ<s n="n"/><s n="nn"/></l><r>tea<s n="n"/></r></p></e>
 <e c=""><p><l>թեյնիկ<s n="n"/><s n="nn"/></l><r>teapot<s n="n"/></r></p></e>
@@ -2852,7 +2862,7 @@
 <e c=""><p><l>ծանրություն<s n="n"/><s n="nn"/></l><r>power<s n="n"/></r></p></e>
 <e c=""><p><l>ծանրություն<s n="n"/><s n="nn"/></l><r>weight<s n="n"/></r></p></e>
 <e c=""><p><l>ծառ<s n="n"/><s n="nn"/></l><r>tree<s n="n"/></r></p></e>
-<e c=""><p><l>ծառայություն<s n="n"/><s n="aa"/></l><r>service<s n="n"/></r></p></e>
+<e c=""><p><l>ծառայություն<s n="n"/><s n="nn"/></l><r>service<s n="n"/></r></p></e>
 <e c=""><p><l>ծառզարդար<s n="n"/><s n="nn"/></l><r>dialectal<s n="n"/></r></p></e>
 <e c=""><p><l>ծավալ<s n="n"/><s n="nn"/></l><r>dimension<s n="n"/></r></p></e>
 <e c=""><p><l>ծավալ<s n="n"/><s n="nn"/></l><r>volume<s n="n"/></r></p></e>
@@ -3837,7 +3847,7 @@
 <e c=""><p><l>նախնի<s n="n"/><s n="aa"/></l><r>ancestor<s n="n"/></r></p></e>
 <e c=""><p><l>նախնի<s n="n"/><s n="aa"/></l><r>forefather<s n="n"/></r></p></e>
 <e c=""><p><l>նահանգ<s n="n"/><s n="nn"/></l><r>province<s n="n"/></r></p></e>
-<e c=""><p><l>նահանգապետ<s n="n"/><s n="nn"/></l><r>governor<s n="n"/></r></p></e>
+<e c=""><p><l>նահանգապետ<s n="n"/><s n="aa"/></l><r>governor<s n="n"/></r></p></e>
 <e c=""><p><l>նահուատլ<s n="n"/><s n="aa"/></l><r>Nahuatl<s n="n"/></r></p></e>
 <e c=""><p><l>նամազ<s n="n"/><s n="nn"/></l><r>Islamic <s n="n"/></r></p></e>
 <e c=""><p><l>նամակ<s n="n"/><s n="nn"/></l><r>epistle<s n="n"/></r></p></e>
@@ -4145,9 +4155,10 @@
 <e c=""><p><l>պանթուրքիստ<s n="n"/><s n="nn"/></l><r>Pan<s n="n"/></r></p></e>
 <e c=""><p><l>պանիր<s n="n"/><s n="nn"/></l><r>cheese<s n="n"/></r></p></e>
 <e c=""><p><l>պաշտոնակից<s n="n"/><s n="nn"/></l><r>colleague<s n="n"/></r></p></e>
-<e c=""><p><l>պաշտոնյա<s n="n"/><s n="nn"/></l><r>official<s n="n"/></r></p></e>
-<e c=""><p><l>պաշտոնյա<s n="n"/><s n="nn"/></l><r>public officer<s n="n"/></r></p></e>
-<e c=""><p><l>պաշտպան<s n="n"/><s n="nn"/></l><r>protector<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոնյա<s n="n"/><s n="aa"/></l><r>official<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոնյա<s n="n"/><s n="aa"/></l><r>public<b/>officer<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտոնյա<s n="n"/><s n="aa"/></l><r>civil<b/>servant<s n="n"/></r></p></e>
+<e c=""><p><l>պաշտպան<s n="n"/><s n="aa"/></l><r>protector<s n="n"/></r></p></e>
 <e c=""><p><l>պաչիկ<s n="n"/><s n="nn"/></l><r>peck<s n="n"/></r></p></e>
 <e c=""><p><l>պաչիկ<s n="n"/><s n="nn"/></l><r>short <s n="n"/></r></p></e>
 <e c=""><p><l>պապ<s n="n"/><s n="aa"/></l><r>grandfather<s n="n"/></r></p></e>
@@ -9299,12 +9310,15 @@
 
 <!-- SECTION: Adjectives -->
 
+<e c=""><p><l>ամեն<s n="adj"/></l><r>all<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+
 <e c=""><p><l>լավ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>easy<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>light<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>smooth<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>ազատ<s n="adj"/><s n="sint"/></l><r>free<s n="adj"/><s n="sint"/></r></p></e>
 
+    <e c=""><p><l>վաղ<s n="adj"/><s n="sint"/></l><r>early<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>գործոն<s n="adj"/><s n="sint"/></l><r>working<s n="adj"/></r></p></e>
 <e c=""><p><l>գործոն<s n="adj"/><s n="sint"/></l><r>acting<s n="adj"/></r></p></e>
 <e c=""><p><l>գործոն<s n="adj"/><s n="sint"/></l><r>influencing<s n="adj"/></r></p></e>
@@ -9317,6 +9331,7 @@
 
 <e c=""><p><l>համաձայն<s n="adj"/></l><r>in<b/>agreement<s n="adj"/></r></p></e>
 
+<e c=""><p><l>նախկին<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
 <e c=""><p><l>դիտորդական<s n="adj"/></l><r>observer<s n="adj"/></r></p></e>
 <e c=""><p><l>դիտորդական<s n="adj"/></l><r>observation<s n="adj"/></r></p></e>
 
@@ -9335,6 +9350,7 @@
 <e c=""><p><l>լեռնային<s n="adj"/></l><r>mountain<s n="adj"/></r></p></e>
 <e c=""><p><l>լեռնային<s n="adj"/></l><r>mountainous<s n="adj"/></r></p></e>
 <e c=""><p><l>միջազգային<s n="adj"/><s n="sint"/></l><r>international<s n="adj"/></r></p></e>
+<e c=""><p><l>ազգային<s n="adj"/></l><r>national<s n="adj"/></r></p></e>
 
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>bright<s n="adj"/><s n="sint"/></r></p></e>
@@ -10013,6 +10029,22 @@
 <e c=""><p><l>քանի<s n="adv"/></l><r>how<b/>many<s n="adv"/></r></p></e>
 <e c=""><p><l>քանիցս<s n="adv"/></l><r>how<b/>many<b/>times<s n="adv"/></r></p></e>
 
+<e c=""><p><l>ինչու<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+<e c=""><p><l>դեռ<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+<e c=""><p><l>դեռ<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+<e c=""><p><l>դեռ<s n="adv"/></l><r>newly<s n="adv"/></r></p></e>
+<e c=""><p><l>դեռ<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
+<e c=""><p><l>երբ<s n="adv"/></l><r>when<s n="adv"/></r></p></e>
+<e c=""><p><l>երբ<s n="adv"/></l><r>while<s n="adv"/></r></p></e>
+<e c=""><p><l>երբեք<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
+<e c=""><p><l>յոթերորդ<s n="adv"/></l><r>seventhly<s n="adv"/></r></p></e>
+<e c="archaic, literary"><p><l>յոթնիցս<s n="adv"/></l><r>seven<b/>times<s n="adv"/></r></p></e>
+<e c=""><p><l>յուրովի<s n="adv"/></l><r>peculiarly<s n="adv"/></r></p></e>
+<e c=""><p><l>յուրովի<s n="adv"/></l><r>individually<s n="adv"/></r></p></e>
+<e c=""><p><l>յուրովի<s n="adv"/></l><r>in<b/>one's<b/>own<b/>way<s n="adv"/></r></p></e>
+<e c=""><p><l>տասներորդ<s n="adv"/></l><r>tenthly<s n="adv"/></r></p></e>
+
+
     <e c=""><p><l>ագահաբար<s n="adv"/></l><r>eagerly<s n="adv"/></r></p></e>
     <e c=""><p><l>ագահաբար<s n="adv"/></l><r>avidly<s n="adv"/></r></p></e>
     <e c=""><p><l>ագահաբար<s n="adv"/></l><r>greedily<s n="adv"/></r></p></e>
@@ -10656,6 +10688,11 @@
 <e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
 
+<!-- SECTION: Abbreviations -->
+
+<e c=""><p><l>տ-ն<s n="abbr"/></l><r>Mrs<s n="n"/><s n="sg"/></r></p></e>
+<e c=""><p><l>պ-ն<s n="abbr"/></l><r>Mr<s n="n"/><s n="sg"/></r></p></e>
+
 <!-- SECTION: Interjections -->
 
 <e c=""><p><l>այո<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
@@ -11034,7 +11071,6 @@
 <e c="in a certain order"><p><l>դարսել<s n="vblex"/></l><r>stack<s n="vblex"/></r></p></e>
 <e c="idiomatic"><p><l>դափնիների վրա հանգչել<s n="vblex"/></l><r>rest on one's laurels<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>դիել<s n="vblex"/></l><r>suck<s n="vblex"/></r></p></e>
-<e c=""><p><l>դիել<s n="vblex"/></l><r>drink motherâs milk<s n="vblex"/></r></p></e>
 <e c="transitive"><p><l>դիել<s n="vblex"/></l><r>suckle<s n="vblex"/></r></p></e>
 <e c=""><p><l>դիել<s n="vblex"/></l><r>nourish with milk<s n="vblex"/></r></p></e>
 <e c=""><p><l>դիել<s n="vblex"/></l><r>give suck<s n="vblex"/></r></p></e>
