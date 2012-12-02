@@ -99,6 +99,9 @@
 <e c=""><p><l>ուրեմն<s n="cnjadv"/></l><r>consequently<s n="adv"/></r></p></e>
 <e c=""><p><l>քան<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
 
+<e c=""><p><l>նույնպես<s n="cnjcoo"/></l><r>also<s n="adv"/></r></p></e>
+<e c=""><p><l>նույնպես<s n="cnjcoo"/></l><r>too<s n="adv"/></r></p></e>
+<e c=""><p><l>նույնպես<s n="cnjcoo"/></l><r>as<b/>well<s n="adv"/></r></p></e>
 
 <!-- SECTION: Adpositions -->
 <e c=""><p><l>դեպի<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
@@ -999,7 +1002,6 @@
 <e c="formal"><p><l>կենդանաբանական<b/>այգի<s n="n"/><s n="nn"/></l><r>zoological garden<s n="n"/></r></p></e>
 <e c="formal"><p><l>պահպանակ<s n="n"/><s n="nn"/></l><r>condom<s n="n"/></r></p></e>
 <e c="formal"><p><l>փոշեծծիչ<s n="n"/><s n="nn"/></l><r>vacuum cleaner<s n="n"/></r></p></e>
-<e c="form of address"><p><l>պարոն<s n="n"/><s n="nn"/></l><r>mister<s n="n"/></r></p></e>
 <e c="furniture"><p><l>գրասեղան<s n="n"/><s n="nn"/></l><r>writing desk<s n="n"/></r></p></e>
 <e c="furniture"><p><l>ճաշասեղան<s n="n"/><s n="nn"/></l><r>dining<s n="n"/></r></p></e>
 <e c="furniture"><p><l>սեղան<s n="n"/><s n="nn"/></l><r>table<s n="n"/></r></p></e>
@@ -2092,7 +2094,7 @@
 <e c=""><p><l>գործազրկություն<s n="n"/><s n="nn"/></l><r>unemployment<s n="n"/></r></p></e>
 <e c=""><p><l>գործարան<s n="n"/><s n="nn"/></l><r>factory<s n="n"/></r></p></e>
 <e c=""><p><l>գործարան<s n="n"/><s n="nn"/></l><r>plant<s n="n"/></r></p></e>
-<e c=""><p><l>գործընկեր<s n="n"/><s n="nn"/></l><r>colleague<s n="n"/></r></p></e>
+<e c=""><p><l>գործընկեր<s n="n"/><s n="aa"/></l><r>colleague<s n="n"/></r></p></e>
 <e c=""><p><l>գործիական<b/>հոլով<s n="n"/><s n="nn"/></l><r>instrumental case<s n="n"/></r></p></e>
 <e c=""><p><l>գործիչ<s n="n"/><s n="nn"/></l><r>figure<s n="n"/></r></p></e>
 <e c=""><p><l>գործիչ<s n="n"/><s n="nn"/></l><r>personality<s n="n"/></r></p></e>
@@ -2465,7 +2467,7 @@
 <e c=""><p><l>ընկերք<s n="n"/><s n="nn"/></l><r>placenta<s n="n"/></r></p></e>
 <e c=""><p><l>ընկճախտ<s n="n"/><s n="nn"/></l><r>psychology<s n="n"/></r></p></e>
 <e c=""><p><l>ընկուզենի<s n="n"/><s n="aa"/></l><r>walnut<s n="n"/></r></p></e>
-<e c=""><p><l>ընտանիք<s n="n"/><s n="aa"/></l><r>family<s n="n"/></r></p></e>
+<e c=""><p><l>ընտանիք<s n="n"/><s n="nn"/></l><r>family<s n="n"/></r></p></e>
 <e c=""><p><l>թև<s n="n"/><s n="nn"/></l><r>wing<s n="n"/></r></p></e>
 <e c=""><p><l>թագ<s n="n"/><s n="nn"/></l><r>crown<s n="n"/></r></p></e>
 <e c=""><p><l>թաթար<s n="n"/><s n="aa"/></l><r>Tatar<s n="n"/></r></p></e>
@@ -4197,6 +4199,7 @@
 <e c=""><p><l>պարիսպ<s n="n"/><s n="nn"/></l><r>wall<s n="n"/></r></p></e>
 <e c=""><p><l>պարկավոր<b/>արջ<s n="n"/><s n="nn"/></l><r>koala<s n="n"/></r></p></e>
 <e c=""><p><l>պարող<s n="n"/><s n="nn"/></l><r>dancer<s n="n"/></r></p></e>
+<e c="form of address"><p><l>պարոն<s n="n"/><s n="aa"/></l><r>mister<s n="n"/></r></p></e>
 <e c=""><p><l>պարոն<s n="n"/><s n="nn"/></l><r>gentleman<s n="n"/></r></p></e>
 <e c=""><p><l>պարոն<s n="n"/><s n="nn"/></l><r>sir<s n="n"/></r></p></e>
 <e c=""><p><l>պարուհի<s n="n"/><s n="nn"/></l><r>dancer<s n="n"/></r></p></e>
@@ -4804,7 +4807,7 @@
 <e c=""><p><l>քակոր<s n="n"/><s n="nn"/></l><r>manure<s n="n"/></r></p></e>
 <e c=""><p><l>քաղաք<s n="n"/><s n="nn"/></l><r>city<s n="n"/></r></p></e>
 <e c=""><p><l>քաղաքապետ<s n="n"/><s n="aa"/></l><r>mayor<s n="n"/></r></p></e>
-<e c=""><p><l>քաղաքացի<s n="n"/><s n="nn"/></l><r>citizen<s n="n"/></r></p></e>
+<e c=""><p><l>քաղաքացի<s n="n"/><s n="aa"/></l><r>citizen<s n="n"/></r></p></e>
 <e c=""><p><l>քաղդեացի<s n="n"/><s n="aa"/></l><r>Chaldean<s n="n"/></r></p></e>
 <e c=""><p><l>քամակ<s n="n"/><s n="nn"/></l><r>ass<s n="n"/></r></p></e>
 <e c=""><p><l>քամակ<s n="n"/><s n="nn"/></l><r>back<s n="n"/></r></p></e>
@@ -9298,6 +9301,21 @@
 <e c=""><p><l>լավ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>easy<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>light<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հեշտ<s n="adj"/><s n="sint"/></l><r>smooth<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ազատ<s n="adj"/><s n="sint"/></l><r>free<s n="adj"/><s n="sint"/></r></p></e>
+
+<e c=""><p><l>գործոն<s n="adj"/><s n="sint"/></l><r>working<s n="adj"/></r></p></e>
+<e c=""><p><l>գործոն<s n="adj"/><s n="sint"/></l><r>acting<s n="adj"/></r></p></e>
+<e c=""><p><l>գործոն<s n="adj"/><s n="sint"/></l><r>influencing<s n="adj"/></r></p></e>
+
+<e c=""><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>complicated<s n="adj"/></r></p></e>
+<e c=""><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>complex<s n="adj"/></r></p></e>
+<e c=""><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>difficult<s n="adj"/></r></p></e>
+<e c="grammar"><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>compound<s n="adj"/></r></p></e>
+<e c="grammar"><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>composite<s n="adj"/></r></p></e>
+
+<e c=""><p><l>դիտորդական<s n="adj"/></l><r>observer<s n="adj"/></r></p></e>
+<e c=""><p><l>դիտորդական<s n="adj"/></l><r>observation<s n="adj"/></r></p></e>
 
 <e c=""><p><l>նոր<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>մեծ<s n="adj"/><s n="sint"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>

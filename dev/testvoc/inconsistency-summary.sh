@@ -25,9 +25,9 @@ for i in $POS; do
 		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v -e '<adj>' -e '<adv>'  | grep -v REGEX | wc -l`;
 		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v -e '<adj>' -e '<adv>' | grep -v REGEX |  wc -l`;
 	elif [ "$i" = "adv" ]; then
-		TOTAL=`cat $INC | grep "<$i>" | grep -v '<adj>' | grep -v REGEX | wc -l`; 
-		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v '<adj>'  | grep -v REGEX | wc -l`;
-		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v '<adj>' | grep -v REGEX |  wc -l`;
+		TOTAL=`cat $INC | grep "<$i>" | grep -v '<v' | grep -v REGEX | wc -l`; 
+		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v '<v'  | grep -v REGEX | wc -l`;
+		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v '<v' | grep -v REGEX |  wc -l`;
 	else
 		TOTAL=`cat $INC | grep "<$i>" | grep -v REGEX | wc -l`; 
 		AT=`cat $INC | grep "<$i>" | grep '@'  | grep -v REGEX | wc -l`;
