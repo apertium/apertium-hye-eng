@@ -59,6 +59,7 @@
   <sdef n="sent"    c="End of sentence marker"/>
   <sdef n="cm"      c="Comma"/>
   <sdef n="guio"    c="Hyphen"/>
+  <sdef n="apos"    c="Apostrophe"/>
 </sdefs>
 
 <section id="main" type="standard">
@@ -102,6 +103,11 @@
 <!-- SECTION: Adpositions -->
 <e c=""><p><l>դեպի<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
 <e c=""><p><l>դեպի<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+<e c=""><p><l>առանց<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
+<e c="archaic"><p><l>հաղագս<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+<e c="archaic"><p><l>հաղագս<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+<e c="archaic"><p><l>հաղագս<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
+<e c=""><p><l>արտաքո<s n="pr"/></l><r>outside<b/>of<s n="pr"/></r></p></e>
 
 <e c=""><p><l>աղագավ<s n="post"/></l><r>by<b/>reason<b/>of<s n="pr"/></r></p></e>
 <e c=""><p><l>աղագավ<s n="post"/></l><r>because<b/>of<s n="pr"/></r></p></e>
@@ -154,6 +160,9 @@
 
 <e c=""><p><l>մի<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
 
+<e c="" r="LR"><p><l>այս<s n="det"/><s n="dem"/><s n="sp"/></l><r>this<s n="det"/><s n="dem"/><s n="ND"/></r></p></e>
+<e c="" r="RL"><p><l>այս<s n="det"/><s n="dem"/><s n="sp"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+<e c="" r="RL"><p><l>այս<s n="det"/><s n="dem"/><s n="sp"/></l><r>this<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
 
 <e c="" r="LR"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="ND"/></r></p></e>
 <e c="" r="RL"><p><l>այն<s n="det"/><s n="dem"/><s n="sp"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
@@ -1091,7 +1100,7 @@
 <e c="historical"><p><l>կուլակ<s n="n"/><s n="aa"/></l><r>kulak<s n="n"/></r></p></e>
 <e c="historical"><p><l>հայդուկ<s n="n"/><s n="aa"/></l><r>hajduk<s n="n"/></r></p></e>
 <e c="historical"><p><l>հաս<s n="n"/><s n="nn"/></l><r>tax<s n="n"/></r></p></e>
-<e c="historical"><p><l>նախարար<s n="n"/><s n="aa"/></l><r>nakharar<s n="n"/></r></p></e>
+<e c="historical"><p><l>նախարար<s n="n"/><s n="aa"/></l><r>minister<s n="n"/></r></p></e>
 <e c="historical"><p><l>ոստան<s n="n"/><s n="nn"/></l><r>demesne<s n="n"/></r></p></e>
 <e c="historical"><p><l>վասալ<s n="n"/><s n="aa"/></l><r>vassal<s n="n"/></r></p></e>
 <e c="historical"><p><l>ցար<s n="n"/><s n="aa"/></l><r>czar<s n="n"/></r></p></e>
@@ -5005,6 +5014,9 @@
 <e c="Western Armenian"><p><l>վայրկյան<s n="n"/><s n="nn"/></l><r>minute<s n="n"/></r></p></e>
 <e c="zoology"><p><l>երկկենցաղ<s n="n"/><s n="aa"/></l><r>amphibian<s n="n"/></r></p></e>
 
+
+
+
 <e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>boy<s n="n"/></r></p></e>
 <e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>son<s n="n"/></r></p></e>
 <e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>lad<s n="n"/></r></p></e>
@@ -5013,6 +5025,7 @@
 <e c=""><p><l>տղա<s n="n"/><s n="aa"/></l><r>apprentice<s n="n"/></r></p></e>
 
 <e c="something learnt by heart"><p><l>անգիր<s n="n"/><s n="nn"/></l><r>recital<s n="n"/></r></p></e>
+<e c="language"><p><l>անգլերեն<s n="n"/><s n="nn"/></l><r>English<s n="n"/></r></p></e>
 
 <!-- SECTION: Proper names -->
 
@@ -5088,7 +5101,7 @@
 <e c=""><p><l>Ալբերտ<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Ալեքսան<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Ալեքսանդր<b/>Մակեդոնացի<s n="np"/><s n="ant"/><s n="m"/></l><r>Alexander<b/>the<b/>Great<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e c=""><p><l>Ալեքսանդր<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksandr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Ալեքսանդր<s n="np"/><s n="ant"/><s n="m"/></l><r>Alexander<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Ալեքսանդրիա<s n="np"/><s n="top"/><s n="nn"/></l><r>Alexandria<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Ալեքսիյ<s n="np"/><s n="ant"/><s n="m"/></l><r>Alexy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Ալժիր<s n="np"/><s n="top"/><s n="nn"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
@@ -5615,7 +5628,7 @@
 <e c=""><p><l>Համազասպ<s n="np"/><s n="ant"/><s n="m"/></l><r>Hamazasp<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e c=""><p><l>Համաշխարհային<b/>բանկ<s n="np"/><s n="al"/><s n="nn"/></l><r>World<b/>Bank<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Համեստ<s n="np"/><s n="ant"/><s n="f"/></l><r>Hamest<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e c=""><p><l>Հայաստան<s n="np"/><s n="top"/><s n="nn"/></l><r>Hayastan<s n="np"/><s n="top"/></r></p></e>
+<e c=""><p><l>Հայաստան<s n="np"/><s n="top"/><s n="nn"/></l><r>Armenia<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Հայաստանի<b/>Հանրապետություն<s n="np"/><s n="top"/><s n="nn"/></l><r>Republic<b/>of<b/>Armenia<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Հայդարաբադ<s n="np"/><s n="al"/><s n="nn"/></l><r>Hyderabad<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Հայկ<s n="np"/><s n="ant"/><s n="m"/></l><r>Hayk<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -6239,6 +6252,10 @@
 <!-- SECTION: Adjectives -->
 
 <e c=""><p><l>լավ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+
+<e c=""><p><l>պետք<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
+<e c=""><p><l>նոր<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մեծ<s n="adj"/><s n="sint"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
 
 <e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>honest<s n="adj"/></r></p></e>
 <e c=""><p><l>ազնիվ<s n="adj"/><s n="sint"/></l><r>honest-minded<s n="adj"/></r></p></e>
@@ -7478,6 +7495,14 @@
 <e c=""><p><l>թռչել<s n="vblex"/><s n="iv"/></l><r>fly<s n="vblex"/></r></p></e>
 <e c=""><p><l>թռչել<s n="vblex"/><s n="iv"/></l><r>jump<s n="vblex"/></r></p></e>
 <e c=""><p><l>թռչել<s n="vblex"/><s n="iv"/></l><r>leap<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>tie<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>fasten<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>knot<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>connect<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>marry<s n="vblex"/></r></p></e>
+<e c=""><p><l>սկսել<s n="vblex"/><s n="tv"/></l><r>start<s n="vblex"/></r></p></e>
+<e c=""><p><l>սկսել<s n="vblex"/><s n="tv"/></l><r>begin<s n="vblex"/></r></p></e>
+<e c=""><p><l>սկսել<s n="vblex"/><s n="tv"/></l><r>commence<s n="vblex"/></r></p></e>
 
 <e c=""><p><l>լսել<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
@@ -7489,6 +7514,7 @@
 <e><re>[№]?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
 <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
 <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
+<e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
 
 
 

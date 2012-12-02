@@ -48,6 +48,8 @@
 
      <sdef n="ant"    c="Anthroponym"/>
      <sdef n="top"    c="Toponym"/>
+     <sdef n="al"     c="Altres"/>
+     <sdef n="cog"    c="Cognomen"/>
 
      <sdef n="inf"    c="Infinitive"/>
      <sdef n="pass"   c="Passive"/>
@@ -3587,9 +3589,313 @@
       <e>       <p><l>ին</l><r><s n="np"/><s n="top"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
       <e>       <p><l>ից</l><r><s n="np"/><s n="top"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p><par n="poss"/></e>
       <e>       <p><l>ով</l><r><s n="np"/><s n="top"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p><par n="poss"/></e>
-      <e>       <p><l>ւմ</l><r><s n="np"/><s n="top"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p><par n="poss"/></e>
+      <e>       <p><l>ում</l><r><s n="np"/><s n="top"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p><par n="poss"/></e>
     </pardef>
 
+
+    <pardef n="Կեսարիա__np">
+      <e><p>          <l>յից</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յի</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յին</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>յով</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Րաֆֆ/ի__np">
+      <e><p>          <l>ուց</l><r>ի<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ու</l><r>ի<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r>ի<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ուն</l><r>ի<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r>ի<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r>ի<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Բաք/ու__np">
+      <e><p>          <l>վից</l><r>ու<s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>վի</l><r>ու<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>վին</l><r>ու<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ու</l><r>ու<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ուն</l><r>ու<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>վում</l><r>ու<s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>վով</l><r>ու<s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Տաճատուհ/ի__np">
+      <e><p>          <l>ուց</l><r>ի<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ու</l><r>ի<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r>ի<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ուն</l><r>ի<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r>ի<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r>ի<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Գրոզն/ի__np">
+      <e><p>          <l>ուց</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իից</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ու</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իի</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իին</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ուն</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ի</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>իը</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իում</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իով</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r>ի<s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Էրեբուն/ի__np">
+      <e><p>          <l>ուց</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ու</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ուն</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ի</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Կլեոպա/տրա__np">
+      <e><p>          <l>րտրայից</l><r>տրա<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>րտրայի</l><r>տրա<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>տրա</l><r>տրա<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>րտրային</l><r>տրա<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>րտրայով</l><r>տրա<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>տրան</l><r>տրա<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Արաքս__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="nn"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Ֆրանսիա__np">
+      <e><p>          <l>յից</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յի</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յին</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>յում</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յով</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="բիշնուպրիյա-մանիպուրի__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Մարիամ__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Սարգ/իս__np">
+      <e><p>          <l>սից</l><r>իս<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>սի</l><r>իս<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իս</l><r>իս<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>սին</l><r>իս<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>սով</l><r>իս<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իսը</l><r>իս<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>իսն</l><r>իս<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Խորխոռուն/ի__np">
+      <e><p>          <l>ուց</l><r>ի<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ու</l><r>ի<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r>ի<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ուն</l><r>ի<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r>ի<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r>ի<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Բաղրամյան__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Ուրարտու__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Երևան__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Գայանե__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Վեդա__np">
+      <e><p>          <l>յից</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յի</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յին</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>յում</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յով</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Կարպատներ__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="pl"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Եվրամիու/թյուն__np">
+      <e><p>          <l>թյունից</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ության</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ությանն</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ությանը</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>թյուն</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>թյունը</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>թյունն</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>թյունում</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ությամբ,</l><r>թյուն<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Անի__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Կամա__np">
+      <e><p>          <l>յից</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յի</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յին</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>յում</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յով</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Պոլ/իս__np">
+      <e><p>          <l>սից</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>սի</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>սին</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>իս</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իսը</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>իսն</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>սում</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>սով</l><r>իս<s n="np"/><s n="top"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Արա__np">
+      <e><p>          <l>յից</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յի</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յին</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>յով</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Վահե__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Գորկ/ի__np">
+      <e><p>          <l>իից</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ուց</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իի</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ու</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ուն</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>իին</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ի</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իում</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>իով</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r>ի<s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Վան__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="al"/><s n="nn"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Վլադիմիր__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+    <pardef n="Արարատ__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="Մետաքսյա__np">
+      <e><p>          <l>յից</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յի</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>յին</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>յով</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+    <pardef n="Ֆիլիպիններ__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="top"/><s n="pl"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="top"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="top"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="top"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="top"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="top"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ում</l><r><s n="np"/><s n="top"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="top"/><s n="pl"/><s n="ins"/><s n="ind"/></r></p></e>
+    </pardef>
+
+    <pardef n="Գրիգոր__np">
+      <e><p>          <l>ից</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ի</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ին</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ով</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ն</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ը</l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
  
     <!-- SECTION: Adjectives -->
 
@@ -7469,6 +7775,7 @@
     <e lm="բեյսբոլ"><i>բեյսբոլ</i><par n="հայերեն__n_nn"/></e>
     <e lm="ռակ"><i>ռակ</i><par n="տալ__n_aa"/></e>
     <e lm="բակտրերեն"><i>բակտրերեն</i><par n="հայերեն__n_nn"/></e>
+    <e lm="անգլերեն"><i>անգլերեն</i><par n="հայերեն__n_nn"/></e>
     <e lm="կաթ"><i>կաթ</i><par n="հայերեն__n_nn"/></e>
     <e lm="մամուլ"><i>մամուլ</i><par n="հայերեն__n_nn"/></e>
     <e lm="գոլ"><i>գոլ</i><par n="հայերեն__n_nn"/></e>
@@ -8136,10 +8443,668 @@
     <e lm="Գրիգոր"><i>Գրիգոր</i><par n="Գրիգոր__np"/></e>
 
     <e lm="Երևան"><i>Երևան</i><par n="Երևան__np"/></e>
+    <e lm="Հայաստան"><i>Հայաստան</i><par n="Երևան__np"/></e>
+
+    <e lm="Ասիա"><i>Ասիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Շեքսպիր"><i>Շեքսպիր</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ստեփանակերտ"><i>Ստեփանակերտ</i><par n="Երևան__np"/></e>
+    <e lm="Առնո"><i>Առնո</i><par n="Արա__np"/></e>
+    <e lm="Բրյանսկ"><i>Բրյանսկ</i><par n="Երևան__np"/></e>
+    <e lm="Իվանովո"><i>Իվանովո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վենետիկ"><i>Վենետիկ</i><par n="Երևան__np"/></e>
+    <e lm="Պոդոլսկ"><i>Պոդոլսկ</i><par n="Երևան__np"/></e>
+    <e lm="Բեռն"><i>Բեռն</i><par n="Երևան__np"/></e>
+    <e lm="Բակքիլիդես"><i>Բակքիլիդես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ֆլորենցիա"><i>Ֆլորենցիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ահարոն"><i>Ահարոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Յանցզի"><i>Յանցզի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Գյումրի"><i>Գյումրի</i><par n="Վան__np"/></e>
+    <e lm="Իտանագար"><i>Իտանագար</i><par n="Երևան__np"/></e>
+    <e lm="Յարոսլավլ"><i>Յարոսլավլ</i><par n="Երևան__np"/></e>
+    <e lm="Լվով"><i>Լվով</i><par n="Երևան__np"/></e>
+    <e lm="Կանադա"><i>Կանադա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Արմեն"><i>Արմեն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վահագնիկ"><i>Վահագնիկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Պասիր Ռիս"><i>Պասիր<b/>Ռիս</i><par n="Երևան__np"/></e>
+    <e lm="Կալուգա"><i>Կալուգա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պլինիոս"><i>Պլինիոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Տեխաս"><i>Տեխաս</i><par n="Երևան__np"/></e>
+    <e lm="Աստանա"><i>Աստանա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վայոց Ձոր"><i>Վայոց<b/>Ձոր</i><par n="Վան__np"/></e>
+    <e lm="Արսեն"><i>Արսեն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Նինոծմինդա"><i>Նինոծմինդա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բրյուսել"><i>Բրյուսել</i><par n="Երևան__np"/></e>
+    <e lm="Սմոլենսկ"><i>Սմոլենսկ</i><par n="Երևան__np"/></e>
+    <e lm="Էրիկ"><i>Էրիկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ռեյկյավիկ"><i>Ռեյկյավիկ</i><par n="Երևան__np"/></e>
+    <e lm="Զմյուռնիա"><i>Զմյուռնիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Տիրան"><i>Տիրան</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կույումջյան"><i>Կույումջյան</i><par n="Բաղրամյան__np"/></e>
+    <e lm="Լեռնային Ղարաբաղ"><i>Լեռնային<b/> Ղարաբաղ</i><par n="Երևան__np"/></e>
+    <e lm="Արխանգելսկ"><i>Արխանգելսկ</i><par n="Երևան__np"/></e>
+    <e lm="Մարկ"><i>Մարկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Խորխոռունի"><i>Խորխոռուն</i><par n="Խորխոռուն/ի__np"/></e>
+    <e lm="Տերպանդրոս"><i>Տերպանդրոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Իզմիր"><i>Իզմիր</i><par n="Երևան__np"/></e>
+    <e lm="Նարյան-Մար"><i>Նարյան-Մար</i><par n="Երևան__np"/></e>
+    <e lm="Ալբերտ"><i>Ալբերտ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Եգիպտոս"><i>Եգիպտոս</i><par n="Երևան__np"/></e>
+    <e lm="Գոմել"><i>Գոմել</i><par n="Երևան__np"/></e>
+    <e lm="Գրոզնի"><i>Գրոզն</i><par n="Գրոզն/ի__np"/></e>
+    <e lm="Պարսկաստան"><i>Պարսկաստան</i><par n="Երևան__np"/></e>
+    <e lm="Գաղատիա"><i>Գաղատիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վահե"><i>Վահե</i><par n="Վահե__np"/></e>
+    <e lm="Ֆինլանդիա"><i>Ֆինլանդիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Նաբերեժնիե Չելնի"><i>Նաբերեժնիե<b/>Չելնի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Արքիլոքոս"><i>Արքիլոքոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Փխենյան"><i>Փխենյան</i><par n="Երևան__np"/></e>
+    <e lm="Բաղրամյան"><i>Բաղրամյան</i><par n="Բաղրամյան__np"/></e>
+    <e lm="Թեոգնիդես"><i>Թեոգնիդես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հոկայդո"><i>Հոկայդո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ասպետ"><i>Ասպետ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Գոռնո-Ալթայսկ"><i>Գոռնո-Ալթայսկ</i><par n="Երևան__np"/></e>
+    <e lm="Կամչատկա"><i>Կամչատկա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Չեխիա"><i>Չեխիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հարավային Օսիա"><i>Հարավային<b/>Օսիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հիսուս Քրիստոս"><i>Հիսուս<b/>Քրիստոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սիմֆերոպոլ"><i>Սիմֆերոպոլ</i><par n="Երևան__np"/></e>
+    <e lm="Անաքսիմենես"><i>Անաքսիմենես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Պրիամոս"><i>Պրիամոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Մեգհալայա"><i>Մեգհալայա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ալկման"><i>Ալկման</i><par n="Գրիգոր__np"/></e>
+    <e lm="Քեմբրիջ"><i>Քեմբրիջ</i><par n="Երևան__np"/></e>
+    <e lm="Թբիլիսի"><i>Թբիլիսի</i><par n="Երևան__np"/></e>
+    <e lm="Ամստերդամ"><i>Ամստերդամ</i><par n="Երևան__np"/></e>
+    <e lm="Գրենլանդիա"><i>Գրենլանդիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Մետաքսյա"><i>Մետաքսյա</i><par n="Մետաքսյա__np"/></e>
+    <e lm="Կազան"><i>Կազան</i><par n="Երևան__np"/></e>
+    <e lm="Լիբանան"><i>Լիբանան</i><par n="Երևան__np"/></e>
+    <e lm="Արաքս"><i>Արաքս</i><par n="Արաքս__np"/></e>
+    <e lm="Վարշավա"><i>Վարշավա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Փայտակարան"><i>Փայտակարան</i><par n="Վան__np"/></e>
+    <e lm="Կոսովո"><i>Կոսովո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պարմենիդես"><i>Պարմենիդես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Երվանդ"><i>Երվանդ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Դոնեցկ"><i>Դոնեցկ</i><par n="Երևան__np"/></e>
+    <e lm="Տակիտոս"><i>Տակիտոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հուանհե"><i>Հուանհե</i><par n="Ուրարտու__np"/></e>
+    <e lm="Երասխ"><i>Երասխ</i><par n="Արաքս__np"/></e>
+    <e lm="Դուբլին"><i>Դուբլին</i><par n="Երևան__np"/></e>
+    <e lm="Գամիրք"><i>Գամիրք</i><par n="Երևան__np"/></e>
+    <e lm="Ալմաթի"><i>Ալմաթի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Սոչի"><i>Սոչի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Վիբորգ"><i>Վիբորգ</i><par n="Երևան__np"/></e>
+    <e lm="Միզորամ"><i>Միզորամ</i><par n="Երևան__np"/></e>
+    <e lm="Ծոփք"><i>Ծոփք</i><par n="Երևան__np"/></e>
+    <e lm="Թեմզա"><i>Թեմզա</i><par n="Կամա__np"/></e>
+    <e lm="Օկա"><i>Օկա</i><par n="Կամա__np"/></e>
+    <e lm="Վռամ"><i>Վռամ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Նիցցա"><i>Նիցցա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ուլան-Ուդե"><i>Ուլան-Ուդե</i><par n="Ուրարտու__np"/></e>
+    <e lm="Օսեթիա"><i>Օսեթիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սևան"><i>Սևան</i><par n="Վան__np"/></e>
+    <e lm="Ապիրատ"><i>Ապիրատ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Եփրատ"><i>Եփրատ</i><par n="Վան__np"/></e>
+    <e lm="Օրյոլ"><i>Օրյոլ</i><par n="Երևան__np"/></e>
+    <e lm="Էմպեդոկլես"><i>Էմպեդոկլես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ռաջաստան"><i>Ռաջաստան</i><par n="Երևան__np"/></e>
+    <e lm="Օբ"><i>Օբ</i><par n="Վան__np"/></e>
+    <e lm="Վայք"><i>Վայք</i><par n="Երևան__np"/></e>
+    <e lm="Մարսել"><i>Մարսել</i><par n="Երևան__np"/></e>
+    <e lm="Թրակիա"><i>Թրակիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Անդեր"><i>Անդեր</i><par n="Ֆիլիպիններ__np"/></e>
+    <e lm="Սևաստոպոլ"><i>Սևաստոպոլ</i><par n="Երևան__np"/></e>
+    <e lm="Եղիսաբեթ"><i>Եղիսաբեթ</i><par n="Մարիամ__np"/></e>
+    <e lm="Խորեն"><i>Խորեն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Մումբայ"><i>Մումբայ</i><par n="Երևան__np"/></e>
+    <e lm="Դուբրովնիկ"><i>Դուբրովնիկ</i><par n="Երևան__np"/></e>
+    <e lm="Մարաստան"><i>Մարաստան</i><par n="Վան__np"/></e>
+    <e lm="Տաշքենդ"><i>Տաշքենդ</i><par n="Երևան__np"/></e>
+    <e lm="Մայն"><i>Մայն</i><par n="Վան__np"/></e>
+    <e lm="Վարաժնունի"><i>Վարաժնուն</i><par n="Խորխոռուն/ի__np"/></e>
+    <e lm="Շիլոնգ"><i>Շիլոնգ</i><par n="Երևան__np"/></e>
+    <e lm="Աոմին"><i>Աոմին</i><par n="Երևան__np"/></e>
+    <e lm="Չեննայ"><i>Չեննայ</i><par n="Երևան__np"/></e>
+    <e lm="Շիվա"><i>Շիվա</i><par n="Արա__np"/></e>
+    <e lm="Կարեն"><i>Կարեն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ղուրան"><i>Ղուրան</i><par n="Երևան__np"/></e>
+    <e lm="Ուֆա"><i>Ուֆա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Երևան"><i>Երևան</i><par n="Երևան__np"/></e>
+    <e lm="Օմսկ"><i>Օմսկ</i><par n="Երևան__np"/></e>
+    <e lm="Օտտավա"><i>Օտտավա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Գաբոն"><i>Գաբոն</i><par n="Երևան__np"/></e>
+    <e lm="Բիրոբիջան"><i>Բիրոբիջան</i><par n="Երևան__np"/></e>
+    <e lm="Անադիր"><i>Անադիր</i><par n="Վան__np"/></e>
+    <e lm="Հաննիբալ"><i>Հաննիբալ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Օրենբուրգ"><i>Օրենբուրգ</i><par n="Երևան__np"/></e>
+    <e lm="Ղազվին"><i>Ղազվին</i><par n="Երևան__np"/></e>
+    <e lm="Նյու Յորք"><i>Նյու<b/>Յորք</i><par n="Երևան__np"/></e>
+    <e lm="Կրասնոյարսկ"><i>Կրասնոյարսկ</i><par n="Երևան__np"/></e>
+    <e lm="Կոլոմնա"><i>Կոլոմնա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պողոս"><i>Պողոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հոլանդիա"><i>Հոլանդիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բյուզանդիոն"><i>Բյուզանդիոն</i><par n="Երևան__np"/></e>
+    <e lm="Իժևսկ"><i>Իժևսկ</i><par n="Երևան__np"/></e>
+    <e lm="Մյունխեն"><i>Մյունխեն</i><par n="Երևան__np"/></e>
+    <e lm="Լիխտենշտեյն"><i>Լիխտենշտեյն</i><par n="Երևան__np"/></e>
+    <e lm="Բայկալ"><i>Բայկալ</i><par n="Արաքս__np"/></e>
+    <e lm="Նեապոլ"><i>Նեապոլ</i><par n="Երևան__np"/></e>
+    <e lm="Վլադիկավկազ"><i>Վլադիկավկազ</i><par n="Երևան__np"/></e>
+    <e lm="Մկրտում"><i>Մկրտում</i><par n="Գրիգոր__np"/></e>
+    <e lm="Մարտիրոս"><i>Մարտիրոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Դոնի Ռոստով"><i>Դոնի<b/>Ռոստով</i><par n="Երևան__np"/></e>
+    <e lm="Սարդինիա"><i>Սարդինիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Օման"><i>Օման</i><par n="Երևան__np"/></e>
+    <e lm="Անաքսիմանդրոս"><i>Անաքսիմանդրոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Դեմոկրիտ"><i>Դեմոկրիտ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ամուդարյա"><i>Ամուդարյա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ամերիկա"><i>Ամերիկա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Քլինթոն"><i>Քլինթոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վեդա"><i>Վեդա</i><par n="Վեդա__np"/></e>
+    <e lm="Ներսես"><i>Ներսես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հիմալայներ"><i>Հիմալայներ</i><par n="Ֆիլիպիններ__np"/></e>
+    <e lm="Կարին"><i>Կարին</i><par n="Երևան__np"/></e>
+    <e lm="Զիմբաբվե"><i>Զիմբաբվե</i><par n="Ուրարտու__np"/></e>
+    <e lm="Տրիպուրա"><i>Տրիպուրա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ուրարտու"><i>Ուրարտու</i><par n="Ուրարտու__np"/></e>
+    <e lm="Ռիգա"><i>Ռիգա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հերմես"><i>Հերմես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սանկտ Պետերբուրգ"><i>Սանկտ<b/>Պետերբուրգ</i><par n="Երևան__np"/></e>
+    <e lm="Մոզամբիկ"><i>Մոզամբիկ</i><par n="Երևան__np"/></e>
+    <e lm="Վահագն"><i>Վահագն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Լիպեցկ"><i>Լիպեցկ</i><par n="Երևան__np"/></e>
+    <e lm="Կալլինոս"><i>Կալլինոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կեսարիա"><i>Կեսարիա</i><par n="Կեսարիա__np"/></e>
+    <e lm="Շուշան"><i>Շուշան</i><par n="Մարիամ__np"/></e>
+    <e lm="Բուդապեշտ"><i>Բուդապեշտ</i><par n="Երևան__np"/></e>
+    <e lm="Ուրմիա"><i>Ուրմիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Մեծ Հայք"><i>Մեծ<b/>Հայք</i><par n="Վան__np"/></e>
+    <e lm="Տիգրան"><i>Տիգրան</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հոնդուրաս"><i>Հոնդուրաս</i><par n="Երևան__np"/></e>
+    <e lm="Պիսիդիա"><i>Պիսիդիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հայք"><i>Հայք</i><par n="Երևան__np"/></e>
+    <e lm="Պյութագորաս"><i>Պյութագորաս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ղարաբաղ"><i>Ղարաբաղ</i><par n="Վան__np"/></e>
+    <e lm="Հայդարաբադ"><i>Հայդարաբադ</i><par n="Վան__np"/></e>
+    <e lm="Փայա Լեբար"><i>Փայա<b/>Լեբար</i><par n="Երևան__np"/></e>
+    <e lm="Վինի-Թուխ"><i>Վինի-Թուխ</i><par n="Մարիամ__np"/></e>
+    <e lm="Տիգրանուհի"><i>Տիգրանուհ</i><par n="Տաճատուհ/ի__np"/></e>
+    <e lm="Բեռլին"><i>Բեռլին</i><par n="Երևան__np"/></e>
+    <e lm="Արշակունի"><i>Արշակուն</i><par n="Խորխոռուն/ի__np"/></e>
+    <e lm="Եմեն"><i>Եմեն</i><par n="Երևան__np"/></e>
+    <e lm="Աֆրիկա"><i>Աֆրիկա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հերովդես"><i>Հերովդես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սամարիա"><i>Սամարիա</i><par n="Կեսարիա__np"/></e>
+    <e lm="Կեմերովո"><i>Կեմերովո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ֆիլիպիններ"><i>Ֆիլիպիններ</i><par n="Ֆիլիպիններ__np"/></e>
+    <e lm="Հենրիկ"><i>Հենրիկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վրթանես"><i>Վրթանես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կարելիա"><i>Կարելիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ուրալ"><i>Ուրալ</i><par n="Վան__np"/></e>
+    <e lm="Գալուստ"><i>Գալուստ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սիմեի"><i>Սիմեի</i><par n="բիշնուպրիյա-մանիպուրի__np"/></e>
+    <e lm="Ամազոն"><i>Ամազոն</i><par n="Վան__np"/></e>
+    <e lm="Բուն Լեյ"><i>Բուն<b/>Լեյ</i><par n="Երևան__np"/></e>
+    <e lm="Դուշանբե"><i>Դուշանբե</i><par n="Ուրարտու__np"/></e>
+    <e lm="Թուկիդիդես"><i>Թուկիդիդես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կաունաս"><i>Կաունաս</i><par n="Երևան__np"/></e>
+    <e lm="Սոկրատես"><i>Սոկրատես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Եղիա"><i>Եղիա</i><par n="Արա__np"/></e>
+    <e lm="Պրահա"><i>Պրահա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Թուրքիա"><i>Թուրքիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հյուսիսային Կորեա"><i>Հյուսիսային<b/>Կորեա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Կրեմլ"><i>Կրեմլ</i><par n="Երևան__np"/></e>
+    <e lm="Արեգ"><i>Արեգ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ագարտալա"><i>Ագարտալա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ադամ"><i>Ադամ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կամա"><i>Կամա</i><par n="Կամա__np"/></e>
+    <e lm="Հնդկաստան"><i>Հնդկաստան</i><par n="Երևան__np"/></e>
+    <e lm="Էլիստա"><i>Էլիստա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վան"><i>Վան</i><par n="Վան__np"/></e>
+    <e lm="Պետերբուրգ"><i>Պետերբուրգ</i><par n="Երևան__np"/></e>
+    <e lm="Մոկք"><i>Մոկք</i><par n="Երևան__np"/></e>
+    <e lm="Նովոռոսիյսկ"><i>Նովոռոսիյսկ</i><par n="Երևան__np"/></e>
+    <e lm="Անդհրա Պրադեշ"><i>Անդհրա<b/>Պրադեշ</i><par n="Երևան__np"/></e>
+    <e lm="Իբիկոս"><i>Իբիկոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Չելյաբինսկ"><i>Չելյաբինսկ</i><par n="Երևան__np"/></e>
+    <e lm="Կալիֆոռնիա"><i>Կալիֆոռնիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Եվրասիա"><i>Եվրասիա</i><par n="Երևան__np"/></e>
+    <e lm="Սիբիր"><i>Սիբիր</i><par n="Երևան__np"/></e>
+    <e lm="Նոր կտակարան"><i>Նոր<b/>կտակարան</i><par n="Երևան__np"/></e>
+    <e lm="Հերակլիտ"><i>Հերակլիտ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Պիսիստրատոս"><i>Պիսիստրատոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Գանձակ"><i>Գանձակ</i><par n="Վան__np"/></e>
+    <e lm="Պանամա"><i>Պանամա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Գորկի"><i>Գորկ</i><par n="Գորկ/ի__np"/></e>
+    <e lm="Ասսամ"><i>Ասսամ</i><par n="Երևան__np"/></e>
+    <e lm="Անդրկովկաս"><i>Անդրկովկաս</i><par n="Վան__np"/></e>
+    <e lm="Խորվաթիա"><i>Խորվաթիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պոնտոս"><i>Պոնտոս</i><par n="Երևան__np"/></e>
+    <e lm="Մասիս"><i>Մասիս</i><par n="Արարատ__np"/></e>
+    <e lm="Ավոգադրո"><i>Ավոգադրո</i><par n="Արա__np"/></e>
+    <e lm="Մարտին"><i>Մարտին</i><par n="Գրիգոր__np"/></e>
+    <e lm="Անահիտ"><i>Անահիտ</i><par n="Մարիամ__np"/></e>
+    <e lm="Ստալինգրադ"><i>Ստալինգրադ</i><par n="Երևան__np"/></e>
+    <e lm="Տիրուվանանտապուրամ"><i>Տիրուվանանտապուրամ</i><par n="Երևան__np"/></e>
+    <e lm="Պարսք"><i>Պարսք</i><par n="Վան__np"/></e>
+    <e lm="Կարիա"><i>Կարիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Նալչիկ"><i>Նալչիկ</i><par n="Երևան__np"/></e>
+    <e lm="Սիմոնիդես"><i>Սիմոնիդես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վազգեն"><i>Վազգեն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Նովոսիբիրսկ"><i>Նովոսիբիրսկ</i><par n="Երևան__np"/></e>
+    <e lm="Հայկ"><i>Հայկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հոնսյու"><i>Հոնսյու</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ֆիջի"><i>Ֆիջի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Մանիպուր"><i>Մանիպուր</i><par n="Երևան__np"/></e>
+    <e lm="Կյուսյու"><i>Կյուսյու</i><par n="Ուրարտու__np"/></e>
+    <e lm="Աղվանք"><i>Աղվանք</i><par n="Երևան__np"/></e>
+    <e lm="Դաղստան"><i>Դաղստան</i><par n="Երևան__np"/></e>
+    <e lm="Զենոն"><i>Զենոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Լոս Անջելես"><i>Լոս<b/>Անջելես</i><par n="Երևան__np"/></e>
+    <e lm="Խաբարովսկ"><i>Խաբարովսկ</i><par n="Երևան__np"/></e>
+    <e lm="Վիեննա"><i>Վիեննա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վիտեբսկ"><i>Վիտեբսկ</i><par n="Երևան__np"/></e>
+    <e lm="Մանդակունի"><i>Մանդակուն</i><par n="Խորխոռուն/ի__np"/></e>
+    <e lm="Դնչիկ"><i>Դնչիկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Գուջարաթ"><i>Գուջարաթ</i><par n="Երևան__np"/></e>
+    <e lm="Ստրաբոն"><i>Ստրաբոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Էպիկուր"><i>Էպիկուր</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հարյանա"><i>Հարյանա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Լիսաբոն"><i>Լիսաբոն</i><par n="Երևան__np"/></e>
+    <e lm="Անդրեաս"><i>Անդրեաս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Էդվարդ"><i>Էդվարդ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Յուժնո-Սախալինսկ"><i>Յուժնո-Սախալինսկ</i><par n="Երևան__np"/></e>
+    <e lm="Ուզբեկստան"><i>Ուզբեկստան</i><par n="Երևան__np"/></e>
+    <e lm="Իրկուտսկ"><i>Իրկուտսկ</i><par n="Երևան__np"/></e>
+    <e lm="Գուգարք"><i>Գուգարք</i><par n="Երևան__np"/></e>
+    <e lm="Վլադիվոստոկ"><i>Վլադիվոստոկ</i><par n="Երևան__np"/></e>
+    <e lm="Պաղեստին"><i>Պաղեստին</i><par n="Երևան__np"/></e>
+    <e lm="Թամիլնադ"><i>Թամիլնադ</i><par n="Երևան__np"/></e>
+    <e lm="Կարպատներ"><i>Կարպատներ</i><par n="Կարպատներ__np"/></e>
+    <e lm="Վիրք"><i>Վիրք</i><par n="Երևան__np"/></e>
+    <e lm="Կիրով"><i>Կիրով</i><par n="Վան__np"/></e>
+    <e lm="Սարատով"><i>Սարատով</i><par n="Երևան__np"/></e>
+    <e lm="Պունգգոլ"><i>Պունգգոլ</i><par n="Երևան__np"/></e>
+    <e lm="Ուտտար Պրադեշ"><i>Ուտտար<b/>Պրադեշ</i><par n="Երևան__np"/></e>
+    <e lm="Եվրատեսիլ"><i>Եվրատեսիլ</i><par n="Երևան__np"/></e>
+    <e lm="Բեդոկ"><i>Բեդոկ</i><par n="Երևան__np"/></e>
+    <e lm="Վռամշապուհ"><i>Վռամշապուհ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Զևս"><i>Զևս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Արարատ"><i>Արարատ</i><par n="Արարատ__np"/></e>
+    <e lm="Վոլգա"><i>Վոլգա</i><par n="Կամա__np"/></e>
+    <e lm="Երուսաղեմ"><i>Երուսաղեմ</i><par n="Երևան__np"/></e>
+    <e lm="Անգմոկիո"><i>Անգմոկիո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Մարոկկո"><i>Մարոկկո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բուխարեստ"><i>Բուխարեստ</i><par n="Երևան__np"/></e>
+    <e lm="Ալանք"><i>Ալանք</i><par n="Երևան__np"/></e>
+    <e lm="Արծրունի"><i>Արծրուն</i><par n="Խորխոռուն/ի__np"/></e>
+    <e lm="Ռումինիա"><i>Ռումինիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հաբեշստան"><i>Հաբեշստան</i><par n="Երևան__np"/></e>
+    <e lm="Հիտլեր"><i>Հիտլեր</i><par n="Գրիգոր__np"/></e>
+    <e lm="Բել"><i>Բել</i><par n="Գրիգոր__np"/></e>
+    <e lm="Անատոլիա"><i>Անատոլիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Արամ"><i>Արամ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Աջարիա"><i>Աջարիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Մագելան"><i>Մագելան</i><par n="Բաղրամյան__np"/></e>
+    <e lm="Անգլիա"><i>Անգլիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ինգուշեթիա"><i>Ինգուշեթիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Քսենոկրատես"><i>Քսենոկրատես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ջորջիա"><i>Ջորջիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վորոնեժ"><i>Վորոնեժ</i><par n="Երևան__np"/></e>
+    <e lm="Արշակ"><i>Արշակ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հոուգանգ"><i>Հոուգանգ</i><par n="Երևան__np"/></e>
+    <e lm="Ղազախստան"><i>Ղազախստան</i><par n="Երևան__np"/></e>
+    <e lm="Մադրիդ"><i>Մադրիդ</i><par n="Երևան__np"/></e>
+    <e lm="Փյունիկիա"><i>Փյունիկիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բլագովեշչենսկ"><i>Բլագովեշչենսկ</i><par n="Երևան__np"/></e>
+    <e lm="Ֆրիուլի"><i>Ֆրիուլի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Հելսինկի"><i>Հելսինկի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Ղուկաս"><i>Ղուկաս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հուդա"><i>Հուդա</i><par n="Արա__np"/></e>
+    <e lm="Պոլիս"><i>Պոլ</i><par n="Պոլ/իս__np"/></e>
+    <e lm="Փարպի"><i>Փարպի</i><par n="Վան__np"/></e>
+    <e lm="Սոլոն"><i>Սոլոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հոմերոս"><i>Հոմերոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կրետե"><i>Կրետե</i><par n="Ուրարտու__np"/></e>
+    <e lm="Եկբատան"><i>Եկբատան</i><par n="Երևան__np"/></e>
+    <e lm="Սահակ"><i>Սահակ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ստավրոպոլ"><i>Ստավրոպոլ</i><par n="Երևան__np"/></e>
+    <e lm="Ասորեստան"><i>Ասորեստան</i><par n="Երևան__np"/></e>
+    <e lm="Ատրպատական"><i>Ատրպատական</i><par n="Երևան__np"/></e>
+    <e lm="Անի"><i>Անի</i><par n="Անի__np"/></e>
+    <e lm="Փոքր Հայք"><i>Փոքր<b/>Հայք</i><par n="Երևան__np"/></e>
+    <e lm="Գրիգոր"><i>Գրիգոր</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վիշնու"><i>Վիշնու</i><par n="Վահե__np"/></e>
+    <e lm="Մեծ Եղեռն"><i>Մեծ Եղեռն</i><par n="Երևան__np"/></e>
+    <e lm="Բիհար"><i>Բիհար</i><par n="Երևան__np"/></e>
+    <e lm="Նևա"><i>Նևա</i><par n="Կամա__np"/></e>
+    <e lm="Ջուրոնգ Իսթ"><i>Ջուրոնգ Իսթ</i><par n="Երևան__np"/></e>
+    <e lm="Բրատիսլավա"><i>Բրատիսլավա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Մովսես"><i>Մովսես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Օքսֆորդ"><i>Օքսֆորդ</i><par n="Երևան__np"/></e>
+    <e lm="Կառնատակա"><i>Կառնատակա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վաչե"><i>Վաչե</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կապադովկիա"><i>Կապադովկիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Աբրամ"><i>Աբրամ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Դամասկոս"><i>Դամասկոս</i><par n="Երևան__np"/></e>
+    <e lm="Կալինինգրադ"><i>Կալինինգրադ</i><par n="Երևան__np"/></e>
+    <e lm="Խաչատուր"><i>Խաչատուր</i><par n="Գրիգոր__np"/></e>
+    <e lm="Աշտարակ"><i>Աշտարակ</i><par n="Վան__np"/></e>
+    <e lm="Հարավային Կորեա"><i>Հարավային Կորեա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Թաթարստան"><i>Թաթարստան</i><par n="Երևան__np"/></e>
+    <e lm="Սիկտիվկար"><i>Սիկտիվկար</i><par n="Երևան__np"/></e>
+    <e lm="Ցյուրիխ"><i>Ցյուրիխ</i><par n="Վան__np"/></e>
+    <e lm="Ուրումչի"><i>Ուրումչի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Իրան"><i>Իրան</i><par n="Երևան__np"/></e>
+    <e lm="Եզոպոս"><i>Եզոպոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Այար Ռաջա"><i>Այար Ռաջա</i><par n="Վան__np"/></e>
+    <e lm="Դնեպրոպետրովսկ"><i>Դնեպրոպետրովսկ</i><par n="Երևան__np"/></e>
+    <e lm="Լուար"><i>Լուար</i><par n="Երևան__np"/></e>
+    <e lm="Ուտտարաքանդ"><i>Ուտտարաքանդ</i><par n="Երևան__np"/></e>
+    <e lm="Զարուհի"><i>Զարուհ</i><par n="Տաճատուհ/ի__np"/></e>
+    <e lm="Աստրախան"><i>Աստրախան</i><par n="Երևան__np"/></e>
+    <e lm="Այծեմնիկ"><i>Այծեմնիկ</i><par n="Մարիամ__np"/></e>
+    <e lm="Ֆրանսիա"><i>Ֆրանսիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Գանդինագար"><i>Գանդինագար</i><par n="Երևան__np"/></e>
+    <e lm="Սարգիս"><i>Սարգ</i><par n="Սարգ/իս__np"/></e>
+    <e lm="Հին կտակարան"><i>Հին կտակարան</i><par n="Վան__np"/></e>
+    <e lm="Սղերդ"><i>Սղերդ</i><par n="Երևան__np"/></e>
+    <e lm="Բուլղարիա"><i>Բուլղարիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հրազդան"><i>Հրազդան</i><par n="Վան__np"/></e>
+    <e lm="Հերակլես"><i>Հերակլես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կարթագեն"><i>Կարթագեն</i><par n="Երևան__np"/></e>
+    <e lm="Սահարա"><i>Սահարա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Լիմպոպո"><i>Լիմպոպո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պերմ"><i>Պերմ</i><par n="Երևան__np"/></e>
+    <e lm="Պերճ"><i>Պերճ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Նիկիա"><i>Նիկիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պրիշտինա"><i>Պրիշտինա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Արամայիս"><i>Արամայիս</i><par n="Վլադիմիր__np"/></e>
+    <e lm="Վարդան"><i>Վարդան</i><par n="Գրիգոր__np"/></e>
+    <e lm="Տայք"><i>Տայք</i><par n="Երևան__np"/></e>
+    <e lm="Ադրբեջան"><i>Ադրբեջան</i><par n="Երևան__np"/></e>
+    <e lm="Էստոնիա"><i>Էստոնիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Աժդահակ"><i>Աժդահակ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կենտրոնական Ասիա"><i>Կենտրոնական Ասիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պսկով"><i>Պսկով</i><par n="Երևան__np"/></e>
+    <e lm="Պիրենեյներ"><i>Պիրենեյներ</i><par n="Ֆիլիպիններ__np"/></e>
+    <e lm="Կրասնոդար"><i>Կրասնոդար</i><par n="Երևան__np"/></e>
+    <e lm="Բաբելոն"><i>Բաբելոն</i><par n="Երևան__np"/></e>
+    <e lm="Կուրգան"><i>Կուրգան</i><par n="Երևան__np"/></e>
+    <e lm="Գաֆէսճեան"><i>Գաֆէսճեան</i><par n="Բաղրամյան__np"/></e>
+    <e lm="Ղրղզստան"><i>Ղրղզստան</i><par n="Երևան__np"/></e>
+    <e lm="Նախիջևան"><i>Նախիջևան</i><par n="Երևան__np"/></e>
+    <e lm="Նագալենդ"><i>Նագալենդ</i><par n="Երևան__np"/></e>
+    <e lm="Լիվերպուլ"><i>Լիվերպուլ</i><par n="Երևան__np"/></e>
+    <e lm="Մոգիլյով"><i>Մոգիլյով</i><par n="Երևան__np"/></e>
+    <e lm="Կշեռք"><i>Կշեռք</i><par n="Վան__np"/></e>
+    <e lm="Սիկկիմ"><i>Սիկկիմ</i><par n="Երևան__np"/></e>
+    <e lm="Չիտա"><i>Չիտա</i><par n="Կամա__np"/></e>
+    <e lm="Ալջունիդ"><i>Ալջունիդ</i><par n="Երևան__np"/></e>
+    <e lm="Մանե"><i>Մանե</i><par n="Գայանե__np"/></e>
+    <e lm="Մոխրոտ"><i>Մոխրոտ</i><par n="Մարիամ__np"/></e>
+    <e lm="Տուլա"><i>Տուլա</i><par n="Կամա__np"/></e>
+    <e lm="Նորվեգիա"><i>Նորվեգիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Իռլանդիա"><i>Իռլանդիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Թալես"><i>Թալես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Բուխարա"><i>Բուխարա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Մեմնոն"><i>Մեմնոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Եվրամիություն"><i>Եվրամիու</i><par n="Եվրամիու/թյուն__np"/></e>
+    <e lm="Քաբուլ"><i>Քաբուլ</i><par n="Երևան__np"/></e>
+    <e lm="Իրաք"><i>Իրաք</i><par n="Երևան__np"/></e>
+    <e lm="Բրազիլիա"><i>Բրազիլիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Լենին"><i>Լենին</i><par n="Գրիգոր__np"/></e>
+    <e lm="Մարիամ"><i>Մարիամ</i><par n="Մարիամ__np"/></e>
+    <e lm="Ուկրաինա"><i>Ուկրաինա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ճամայկա"><i>Ճամայկա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Նունե"><i>Նունե</i><par n="Գայանե__np"/></e>
+    <e lm="Ալ Ջազիրա"><i>Ալ Ջազիրա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ֆարերներ"><i>Ֆարերներ</i><par n="Ֆիլիպիններ__np"/></e>
+    <e lm="Դարեհ"><i>Դարեհ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սվերդլովսկ"><i>Սվերդլովսկ</i><par n="Վան__np"/></e>
+    <e lm="Սախալին"><i>Սախալին</i><par n="Երևան__np"/></e>
+    <e lm="Քյոլն"><i>Քյոլն</i><par n="Երևան__np"/></e>
+    <e lm="Կորյուն"><i>Կորյուն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ուլան Բատոր"><i>Ուլան Բատոր</i><par n="Երևան__np"/></e>
+    <e lm="Պլուտարքոս"><i>Պլուտարքոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սալեխարդ"><i>Սալեխարդ</i><par n="Երևան__np"/></e>
+    <e lm="Սմբատուհի"><i>Սմբատուհ</i><par n="Տաճատուհ/ի__np"/></e>
+    <e lm="Կույբիշև"><i>Կույբիշև</i><par n="Վան__np"/></e>
+    <e lm="Լոս"><i>Լոս</i><par n="Երևան__np"/></e>
+    <e lm="Անակրեոն"><i>Անակրեոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Մագաս"><i>Մագաս</i><par n="Երևան__np"/></e>
+    <e lm="Վոլգոգրադ"><i>Վոլգոգրադ</i><par n="Երևան__np"/></e>
+    <e lm="Միջագետք"><i>Միջագետք</i><par n="Երևան__np"/></e>
+    <e lm="Մծբին"><i>Մծբին</i><par n="Երևան__np"/></e>
+    <e lm="Թալիբան"><i>Թալիբան</i><par n="Երևան__np"/></e>
+    <e lm="Կյուրեղ"><i>Կյուրեղ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սաթենիկ"><i>Սաթենիկ</i><par n="Մարիամ__np"/></e>
+    <e lm="Բանդունգ"><i>Բանդունգ</i><par n="Երևան__np"/></e>
+    <e lm="Պյուռոս"><i>Պյուռոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կոհիմա"><i>Կոհիմա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Աշոտ"><i>Աշոտ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կամպուչիա"><i>Կամպուչիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սոֆիա"><i>Սոֆիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ճավա"><i>Ճավա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ծիր Կաթին"><i>Ծիր Կաթին</i><par n="Երևան__np"/></e>
+    <e lm="Ալեքսանդրիա"><i>Ալեքսանդրիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բելգորոդ"><i>Բելգորոդ</i><par n="Երևան__np"/></e>
+    <e lm="Տամբով"><i>Տամբով</i><par n="Երևան__np"/></e>
+    <e lm="Վաղարշակ"><i>Վաղարշակ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Զագրեբ"><i>Զագրեբ</i><par n="Երևան__np"/></e>
+    <e lm="Պինդարոս"><i>Պինդարոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Լոնդոն"><i>Լոնդոն</i><par n="Երևան__np"/></e>
+    <e lm="Արա"><i>Արա</i><par n="Արա__np"/></e>
+    <e lm="Նովգորոդ"><i>Նովգորոդ</i><par n="Երևան__np"/></e>
+    <e lm="Հռենոս"><i>Հռենոս</i><par n="Վան__np"/></e>
+    <e lm="Մեդվեդեւ"><i>Մեդվեդեւ</i><par n="Բաղրամյան__np"/></e>
+    <e lm="Կոստրոմա"><i>Կոստրոմա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վիսլա"><i>Վիսլա</i><par n="Կամա__np"/></e>
+    <e lm="Մեծ Բրիտանիա"><i>Մեծ Բրիտանիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վիլնյուս"><i>Վիլնյուս</i><par n="Երևան__np"/></e>
+    <e lm="Խարկով"><i>Խարկով</i><par n="Երևան__np"/></e>
+    <e lm="Ռուսաստան"><i>Ռուսաստան</i><par n="Երևան__np"/></e>
+    <e lm="Ճենովա"><i>Ճենովա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Շաքար"><i>Շաքար</i><par n="Գայանե__np"/></e>
+    <e lm="Գուրգեն"><i>Գուրգեն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Անաքսագորաս"><i>Անաքսագորաս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ռյազան"><i>Ռյազան</i><par n="Երևան__np"/></e>
+    <e lm="Հռոդոս"><i>Հռոդոս</i><par n="Երևան__np"/></e>
+    <e lm="Ալպեր"><i>Ալպեր</i><par n="Ֆիլիպիններ__np"/></e>
+    <e lm="Օհան"><i>Օհան</i><par n="Գրիգոր__np"/></e>
+    <e lm="Պետրոզավոդսկ"><i>Պետրոզավոդսկ</i><par n="Երևան__np"/></e>
+    <e lm="Էրզրում"><i>Էրզրում</i><par n="Երևան__np"/></e>
+    <e lm="Ուլյանովսկ"><i>Ուլյանովսկ</i><par n="Երևան__np"/></e>
+    <e lm="Օրեգոն"><i>Օրեգոն</i><par n="Երևան__np"/></e>
+    <e lm="Կորսիկա"><i>Կորսիկա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Գայանե"><i>Գայանե</i><par n="Գայանե__np"/></e>
+    <e lm="Կուր"><i>Կուր</i><par n="Արաքս__np"/></e>
+    <e lm="Փարիզ"><i>Փարիզ</i><par n="Երևան__np"/></e>
+    <e lm="Ռայպուր"><i>Ռայպուր</i><par n="Երևան__np"/></e>
+    <e lm="Միմներմոս"><i>Միմներմոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Տաճատուհի"><i>Տաճատուհ</i><par n="Տաճատուհ/ի__np"/></e>
+    <e lm="Տիրտեոս"><i>Տիրտեոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Յալթա"><i>Յալթա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սանատրուկ"><i>Սանատրուկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Մադհյա Պրադեշ"><i>Մադհյա Պրադեշ</i><par n="Երևան__np"/></e>
+    <e lm="Աբխազիա"><i>Աբխազիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Թեհրան"><i>Թեհրան</i><par n="Երևան__np"/></e>
+    <e lm="Անդրանիկ"><i>Անդրանիկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վանկուվեր"><i>Վանկուվեր</i><par n="Երևան__np"/></e>
+    <e lm="Պոլտավա"><i>Պոլտավա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հիմաչալ Պրադեշ"><i>Հիմաչալ Պրադեշ</i><par n="Երևան__np"/></e>
+    <e lm="Պիղատոս"><i>Պիղատոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Տոկիո"><i>Տոկիո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Հոլոքոստ"><i>Հոլոքոստ</i><par n="Երևան__np"/></e>
+    <e lm="Ճորոխ"><i>Ճորոխ</i><par n="Արաքս__np"/></e>
+    <e lm="Փայլակ"><i>Փայլակ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Անտարկտիկա"><i>Անտարկտիկա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Արունաչալ Պրադեշ"><i>Արունաչալ Պրադեշ</i><par n="Երևան__np"/></e>
+    <e lm="Տոմսկ"><i>Տոմսկ</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Օսլո"><i>Օսլո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Քրդստան"><i>Քրդստան</i><par n="Երևան__np"/></e>
+    <e lm="Հուսիկ"><i>Հուսիկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Տվեր"><i>Տվեր</i><par n="Երևան__np"/></e>
+    <e lm="Ոդիսական"><i>Ոդիսական</i><par n="Երևան__np"/></e>
+    <e lm="Նիկոլաև"><i>Նիկոլաև</i><par n="Երևան__np"/></e>
+    <e lm="Բանգլադեշ"><i>Բանգլադեշ</i><par n="Երևան__np"/></e>
+    <e lm="Ջեյմս Բոնդ"><i>Ջեյմս Բոնդ</i><par n="Վան__np"/></e>
+    <e lm="Եզնիկ"><i>Եզնիկ</i><par n="Վլադիմիր__np"/></e>
+    <e lm="Բադարա"><i>Բադարա</i><par n="Կամա__np"/></e>
+    <e lm="Ագարակ"><i>Ագարակ</i><par n="Վան__np"/></e>
+    <e lm="Մուրմանսկ"><i>Մուրմանսկ</i><par n="Երևան__np"/></e>
+    <e lm="Մահարաշտրա"><i>Մահարաշտրա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Եկատերինբուրգ"><i>Եկատերինբուրգ</i><par n="Երևան__np"/></e>
+    <e lm="Չոա Չու Կանգ"><i>Չոա Չու Կանգ</i><par n="Երևան__np"/></e>
+    <e lm="Կողքիս"><i>Կողքիս</i><par n="Երևան__np"/></e>
+    <e lm="Կուրսկ"><i>Կուրսկ</i><par n="Երևան__np"/></e>
+    <e lm="Մինսկ"><i>Մինսկ</i><par n="Երևան__np"/></e>
+    <e lm="Կալկաթա"><i>Կալկաթա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բեսարաբիա"><i>Բեսարաբիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սերժ"><i>Սերժ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կզըլ"><i>Կզըլ</i><par n="Երևան__np"/></e>
+    <e lm="Դետրոյտ"><i>Դետրոյտ</i><par n="Երևան__np"/></e>
+    <e lm="Քրիստոս"><i>Քրիստոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Բանկա-Բելիտունգ"><i>Բանկա-Բելիտունգ</i><par n="Երևան__np"/></e>
+    <e lm="Վորկուտա"><i>Վորկուտա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Տիմոթեոս"><i>Տիմոթեոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Բառնաուլ"><i>Բառնաուլ</i><par n="Երևան__np"/></e>
+    <e lm="Կոյամպուտուր"><i>Կոյամպուտուր</i><par n="Երևան__np"/></e>
+    <e lm="Ստեսիքորոս"><i>Ստեսիքորոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Պիտաչոկ"><i>Պիտաչոկ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ստալին"><i>Ստալին</i><par n="Գրիգոր__np"/></e>
+    <e lm="Չերքեսկ"><i>Չերքեսկ</i><par n="Երևան__np"/></e>
+    <e lm="Համեստ"><i>Համեստ</i><par n="Մարիամ__np"/></e>
+    <e lm="Ալեքսանդր"><i>Ալեքսանդր</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սամարղանդ"><i>Սամարղանդ</i><par n="Երևան__np"/></e>
+    <e lm="Ստեփան"><i>Ստեփան</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կիպրոս"><i>Կիպրոս</i><par n="Երևան__np"/></e>
+    <e lm="Չեխոսլովակիա"><i>Չեխոսլովակիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վրաստան"><i>Վրաստան</i><par n="Երևան__np"/></e>
+    <e lm="Ազատ"><i>Ազատ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Անակ"><i>Անակ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Մագադան"><i>Մագադան</i><par n="Երևան__np"/></e>
+    <e lm="Ժնև"><i>Ժնև</i><par n="Երևան__np"/></e>
+    <e lm="Լուսինե"><i>Լուսինե</i><par n="Գայանե__np"/></e>
+    <e lm="Բուրկինա Ֆասո"><i>Բուրկինա<b/>Ֆասո</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բագրատունի"><i>Բագրատուն</i><par n="Խորխոռուն/ի__np"/></e>
+    <e lm="Մախաչկալա"><i>Մախաչկալա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Տալլին"><i>Տալլին</i><par n="Երևան__np"/></e>
+    <e lm="Տյումեն"><i>Տյումեն</i><par n="Երևան__np"/></e>
+    <e lm="Ապենիններ"><i>Ապենիններ</i><par n="Կարպատներ__np"/></e>
+    <e lm="Չատտիսգարհ"><i>Չատտիսգարհ</i><par n="Երևան__np"/></e>
+    <e lm="Կերչ"><i>Կերչ</i><par n="Երևան__np"/></e>
+    <e lm="Խրուշչով"><i>Խրուշչով</i><par n="Բաղրամյան__np"/></e>
+    <e lm="Վարուժան"><i>Վարուժան</i><par n="Գրիգոր__np"/></e>
+    <e lm="Դնեստր"><i>Դնեստր</i><par n="Վան__np"/></e>
+    <e lm="Սնուփ Դոգ"><i>Սնուփ<b/>Դոգ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Դանուբ"><i>Դանուբ</i><par n="Երևան__np"/></e>
+    <e lm="Յոշկար-Օլա"><i>Յոշկար-Օլա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Խոսրով"><i>Խոսրով</i><par n="Գրիգոր__np"/></e>
+    <e lm="Հարավսլավիա"><i>Հարավսլավիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Աթենք"><i>Աթենք</i><par n="Երևան__np"/></e>
+    <e lm="Փենջաբ"><i>Փենջաբ</i><par n="Երևան__np"/></e>
+    <e lm="Հիսուս"><i>Հիսուս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Բուրգունդիա"><i>Բուրգունդիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ստամբուլ"><i>Ստամբուլ</i><par n="Երևան__np"/></e>
+    <e lm="Թայմիր"><i>Թայմիր</i><par n="Վան__np"/></e>
+    <e lm="Կոպենհագեն"><i>Կոպենհագեն</i><par n="Երևան__np"/></e>
+    <e lm="Վաշինգտոն"><i>Վաշինգտոն</i><par n="Երևան__np"/></e>
+    <e lm="Հայկական ՍՍՀ"><i>Հայկական<b/>ՍՍՀ</i><par n="Երևան__np"/></e>
+    <e lm="Չեչնիա"><i>Չեչնիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Վիքիբառարան"><i>Վիքիբառարան</i><par n="Երևան__np"/></e>
+    <e lm="Րաֆֆի"><i>Րաֆֆ</i><par n="Րաֆֆ/ի__np"/></e>
+    <e lm="Պենզա"><i>Պենզա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Ինգուշիա"><i>Ինգուշիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Եփեսոս"><i>Եփեսոս</i><par n="Երևան__np"/></e>
+    <e lm="Բաբա Յագա"><i>Բաբա<b/>Յագա</i><par n="Մետաքսյա__np"/></e>
+    <e lm="Դելի"><i>Դելի</i><par n="Երևան__np"/></e>
+    <e lm="Տոլյատի"><i>Տոլյատի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Ագամեմնոն"><i>Ագամեմնոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Տիրանա"><i>Տիրանա</i><par n="Կամա__np"/></e>
+    <e lm="Նիժնի Նովգորոդ"><i>Նիժնի<b/>Նովգորոդ</i><par n="Երևան__np"/></e>
+    <e lm="բիշնուպրիյա-մանիպուրի"><i>բիշնուպրիյա-մանիպուրի</i><par n="բիշնուպրիյա-մանիպուրի__np"/></e>
+    <e lm="Միլան"><i>Միլան</i><par n="Երևան__np"/></e>
+    <e lm="Աստղիկ"><i>Աստղիկ</i><par n="Մարիամ__np"/></e>
+    <e lm="Պլատոն"><i>Պլատոն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վահրամ"><i>Վահրամ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Պեկին"><i>Պեկին</i><par n="Երևան__np"/></e>
+    <e lm="Օսիա"><i>Օսիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Պուտտուչչերի"><i>Պուտտուչչերի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Հալեպ"><i>Հալեպ</i><par n="Երևան__np"/></e>
+    <e lm="Վլադիմիր"><i>Վլադիմիր</i><par n="Վլադիմիր__np"/></e>
+    <e lm="Աբական"><i>Աբական</i><par n="Երևան__np"/></e>
+    <e lm="Փռյուգիա"><i>Փռյուգիա</i><par n="Կամա__np"/></e>
+    <e lm="Նոյ"><i>Նոյ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Խարբերդ"><i>Խարբերդ</i><par n="Երևան__np"/></e>
+    <e lm="Գոա"><i>Գոա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սարդես"><i>Սարդես</i><par n="Երևան__np"/></e>
+    <e lm="Սարանսկ"><i>Սարանսկ</i><par n="Երևան__np"/></e>
+    <e lm="Վահան"><i>Վահան</i><par n="Գրիգոր__np"/></e>
+    <e lm="Արթուր"><i>Արթուր</i><par n="Գրիգոր__np"/></e>
+    <e lm="Չեռնոբիլ"><i>Չեռնոբիլ</i><par n="Երևան__np"/></e>
+    <e lm="Ղոմ"><i>Ղոմ</i><par n="Երևան__np"/></e>
+    <e lm="Անկարա"><i>Անկարա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Բաքու"><i>Բաք</i><par n="Բաք/ու__np"/></e>
+    <e lm="Դարդանել"><i>Դարդանել</i><par n="Վան__np"/></e>
+    <e lm="Գոռ"><i>Գոռ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Ավստրալիա"><i>Ավստրալիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սեմբավանգ"><i>Սեմբավանգ</i><par n="Երևան__np"/></e>
+    <e lm="Պետրոս"><i>Պետրոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Յակուտսկ"><i>Յակուտսկ</i><par n="Երևան__np"/></e>
+    <e lm="Լենինգրադ"><i>Լենինգրադ</i><par n="Երևան__np"/></e>
+    <e lm="Կալինին"><i>Կալինին</i><par n="Երևան__np"/></e>
+    <e lm="Բոսֆոր"><i>Բոսֆոր</i><par n="Երևան__np"/></e>
+    <e lm="Սիկոկու"><i>Սիկոկու</i><par n="Ուրարտու__np"/></e>
+    <e lm="Կրիշնա"><i>Կրիշնա</i><par n="Արա__np"/></e>
+    <e lm="Ձվիկ"><i>Ձվիկ</i><par n="Մարիամ__np"/></e>
+    <e lm="Թավրիզ"><i>Թավրիզ</i><par n="Երևան__np"/></e>
+    <e lm="Պուտին"><i>Պուտին</i><par n="Բաղրամյան__np"/></e>
+    <e lm="Ատոմ"><i>Ատոմ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կապուտան"><i>Կապուտան</i><par n="Երևան__np"/></e>
+    <e lm="Յու Թի"><i>Յու<b/>Թի</i><par n="Ուրարտու__np"/></e>
+    <e lm="Բելգրադ"><i>Բելգրադ</i><par n="Երևան__np"/></e>
+    <e lm="Չինաստան"><i>Չինաստան</i><par n="Վան__np"/></e>
+    <e lm="Տեմպինիս"><i>Տեմպինիս</i><par n="Երևան__np"/></e>
+    <e lm="Օրիսա"><i>Օրիսա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Տիբեր"><i>Տիբեր</i><par n="Վան__np"/></e>
+    <e lm="Պափլագոնիա"><i>Պափլագոնիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Մայկոպ"><i>Մայկոպ</i><par n="Երևան__np"/></e>
+    <e lm="Աֆղանստան"><i>Աֆղանստան</i><par n="Երևան__np"/></e>
+    <e lm="Տրդատ"><i>Տրդատ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կյուրոս"><i>Կյուրոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կլեոպատրա"><i>Կլեոպա</i><par n="Կլեոպա/տրա__np"/></e>
+    <e lm="Արիստոտել"><i>Արիստոտել</i><par n="Գրիգոր__np"/></e>
+    <e lm="Կերալա"><i>Կերալա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սեն"><i>Սեն</i><par n="Երևան__np"/></e>
+    <e lm="Նովոկուզնեցկ"><i>Նովոկուզնեցկ</i><par n="Երևան__np"/></e>
+    <e lm="Գերմանիա"><i>Գերմանիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Թեսևս"><i>Թեսևս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Բրիտանիա"><i>Բրիտանիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Կիև"><i>Կիև</i><par n="Երևան__np"/></e>
+    <e lm="Զապորոժիե"><i>Զապորոժիե</i><par n="Ուրարտու__np"/></e>
+    <e lm="Կիլիկիա"><i>Կիլիկիա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Սամարա"><i>Սամարա</i><par n="Կամա__np"/></e>
+    <e lm="Բիշան"><i>Բիշան</i><par n="Վան__np"/></e>
+    <e lm="Սերգեյ"><i>Սերգեյ</i><par n="Գրիգոր__np"/></e>
+    <e lm="Վոլոգդա"><i>Վոլոգդա</i><par n="Ֆրանսիա__np"/></e>
+    <e lm="Լեսբոս"><i>Լեսբոս</i><par n="Երևան__np"/></e>
+    <e lm="Հեղինե"><i>Հեղինե</i><par n="Գայանե__np"/></e>
+    <e lm="Դիոգենես"><i>Դիոգենես</i><par n="Գրիգոր__np"/></e>
+    <e lm="Սուրեն"><i>Սուրեն</i><par n="Գրիգոր__np"/></e>
+    <e lm="Բարաք"><i>Բարաք</i><par n="Գրիգոր__np"/></e>
+    <e lm="Էրեբունի"><i>Էրեբուն</i><par n="Էրեբուն/ի__np"/></e>
+    <e lm="Կրեսոս"><i>Կրեսոս</i><par n="Գրիգոր__np"/></e>
+    <e lm="Առինջ"><i>Առինջ</i><par n="Երևան__np"/></e>
+    <e lm="Ենիսեյ"><i>Ենիսեյ</i><par n="Վան__np"/></e>
+    <e lm="Տիզբոն"><i>Տիզբոն</i><par n="Երևան__np"/></e>
+    <e lm="Բուկիտ Բատոկ"><i>Բուկիտ<b/>Բատոկ</i><par n="Վան__np"/></e>
+
 
 
     <!-- SECTION: Adjectives -->
 
+    <e lm="պետք"><i>պետք</i><par n="կարմիր__adj"/></e> <!-- noun "need" / "necessary" -->
     <e lm="կարմիր"><i>կարմիր</i><par n="կարմիր__adj"/></e>
     <e lm="բոլոր" c="all"><i>բոլոր</i><par n="կարմիր__adj"/></e>
     <e lm="ազնիվ"><i>ազնիվ</i><par n="վատ__adj"/></e>
@@ -8168,6 +9133,7 @@
     <e lm="խելոք"><i>խելոք</i><par n="վատ__adj"/></e>
     <e lm="խելոք"><p><l>ամենախելոք</l><r>խելոք</r></p><par n="ագույն__adj"/></e>
 
+    <e lm="նոր"><i>նոր</i><par n="կարմիր__adj"/></e>
     <e lm="ազգային"><i>ազգային</i><par n="կարմիր__adj"/></e>
     <e lm="միակ"><i>միակ</i><par n="կարմիր__adj"/></e>
     <e lm="ազնիվ"><i>ազնիվ</i><par n="կարմիր__adj"/></e>
@@ -8631,10 +9597,6 @@
     <e lm="կակազել"><i>կակազ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="կակազել"><par n="part-neg"/><i>կակազ</i><par n="ուզ/ել__vblex_tv_2"/></e>
     <e lm="կակազել"><p><l>կկակազ</l><r>կակազ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
-
-    <e lm="կապել"><i>կապ</i><par n="ուզ/ել__vblex_tv"/></e>
-    <e lm="կապել"><par n="part-neg"/><i>կապ</i><par n="ուզ/ել__vblex_tv_2"/></e>
-    <e lm="կապել"><p><l>կկապ</l><r>կապ</r></p><par n="ուզ/ել__vblex_tv_3"/></e>
 
     <e lm="կառչել"><i>կառչ</i><par n="ուզ/ել__vblex_tv"/></e>
     <e lm="կառչել"><par n="part-neg"/><i>կառչ</i><par n="ուզ/ել__vblex_tv_2"/></e>
@@ -9361,6 +10323,11 @@
     <e lm="թրմել"><i>թրմ</i><par n="սիր/ել__vblex_tv"/></e>
     <e lm="թրմել"><par n="part-neg"/><i>թրմ</i><par n="սիր/ել__vblex_tv_2"/></e>
     <e lm="թրմել"><p><l>կթրմ</l><r>թրմ</r></p><par n="սիր/ել__vblex_tv_3"/></e>
+
+    <e lm="կապել"><i>կապ</i><par n="սիր/ել__vblex_tv"/></e>
+    <e lm="կապել"><par n="part-neg"/><i>կապ</i><par n="սիր/ել__vblex_tv_2"/></e>
+    <e lm="կապել"><p><l>կկապ</l><r>կապ</r></p><par n="սիր/ել__vblex_tv_3"/></e>
+
 
     <e lm="թրջել"><i>թրջ</i><par n="սիր/ել__vblex_tv"/></e>
     <e lm="թրջել"><par n="part-neg"/><i>թրջ</i><par n="սիր/ել__vblex_tv_2"/></e>
@@ -10100,4 +11067,3 @@
     <e><par n="guionet"/></e>
   </section>
 </dictionary>
-

@@ -15,6 +15,9 @@
     <def-cat n="det">
       <cat-item tags="det.dem.*"/>
     </def-cat>
+    <def-cat n="prop">
+      <cat-item tags="np.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -45,6 +48,10 @@
 
     <def-attr n="a_nom">
       <attr-item tags="n"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="np.al"/>
     </def-attr>
 
     <def-attr n="a_def">
@@ -81,6 +88,33 @@
     </def-macro>
   </section-def-macros>
   <section-rules>
+
+  <rule comment="REGLA: prop">
+      <pattern>
+        <pattern-item n="prop"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_cas"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="reset-vars1">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+
 
   <rule comment="REGLA: nom">
       <pattern>
