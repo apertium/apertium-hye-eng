@@ -10692,6 +10692,686 @@
 <e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
 <e c=""><p><l>լսել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
 
+<e c="transitive"><p><l>ագուցել<s n="vblex"/><s n="tv"/></l><r>fit<g><b/>in</g><s n="vblex"/></r></p></e>
+<e c=""><p><l>ագուցել<s n="vblex"/><s n="tv"/></l><r>joint<s n="vblex"/></r></p></e>
+<e c=""><p><l>ագուցել<s n="vblex"/><s n="tv"/></l><r>enchase<s n="vblex"/></r></p></e>
+<e c=""><p><l>ազատել<s n="vblex"/><s n="tv"/></l><r>free<s n="vblex"/></r></p></e>
+<e c="transitive, linguistics"><p><l>ածանցել<s n="vblex"/><s n="tv"/></l><r>form a word by means of affixation<s n="vblex"/></r></p></e>
+<e c="transitive, archaic"><p><l>ածանցել<s n="vblex"/><s n="tv"/></l><r>transfer from one subject another<s n="vblex"/></r></p></e>
+<e c="transitive, mathematics"><p><l>ածանցել<s n="vblex"/><s n="tv"/></l><r>differentiate<s n="vblex"/></r></p></e>
+<e c="eggs"><p><l>ածել<s n="vblex"/><s n="tv"/></l><r>lay<s n="vblex"/></r></p></e>
+<e c="dialectal"><p><l>ածել<s n="vblex"/><s n="tv"/></l><r>pour<s n="vblex"/></r></p></e>
+<e c="a liquid"><p><l>ածել<s n="vblex"/><s n="tv"/></l><r>strew<s n="vblex"/></r></p></e>
+<e c="dialectal, a musical instrument"><p><l>ածել<s n="vblex"/><s n="tv"/></l><r>play<s n="vblex"/></r></p></e>
+<e c=""><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>spoil<s n="vblex"/></r></p></e>
+<e c=""><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>ruin<s n="vblex"/></r></p></e>
+<e c=""><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>distort<s n="vblex"/></r></p></e>
+<e c=""><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>twist<s n="vblex"/></r></p></e>
+<e c=""><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>misrepresent<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>denigrate<s n="vblex"/></r></p></e>
+<e c=""><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>disparage<s n="vblex"/></r></p></e>
+<e c="archaic"><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>despise<s n="vblex"/></r></p></e>
+<e c=""><p><l>աղարտել<s n="vblex"/><s n="tv"/></l><r>disdain<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>ամուսնացնել<s n="vblex"/><s n="tv"/></l><r>wed<s n="vblex"/></r></p></e>
+<e c=""><p><l>ամուսնացնել<s n="vblex"/><s n="tv"/></l><r>marry<s n="vblex"/></r></p></e>
+<e c=""><p><l>ամուսնացնել<s n="vblex"/><s n="tv"/></l><r>give in marriage<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>այրել<s n="vblex"/><s n="tv"/></l><r>set on fire<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>այրել<s n="vblex"/><s n="tv"/></l><r>burn<s n="vblex"/></r></p></e>
+<e c=""><p><l>այրել<s n="vblex"/><s n="tv"/></l><r>scorch<s n="vblex"/></r></p></e>
+<e c=""><p><l>անել<s n="vblex"/><s n="tv"/></l><r>do<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>անիծել<s n="vblex"/><s n="tv"/></l><r>curse<s n="vblex"/></r></p></e>
+<e c=""><p><l>անիծել<s n="vblex"/><s n="tv"/></l><r>damn<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>separate<s n="vblex"/></r></p></e>
+<e c=""><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>part<s n="vblex"/></r></p></e>
+<e c=""><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>detach<s n="vblex"/></r></p></e>
+<e c=""><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>disconnect<s n="vblex"/></r></p></e>
+<e c=""><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>disunite<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>turn off<s n="vblex"/></r></p></e>
+<e c=""><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>switch off<s n="vblex"/></r></p></e>
+<e c=""><p><l>անջատել<s n="vblex"/><s n="tv"/></l><r>shut down<s n="vblex"/></r></p></e>
+<e c=""><p><l>առաքել<s n="vblex"/><s n="tv"/></l><r>send<s n="vblex"/></r></p></e>
+<e c=""><p><l>առաքել<s n="vblex"/><s n="tv"/></l><r>dispatch<s n="vblex"/></r></p></e>
+<e c=""><p><l>առաքել<s n="vblex"/><s n="tv"/></l><r>deliver<s n="vblex"/></r></p></e>
+<e c=""><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>take<s n="vblex"/></r></p></e>
+<e c=""><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>buy<s n="vblex"/></r></p></e>
+<e c=""><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>purchase<s n="vblex"/></r></p></e>
+<e c="dialectal"><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>take as a wife<s n="vblex"/></r></p></e>
+<e c=""><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>marry<s n="vblex"/></r></p></e>
+<e c=""><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>seize<s n="vblex"/></r></p></e>
+<e c=""><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>assume<s n="vblex"/></r></p></e>
+<e c=""><p><l>առնել<s n="vblex"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>
+<e c="dated"><p><l>առոգանել<s n="vblex"/><s n="tv"/></l><r>pronounce<s n="vblex"/></r></p></e>
+<e c=""><p><l>առոգանել<s n="vblex"/><s n="tv"/></l><r>pronounce carefully<s n="vblex"/></r></p></e>
+<e c=""><p><l>առոգանել<s n="vblex"/><s n="tv"/></l><r>with correct accentuation and diction<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>tell<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>indicate<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>point<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>order<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>command<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>ask<s n="vblex"/></r></p></e>
+<e c=""><p><l>ասել<s n="vblex"/><s n="tv"/></l><r>answer<s n="vblex"/></r></p></e>
+<e c=""><p><l>ատել<s n="vblex"/><s n="tv"/></l><r>hate<s n="vblex"/></r></p></e>
+<e c="literary"><p><l>արգահատել<s n="vblex"/><s n="tv"/></l><r>take pity on<s n="vblex"/></r></p></e>
+<e c=""><p><l>արգահատել<s n="vblex"/><s n="tv"/></l><r>feel compassion for<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>արգելել<s n="vblex"/><s n="tv"/></l><r>forbid<s n="vblex"/></r></p></e>
+<e c=""><p><l>արգելել<s n="vblex"/><s n="tv"/></l><r>prohibit<s n="vblex"/></r></p></e>
+<e c=""><p><l>արդուկել<s n="vblex"/><s n="tv"/></l><r>press<s n="vblex"/></r></p></e>
+<e c=""><p><l>արդուկել<s n="vblex"/><s n="tv"/></l><r>iron<s n="vblex"/></r></p></e>
+<e c=""><p><l>արդուկել<s n="vblex"/><s n="tv"/></l><r>pass an iron over<s n="vblex"/></r></p></e>
+<e c="archaic, literary, transitive"><p><l>արկանել<s n="vblex"/><s n="tv"/></l><r>throw<s n="vblex"/></r></p></e>
+<e c=""><p><l>արհամարհել<s n="vblex"/><s n="tv"/></l><r>despise<s n="vblex"/></r></p></e>
+<e c=""><p><l>արհամարհել<s n="vblex"/><s n="tv"/></l><r>hold in contempt<s n="vblex"/></r></p></e>
+<e c=""><p><l>արհամարհել<s n="vblex"/><s n="tv"/></l><r>disdain<s n="vblex"/></r></p></e>
+<e c=""><p><l>բաժանել<s n="vblex"/><s n="tv"/></l><r>divide<s n="vblex"/></r></p></e>
+<e c=""><p><l>բաժանել<s n="vblex"/><s n="tv"/></l><r>separate<s n="vblex"/></r></p></e>
+<e c=""><p><l>բաժանել<s n="vblex"/><s n="tv"/></l><r>give out<s n="vblex"/></r></p></e>
+<e c=""><p><l>բաժանել<s n="vblex"/><s n="tv"/></l><r>distribute<s n="vblex"/></r></p></e>
+<e c=""><p><l>բաժանել<s n="vblex"/><s n="tv"/></l><r>dole out<s n="vblex"/></r></p></e>
+<e c=""><p><l>բաժանել<s n="vblex"/><s n="tv"/></l><r>divorce<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>բախել<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
+<e c=""><p><l>բախել<s n="vblex"/><s n="tv"/></l><r>strike<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>բախել<s n="vblex"/><s n="tv"/></l><r>knock<s n="vblex"/></r></p></e>
+<e c="intransitive, of a heart"><p><l>բախել<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
+<e c=""><p><l>բամբասել<s n="vblex"/><s n="tv"/></l><r>gossip<s n="vblex"/></r></p></e>
+<e c=""><p><l>բամբասել<s n="vblex"/><s n="tv"/></l><r>detract<s n="vblex"/></r></p></e>
+<e c=""><p><l>բամբասել<s n="vblex"/><s n="tv"/></l><r>slander<s n="vblex"/></r></p></e>
+<e c=""><p><l>բամբասել<s n="vblex"/><s n="tv"/></l><r>speak ill of<s n="vblex"/></r></p></e>
+<e c=""><p><l>բամբասել<s n="vblex"/><s n="tv"/></l><r>calumniate<s n="vblex"/></r></p></e>
+<e c=""><p><l>բանտարկել<s n="vblex"/><s n="tv"/></l><r>imprison<s n="vblex"/></r></p></e>
+<e c="literary"><p><l>բարձրաձայնել<s n="vblex"/><s n="tv"/></l><r>voice<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրաձայնել<s n="vblex"/><s n="tv"/></l><r>express<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրաձայնել<s n="vblex"/><s n="tv"/></l><r>give voice to<s n="vblex"/></r></p></e>
+<e c="intransitive"><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>rise<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>ascend<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>reascend<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>surmount<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>exceed<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>surpass<s n="vblex"/></r></p></e>
+<e c="intransitive"><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>increase<s n="vblex"/></r></p></e>
+<e c=""><p><l>բարձրանալ<s n="vblex"/><s n="tv"/></l><r>grow<s n="vblex"/></r></p></e>
+<e c=""><p><l>բացել<s n="vblex"/><s n="tv"/></l><r>open<s n="vblex"/></r></p></e>
+<e c="law"><p><l>բեկանել<s n="vblex"/><s n="tv"/></l><r>annul<s n="vblex"/></r></p></e>
+<e c="a decision"><p><l>բեկանել<s n="vblex"/><s n="tv"/></l><r>reverse<s n="vblex"/></r></p></e>
+<e c="dated"><p><l>բեկել<s n="vblex"/><s n="tv"/></l><r>break<s n="vblex"/></r></p></e>
+<e c="physics"><p><l>բեկել<s n="vblex"/><s n="tv"/></l><r>refract<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>բեկտել<s n="vblex"/><s n="tv"/></l><r>break pieces<s n="vblex"/></r></p></e>
+<e c=""><p><l>բեկտել<s n="vblex"/><s n="tv"/></l><r>break<s n="vblex"/></r></p></e>
+<e c=""><p><l>բերել<s n="vblex"/><s n="tv"/></l><r>bring<s n="vblex"/></r></p></e>
+<e c=""><p><l>բերել<s n="vblex"/><s n="tv"/></l><r>fetch<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>set on fire<s n="vblex"/></r></p></e>
+<e c=""><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>kindle<s n="vblex"/></r></p></e>
+<e c=""><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>inflame<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>fan the flame<s n="vblex"/></r></p></e>
+<e c="transitive, figuratively"><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>inflame<s n="vblex"/></r></p></e>
+<e c=""><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>foment<s n="vblex"/></r></p></e>
+<e c=""><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>rouse<s n="vblex"/></r></p></e>
+<e c=""><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>irritate<s n="vblex"/></r></p></e>
+<e c="transitive, pathology"><p><l>բորբոքել<s n="vblex"/><s n="tv"/></l><r>inflame<s n="vblex"/></r></p></e>
+<e c=""><p><l>բուծել<s n="vblex"/><s n="tv"/></l><r>breed<s n="vblex"/></r></p></e>
+<e c=""><p><l>բուծել<s n="vblex"/><s n="tv"/></l><r>rear<s n="vblex"/></r></p></e>
+<e c=""><p><l>բուծել<s n="vblex"/><s n="tv"/></l><r>cultivate<s n="vblex"/></r></p></e>
+<e c=""><p><l>բուծել<s n="vblex"/><s n="tv"/></l><r>grow<s n="vblex"/></r></p></e>
+<e c=""><p><l>բռնաբարել<s n="vblex"/><s n="tv"/></l><r>rape<s n="vblex"/></r></p></e>
+<e c="an animal"><p><l>բտել<s n="vblex"/><s n="tv"/></l><r>feed<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գայթակղել<s n="vblex"/><s n="tv"/></l><r>seduce<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գայթակղել<s n="vblex"/><s n="tv"/></l><r>tempt<s n="vblex"/></r></p></e>
+<e c="dated"><p><l>գելել<s n="vblex"/><s n="tv"/></l><r>twist<s n="vblex"/></r></p></e>
+<e c=""><p><l>գելել<s n="vblex"/><s n="tv"/></l><r>squeeze<s n="vblex"/></r></p></e>
+<e c="archaic, transitive"><p><l>գերծել<s n="vblex"/><s n="tv"/></l><r>shave<s n="vblex"/></r></p></e>
+<e c=""><p><l>գիշատել<s n="vblex"/><s n="tv"/></l><r>tear pieces<s n="vblex"/></r></p></e>
+<e c=""><p><l>գիշատել<s n="vblex"/><s n="tv"/></l><r>devour<s n="vblex"/></r></p></e>
+<e c="transitive, rare"><p><l>գլել<s n="vblex"/><s n="tv"/></l><r>roll<s n="vblex"/></r></p></e>
+<e c=""><p><l>գլել<s n="vblex"/><s n="tv"/></l><r>move<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գլել<s n="vblex"/><s n="tv"/></l><r>throw down<s n="vblex"/></r></p></e>
+<e c=""><p><l>գլել<s n="vblex"/><s n="tv"/></l><r>conquer<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գլորել<s n="vblex"/><s n="tv"/></l><r>roll<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գլորել<s n="vblex"/><s n="tv"/></l><r>bring down<s n="vblex"/></r></p></e>
+<e c=""><p><l>գլորել<s n="vblex"/><s n="tv"/></l><r>knock down<s n="vblex"/></r></p></e>
+<e c=""><p><l>գլորել<s n="vblex"/><s n="tv"/></l><r>throw down<s n="vblex"/></r></p></e>
+<e c="transitive, somewhat formal"><p><l>գնել<s n="vblex"/><s n="tv"/></l><r>buy<s n="vblex"/></r></p></e>
+<e c=""><p><l>գնել<s n="vblex"/><s n="tv"/></l><r>purchase<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գոհացնել<s n="vblex"/><s n="tv"/></l><r>please<s n="vblex"/></r></p></e>
+<e c=""><p><l>գոհացնել<s n="vblex"/><s n="tv"/></l><r>gratify<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գոհացնել<s n="vblex"/><s n="tv"/></l><r>satisfy<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>գողանալ<s n="vblex"/><s n="tv"/></l><r>steal<s n="vblex"/></r></p></e>
+<e c=""><p><l>գործել<s n="vblex"/><s n="tv"/></l><r>function<s n="vblex"/></r></p></e>
+<e c=""><p><l>գործել<s n="vblex"/><s n="tv"/></l><r>work<s n="vblex"/></r></p></e>
+<e c=""><p><l>գործել<s n="vblex"/><s n="tv"/></l><r>operate<s n="vblex"/></r></p></e>
+<e c=""><p><l>գործել<s n="vblex"/><s n="tv"/></l><r>knit<s n="vblex"/></r></p></e>
+<e c=""><p><l>գտնել<s n="vblex"/><s n="tv"/></l><r>find<s n="vblex"/></r></p></e>
+<e c=""><p><l>գտնել<s n="vblex"/><s n="tv"/></l><r>discover<s n="vblex"/></r></p></e>
+<e c=""><p><l>գտնել<s n="vblex"/><s n="tv"/></l><r>find out<s n="vblex"/></r></p></e>
+<e c=""><p><l>գտնել<s n="vblex"/><s n="tv"/></l><r>consider<s n="vblex"/></r></p></e>
+<e c=""><p><l>գտնել<s n="vblex"/><s n="tv"/></l><r>find<s n="vblex"/></r></p></e>
+<e c=""><p><l>գտնել<s n="vblex"/><s n="tv"/></l><r>form the opinion that<s n="vblex"/></r></p></e>
+<e c=""><p><l>գրադարձել<s n="vblex"/><s n="tv"/></l><r>transliterate<s n="vblex"/></r></p></e>
+<e c=""><p><l>գրել<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>throw<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>cast<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>hurl<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>fling<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>chuck<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>drop<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>allow fall<s n="vblex"/></r></p></e>
+<e c="slang"><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>con<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>bunco<s n="vblex"/></r></p></e>
+<e c=""><p><l>գցել<s n="vblex"/><s n="tv"/></l><r>hoodwink<s n="vblex"/></r></p></e>
+<e c=""><p><l>դարբնել<s n="vblex"/><s n="tv"/></l><r>forge<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>դարբնել<s n="vblex"/><s n="tv"/></l><r>create<s n="vblex"/></r></p></e>
+<e c=""><p><l>դարսել<s n="vblex"/><s n="tv"/></l><r>put<s n="vblex"/></r></p></e>
+<e c=""><p><l>դարսել<s n="vblex"/><s n="tv"/></l><r>lay<s n="vblex"/></r></p></e>
+<e c="in a certain order"><p><l>դարսել<s n="vblex"/><s n="tv"/></l><r>stack<s n="vblex"/></r></p></e>
+<e c="intransitive"><p><l>դիել<s n="vblex"/><s n="tv"/></l><r>suck<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>դիել<s n="vblex"/><s n="tv"/></l><r>suckle<s n="vblex"/></r></p></e>
+<e c=""><p><l>դիել<s n="vblex"/><s n="tv"/></l><r>nourish with milk<s n="vblex"/></r></p></e>
+<e c=""><p><l>դիել<s n="vblex"/><s n="tv"/></l><r>give suck<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>դիել<s n="vblex"/><s n="tv"/></l><r>nourish<s n="vblex"/></r></p></e>
+<e c=""><p><l>դիել<s n="vblex"/><s n="tv"/></l><r>sustain<s n="vblex"/></r></p></e>
+<e c=""><p><l>դնել<s n="vblex"/><s n="tv"/></l><r>put<s n="vblex"/></r></p></e>
+<e c=""><p><l>դնել<s n="vblex"/><s n="tv"/></l><r>lay<s n="vblex"/></r></p></e>
+<e c=""><p><l>դնել<s n="vblex"/><s n="tv"/></l><r>impose<s n="vblex"/></r></p></e>
+<e c=""><p><l>դնել<s n="vblex"/><s n="tv"/></l><r>inflict<s n="vblex"/></r></p></e>
+<e c=""><p><l>դնել<s n="vblex"/><s n="tv"/></l><r>insert<s n="vblex"/></r></p></e>
+<e c=""><p><l>դնել<s n="vblex"/><s n="tv"/></l><r>put in<s n="vblex"/></r></p></e>
+<e c="literary"><p><l>դրվատել<s n="vblex"/><s n="tv"/></l><r>praise<s n="vblex"/></r></p></e>
+<e c=""><p><l>եղծել<s n="vblex"/><s n="tv"/></l><r>refute<s n="vblex"/></r></p></e>
+<e c="archaic"><p><l>եպերել<s n="vblex"/><s n="tv"/></l><r>blame<s n="vblex"/></r></p></e>
+<e c=""><p><l>եպերել<s n="vblex"/><s n="tv"/></l><r>reproach<s n="vblex"/></r></p></e>
+<e c=""><p><l>երգել<s n="vblex"/><s n="tv"/></l><r>sing<s n="vblex"/></r></p></e>
+<e c=""><p><l>երգիծել<s n="vblex"/><s n="tv"/></l><r>satirise<s n="vblex"/></r></p></e>
+<e c=""><p><l>երկայնել<s n="vblex"/><s n="tv"/></l><r>prolong<s n="vblex"/></r></p></e>
+<e c=""><p><l>երկայնել<s n="vblex"/><s n="tv"/></l><r>extend<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>եփել<s n="vblex"/><s n="tv"/></l><r>boil<s n="vblex"/></r></p></e>
+<e c=""><p><l>եփել<s n="vblex"/><s n="tv"/></l><r>cook in boiling water<s n="vblex"/></r></p></e>
+<e c=""><p><l>եփել<s n="vblex"/><s n="tv"/></l><r>cook<s n="vblex"/></r></p></e>
+<e c=""><p><l>եփել<s n="vblex"/><s n="tv"/></l><r>prepare food<s n="vblex"/></r></p></e>
+<e c=""><p><l>զանգահարել<s n="vblex"/><s n="tv"/></l><r>make a phonecall<s n="vblex"/></r></p></e>
+<e c=""><p><l>զանգել<s n="vblex"/><s n="tv"/></l><r>ring<s n="vblex"/></r></p></e>
+<e c="by phone"><p><l>զանգել<s n="vblex"/><s n="tv"/></l><r>call<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>զատել<s n="vblex"/><s n="tv"/></l><r>separate<s n="vblex"/></r></p></e>
+<e c=""><p><l>զատել<s n="vblex"/><s n="tv"/></l><r>detach<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>զատել<s n="vblex"/><s n="tv"/></l><r>distinguish<s n="vblex"/></r></p></e>
+<e c=""><p><l>զատել<s n="vblex"/><s n="tv"/></l><r>discern<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>զարմացնել<s n="vblex"/><s n="tv"/></l><r>surprise<s n="vblex"/></r></p></e>
+<e c=""><p><l>զարմացնել<s n="vblex"/><s n="tv"/></l><r>amaze<s n="vblex"/></r></p></e>
+<e c=""><p><l>զարմացնել<s n="vblex"/><s n="tv"/></l><r>astonish<s n="vblex"/></r></p></e>
+<e c=""><p><l>զեղծել<s n="vblex"/><s n="tv"/></l><r>squander<s n="vblex"/></r></p></e>
+<e c=""><p><l>զեղծել<s n="vblex"/><s n="tv"/></l><r>waste<s n="vblex"/></r></p></e>
+<e c=""><p><l>զեղծել<s n="vblex"/><s n="tv"/></l><r>counterfeit<s n="vblex"/></r></p></e>
+<e c=""><p><l>զեղծել<s n="vblex"/><s n="tv"/></l><r>falsify<s n="vblex"/></r></p></e>
+<e c=""><p><l>զեղծել<s n="vblex"/><s n="tv"/></l><r>fake<s n="vblex"/></r></p></e>
+<e c=""><p><l>զեղծել<s n="vblex"/><s n="tv"/></l><r>forge<s n="vblex"/></r></p></e>
+<e c=""><p><l>զեղծել<s n="vblex"/><s n="tv"/></l><r>fabricate<s n="vblex"/></r></p></e>
+<e c="archaic, transitive"><p><l>զենել<s n="vblex"/><s n="tv"/></l><r>immolate<s n="vblex"/></r></p></e>
+<e c=""><p><l>զենել<s n="vblex"/><s n="tv"/></l><r>sacrifice<s n="vblex"/></r></p></e>
+<e c="archaic, transitive"><p><l>զենել<s n="vblex"/><s n="tv"/></l><r>slaughter<s n="vblex"/></r></p></e>
+<e c="an animal"><p><l>զենել<s n="vblex"/><s n="tv"/></l><r>kill<s n="vblex"/></r></p></e>
+<e c="formal"><p><l>զետեղել<s n="vblex"/><s n="tv"/></l><r>place<s n="vblex"/></r></p></e>
+<e c=""><p><l>զետեղել<s n="vblex"/><s n="tv"/></l><r>put<s n="vblex"/></r></p></e>
+<e c=""><p><l>զետեղել<s n="vblex"/><s n="tv"/></l><r>insert<s n="vblex"/></r></p></e>
+<e c=""><p><l>զոդել<s n="vblex"/><s n="tv"/></l><r>join two things together<s n="vblex"/></r></p></e>
+<e c="technology"><p><l>զոդել<s n="vblex"/><s n="tv"/></l><r>solder<s n="vblex"/></r></p></e>
+<e c="technology"><p><l>զոդել<s n="vblex"/><s n="tv"/></l><r>weld<s n="vblex"/></r></p></e>
+<e c=""><p><l>զտել<s n="vblex"/><s n="tv"/></l><r>cleanse<s n="vblex"/></r></p></e>
+<e c=""><p><l>զտել<s n="vblex"/><s n="tv"/></l><r>purify<s n="vblex"/></r></p></e>
+<e c=""><p><l>զտել<s n="vblex"/><s n="tv"/></l><r>purify by melting or straining<s n="vblex"/></r></p></e>
+<e c=""><p><l>զտել<s n="vblex"/><s n="tv"/></l><r>filtering<s n="vblex"/></r></p></e>
+<e c="literary"><p><l>ըմպել<s n="vblex"/><s n="tv"/></l><r>imbibe<s n="vblex"/></r></p></e>
+<e c=""><p><l>ըմպել<s n="vblex"/><s n="tv"/><s n="tv"/></l><r>drink<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդելուզել<s n="vblex"/><s n="tv"/></l><r>string<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդելուզել<s n="vblex"/><s n="tv"/></l><r>thread<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդելուզել<s n="vblex"/><s n="tv"/></l><r>bead<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդելուզել<s n="vblex"/><s n="tv"/></l><r>fasten or join together<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդելուզել<s n="vblex"/><s n="tv"/></l><r>bind together<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդելուզել<s n="vblex"/><s n="tv"/></l><r>adorn<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդոստնել<s n="vblex"/><s n="tv"/></l><r>jump up<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընդոստնել<s n="vblex"/><s n="tv"/></l><r>leap up<s n="vblex"/></r></p></e>
+<e c="formal"><p><l>ընթերցել<s n="vblex"/><s n="tv"/></l><r>read<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընտրել<s n="vblex"/><s n="tv"/></l><r>choose<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընտրել<s n="vblex"/><s n="tv"/></l><r>elect<s n="vblex"/></r></p></e>
+<e c="archaic, transitive"><p><l>թանալ<s n="vblex"/><s n="tv"/></l><r>wet<s n="vblex"/></r></p></e>
+<e c=""><p><l>թանալ<s n="vblex"/><s n="tv"/></l><r>moisten<s n="vblex"/></r></p></e>
+<e c=""><p><l>թարգմանել<s n="vblex"/><s n="tv"/></l><r>translate<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>empty<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>pour out<s n="vblex"/></r></p></e>
+<e c="by accident"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>spill<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>pour into<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>strew<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>scatter<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>throw down<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>throw away<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>throw out<s n="vblex"/></r></p></e>
+<e c="rare"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>found<s n="vblex"/></r></p></e>
+<e c="in a mould"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>cast<s n="vblex"/></r></p></e>
+<e c="vulgar, slang"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>ejaculate<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>cum<s n="vblex"/></r></p></e>
+<e c="figuratively, express"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>pour out<s n="vblex"/></r></p></e>
+<e c="to"><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>give vent<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>shed<s n="vblex"/></r></p></e>
+<e c=""><p><l>թափել<s n="vblex"/><s n="tv"/></l><r>spill<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>թաքցնել<s n="vblex"/><s n="tv"/></l><r>hide<s n="vblex"/></r></p></e>
+<e c=""><p><l>թլփատել<s n="vblex"/><s n="tv"/></l><r>circumcise<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրել<s n="vblex"/><s n="tv"/></l><r>knead<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրծել<s n="vblex"/><s n="tv"/></l><r>burn bricks or pots of clay in order to harden them<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>թրծել<s n="vblex"/><s n="tv"/></l><r>harden<s n="vblex"/></r></p></e>
+<e c="archaic"><p><l>թրմել<s n="vblex"/><s n="tv"/></l><r>wet<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրմել<s n="vblex"/><s n="tv"/></l><r>soak<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրմել<s n="vblex"/><s n="tv"/></l><r>steep<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրմել<s n="vblex"/><s n="tv"/></l><r>infuse<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրմել<s n="vblex"/><s n="tv"/></l><r>draw<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրմել<s n="vblex"/><s n="tv"/></l><r>prepare an infusion<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>թրջել<s n="vblex"/><s n="tv"/></l><r>wet<s n="vblex"/></r></p></e>
+<e c=""><p><l>թրջել<s n="vblex"/><s n="tv"/></l><r>make wet<s n="vblex"/></r></p></e>
+<e c="a musical instrument"><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>tune<s n="vblex"/></r></p></e>
+<e c="a mechanism"><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>wind up<s n="vblex"/></r></p></e>
+<e c=""><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>stretch<s n="vblex"/></r></p></e>
+<e c=""><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>extend<s n="vblex"/></r></p></e>
+<e c=""><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>strain<s n="vblex"/></r></p></e>
+<e c=""><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>tense muscles<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>strain<s n="vblex"/></r></p></e>
+<e c=""><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>worsen<s n="vblex"/></r></p></e>
+<e c="dialectal"><p><l>լարել<s n="vblex"/><s n="tv"/></l><r>chase away<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>լիզել<s n="vblex"/><s n="tv"/></l><r>lick<s n="vblex"/></r></p></e>
+<e c="chemistry"><p><l>լուծել<s n="vblex"/><s n="tv"/></l><r>dissolve<s n="vblex"/></r></p></e>
+<e c="transitive, literary"><p><l>լուցել<s n="vblex"/><s n="tv"/></l><r>kindle<s n="vblex"/></r></p></e>
+<e c=""><p><l>լսել<s n="vblex"/><s n="tv"/></l><r>hear<s n="vblex"/></r></p></e>
+<e c=""><p><l>լսել<s n="vblex"/><s n="tv"/></l><r>listen<s n="vblex"/></r></p></e>
+<e c=""><p><l>լսել<s n="vblex"/><s n="tv"/></l><r>obey<s n="vblex"/></r></p></e>
+<e c=""><p><l>լքել<s n="vblex"/><s n="tv"/></l><r>leave<s n="vblex"/></r></p></e>
+<e c=""><p><l>լքել<s n="vblex"/><s n="tv"/></l><r>abandon<s n="vblex"/></r></p></e>
+<e c=""><p><l>լքել<s n="vblex"/><s n="tv"/></l><r>desert<s n="vblex"/></r></p></e>
+<e c=""><p><l>լքել<s n="vblex"/><s n="tv"/></l><r>forsake<s n="vblex"/></r></p></e>
+<e c=""><p><l>խաբել<s n="vblex"/><s n="tv"/></l><r>lie<s n="vblex"/></r></p></e>
+<e c=""><p><l>խաբել<s n="vblex"/><s n="tv"/></l><r>deceive<s n="vblex"/></r></p></e>
+<e c=""><p><l>խաբել<s n="vblex"/><s n="tv"/></l><r>trick<s n="vblex"/></r></p></e>
+<e c=""><p><l>խածատել<s n="vblex"/><s n="tv"/></l><r>nibble<s n="vblex"/></r></p></e>
+<e c=""><p><l>խածատել<s n="vblex"/><s n="tv"/></l><r>bite<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>խանձատել<s n="vblex"/><s n="tv"/></l><r>burn<s n="vblex"/></r></p></e>
+<e c=""><p><l>խանձատել<s n="vblex"/><s n="tv"/></l><r>scorch<s n="vblex"/></r></p></e>
+<e c=""><p><l>խանձատել<s n="vblex"/><s n="tv"/></l><r>singe<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>խարխլել<s n="vblex"/><s n="tv"/></l><r>shake<s n="vblex"/></r></p></e>
+<e c=""><p><l>խարխլել<s n="vblex"/><s n="tv"/></l><r>loose<s n="vblex"/></r></p></e>
+<e c=""><p><l>խարխլել<s n="vblex"/><s n="tv"/></l><r>undermine<s n="vblex"/></r></p></e>
+<e c=""><p><l>խարխլել<s n="vblex"/><s n="tv"/></l><r>sap<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>upset<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>wreck<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>spoil<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>frustrate<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>thwart<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>bring naught<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>hinder<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>stop<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>impede<s n="vblex"/></r></p></e>
+<e c=""><p><l>խափանել<s n="vblex"/><s n="tv"/></l><r>obstruct<s n="vblex"/></r></p></e>
+<e c=""><p><l>խմբագրել<s n="vblex"/><s n="tv"/></l><r>edit<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>խնդրել<s n="vblex"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
+<e c=""><p><l>խնդրել<s n="vblex"/><s n="tv"/></l><r>ask<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>խնդրել<s n="vblex"/><s n="tv"/></l><r>invite<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>խնդրել<s n="vblex"/><s n="tv"/></l><r>demand<s n="vblex"/></r></p></e>
+<e c=""><p><l>խոսել<s n="vblex"/><s n="tv"/></l><r>speak<s n="vblex"/></r></p></e>
+<e c=""><p><l>խոսել<s n="vblex"/><s n="tv"/></l><r>talk<s n="vblex"/></r></p></e>
+<e c=""><p><l>խորովել<s n="vblex"/><s n="tv"/></l><r>roast<s n="vblex"/></r></p></e>
+<e c=""><p><l>խորովել<s n="vblex"/><s n="tv"/></l><r>grill<s n="vblex"/></r></p></e>
+<e c=""><p><l>խոցոտել<s n="vblex"/><s n="tv"/></l><r>ulcerate<s n="vblex"/></r></p></e>
+<e c=""><p><l>խուզել<s n="vblex"/><s n="tv"/></l><r>cut<s n="vblex"/></r></p></e>
+<e c=""><p><l>խուզել<s n="vblex"/><s n="tv"/></l><r>have a hair cut<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>ծածանել<s n="vblex"/><s n="tv"/></l><r>blow about<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծածանել<s n="vblex"/><s n="tv"/></l><r>wave<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծածանել<s n="vblex"/><s n="tv"/></l><r>sway<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծամել<s n="vblex"/><s n="tv"/></l><r>chew<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>ծամել<s n="vblex"/><s n="tv"/></l><r>crumble<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>ծամել<s n="vblex"/><s n="tv"/></l><r>repeat something with tiresome monotony<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>whip<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>lash<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>thrash<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>pound<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>grind<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>forge<s n="vblex"/></r></p></e>
+<e c="door"><p><l>ծեծել<s n="vblex"/><s n="tv"/></l><r>knock on<s n="vblex"/></r></p></e>
+<e c="slang"><p><l>քաշել<s n="vblex"/><s n="tv"/><s n="tv"/></l><r>smoke<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծծել<s n="vblex"/><s n="tv"/></l><r>suck<s n="vblex"/></r></p></e>
+<e c="slang, vulgar"><p><l>ծծել<s n="vblex"/><s n="tv"/></l><r>perform fellatio<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծծել<s n="vblex"/><s n="tv"/></l><r>give a blowjob<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծնել<s n="vblex"/><s n="tv"/></l><r>give birth<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծնել<s n="vblex"/><s n="tv"/></l><r>bear<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>ծնել<s n="vblex"/><s n="tv"/></l><r>give rise something<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծնել<s n="vblex"/><s n="tv"/></l><r>create<s n="vblex"/></r></p></e>
+<e c=""><p><l>կազմակերպել<s n="vblex"/><s n="tv"/></l><r>organise<s n="vblex"/></r></p></e>
+<e c=""><p><l>կազմակերպել<s n="vblex"/><s n="tv"/></l><r>arrange<s n="vblex"/></r></p></e>
+<e c=""><p><l>կալնել<s n="vblex"/><s n="tv"/></l><r>hold<s n="vblex"/></r></p></e>
+<e c=""><p><l>կալնել<s n="vblex"/><s n="tv"/></l><r>keep<s n="vblex"/></r></p></e>
+<e c="with"><p><l>կալնել<s n="vblex"/><s n="tv"/></l><r>stop up<s n="vblex"/></r></p></e>
+<e c=""><p><l>կալնել<s n="vblex"/><s n="tv"/></l><r>plug<s n="vblex"/></r></p></e>
+<e c=""><p><l>կալնել<s n="vblex"/><s n="tv"/></l><r>seize<s n="vblex"/></r></p></e>
+<e c=""><p><l>կալնել<s n="vblex"/><s n="tv"/></l><r>encase<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կախել<s n="vblex"/><s n="tv"/></l><r>hang<s n="vblex"/></r></p></e>
+<e c=""><p><l>կաշառել<s n="vblex"/><s n="tv"/></l><r>bribe<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>tie<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>tie up<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>bind<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>fasten<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>put inchains<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>connect<s n="vblex"/></r></p></e>
+<e c=""><p><l>կթել<s n="vblex"/><s n="tv"/></l><r>milk<s n="vblex"/></r></p></e>
+<e c="colloquial"><p><l>կթել<s n="vblex"/><s n="tv"/></l><r>milk<s n="vblex"/></r></p></e>
+<e c="exploit one's means"><p><l>կթել<s n="vblex"/><s n="tv"/></l><r>drain<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կիզել<s n="vblex"/><s n="tv"/></l><r>burn<s n="vblex"/></r></p></e>
+<e c=""><p><l>կիսել<s n="vblex"/><s n="tv"/></l><r>halve<s n="vblex"/></r></p></e>
+<e c=""><p><l>կիսել<s n="vblex"/><s n="tv"/></l><r>divide<s n="vblex"/></r></p></e>
+<e c=""><p><l>կլանել<s n="vblex"/><s n="tv"/></l><r>absorb<s n="vblex"/></r></p></e>
+<e c=""><p><l>կլանել<s n="vblex"/><s n="tv"/></l><r>devour<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>seal<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>affix a seal<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>seal up<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>close<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>conclude<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>confirm<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>conclude<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>finish<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>baptise<s n="vblex"/></r></p></e>
+<e c=""><p><l>կնքել<s n="vblex"/><s n="tv"/></l><r>christen<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կոտրել<s n="vblex"/><s n="tv"/></l><r>break<s n="vblex"/></r></p></e>
+<e c=""><p><l>կործանել<s n="vblex"/><s n="tv"/></l><r>overthrow<s n="vblex"/></r></p></e>
+<e c=""><p><l>կործանել<s n="vblex"/><s n="tv"/></l><r>overturn<s n="vblex"/></r></p></e>
+<e c=""><p><l>կործանել<s n="vblex"/><s n="tv"/></l><r>destroy<s n="vblex"/></r></p></e>
+<e c=""><p><l>կործանել<s n="vblex"/><s n="tv"/></l><r>demolish<s n="vblex"/></r></p></e>
+<e c=""><p><l>կործանել<s n="vblex"/><s n="tv"/></l><r>wreck<s n="vblex"/></r></p></e>
+<e c="also a person"><p><l>կործանել<s n="vblex"/><s n="tv"/></l><r>ruin<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կործել<s n="vblex"/><s n="tv"/></l><r>turn over and empty a vessel<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կործել<s n="vblex"/><s n="tv"/></l><r>pour liquid from one vessel inanother<s n="vblex"/></r></p></e>
+<e c=""><p><l>կրել<s n="vblex"/><s n="tv"/></l><r>carry<s n="vblex"/></r></p></e>
+<e c=""><p><l>կրել<s n="vblex"/><s n="tv"/></l><r>wear<s n="vblex"/></r></p></e>
+<e c=""><p><l>կրել<s n="vblex"/><s n="tv"/></l><r>win<s n="vblex"/></r></p></e>
+<e c=""><p><l>կրկնել<s n="vblex"/><s n="tv"/></l><r>repeat<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>հագնել<s n="vblex"/><s n="tv"/></l><r>put on clothes or shoes<s n="vblex"/></r></p></e>
+<e c=""><p><l>հագնել<s n="vblex"/><s n="tv"/></l><r>wear clothes<s n="vblex"/></r></p></e>
+<e c=""><p><l>հալածել<s n="vblex"/><s n="tv"/></l><r>pursue<s n="vblex"/></r></p></e>
+<e c=""><p><l>հալածել<s n="vblex"/><s n="tv"/></l><r>persecute<s n="vblex"/></r></p></e>
+<e c=""><p><l>հալածել<s n="vblex"/><s n="tv"/></l><r>drive away<s n="vblex"/></r></p></e>
+<e c=""><p><l>հալածել<s n="vblex"/><s n="tv"/></l><r>oppress<s n="vblex"/></r></p></e>
+<e c=""><p><l>հալածել<s n="vblex"/><s n="tv"/></l><r>harass<s n="vblex"/></r></p></e>
+<e c=""><p><l>հաղթել<s n="vblex"/><s n="tv"/></l><r>win<s n="vblex"/></r></p></e>
+<e c=""><p><l>հաղթել<s n="vblex"/><s n="tv"/></l><r>conquer<s n="vblex"/></r></p></e>
+<e c=""><p><l>համակարգել<s n="vblex"/><s n="tv"/></l><r>systematise<s n="vblex"/></r></p></e>
+<e c=""><p><l>համակարգել<s n="vblex"/><s n="tv"/></l><r>coordinate<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>համբուրել<s n="vblex"/><s n="tv"/></l><r>kiss<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>համոզել<s n="vblex"/><s n="tv"/></l><r>convince<s n="vblex"/></r></p></e>
+<e c=""><p><l>համոզել<s n="vblex"/><s n="tv"/></l><r>persuade<s n="vblex"/></r></p></e>
+<e c=""><p><l>հանել<s n="vblex"/><s n="tv"/></l><r>pull out<s n="vblex"/></r></p></e>
+<e c=""><p><l>հանել<s n="vblex"/><s n="tv"/></l><r>extract<s n="vblex"/></r></p></e>
+<e c=""><p><l>հանել<s n="vblex"/><s n="tv"/></l><r>take off a cloth<s n="vblex"/></r></p></e>
+<e c=""><p><l>հանել<s n="vblex"/><s n="tv"/></l><r>remove<s n="vblex"/></r></p></e>
+<e c=""><p><l>հանել<s n="vblex"/><s n="tv"/></l><r>displace<s n="vblex"/></r></p></e>
+<e c=""><p><l>հանել<s n="vblex"/><s n="tv"/></l><r>withdraw<s n="vblex"/></r></p></e>
+<e c="mathematics"><p><l>հանել<s n="vblex"/><s n="tv"/></l><r>subtract<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>հաստատել<s n="vblex"/><s n="tv"/></l><r>establish<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>հաստատել<s n="vblex"/><s n="tv"/></l><r>strengthen<s n="vblex"/></r></p></e>
+<e c=""><p><l>հաստատել<s n="vblex"/><s n="tv"/></l><r>consolidate<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>հաստատել<s n="vblex"/><s n="tv"/></l><r>confirm<s n="vblex"/></r></p></e>
+<e c=""><p><l>հաստատել<s n="vblex"/><s n="tv"/></l><r>verify<s n="vblex"/></r></p></e>
+<e c=""><p><l>հարել<s n="vblex"/><s n="tv"/></l><r>churn<s n="vblex"/></r></p></e>
+<e c=""><p><l>հարթուկել<s n="vblex"/><s n="tv"/></l><r>press<s n="vblex"/></r></p></e>
+<e c=""><p><l>հարթուկել<s n="vblex"/><s n="tv"/></l><r>iron<s n="vblex"/></r></p></e>
+<e c=""><p><l>հարթուկել<s n="vblex"/><s n="tv"/></l><r>pass an iron over<s n="vblex"/></r></p></e>
+<e c="archaic"><p><l>հարկանել<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
+<e c=""><p><l>հարկանել<s n="vblex"/><s n="tv"/></l><r>strike<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեծնել<s n="vblex"/><s n="tv"/></l><r>mount<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեղել<s n="vblex"/><s n="tv"/></l><r>spill<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեղեղել<s n="vblex"/><s n="tv"/></l><r>flood<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեղեղել<s n="vblex"/><s n="tv"/></l><r>inundate<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>հեղեղել<s n="vblex"/><s n="tv"/></l><r>fill in great quantities<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեղուսել<s n="vblex"/><s n="tv"/></l><r>nail<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>հենել<s n="vblex"/><s n="tv"/></l><r>lean upon<s n="vblex"/></r></p></e>
+<e c=""><p><l>հենել<s n="vblex"/><s n="tv"/></l><r>on or against<s n="vblex"/></r></p></e>
+<e c="transitive, archaic"><p><l>հեռել<s n="vblex"/><s n="tv"/></l><r>set<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեռել<s n="vblex"/><s n="tv"/></l><r>mount<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեռել<s n="vblex"/><s n="tv"/></l><r>enchase<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեռել<s n="vblex"/><s n="tv"/></l><r>stud<s n="vblex"/></r></p></e>
+<e c=""><p><l>հեռել<s n="vblex"/><s n="tv"/></l><r>fit in<s n="vblex"/></r></p></e>
+<e c=""><p><l>հերքել<s n="vblex"/><s n="tv"/></l><r>refute<s n="vblex"/></r></p></e>
+<e c=""><p><l>հերքել<s n="vblex"/><s n="tv"/></l><r>deny<s n="vblex"/></r></p></e>
+<e c=""><p><l>հերքել<s n="vblex"/><s n="tv"/></l><r>disclaim<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>հյուծել<s n="vblex"/><s n="tv"/></l><r>weaken<s n="vblex"/></r></p></e>
+<e c=""><p><l>հյուսել<s n="vblex"/><s n="tv"/></l><r>plait<s n="vblex"/></r></p></e>
+<e c=""><p><l>հյուսել<s n="vblex"/><s n="tv"/></l><r>braid<s n="vblex"/></r></p></e>
+<e c=""><p><l>մատուցել<s n="vblex"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>
+<e c=""><p><l>մատուցել<s n="vblex"/><s n="tv"/></l><r>serve<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>մեծարել<s n="vblex"/><s n="tv"/></l><r>honour<s n="vblex"/></r></p></e>
+<e c=""><p><l>մեծարել<s n="vblex"/><s n="tv"/></l><r>venerate<s n="vblex"/></r></p></e>
+<e c=""><p><l>մեծարել<s n="vblex"/><s n="tv"/></l><r>treat with distinction<s n="vblex"/></r></p></e>
+<e c=""><p><l>մեծարել<s n="vblex"/><s n="tv"/></l><r>pay respect to<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>մեծարել<s n="vblex"/><s n="tv"/></l><r>glorify<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>միացնել<s n="vblex"/><s n="tv"/></l><r>join<s n="vblex"/></r></p></e>
+<e c=""><p><l>միացնել<s n="vblex"/><s n="tv"/></l><r>unite<s n="vblex"/></r></p></e>
+<e c=""><p><l>միացնել<s n="vblex"/><s n="tv"/></l><r>connect<s n="vblex"/></r></p></e>
+<e c="an appliance"><p><l>միացնել<s n="vblex"/><s n="tv"/></l><r>turn on<s n="vblex"/></r></p></e>
+<e c=""><p><l>մոռանալ<s n="vblex"/><s n="tv"/></l><r>forget<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>think<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>contemplate<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>reflect upon<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>think<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>believe<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>intend<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>plan<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>worry<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>be anxious<s n="vblex"/></r></p></e>
+<e c=""><p><l>մտածել<s n="vblex"/><s n="tv"/></l><r>have an idea<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>նախատել<s n="vblex"/><s n="tv"/></l><r>reproach<s n="vblex"/></r></p></e>
+<e c=""><p><l>նախատել<s n="vblex"/><s n="tv"/></l><r>blame<s n="vblex"/></r></p></e>
+<e c=""><p><l>նախատել<s n="vblex"/><s n="tv"/></l><r>censure<s n="vblex"/></r></p></e>
+<e c="at"><p><l>նայել<s n="vblex"/><s n="tv"/></l><r>look<s n="vblex"/></r></p></e>
+<e c=""><p><l>նետել<s n="vblex"/><s n="tv"/></l><r>throw<s n="vblex"/></r></p></e>
+<e c=""><p><l>նետել<s n="vblex"/><s n="tv"/></l><r>cast<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>ներկել<s n="vblex"/><s n="tv"/></l><r>color<s n="vblex"/></r></p></e>
+<e c=""><p><l>ներկել<s n="vblex"/><s n="tv"/></l><r>paint<s n="vblex"/></r></p></e>
+<e c=""><p><l>ներկել<s n="vblex"/><s n="tv"/></l><r>stain<s n="vblex"/></r></p></e>
+<e c=""><p><l>ներկել<s n="vblex"/><s n="tv"/></l><r>dye<s n="vblex"/></r></p></e>
+<e c=""><p><l>նկարել<s n="vblex"/><s n="tv"/></l><r>draw<s n="vblex"/></r></p></e>
+<e c=""><p><l>նկարել<s n="vblex"/><s n="tv"/></l><r>depict<s n="vblex"/></r></p></e>
+<e c=""><p><l>նկարել<s n="vblex"/><s n="tv"/></l><r>paint<s n="vblex"/></r></p></e>
+<e c=""><p><l>նկարել<s n="vblex"/><s n="tv"/></l><r>photograph<s n="vblex"/></r></p></e>
+<e c="a movie"><p><l>նկարել<s n="vblex"/><s n="tv"/></l><r>shoot<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>շարժել<s n="vblex"/><s n="tv"/></l><r>move<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>շարժել<s n="vblex"/><s n="tv"/></l><r>set in motion<s n="vblex"/></r></p></e>
+<e c=""><p><l>շարժել<s n="vblex"/><s n="tv"/></l><r>set going<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>շարժել<s n="vblex"/><s n="tv"/></l><r>drive<s n="vblex"/></r></p></e>
+<e c=""><p><l>շարժել<s n="vblex"/><s n="tv"/></l><r>guide<s n="vblex"/></r></p></e>
+<e c="in some way"><p><l>շարժել<s n="vblex"/><s n="tv"/></l><r>make act<s n="vblex"/></r></p></e>
+<e c="behind"><p><l>շարժել<s n="vblex"/><s n="tv"/></l><r>be the motive force<s n="vblex"/></r></p></e>
+<e c=""><p><l>ոռոգել<s n="vblex"/><s n="tv"/></l><r>irrigate<s n="vblex"/></r></p></e>
+<e c=""><p><l>ոռոգել<s n="vblex"/><s n="tv"/></l><r>water<s n="vblex"/></r></p></e>
+<e c=""><p><l>ուղարկել<s n="vblex"/><s n="tv"/></l><r>send<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>չորացնել<s n="vblex"/><s n="tv"/></l><r>dry<s n="vblex"/></r></p></e>
+<e c=""><p><l>չորացնել<s n="vblex"/><s n="tv"/></l><r>make dry<s n="vblex"/></r></p></e>
+<e c=""><p><l>պաշտել<s n="vblex"/><s n="tv"/></l><r>worship<s n="vblex"/></r></p></e>
+<e c=""><p><l>պաշտել<s n="vblex"/><s n="tv"/></l><r>adore<s n="vblex"/></r></p></e>
+<e c="transitive, colloquial"><p><l>պաչել<s n="vblex"/><s n="tv"/></l><r>kiss<s n="vblex"/></r></p></e>
+<e c=""><p><l>պատրաստել<s n="vblex"/><s n="tv"/></l><r>prepare<s n="vblex"/></r></p></e>
+<e c=""><p><l>պատրաստել<s n="vblex"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
+<e c=""><p><l>պատրաստել<s n="vblex"/><s n="tv"/></l><r>manufacture<s n="vblex"/></r></p></e>
+<e c=""><p><l>պատրաստել<s n="vblex"/><s n="tv"/></l><r>produce<s n="vblex"/></r></p></e>
+<e c=""><p><l>պատրաստել<s n="vblex"/><s n="tv"/></l><r>cook food<s n="vblex"/></r></p></e>
+<e c="an archeological site"><p><l>պեղել<s n="vblex"/><s n="tv"/></l><r>excavate<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>ջեռուցել<s n="vblex"/><s n="tv"/></l><r>warm<s n="vblex"/></r></p></e>
+<e c=""><p><l>ջեռուցել<s n="vblex"/><s n="tv"/></l><r>heat<s n="vblex"/></r></p></e>
+<e c=""><p><l>ջեռուցել<s n="vblex"/><s n="tv"/></l><r>make hot or warm<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>սանրել<s n="vblex"/><s n="tv"/></l><r>comb<s n="vblex"/></r></p></e>
+<e c=""><p><l>սանրել<s n="vblex"/><s n="tv"/></l><r>brush<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>սասանել<s n="vblex"/><s n="tv"/></l><r>shake<s n="vblex"/></r></p></e>
+<e c=""><p><l>սիրել<s n="vblex"/><s n="tv"/></l><r>like<s n="vblex"/></r></p></e>
+<e c=""><p><l>սիրել<s n="vblex"/><s n="tv"/></l><r>love<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>սկսել<s n="vblex"/><s n="tv"/></l><r>begin<s n="vblex"/></r></p></e>
+<e c=""><p><l>սկսել<s n="vblex"/><s n="tv"/></l><r>start<s n="vblex"/></r></p></e>
+<e c=""><p><l>սկսել<s n="vblex"/><s n="tv"/></l><r>commence<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>սուզել<s n="vblex"/><s n="tv"/></l><r>plunge<s n="vblex"/></r></p></e>
+<e c=""><p><l>սուզել<s n="vblex"/><s n="tv"/></l><r>sink<s n="vblex"/></r></p></e>
+<e c=""><p><l>սուզել<s n="vblex"/><s n="tv"/></l><r>immerge<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպանել<s n="vblex"/><s n="tv"/></l><r>kill<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպանել<s n="vblex"/><s n="tv"/></l><r>murder<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպանել<s n="vblex"/><s n="tv"/></l><r>assassinate<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպասել<s n="vblex"/><s n="tv"/></l><r>wait<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպասել<s n="vblex"/><s n="tv"/></l><r>expect<s n="vblex"/></r></p></e>
+<e c=""><p><l>սպասել<s n="vblex"/><s n="tv"/></l><r>await<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>ստեղծել<s n="vblex"/><s n="tv"/></l><r>create<s n="vblex"/></r></p></e>
+<e c=""><p><l>ստիպել<s n="vblex"/><s n="tv"/></l><r>compel<s n="vblex"/></r></p></e>
+<e c=""><p><l>ստիպել<s n="vblex"/><s n="tv"/></l><r>force<s n="vblex"/></r></p></e>
+<e c=""><p><l>ստիպել<s n="vblex"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
+<e c=""><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>sharpen<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>intensify<s n="vblex"/></r></p></e>
+<e c=""><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>heighten<s n="vblex"/></r></p></e>
+<e c=""><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>sharpen<s n="vblex"/></r></p></e>
+<e c=""><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>bring a head<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>worsen<s n="vblex"/></r></p></e>
+<e c=""><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>aggravate<s n="vblex"/></r></p></e>
+<e c=""><p><l>սրել<s n="vblex"/><s n="tv"/></l><r>exacerbate<s n="vblex"/></r></p></e>
+<e c=""><p><l>վաճառել<s n="vblex"/><s n="tv"/></l><r>sell<s n="vblex"/></r></p></e>
+<e c=""><p><l>վանել<s n="vblex"/><s n="tv"/></l><r>repulse<s n="vblex"/></r></p></e>
+<e c=""><p><l>վանել<s n="vblex"/><s n="tv"/></l><r>push away<s n="vblex"/></r></p></e>
+<e c=""><p><l>վանել<s n="vblex"/><s n="tv"/></l><r>drive away<s n="vblex"/></r></p></e>
+<e c="physics"><p><l>վանել<s n="vblex"/><s n="tv"/></l><r>repel<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>set on fire<s n="vblex"/></r></p></e>
+<e c=""><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>burn<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>light<s n="vblex"/></r></p></e>
+<e c=""><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>turn on a light-giving implement<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>turn on a heat-giving implement<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>heat<s n="vblex"/></r></p></e>
+<e c="transitive, slang"><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>give away a secret<s n="vblex"/></r></p></e>
+<e c="transitive, figuratively"><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>fire<s n="vblex"/></r></p></e>
+<e c=""><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>inflame<s n="vblex"/></r></p></e>
+<e c=""><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>enliven<s n="vblex"/></r></p></e>
+<e c=""><p><l>վառել<s n="vblex"/><s n="tv"/></l><r>inspirit<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>carry<s n="vblex"/></r></p></e>
+<e c=""><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>carry away or off<s n="vblex"/></r></p></e>
+<e c=""><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>take away<s n="vblex"/></r></p></e>
+<e c=""><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>lead<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>tolerate<s n="vblex"/></r></p></e>
+<e c=""><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>endure<s n="vblex"/></r></p></e>
+<e c=""><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>stand<s n="vblex"/></r></p></e>
+<e c=""><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>brook<s n="vblex"/></r></p></e>
+<e c="transitive, in a game"><p><l>տանել<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>տանջել<s n="vblex"/><s n="tv"/></l><r>torment<s n="vblex"/></r></p></e>
+<e c=""><p><l>տանջել<s n="vblex"/><s n="tv"/></l><r>torture<s n="vblex"/></r></p></e>
+<e c="linguistics"><p><l>տառադարձել<s n="vblex"/><s n="tv"/></l><r>transcribe<s n="vblex"/></r></p></e>
+<e c="linguistics"><p><l>տառադարձել<s n="vblex"/><s n="tv"/></l><r>transliterate<s n="vblex"/></r></p></e>
+<e c="transitive, out"><p><l>տարածել<s n="vblex"/><s n="tv"/></l><r>spread<s n="vblex"/></r></p></e>
+<e c=""><p><l>տարածել<s n="vblex"/><s n="tv"/></l><r>stretch<s n="vblex"/></r></p></e>
+<e c=""><p><l>տարածել<s n="vblex"/><s n="tv"/></l><r>extend<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>տարածել<s n="vblex"/><s n="tv"/></l><r>spread<s n="vblex"/></r></p></e>
+<e c=""><p><l>տարածել<s n="vblex"/><s n="tv"/></l><r>diffuse<s n="vblex"/></r></p></e>
+<e c=""><p><l>տարածել<s n="vblex"/><s n="tv"/></l><r>disseminate<s n="vblex"/></r></p></e>
+<e c=""><p><l>տարածել<s n="vblex"/><s n="tv"/></l><r>propagate<s n="vblex"/></r></p></e>
+<e c=""><p><l>տարբերել<s n="vblex"/><s n="tv"/></l><r>distinguish<s n="vblex"/></r></p></e>
+<e c=""><p><l>տարբերել<s n="vblex"/><s n="tv"/></l><r>discern<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>տեղեկացնել<s n="vblex"/><s n="tv"/></l><r>inform<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեղեկացնել<s n="vblex"/><s n="tv"/></l><r>notify<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>notice<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>look at<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>examine<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>meet<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>come across<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>visit<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>go see<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>understand<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>realise<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
+<e c=""><p><l>տեսնել<s n="vblex"/><s n="tv"/></l><r>experience<s n="vblex"/></r></p></e>
+<e c="colloquial"><p><l>տշել<s n="vblex"/><s n="tv"/></l><r>strike the "cat" in the game of tipcat<s n="vblex"/></r></p></e>
+<e c="colloquial"><p><l>տշել<s n="vblex"/><s n="tv"/></l><r>strike an object inthe distance<s n="vblex"/></r></p></e>
+<e c="colloquial"><p><l>տշել<s n="vblex"/><s n="tv"/></l><r>bounce<s n="vblex"/></r></p></e>
+<e c=""><p><l>տշել<s n="vblex"/><s n="tv"/></l><r>get rid of a person<s n="vblex"/></r></p></e>
+<e c=""><p><l>տպել<s n="vblex"/><s n="tv"/></l><r>print<s n="vblex"/></r></p></e>
+<e c=""><p><l>տպել<s n="vblex"/><s n="tv"/></l><r>type<s n="vblex"/></r></p></e>
+<e c=""><p><l>տպել<s n="vblex"/><s n="tv"/></l><r>publish<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>տրամադրել<s n="vblex"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>
+<e c=""><p><l>տրամադրել<s n="vblex"/><s n="tv"/></l><r>supply<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>տրամադրել<s n="vblex"/><s n="tv"/></l><r>dispose<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փախցնել<s n="vblex"/><s n="tv"/></l><r>put flight<s n="vblex"/></r></p></e>
+<e c=""><p><l>փախցնել<s n="vblex"/><s n="tv"/></l><r>cause flee<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փախցնել<s n="vblex"/><s n="tv"/></l><r>steal<s n="vblex"/></r></p></e>
+<e c=""><p><l>փախցնել<s n="vblex"/><s n="tv"/></l><r>kidnap<s n="vblex"/></r></p></e>
+<e c=""><p><l>փախցնել<s n="vblex"/><s n="tv"/></l><r>abduct<s n="vblex"/></r></p></e>
+<e c=""><p><l>փախցնել<s n="vblex"/><s n="tv"/></l><r>hijack<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փակել<s n="vblex"/><s n="tv"/></l><r>close<s n="vblex"/></r></p></e>
+<e c=""><p><l>փակել<s n="vblex"/><s n="tv"/></l><r>shut<s n="vblex"/></r></p></e>
+<e c=""><p><l>փակել<s n="vblex"/><s n="tv"/></l><r>lock<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փլել<s n="vblex"/><s n="tv"/></l><r>destroy<s n="vblex"/></r></p></e>
+<e c=""><p><l>փլել<s n="vblex"/><s n="tv"/></l><r>demolish<s n="vblex"/></r></p></e>
+<e c=""><p><l>փլել<s n="vblex"/><s n="tv"/></l><r>pull down<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փոխանակել<s n="vblex"/><s n="tv"/></l><r>exchange<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փոխանակել<s n="vblex"/><s n="tv"/></l><r>swap<s n="vblex"/></r></p></e>
+<e c="for"><p><l>փոխարինել<s n="vblex"/><s n="tv"/></l><r>substitute<s n="vblex"/></r></p></e>
+<e c=""><p><l>փոխարինել<s n="vblex"/><s n="tv"/></l><r>replace<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փոխել<s n="vblex"/><s n="tv"/></l><r>change<s n="vblex"/></r></p></e>
+<e c=""><p><l>փողոտել<s n="vblex"/><s n="tv"/></l><r>cut the throat<s n="vblex"/></r></p></e>
+<e c=""><p><l>փորել<s n="vblex"/><s n="tv"/></l><r>dig<s n="vblex"/></r></p></e>
+<e c=""><p><l>փորել<s n="vblex"/><s n="tv"/></l><r>excavate<s n="vblex"/></r></p></e>
+<e c=""><p><l>փորել<s n="vblex"/><s n="tv"/></l><r>hollow<s n="vblex"/></r></p></e>
+<e c=""><p><l>փորել<s n="vblex"/><s n="tv"/></l><r>gouge<s n="vblex"/></r></p></e>
+<e c=""><p><l>փորել<s n="vblex"/><s n="tv"/></l><r>chisel<s n="vblex"/></r></p></e>
+<e c=""><p><l>փչել<s n="vblex"/><s n="tv"/></l><r>blow<s n="vblex"/></r></p></e>
+<e c=""><p><l>փչել<s n="vblex"/><s n="tv"/></l><r>inflate<s n="vblex"/></r></p></e>
+<e c=""><p><l>փչել<s n="vblex"/><s n="tv"/></l><r>puff out<s n="vblex"/></r></p></e>
+<e c=""><p><l>փչել<s n="vblex"/><s n="tv"/></l><r>extinguish<s n="vblex"/></r></p></e>
+<e c=""><p><l>փչել<s n="vblex"/><s n="tv"/></l><r>blow out<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>փչել<s n="vblex"/><s n="tv"/></l><r>lie<s n="vblex"/></r></p></e>
+<e c=""><p><l>փչել<s n="vblex"/><s n="tv"/></l><r>talk nonsense<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>փրկել<s n="vblex"/><s n="tv"/></l><r>save<s n="vblex"/></r></p></e>
+<e c=""><p><l>փրկել<s n="vblex"/><s n="tv"/></l><r>rescue<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաղել<s n="vblex"/><s n="tv"/></l><r>pick<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաղել<s n="vblex"/><s n="tv"/></l><r>pluck<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաղել<s n="vblex"/><s n="tv"/></l><r>gather<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաղել<s n="vblex"/><s n="tv"/></l><r>mow<s n="vblex"/></r></p></e>
+<e c="also figuratively"><p><l>քաղել<s n="vblex"/><s n="tv"/></l><r>reap<s n="vblex"/></r></p></e>
+<e c=""><p><l>քամել<s n="vblex"/><s n="tv"/></l><r>squeeze out<s n="vblex"/></r></p></e>
+<e c=""><p><l>քամել<s n="vblex"/><s n="tv"/></l><r>press out<s n="vblex"/></r></p></e>
+<e c=""><p><l>քամել<s n="vblex"/><s n="tv"/></l><r>wring<s n="vblex"/></r></p></e>
+<e c=""><p><l>քամել<s n="vblex"/><s n="tv"/></l><r>strain<s n="vblex"/></r></p></e>
+<e c=""><p><l>քամել<s n="vblex"/><s n="tv"/></l><r>filter<s n="vblex"/></r></p></e>
+<e c="colloquial"><p><l>քամել<s n="vblex"/><s n="tv"/></l><r>extort the last belongings<s n="vblex"/></r></p></e>
+<e c=""><p><l>քանդել<s n="vblex"/><s n="tv"/></l><r>destroy<s n="vblex"/></r></p></e>
+<e c=""><p><l>քանդել<s n="vblex"/><s n="tv"/></l><r>demolish<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>pull<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>drag<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>weigh<s n="vblex"/></r></p></e>
+<e c="figuratively"><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>endure<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>bear<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>take after<s n="vblex"/></r></p></e>
+<e c=""><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>resemble someone<s n="vblex"/></r></p></e>
+<e c="colloquial"><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>last<s n="vblex"/></r></p></e>
+<e c=""><p><l>քարոզել<s n="vblex"/><s n="tv"/></l><r>preach<s n="vblex"/></r></p></e>
+<e c=""><p><l>քարոզել<s n="vblex"/><s n="tv"/></l><r>sermonise<s n="vblex"/></r></p></e>
+<e c=""><p><l>քարոզել<s n="vblex"/><s n="tv"/></l><r>propagate<s n="vblex"/></r></p></e>
+<e c="views"><p><l>քարոզել<s n="vblex"/><s n="tv"/></l><r>advocate<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>քերել<s n="vblex"/><s n="tv"/></l><r>scrape<s n="vblex"/></r></p></e>
+<e c=""><p><l>քերել<s n="vblex"/><s n="tv"/></l><r>scrub<s n="vblex"/></r></p></e>
+<e c=""><p><l>քերծել<s n="vblex"/><s n="tv"/></l><r>scratch<s n="vblex"/></r></p></e>
+<e c="towards"><p><l>քծնել<s n="vblex"/><s n="tv"/></l><r>be obsequious<s n="vblex"/></r></p></e>
+<e c="upon"><p><l>քծնել<s n="vblex"/><s n="tv"/></l><r>fawn<s n="vblex"/></r></p></e>
+<e c="to"><p><l>քծնել<s n="vblex"/><s n="tv"/></l><r>cringe<s n="vblex"/></r></p></e>
+<e c=""><p><l>քննադատել<s n="vblex"/><s n="tv"/></l><r>criticise<s n="vblex"/></r></p></e>
+<e c=""><p><l>քննարկել<s n="vblex"/><s n="tv"/></l><r>discuss<s n="vblex"/></r></p></e>
+<e c=""><p><l>քննել<s n="vblex"/><s n="tv"/></l><r>examine<s n="vblex"/></r></p></e>
+<e c=""><p><l>քննել<s n="vblex"/><s n="tv"/></l><r>inspect<s n="vblex"/></r></p></e>
+<e c=""><p><l>քննել<s n="vblex"/><s n="tv"/></l><r>study<s n="vblex"/></r></p></e>
+<e c=""><p><l>քշել<s n="vblex"/><s n="tv"/></l><r>chase away<s n="vblex"/></r></p></e>
+<e c=""><p><l>քշել<s n="vblex"/><s n="tv"/></l><r>drive away<s n="vblex"/></r></p></e>
+<e c="an itching body part"><p><l>քորել<s n="vblex"/><s n="tv"/></l><r>scratch<s n="vblex"/></r></p></e>
+<e c="vulgar, transitive"><p><l>քունել<s n="vblex"/><s n="tv"/></l><r>fuck<s n="vblex"/></r></p></e>
+<e c=""><p><l>օգտագործել<s n="vblex"/><s n="tv"/></l><r>use<s n="vblex"/></r></p></e>
+<e c=""><p><l>օգտագործել<s n="vblex"/><s n="tv"/></l><r>utilise<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>օծել<s n="vblex"/><s n="tv"/></l><r>perfume<s n="vblex"/></r></p></e>
+<e c=""><p><l>օծել<s n="vblex"/><s n="tv"/></l><r>scent<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>օծել<s n="vblex"/><s n="tv"/></l><r>spray<s n="vblex"/></r></p></e>
+<e c=""><p><l>օծել<s n="vblex"/><s n="tv"/></l><r>sprinkle<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>օծել<s n="vblex"/><s n="tv"/></l><r>anoint<s n="vblex"/></r></p></e>
+<e c="transitive, religion"><p><l>օծել<s n="vblex"/><s n="tv"/></l><r>consecrate<s n="vblex"/></r></p></e>
+<e c=""><p><l>օծել<s n="vblex"/><s n="tv"/></l><r>sanctify<s n="vblex"/></r></p></e>
+
+
 <!-- SECTION: Abbreviations -->
 
 <e c=""><p><l>տ-ն<s n="abbr"/></l><r>Mrs<s n="n"/><s n="sg"/></r></p></e>
@@ -10715,20 +11395,8 @@
 
 </section>
 <section id="unchecked" type="standard">
-
-<e c="transitive"><p><l>ագուցել<s n="vblex"/></l><r>fit<g><b/>in</g><s n="vblex"/></r></p></e>
-<e c=""><p><l>ագուցել<s n="vblex"/></l><r>joint<s n="vblex"/></r></p></e>
-<e c=""><p><l>ագուցել<s n="vblex"/></l><r>enchase<s n="vblex"/></r></p></e>
 <e c="intransitive, archaic"><p><l>ազազել<s n="vblex"/></l><r>dry<g><b/>up</g><s n="vblex"/></r></p></e>
 <e c=""><p><l>ազազել<s n="vblex"/></l><r>become<g><b/>dry</g><s n="vblex"/></r></p></e>
-<e c=""><p><l>ազատել<s n="vblex"/></l><r>free<s n="vblex"/></r></p></e>
-<e c="transitive, linguistics"><p><l>ածանցել<s n="vblex"/></l><r>form a word by means of affixation<s n="vblex"/></r></p></e>
-<e c="transitive, archaic"><p><l>ածանցել<s n="vblex"/></l><r>transfer from one subject another<s n="vblex"/></r></p></e>
-<e c="transitive, mathematics"><p><l>ածանցել<s n="vblex"/></l><r>differentiate<s n="vblex"/></r></p></e>
-<e c="eggs"><p><l>ածել<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
-<e c="dialectal"><p><l>ածել<s n="vblex"/></l><r>pour<s n="vblex"/></r></p></e>
-<e c="a liquid"><p><l>ածել<s n="vblex"/></l><r>strew<s n="vblex"/></r></p></e>
-<e c="dialectal, a musical instrument"><p><l>ածել<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
 <e c=""><p><l>ականջ դնել<s n="vblex"/></l><r>eavesdrop<s n="vblex"/></r></p></e>
 <e c=""><p><l>ականջ դնել<s n="vblex"/></l><r>hearken<s n="vblex"/></r></p></e>
 <e c=""><p><l>ականջ դնել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
@@ -10744,15 +11412,6 @@
 <e c="for"><p><l>աղաչել<s n="vblex"/></l><r>supplicate<s n="vblex"/></r></p></e>
 <e c=""><p><l>աղավաղել<s n="vblex"/></l><r>distort<s n="vblex"/></r></p></e>
 <e c="dialectal"><p><l>աղատել<s n="vblex"/></l><r>lament bitterly<s n="vblex"/></r></p></e>
-<e c=""><p><l>աղարտել<s n="vblex"/></l><r>spoil<s n="vblex"/></r></p></e>
-<e c=""><p><l>աղարտել<s n="vblex"/></l><r>ruin<s n="vblex"/></r></p></e>
-<e c=""><p><l>աղարտել<s n="vblex"/></l><r>distort<s n="vblex"/></r></p></e>
-<e c=""><p><l>աղարտել<s n="vblex"/></l><r>twist<s n="vblex"/></r></p></e>
-<e c=""><p><l>աղարտել<s n="vblex"/></l><r>misrepresent<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>աղարտել<s n="vblex"/></l><r>denigrate<s n="vblex"/></r></p></e>
-<e c=""><p><l>աղարտել<s n="vblex"/></l><r>disparage<s n="vblex"/></r></p></e>
-<e c="archaic"><p><l>աղարտել<s n="vblex"/></l><r>despise<s n="vblex"/></r></p></e>
-<e c=""><p><l>աղարտել<s n="vblex"/></l><r>disdain<s n="vblex"/></r></p></e>
 <e c=""><p><l>աղերսել<s n="vblex"/></l><r>supplicate<s n="vblex"/></r></p></e>
 <e c=""><p><l>աղերսել<s n="vblex"/></l><r>beseech<s n="vblex"/></r></p></e>
 <e c=""><p><l>աղերսել<s n="vblex"/></l><r>entreat<s n="vblex"/></r></p></e>
@@ -10767,32 +11426,15 @@
 <e c="intransitive"><p><l>ամաչել<s n="vblex"/></l><r>feel shy<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>ամուսնանալ<s n="vblex"/></l><r>marry<s n="vblex"/></r></p></e>
 <e c=""><p><l>ամուսնանալ<s n="vblex"/></l><r>get married<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>ամուսնացնել<s n="vblex"/></l><r>wed<s n="vblex"/></r></p></e>
-<e c=""><p><l>ամուսնացնել<s n="vblex"/></l><r>marry<s n="vblex"/></r></p></e>
-<e c=""><p><l>ամուսնացնել<s n="vblex"/></l><r>give in marriage<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>այրել<s n="vblex"/></l><r>set on fire<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>այրել<s n="vblex"/></l><r>burn<s n="vblex"/></r></p></e>
-<e c=""><p><l>այրել<s n="vblex"/></l><r>scorch<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>այրվել<s n="vblex"/></l><r>burn<s n="vblex"/></r></p></e>
 <e c=""><p><l>այրվել<s n="vblex"/></l><r>be consumed by fire<s n="vblex"/></r></p></e>
 <e c=""><p><l>այցելել<s n="vblex"/></l><r>visit<s n="vblex"/></r></p></e>
 <e c="idiomatic"><p><l>անգիր անել<s n="vblex"/></l><r>learn by heart<s n="vblex"/></r></p></e>
-<e c=""><p><l>անել<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>անիծել<s n="vblex"/></l><r>curse<s n="vblex"/></r></p></e>
-<e c=""><p><l>անիծել<s n="vblex"/></l><r>damn<s n="vblex"/></r></p></e>
 <e c="archaic, transitive"><p><l>անկանել<s n="vblex"/></l><r>lay the groundwork of lace<s n="vblex"/></r></p></e>
 <e c=""><p><l>անկանել<s n="vblex"/></l><r>weave<s n="vblex"/></r></p></e>
 <e c=""><p><l>անկանել<s n="vblex"/></l><r>twine<s n="vblex"/></r></p></e>
 <e c=""><p><l>անհանգստանալ<s n="vblex"/></l><r>be nervous<s n="vblex"/></r></p></e>
 <e c=""><p><l>անձրևել<s n="vblex"/></l><r>rain<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>անջատել<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
-<e c=""><p><l>անջատել<s n="vblex"/></l><r>part<s n="vblex"/></r></p></e>
-<e c=""><p><l>անջատել<s n="vblex"/></l><r>detach<s n="vblex"/></r></p></e>
-<e c=""><p><l>անջատել<s n="vblex"/></l><r>disconnect<s n="vblex"/></r></p></e>
-<e c=""><p><l>անջատել<s n="vblex"/></l><r>disunite<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>անջատել<s n="vblex"/></l><r>turn off<s n="vblex"/></r></p></e>
-<e c=""><p><l>անջատել<s n="vblex"/></l><r>switch off<s n="vblex"/></r></p></e>
-<e c=""><p><l>անջատել<s n="vblex"/></l><r>shut down<s n="vblex"/></r></p></e>
 <e c=""><p><l>անվանել<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>
 <e c=""><p><l>անվանել<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>
 <e c=""><p><l>անվանել<s n="vblex"/></l><r>mention<s n="vblex"/></r></p></e>
@@ -10817,49 +11459,15 @@
 <e c=""><p><l>ապրել<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
 <e c=""><p><l>ապրել<s n="vblex"/></l><r>reside<s n="vblex"/></r></p></e>
 <e c=""><p><l>ապրել<s n="vblex"/></l><r>stay<s n="vblex"/></r></p></e>
-<e c=""><p><l>առաքել<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
-<e c=""><p><l>առաքել<s n="vblex"/></l><r>dispatch<s n="vblex"/></r></p></e>
-<e c=""><p><l>առաքել<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
-<e c=""><p><l>առնել<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
-<e c=""><p><l>առնել<s n="vblex"/></l><r>buy<s n="vblex"/></r></p></e>
-<e c=""><p><l>առնել<s n="vblex"/></l><r>purchase<s n="vblex"/></r></p></e>
-<e c="dialectal"><p><l>առնել<s n="vblex"/></l><r>take as a wife<s n="vblex"/></r></p></e>
-<e c=""><p><l>առնել<s n="vblex"/></l><r>marry<s n="vblex"/></r></p></e>
-<e c=""><p><l>առնել<s n="vblex"/></l><r>seize<s n="vblex"/></r></p></e>
-<e c=""><p><l>առնել<s n="vblex"/></l><r>assume<s n="vblex"/></r></p></e>
-<e c=""><p><l>առնել<s n="vblex"/></l><r>accept<s n="vblex"/></r></p></e>
-<e c="dated"><p><l>առոգանել<s n="vblex"/></l><r>pronounce<s n="vblex"/></r></p></e>
-<e c=""><p><l>առոգանել<s n="vblex"/></l><r>pronounce carefully<s n="vblex"/></r></p></e>
-<e c=""><p><l>առոգանել<s n="vblex"/></l><r>with correct accentuation and diction<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>indicate<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>point<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>order<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>command<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
-<e c=""><p><l>ասել<s n="vblex"/></l><r>answer<s n="vblex"/></r></p></e>
 <e c=""><p><l>ավելացնել<s n="vblex"/></l><r>add<s n="vblex"/></r></p></e>
-<e c=""><p><l>ատել<s n="vblex"/></l><r>hate<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>արածել<s n="vblex"/></l><r>graze<s n="vblex"/></r></p></e>
 <e c=""><p><l>արածել<s n="vblex"/></l><r>pasture<s n="vblex"/></r></p></e>
 <e c=""><p><l>արածել<s n="vblex"/></l><r>browse<s n="vblex"/></r></p></e>
 <e c="poetic"><p><l>արարել<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
 <e c="poetic"><p><l>արարել<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
-<e c="literary"><p><l>արգահատել<s n="vblex"/></l><r>take pity on<s n="vblex"/></r></p></e>
-<e c=""><p><l>արգահատել<s n="vblex"/></l><r>feel compassion for<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>արգելել<s n="vblex"/></l><r>forbid<s n="vblex"/></r></p></e>
-<e c=""><p><l>արգելել<s n="vblex"/></l><r>prohibit<s n="vblex"/></r></p></e>
-<e c=""><p><l>արդուկել<s n="vblex"/></l><r>press<s n="vblex"/></r></p></e>
-<e c=""><p><l>արդուկել<s n="vblex"/></l><r>iron<s n="vblex"/></r></p></e>
-<e c=""><p><l>արդուկել<s n="vblex"/></l><r>pass an iron over<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>արթնանալ<s n="vblex"/></l><r>wake up<s n="vblex"/></r></p></e>
 <e c=""><p><l>արթնանալ<s n="vblex"/></l><r>awake<s n="vblex"/></r></p></e>
 <e c=""><p><l>արժեմ<s n="vblex"/></l><r>I am worth<s n="vblex"/></r></p></e>
-<e c="archaic, literary, transitive"><p><l>արկանել<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
-<e c=""><p><l>արհամարհել<s n="vblex"/></l><r>despise<s n="vblex"/></r></p></e>
-<e c=""><p><l>արհամարհել<s n="vblex"/></l><r>hold in contempt<s n="vblex"/></r></p></e>
-<e c=""><p><l>արհամարհել<s n="vblex"/></l><r>disdain<s n="vblex"/></r></p></e>
 <e c=""><p><l>արձագանքել<s n="vblex"/></l><r>echo<s n="vblex"/></r></p></e>
 <e c=""><p><l>արձագանքել<s n="vblex"/></l><r>respond<s n="vblex"/></r></p></e>
 <e c=""><p><l>արձագանքել<s n="vblex"/></l><r>answer<s n="vblex"/></r></p></e>
@@ -10876,30 +11484,14 @@
 <e c=""><p><l>արտասվել<s n="vblex"/></l><r>weep<s n="vblex"/></r></p></e>
 <e c=""><p><l>արտասվել<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
 <e c=""><p><l>բազմել<s n="vblex"/></l><r>sit down solemnly<s n="vblex"/></r></p></e>
-<e c=""><p><l>բաժանել<s n="vblex"/></l><r>divide<s n="vblex"/></r></p></e>
-<e c=""><p><l>բաժանել<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
-<e c=""><p><l>բաժանել<s n="vblex"/></l><r>give out<s n="vblex"/></r></p></e>
-<e c=""><p><l>բաժանել<s n="vblex"/></l><r>distribute<s n="vblex"/></r></p></e>
-<e c=""><p><l>բաժանել<s n="vblex"/></l><r>dole out<s n="vblex"/></r></p></e>
-<e c=""><p><l>բաժանել<s n="vblex"/></l><r>divorce<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>բախել<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>
-<e c=""><p><l>բախել<s n="vblex"/></l><r>strike<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>բախել<s n="vblex"/></l><r>knock<s n="vblex"/></r></p></e>
-<e c="intransitive, of a heart"><p><l>բախել<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>
 <e c="literary"><p><l>բաղձալ<s n="vblex"/></l><r>desire<s n="vblex"/></r></p></e>
 <e c=""><p><l>բաղձալ<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
 <e c=""><p><l>բաղձալ<s n="vblex"/></l><r>long for<s n="vblex"/></r></p></e>
 <e c=""><p><l>բաղձալ<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
-<e c=""><p><l>բամբասել<s n="vblex"/></l><r>gossip<s n="vblex"/></r></p></e>
-<e c=""><p><l>բամբասել<s n="vblex"/></l><r>detract<s n="vblex"/></r></p></e>
-<e c=""><p><l>բամբասել<s n="vblex"/></l><r>slander<s n="vblex"/></r></p></e>
-<e c=""><p><l>բամբասել<s n="vblex"/></l><r>speak ill of<s n="vblex"/></r></p></e>
-<e c=""><p><l>բամբասել<s n="vblex"/></l><r>calumniate<s n="vblex"/></r></p></e>
 <e c="chiefly Western Armenian, transitive"><p><l>բանալ<s n="vblex"/></l><r>open<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>բանել<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
 <e c=""><p><l>բանել<s n="vblex"/></l><r>operate<s n="vblex"/></r></p></e>
 <e c=""><p><l>բանել<s n="vblex"/></l><r>function<s n="vblex"/></r></p></e>
-<e c=""><p><l>բանտարկել<s n="vblex"/></l><r>imprison<s n="vblex"/></r></p></e>
 <e c=""><p><l>բաշխել<s n="vblex"/></l><r>allocate<s n="vblex"/></r></p></e>
 <e c=""><p><l>բաշխել<s n="vblex"/></l><r>distribute<s n="vblex"/></r></p></e>
 <e c=""><p><l>բաշխել<s n="vblex"/></l><r>allot<s n="vblex"/></r></p></e>
@@ -10919,29 +11511,9 @@
 <e c=""><p><l>բարբաջել<s n="vblex"/></l><r>talk nonsense<s n="vblex"/></r></p></e>
 <e c=""><p><l>բարբաջել<s n="vblex"/></l><r>prattle<s n="vblex"/></r></p></e>
 <e c="poetic"><p><l>բարբառել<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
-<e c="literary"><p><l>բարձրաձայնել<s n="vblex"/></l><r>voice<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրաձայնել<s n="vblex"/></l><r>express<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրաձայնել<s n="vblex"/></l><r>give voice to<s n="vblex"/></r></p></e>
-<e c="intransitive"><p><l>բարձրանալ<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրանալ<s n="vblex"/></l><r>ascend<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրանալ<s n="vblex"/></l><r>reascend<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրանալ<s n="vblex"/></l><r>surmount<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրանալ<s n="vblex"/></l><r>exceed<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրանալ<s n="vblex"/></l><r>surpass<s n="vblex"/></r></p></e>
-<e c="intransitive"><p><l>բարձրանալ<s n="vblex"/></l><r>increase<s n="vblex"/></r></p></e>
-<e c=""><p><l>բարձրանալ<s n="vblex"/></l><r>grow<s n="vblex"/></r></p></e>
 <e c=""><p><l>բարևել<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
 <e c=""><p><l>բացականչել<s n="vblex"/></l><r>exclaim<s n="vblex"/></r></p></e>
 <e c=""><p><l>բացատրել<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
-<e c=""><p><l>բացել<s n="vblex"/></l><r>open<s n="vblex"/></r></p></e>
-<e c="law"><p><l>բեկանել<s n="vblex"/></l><r>annul<s n="vblex"/></r></p></e>
-<e c="a decision"><p><l>բեկանել<s n="vblex"/></l><r>reverse<s n="vblex"/></r></p></e>
-<e c="dated"><p><l>բեկել<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>
-<e c="physics"><p><l>բեկել<s n="vblex"/></l><r>refract<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>բեկտել<s n="vblex"/></l><r>break pieces<s n="vblex"/></r></p></e>
-<e c=""><p><l>բեկտել<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>
-<e c=""><p><l>բերել<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>
-<e c=""><p><l>բերել<s n="vblex"/></l><r>fetch<s n="vblex"/></r></p></e>
 <e c=""><p><l>բզզալ<s n="vblex"/></l><r>buzz<s n="vblex"/></r></p></e>
 <e c=""><p><l>բզզալ<s n="vblex"/></l><r>hum<s n="vblex"/></r></p></e>
 <e c=""><p><l>բլբլալ<s n="vblex"/></l><r>chatter<s n="vblex"/></r></p></e>
@@ -10957,38 +11529,21 @@
 <e c="at someone"><p><l>բղավել<s n="vblex"/></l><r>yell<s n="vblex"/></r></p></e>
 <e c=""><p><l>բողոքել<s n="vblex"/></l><r>complain<s n="vblex"/></r></p></e>
 <e c=""><p><l>բողոքել<s n="vblex"/></l><r>protest<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>բորբոքել<s n="vblex"/></l><r>set on fire<s n="vblex"/></r></p></e>
-<e c=""><p><l>բորբոքել<s n="vblex"/></l><r>kindle<s n="vblex"/></r></p></e>
-<e c=""><p><l>բորբոքել<s n="vblex"/></l><r>inflame<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>բորբոքել<s n="vblex"/></l><r>fan the flame<s n="vblex"/></r></p></e>
-<e c="transitive, figuratively"><p><l>բորբոքել<s n="vblex"/></l><r>inflame<s n="vblex"/></r></p></e>
-<e c=""><p><l>բորբոքել<s n="vblex"/></l><r>foment<s n="vblex"/></r></p></e>
-<e c=""><p><l>բորբոքել<s n="vblex"/></l><r>rouse<s n="vblex"/></r></p></e>
-<e c=""><p><l>բորբոքել<s n="vblex"/></l><r>irritate<s n="vblex"/></r></p></e>
-<e c="transitive, pathology"><p><l>բորբոքել<s n="vblex"/></l><r>inflame<s n="vblex"/></r></p></e>
 <e c=""><p><l>բուժել<s n="vblex"/></l><r>cure<s n="vblex"/></r></p></e>
 <e c=""><p><l>բուժել<s n="vblex"/></l><r>heal<s n="vblex"/></r></p></e>
-<e c=""><p><l>բուծել<s n="vblex"/></l><r>breed<s n="vblex"/></r></p></e>
-<e c=""><p><l>բուծել<s n="vblex"/></l><r>rear<s n="vblex"/></r></p></e>
-<e c=""><p><l>բուծել<s n="vblex"/></l><r>cultivate<s n="vblex"/></r></p></e>
-<e c=""><p><l>բուծել<s n="vblex"/></l><r>grow<s n="vblex"/></r></p></e>
 <e c=""><p><l>բուսնել<s n="vblex"/></l><r>grow<s n="vblex"/></r></p></e>
 <e c=""><p><l>բուսնել<s n="vblex"/></l><r>germinate<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>բուսնել<s n="vblex"/></l><r>appear suddenly<s n="vblex"/></r></p></e>
-<e c=""><p><l>բռնաբարել<s n="vblex"/></l><r>rape<s n="vblex"/></r></p></e>
 <e c=""><p><l>բռնել<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
 <e c=""><p><l>բռնել<s n="vblex"/></l><r>catch<s n="vblex"/></r></p></e>
 <e c=""><p><l>բռնել<s n="vblex"/></l><r>arrest<s n="vblex"/></r></p></e>
 <e c=""><p><l>բռնել<s n="vblex"/></l><r>occupy<s n="vblex"/></r></p></e>
 <e c=""><p><l>բռնել<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
 <e c=""><p><l>բռնել<s n="vblex"/></l><r>embrace<s n="vblex"/></r></p></e>
-<e c="an animal"><p><l>բտել<s n="vblex"/></l><r>feed<s n="vblex"/></r></p></e>
 <e c=""><p><l>բրդել<s n="vblex"/></l><r>cut or break inpieces<s n="vblex"/></r></p></e>
 <e c=""><p><l>գալ<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
 <e c=""><p><l>գալ<s n="vblex"/></l><r>arrive<s n="vblex"/></r></p></e>
 <e c=""><p><l>գալիս<s n="vblex"/></l><r>Present participle of Õ£Õ¡Õ¬<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գայթակղել<s n="vblex"/></l><r>seduce<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գայթակղել<s n="vblex"/></l><r>tempt<s n="vblex"/></r></p></e>
 <e c=""><p><l>գարշել<s n="vblex"/></l><r>abhor<s n="vblex"/></r></p></e>
 <e c=""><p><l>գարշել<s n="vblex"/></l><r>detest<s n="vblex"/></r></p></e>
 <e c=""><p><l>գարշել<s n="vblex"/></l><r>shrink from<s n="vblex"/></r></p></e>
@@ -10996,27 +11551,12 @@
 <e c=""><p><l>գարշել<s n="vblex"/></l><r>have an aversion<s n="vblex"/></r></p></e>
 <e c=""><p><l>գարշել<s n="vblex"/></l><r>repugnance<s n="vblex"/></r></p></e>
 <e c=""><p><l>գարշել<s n="vblex"/></l><r>loathe<s n="vblex"/></r></p></e>
-<e c="dated"><p><l>գելել<s n="vblex"/></l><r>twist<s n="vblex"/></r></p></e>
-<e c=""><p><l>գելել<s n="vblex"/></l><r>squeeze<s n="vblex"/></r></p></e>
 <e c=""><p><l>գեղգեղել<s n="vblex"/></l><r>trill<s n="vblex"/></r></p></e>
 <e c=""><p><l>գեղգեղել<s n="vblex"/></l><r>modulate<s n="vblex"/></r></p></e>
 <e c=""><p><l>գեղգեղել<s n="vblex"/></l><r>sing agreeably<s n="vblex"/></r></p></e>
-<e c="archaic, transitive"><p><l>գերծել<s n="vblex"/></l><r>shave<s n="vblex"/></r></p></e>
-<e c=""><p><l>գիշատել<s n="vblex"/></l><r>tear pieces<s n="vblex"/></r></p></e>
-<e c=""><p><l>գիշատել<s n="vblex"/></l><r>devour<s n="vblex"/></r></p></e>
 <e c=""><p><l>գիտեմ<s n="vblex"/></l><r>I know<s n="vblex"/></r></p></e>
 <e c=""><p><l>գիտենալ<s n="vblex"/></l><r>know<s n="vblex"/></r></p></e>
-<e c="transitive, rare"><p><l>գլել<s n="vblex"/></l><r>roll<s n="vblex"/></r></p></e>
-<e c=""><p><l>գլել<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գլել<s n="vblex"/></l><r>throw down<s n="vblex"/></r></p></e>
-<e c=""><p><l>գլել<s n="vblex"/></l><r>conquer<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գլորել<s n="vblex"/></l><r>roll<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գլորել<s n="vblex"/></l><r>bring down<s n="vblex"/></r></p></e>
-<e c=""><p><l>գլորել<s n="vblex"/></l><r>knock down<s n="vblex"/></r></p></e>
-<e c=""><p><l>գլորել<s n="vblex"/></l><r>throw down<s n="vblex"/></r></p></e>
 <e c=""><p><l>գնալ<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
-<e c="transitive, somewhat formal"><p><l>գնել<s n="vblex"/></l><r>buy<s n="vblex"/></r></p></e>
-<e c=""><p><l>գնել<s n="vblex"/></l><r>purchase<s n="vblex"/></r></p></e>
 <e c="of a piglet"><p><l>գնչել<s n="vblex"/></l><r>grunt<s n="vblex"/></r></p></e>
 <e c=""><p><l>գնչել<s n="vblex"/></l><r>stammer<s n="vblex"/></r></p></e>
 <e c=""><p><l>գնչել<s n="vblex"/></l><r>stutter<s n="vblex"/></r></p></e>
@@ -11025,10 +11565,6 @@
 <e c=""><p><l>գոլանալ<s n="vblex"/></l><r>grow lukewarm<s n="vblex"/></r></p></e>
 <e c=""><p><l>գոհանալ<s n="vblex"/></l><r>be content<s n="vblex"/></r></p></e>
 <e c="with"><p><l>գոհանալ<s n="vblex"/></l><r>content oneself<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գոհացնել<s n="vblex"/></l><r>please<s n="vblex"/></r></p></e>
-<e c=""><p><l>գոհացնել<s n="vblex"/></l><r>gratify<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գոհացնել<s n="vblex"/></l><r>satisfy<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>գողանալ<s n="vblex"/></l><r>steal<s n="vblex"/></r></p></e>
 <e c=""><p><l>գոյություն ունենալ<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
 <e c=""><p><l>գոչել<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
 <e c=""><p><l>գոչել<s n="vblex"/></l><r>exclaim<s n="vblex"/></r></p></e>
@@ -11037,61 +11573,21 @@
 <e c=""><p><l>գոռալ<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
 <e c="at someone"><p><l>գոռալ<s n="vblex"/></l><r>yell<s n="vblex"/></r></p></e>
 <e c=""><p><l>գովել<s n="vblex"/></l><r>praise<s n="vblex"/></r></p></e>
-<e c=""><p><l>գործել<s n="vblex"/></l><r>function<s n="vblex"/></r></p></e>
-<e c=""><p><l>գործել<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
-<e c=""><p><l>գործել<s n="vblex"/></l><r>operate<s n="vblex"/></r></p></e>
-<e c=""><p><l>գործել<s n="vblex"/></l><r>knit<s n="vblex"/></r></p></e>
 <e c=""><p><l>գումարել<s n="vblex"/></l><r>add<s n="vblex"/></r></p></e>
 <e c=""><p><l>գուշակել<s n="vblex"/></l><r>foretell<s n="vblex"/></r></p></e>
 <e c=""><p><l>գուշակել<s n="vblex"/></l><r>predict<s n="vblex"/></r></p></e>
 <e c=""><p><l>գուշակել<s n="vblex"/></l><r>tell fortunes<s n="vblex"/></r></p></e>
 <e c=""><p><l>գուշակել<s n="vblex"/></l><r>tell somebody's fortune<s n="vblex"/></r></p></e>
 <e c=""><p><l>գուշակել<s n="vblex"/></l><r>guess<s n="vblex"/></r></p></e>
-<e c=""><p><l>գտնել<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
-<e c=""><p><l>գտնել<s n="vblex"/></l><r>discover<s n="vblex"/></r></p></e>
-<e c=""><p><l>գտնել<s n="vblex"/></l><r>find out<s n="vblex"/></r></p></e>
-<e c=""><p><l>գտնել<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>
-<e c=""><p><l>գտնել<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
-<e c=""><p><l>գտնել<s n="vblex"/></l><r>form the opinion that<s n="vblex"/></r></p></e>
-<e c=""><p><l>գրադարձել<s n="vblex"/></l><r>transliterate<s n="vblex"/></r></p></e>
-<e c=""><p><l>գրել<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>cast<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>hurl<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>fling<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>chuck<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>drop<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>allow fall<s n="vblex"/></r></p></e>
-<e c="slang"><p><l>գցել<s n="vblex"/></l><r>con<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>bunco<s n="vblex"/></r></p></e>
-<e c=""><p><l>գցել<s n="vblex"/></l><r>hoodwink<s n="vblex"/></r></p></e>
 <e c=""><p><l>դառնալ<s n="vblex"/></l><r>become<s n="vblex"/></r></p></e>
 <e c=""><p><l>դառնալ<s n="vblex"/></l><r>turn into<s n="vblex"/></r></p></e>
 <e c=""><p><l>դառնալ<s n="vblex"/></l><r>return<s n="vblex"/></r></p></e>
 <e c=""><p><l>դառնալ<s n="vblex"/></l><r>come back<s n="vblex"/></r></p></e>
 <e c=""><p><l>դավաճանել<s n="vblex"/></l><r>betray<s n="vblex"/></r></p></e>
 <e c=""><p><l>դավաճանել<s n="vblex"/></l><r>commit adultery<s n="vblex"/></r></p></e>
-<e c=""><p><l>դարբնել<s n="vblex"/></l><r>forge<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>դարբնել<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
-<e c=""><p><l>դարսել<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
-<e c=""><p><l>դարսել<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
-<e c="in a certain order"><p><l>դարսել<s n="vblex"/></l><r>stack<s n="vblex"/></r></p></e>
 <e c="idiomatic"><p><l>դափնիների վրա հանգչել<s n="vblex"/></l><r>rest on one's laurels<s n="vblex"/></r></p></e>
-<e c="intransitive"><p><l>դիել<s n="vblex"/></l><r>suck<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>դիել<s n="vblex"/></l><r>suckle<s n="vblex"/></r></p></e>
-<e c=""><p><l>դիել<s n="vblex"/></l><r>nourish with milk<s n="vblex"/></r></p></e>
-<e c=""><p><l>դիել<s n="vblex"/></l><r>give suck<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>դիել<s n="vblex"/></l><r>nourish<s n="vblex"/></r></p></e>
-<e c=""><p><l>դիել<s n="vblex"/></l><r>sustain<s n="vblex"/></r></p></e>
-<e c=""><p><l>դնել<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
-<e c=""><p><l>դնել<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
-<e c=""><p><l>դնել<s n="vblex"/></l><r>impose<s n="vblex"/></r></p></e>
-<e c=""><p><l>դնել<s n="vblex"/></l><r>inflict<s n="vblex"/></r></p></e>
-<e c=""><p><l>դնել<s n="vblex"/></l><r>insert<s n="vblex"/></r></p></e>
-<e c=""><p><l>դնել<s n="vblex"/></l><r>put in<s n="vblex"/></r></p></e>
 <e c=""><p><l>դողալ<s n="vblex"/></l><r>shiver<s n="vblex"/></r></p></e>
 <e c=""><p><l>դողալ<s n="vblex"/></l><r>tremble<s n="vblex"/></r></p></e>
-<e c="literary"><p><l>դրվատել<s n="vblex"/></l><r>praise<s n="vblex"/></r></p></e>
 <e c="of"><p><l>ելնել<s n="vblex"/></l><r>go out<s n="vblex"/></r></p></e>
 <e c=""><p><l>ելնել<s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e>
 <e c=""><p><l>ելնել<s n="vblex"/></l><r>exit<s n="vblex"/></r></p></e>
@@ -11105,23 +11601,16 @@
 <e c=""><p><l>ելնել<s n="vblex"/></l><r>rise in rebellion<s n="vblex"/></r></p></e>
 <e c="from"><p><l>ելնել<s n="vblex"/></l><r>proceed<s n="vblex"/></r></p></e>
 <e c="on"><p><l>ելնել<s n="vblex"/></l><r>base oneself<s n="vblex"/></r></p></e>
-<e c=""><p><l>եղծել<s n="vblex"/></l><r>refute<s n="vblex"/></r></p></e>
 <e c=""><p><l>ենթարկվել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
-<e c="archaic"><p><l>եպերել<s n="vblex"/></l><r>blame<s n="vblex"/></r></p></e>
-<e c=""><p><l>եպերել<s n="vblex"/></l><r>reproach<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>եռալ<s n="vblex"/></l><r>boil<s n="vblex"/></r></p></e>
 <e c="of"><p><l>երազել<s n="vblex"/></l><r>dream<s n="vblex"/></r></p></e>
 <e c=""><p><l>երազել<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
 <e c=""><p><l>երազել<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
-<e c=""><p><l>երգել<s n="vblex"/></l><r>sing<s n="vblex"/></r></p></e>
-<e c=""><p><l>երգիծել<s n="vblex"/></l><r>satirise<s n="vblex"/></r></p></e>
 <e c=""><p><l>երդվել<s n="vblex"/></l><r>swear<s n="vblex"/></r></p></e>
 <e c=""><p><l>երդվել<s n="vblex"/></l><r>take an oath<s n="vblex"/></r></p></e>
 <e c=""><p><l>երդվել<s n="vblex"/></l><r>vow<s n="vblex"/></r></p></e>
 <e c="dialectal"><p><l>երթալ<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>երկայնանալ<s n="vblex"/></l><r>become longer<s n="vblex"/></r></p></e>
-<e c=""><p><l>երկայնել<s n="vblex"/></l><r>prolong<s n="vblex"/></r></p></e>
-<e c=""><p><l>երկայնել<s n="vblex"/></l><r>extend<s n="vblex"/></r></p></e>
 <e c="neologism, computing"><p><l>երկկտտացնել<s n="vblex"/></l><r>double-click<s n="vblex"/></r></p></e>
 <e c="somewhat formal"><p><l>երկնչել<s n="vblex"/></l><r>fear<s n="vblex"/></r></p></e>
 <e c=""><p><l>երկնչել<s n="vblex"/></l><r>be afraid of<s n="vblex"/></r></p></e>
@@ -11130,19 +11619,8 @@
 <e c=""><p><l>երկնչել<s n="vblex"/></l><r>be frightened<s n="vblex"/></r></p></e>
 <e c=""><p><l>երկնչել<s n="vblex"/></l><r>tremble<s n="vblex"/></r></p></e>
 <e c=""><p><l>երևալ<s n="vblex"/></l><r>appear<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>եփել<s n="vblex"/></l><r>boil<s n="vblex"/></r></p></e>
-<e c=""><p><l>եփել<s n="vblex"/></l><r>cook in boiling water<s n="vblex"/></r></p></e>
-<e c=""><p><l>եփել<s n="vblex"/></l><r>cook<s n="vblex"/></r></p></e>
-<e c=""><p><l>եփել<s n="vblex"/></l><r>prepare food<s n="vblex"/></r></p></e>
-<e c=""><p><l>զանգահարել<s n="vblex"/></l><r>make a phonecall<s n="vblex"/></r></p></e>
-<e c=""><p><l>զանգել<s n="vblex"/></l><r>ring<s n="vblex"/></r></p></e>
-<e c="by phone"><p><l>զանգել<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>
 <e c=""><p><l>զառանցել<s n="vblex"/></l><r>be delirious<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>զառանցել<s n="vblex"/></l><r>talk nonsense<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>զատել<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
-<e c=""><p><l>զատել<s n="vblex"/></l><r>detach<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>զատել<s n="vblex"/></l><r>distinguish<s n="vblex"/></r></p></e>
-<e c=""><p><l>զատել<s n="vblex"/></l><r>discern<s n="vblex"/></r></p></e>
 <e c=""><p><l>զարդարել<s n="vblex"/></l><r>adorn<s n="vblex"/></r></p></e>
 <e c=""><p><l>զարդարել<s n="vblex"/></l><r>beautify<s n="vblex"/></r></p></e>
 <e c=""><p><l>զարդարել<s n="vblex"/></l><r>decorate<s n="vblex"/></r></p></e>
@@ -11151,9 +11629,6 @@
 <e c="intransitive"><p><l>զարթնել<s n="vblex"/></l><r>wake up<s n="vblex"/></r></p></e>
 <e c="at"><p><l>զարմանալ<s n="vblex"/></l><r>wonder<s n="vblex"/></r></p></e>
 <e c="at"><p><l>զարմանալ<s n="vblex"/></l><r>be surprised/amazed<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>զարմացնել<s n="vblex"/></l><r>surprise<s n="vblex"/></r></p></e>
-<e c=""><p><l>զարմացնել<s n="vblex"/></l><r>amaze<s n="vblex"/></r></p></e>
-<e c=""><p><l>զարմացնել<s n="vblex"/></l><r>astonish<s n="vblex"/></r></p></e>
 <e c=""><p><l>զարնվել<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
 <e c=""><p><l>զբաղվել<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
 <e c="with"><p><l>զբաղվել<s n="vblex"/></l><r>be busy<s n="vblex"/></r></p></e>
@@ -11181,55 +11656,24 @@
 <e c=""><p><l>զգալ<s n="vblex"/></l><r>entertain<s n="vblex"/></r></p></e>
 <e c="archaic"><p><l>զգածվել<s n="vblex"/></l><r>be affected with some feeling<s n="vblex"/></r></p></e>
 <e c="archaic, transitive, clothes"><p><l>զգենալ<s n="vblex"/></l><r>put on<s n="vblex"/></r></p></e>
-<e c=""><p><l>զեղծել<s n="vblex"/></l><r>squander<s n="vblex"/></r></p></e>
-<e c=""><p><l>զեղծել<s n="vblex"/></l><r>waste<s n="vblex"/></r></p></e>
-<e c=""><p><l>զեղծել<s n="vblex"/></l><r>counterfeit<s n="vblex"/></r></p></e>
-<e c=""><p><l>զեղծել<s n="vblex"/></l><r>falsify<s n="vblex"/></r></p></e>
-<e c=""><p><l>զեղծել<s n="vblex"/></l><r>fake<s n="vblex"/></r></p></e>
-<e c=""><p><l>զեղծել<s n="vblex"/></l><r>forge<s n="vblex"/></r></p></e>
-<e c=""><p><l>զեղծել<s n="vblex"/></l><r>fabricate<s n="vblex"/></r></p></e>
-<e c="archaic, transitive"><p><l>զենել<s n="vblex"/></l><r>immolate<s n="vblex"/></r></p></e>
-<e c=""><p><l>զենել<s n="vblex"/></l><r>sacrifice<s n="vblex"/></r></p></e>
-<e c="archaic, transitive"><p><l>զենել<s n="vblex"/></l><r>slaughter<s n="vblex"/></r></p></e>
-<e c="an animal"><p><l>զենել<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>
 <e c=""><p><l>զեռալ<s n="vblex"/></l><r>creep<s n="vblex"/></r></p></e>
 <e c=""><p><l>զեռալ<s n="vblex"/></l><r>crawl<s n="vblex"/></r></p></e>
 <e c=""><p><l>զեռալ<s n="vblex"/></l><r>swarm with<s n="vblex"/></r></p></e>
 <e c=""><p><l>զեռալ<s n="vblex"/></l><r>teem with<s n="vblex"/></r></p></e>
 <e c="literary"><p><l>զեռալ<s n="vblex"/></l><r>boil intensively<s n="vblex"/></r></p></e>
-<e c="formal"><p><l>զետեղել<s n="vblex"/></l><r>place<s n="vblex"/></r></p></e>
-<e c=""><p><l>զետեղել<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
-<e c=""><p><l>զետեղել<s n="vblex"/></l><r>insert<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>զղջալ<s n="vblex"/></l><r>regret<s n="vblex"/></r></p></e>
 <e c=""><p><l>զղջալ<s n="vblex"/></l><r>be sorry<s n="vblex"/></r></p></e>
 <e c=""><p><l>զղջալ<s n="vblex"/></l><r>repent<s n="vblex"/></r></p></e>
 <e c=""><p><l>զննել<s n="vblex"/></l><r>examine<s n="vblex"/></r></p></e>
 <e c=""><p><l>զննել<s n="vblex"/></l><r>scrutinise<s n="vblex"/></r></p></e>
-<e c=""><p><l>զոդել<s n="vblex"/></l><r>join two things together<s n="vblex"/></r></p></e>
-<e c="technology"><p><l>զոդել<s n="vblex"/></l><r>solder<s n="vblex"/></r></p></e>
-<e c="technology"><p><l>զոդել<s n="vblex"/></l><r>weld<s n="vblex"/></r></p></e>
-<e c=""><p><l>զտել<s n="vblex"/></l><r>cleanse<s n="vblex"/></r></p></e>
-<e c=""><p><l>զտել<s n="vblex"/></l><r>purify<s n="vblex"/></r></p></e>
-<e c=""><p><l>զտել<s n="vblex"/></l><r>purify by melting or straining<s n="vblex"/></r></p></e>
-<e c=""><p><l>զտել<s n="vblex"/></l><r>filtering<s n="vblex"/></r></p></e>
 <e c="dialectal"><p><l>էղնել<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
 <e c=""><p><l>էղնել<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
 <e c="dialectal"><p><l>էղնել<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
 <e c="Western Armenian"><p><l>ըլլալ<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
 <e c="literary"><p><l>ըղձալ<s n="vblex"/></l><r>long for<s n="vblex"/></r></p></e>
-<e c="literary"><p><l>ըմպել<s n="vblex"/></l><r>imbibe<s n="vblex"/></r></p></e>
-<e c=""><p><l>ըմպել<s n="vblex"/><s n="tv"/></l><r>drink<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդարմանալ<s n="vblex"/></l><r>be rendered senseless<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդարմանալ<s n="vblex"/></l><r>benumbed<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդարմանալ<s n="vblex"/></l><r>deadened<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդելուզել<s n="vblex"/></l><r>string<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդելուզել<s n="vblex"/></l><r>thread<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդելուզել<s n="vblex"/></l><r>bead<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդելուզել<s n="vblex"/></l><r>fasten or join together<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդելուզել<s n="vblex"/></l><r>bind together<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդելուզել<s n="vblex"/></l><r>adorn<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդոստնել<s n="vblex"/></l><r>jump up<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընդոստնել<s n="vblex"/></l><r>leap up<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդունել<s n="vblex"/></l><r>receive<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդունել<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդունել<s n="vblex"/></l><r>accept<s n="vblex"/></r></p></e>
@@ -11240,7 +11684,6 @@
 <e c=""><p><l>ընթանալ<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընթանալ<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընթանալ<s n="vblex"/></l><r>flow<s n="vblex"/></r></p></e>
-<e c="formal"><p><l>ընթերցել<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>ընկնել<s n="vblex"/></l><r>fall<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>ընկնել<s n="vblex"/></l><r>fall<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընկնել<s n="vblex"/></l><r>to<s n="vblex"/></r></p></e>
@@ -11265,34 +11708,10 @@
 <e c="intransitive, by"><p><l>ընկնել<s n="vblex"/></l><r>be carried away<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>ընկնել<s n="vblex"/></l><r>perish<s n="vblex"/></r></p></e>
 <e c="of cattle"><p><l>ընկնել<s n="vblex"/></l><r>die<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընտրել<s n="vblex"/></l><r>choose<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընտրել<s n="vblex"/></l><r>elect<s n="vblex"/></r></p></e>
-<e c="archaic, transitive"><p><l>թանալ<s n="vblex"/></l><r>wet<s n="vblex"/></r></p></e>
-<e c=""><p><l>թանալ<s n="vblex"/></l><r>moisten<s n="vblex"/></r></p></e>
 <e c=""><p><l>թառամել<s n="vblex"/></l><r>wither<s n="vblex"/></r></p></e>
-<e c=""><p><l>թարգմանել<s n="vblex"/></l><r>translate<s n="vblex"/></r></p></e>
 <e c=""><p><l>թարթել<s n="vblex"/></l><r>blink<s n="vblex"/></r></p></e>
 <e c=""><p><l>թարթել<s n="vblex"/></l><r>twinkle<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>թափել<s n="vblex"/></l><r>empty<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>pour out<s n="vblex"/></r></p></e>
-<e c="by accident"><p><l>թափել<s n="vblex"/></l><r>spill<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>թափել<s n="vblex"/></l><r>pour into<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>strew<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>scatter<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>throw down<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>throw away<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>throw out<s n="vblex"/></r></p></e>
-<e c="rare"><p><l>թափել<s n="vblex"/></l><r>found<s n="vblex"/></r></p></e>
-<e c="in a mould"><p><l>թափել<s n="vblex"/></l><r>cast<s n="vblex"/></r></p></e>
-<e c="vulgar, slang"><p><l>թափել<s n="vblex"/></l><r>ejaculate<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>cum<s n="vblex"/></r></p></e>
-<e c="figuratively, express"><p><l>թափել<s n="vblex"/></l><r>pour out<s n="vblex"/></r></p></e>
-<e c="to"><p><l>թափել<s n="vblex"/></l><r>give vent<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>shed<s n="vblex"/></r></p></e>
-<e c=""><p><l>թափել<s n="vblex"/></l><r>spill<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>թաքնվել<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>թաքցնել<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
-<e c=""><p><l>թլփատել<s n="vblex"/></l><r>circumcise<s n="vblex"/></r></p></e>
 <e c=""><p><l>թողնել<s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e>
 <e c=""><p><l>թողնել<s n="vblex"/></l><r>let<s n="vblex"/></r></p></e>
 <e c=""><p><l>թողնել<s n="vblex"/></l><r>allow<s n="vblex"/></r></p></e>
@@ -11310,17 +11729,6 @@
 <e c=""><p><l>թռչել<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
 <e c=""><p><l>թռչել<s n="vblex"/></l><r>jump<s n="vblex"/></r></p></e>
 <e c=""><p><l>թռչել<s n="vblex"/></l><r>leap<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրել<s n="vblex"/></l><r>knead<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրծել<s n="vblex"/></l><r>burn bricks or pots of clay in order to harden them<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>թրծել<s n="vblex"/></l><r>harden<s n="vblex"/></r></p></e>
-<e c="archaic"><p><l>թրմել<s n="vblex"/></l><r>wet<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրմել<s n="vblex"/></l><r>soak<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրմել<s n="vblex"/></l><r>steep<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրմել<s n="vblex"/></l><r>infuse<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրմել<s n="vblex"/></l><r>draw<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրմել<s n="vblex"/></l><r>prepare an infusion<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>թրջել<s n="vblex"/></l><r>wet<s n="vblex"/></r></p></e>
-<e c=""><p><l>թրջել<s n="vblex"/></l><r>make wet<s n="vblex"/></r></p></e>
 <e c=""><p><l>թքել<s n="vblex"/></l><r>spit<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>թքել<s n="vblex"/></l><r>defame<s n="vblex"/></r></p></e>
 <e c=""><p><l>թքել<s n="vblex"/></l><r>revile<s n="vblex"/></r></p></e>
@@ -11336,18 +11744,8 @@
 <e c=""><p><l>իմանալ<s n="vblex"/></l><r>find out<s n="vblex"/></r></p></e>
 <e c=""><p><l>իմանալ<s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
 <e c=""><p><l>իջնել<s n="vblex"/></l><r>descend<s n="vblex"/></r></p></e>
-<e c="a musical instrument"><p><l>լարել<s n="vblex"/></l><r>tune<s n="vblex"/></r></p></e>
-<e c="a mechanism"><p><l>լարել<s n="vblex"/></l><r>wind up<s n="vblex"/></r></p></e>
-<e c=""><p><l>լարել<s n="vblex"/></l><r>stretch<s n="vblex"/></r></p></e>
-<e c=""><p><l>լարել<s n="vblex"/></l><r>extend<s n="vblex"/></r></p></e>
-<e c=""><p><l>լարել<s n="vblex"/></l><r>strain<s n="vblex"/></r></p></e>
-<e c=""><p><l>լարել<s n="vblex"/></l><r>tense muscles<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>լարել<s n="vblex"/></l><r>strain<s n="vblex"/></r></p></e>
-<e c=""><p><l>լարել<s n="vblex"/></l><r>worsen<s n="vblex"/></r></p></e>
-<e c="dialectal"><p><l>լարել<s n="vblex"/></l><r>chase away<s n="vblex"/></r></p></e>
 <e c=""><p><l>լաց լինել<s n="vblex"/></l><r>weep<s n="vblex"/></r></p></e>
 <e c=""><p><l>լաց լինել<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>լիզել<s n="vblex"/></l><r>lick<s n="vblex"/></r></p></e>
 <e c=""><p><l>լինել<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
 <e c=""><p><l>լինել<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
 <e c=""><p><l>լինել<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
@@ -11358,40 +11756,23 @@
 <e c=""><p><l>լողալ<s n="vblex"/></l><r>sail<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>լողանալ<s n="vblex"/></l><r>bathe<s n="vblex"/></r></p></e>
 <e c=""><p><l>լողանալ<s n="vblex"/></l><r>take a bath<s n="vblex"/></r></p></e>
-<e c="chemistry"><p><l>լուծել<s n="vblex"/></l><r>dissolve<s n="vblex"/></r></p></e>
 <e c=""><p><l>լուտալ<s n="vblex"/></l><r>scold<s n="vblex"/></r></p></e>
 <e c=""><p><l>լուտալ<s n="vblex"/></l><r>reproach<s n="vblex"/></r></p></e>
 <e c=""><p><l>լուտալ<s n="vblex"/></l><r>abuse<s n="vblex"/></r></p></e>
 <e c=""><p><l>լուտալ<s n="vblex"/></l><r>imprecate<s n="vblex"/></r></p></e>
-<e c="transitive, literary"><p><l>լուցել<s n="vblex"/></l><r>kindle<s n="vblex"/></r></p></e>
 <e c=""><p><l>լպստել<s n="vblex"/></l><r>lick<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>լռել<s n="vblex"/></l><r>remain silent<s n="vblex"/></r></p></e>
 <e c=""><p><l>լռել<s n="vblex"/></l><r>be silent<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>լռել<s n="vblex"/></l><r>cease speak<s n="vblex"/></r></p></e>
-<e c=""><p><l>լսել<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
-<e c=""><p><l>լսել<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
-<e c=""><p><l>լսել<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
 <e c=""><p><l>լվանալ<s n="vblex"/></l><r>wash<s n="vblex"/></r></p></e>
 <e c=""><p><l>լվանալ<s n="vblex"/></l><r>wash away<s n="vblex"/></r></p></e>
 <e c=""><p><l>լվանալ<s n="vblex"/></l><r>launder<s n="vblex"/></r></p></e>
 <e c=""><p><l>լվացվել<s n="vblex"/></l><r>wash oneself<s n="vblex"/></r></p></e>
 <e c=""><p><l>լցնել<s n="vblex"/></l><r>fill<s n="vblex"/></r></p></e>
-<e c=""><p><l>լքել<s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e>
-<e c=""><p><l>լքել<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
-<e c=""><p><l>լքել<s n="vblex"/></l><r>desert<s n="vblex"/></r></p></e>
-<e c=""><p><l>լքել<s n="vblex"/></l><r>forsake<s n="vblex"/></r></p></e>
 <e c="dialectal"><p><l>լքնել<s n="vblex"/></l><r>assail<s n="vblex"/></r></p></e>
 <e c=""><p><l>լքնել<s n="vblex"/></l><r>attack<s n="vblex"/></r></p></e>
-<e c=""><p><l>խաբել<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
-<e c=""><p><l>խաբել<s n="vblex"/></l><r>deceive<s n="vblex"/></r></p></e>
-<e c=""><p><l>խաբել<s n="vblex"/></l><r>trick<s n="vblex"/></r></p></e>
-<e c=""><p><l>խածատել<s n="vblex"/></l><r>nibble<s n="vblex"/></r></p></e>
-<e c=""><p><l>խածատել<s n="vblex"/></l><r>bite<s n="vblex"/></r></p></e>
 <e c=""><p><l>խաղալ<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
 <e c="feel or show suspicion of someone's unfaithfulness in a relationship"><p><l>խանդել<s n="vblex"/></l><r>be jealous<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>խանձատել<s n="vblex"/></l><r>burn<s n="vblex"/></r></p></e>
-<e c=""><p><l>խանձատել<s n="vblex"/></l><r>scorch<s n="vblex"/></r></p></e>
-<e c=""><p><l>խանձատել<s n="vblex"/></l><r>singe<s n="vblex"/></r></p></e>
 <e c=""><p><l>խառնել<s n="vblex"/></l><r>stir<s n="vblex"/></r></p></e>
 <e c=""><p><l>խառնել<s n="vblex"/></l><r>mix<s n="vblex"/></r></p></e>
 <e c=""><p><l>խառնել<s n="vblex"/></l><r>mix up<s n="vblex"/></r></p></e>
@@ -11401,20 +11782,6 @@
 <e c=""><p><l>խառնել<s n="vblex"/></l><r>confuse<s n="vblex"/></r></p></e>
 <e c=""><p><l>խառնել<s n="vblex"/></l><r>agitate<s n="vblex"/></r></p></e>
 <e c="card games"><p><l>խառնել<s n="vblex"/></l><r>shuffle<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>խարխլել<s n="vblex"/></l><r>shake<s n="vblex"/></r></p></e>
-<e c=""><p><l>խարխլել<s n="vblex"/></l><r>loose<s n="vblex"/></r></p></e>
-<e c=""><p><l>խարխլել<s n="vblex"/></l><r>undermine<s n="vblex"/></r></p></e>
-<e c=""><p><l>խարխլել<s n="vblex"/></l><r>sap<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>խափանել<s n="vblex"/></l><r>upset<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>wreck<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>spoil<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>frustrate<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>thwart<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>bring naught<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>խափանել<s n="vblex"/></l><r>hinder<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>impede<s n="vblex"/></r></p></e>
-<e c=""><p><l>խափանել<s n="vblex"/></l><r>obstruct<s n="vblex"/></r></p></e>
 <e c="with an unfavourable eye"><p><l>խեթալ<s n="vblex"/></l><r>look sideways<s n="vblex"/></r></p></e>
 <e c="archaic"><p><l>խիթալ<s n="vblex"/></l><r>fear<s n="vblex"/></r></p></e>
 <e c=""><p><l>խիթալ<s n="vblex"/></l><r>be afraid of<s n="vblex"/></r></p></e>
@@ -11423,77 +11790,34 @@
 <e c=""><p><l>խիթալ<s n="vblex"/></l><r>disbelieve<s n="vblex"/></r></p></e>
 <e c=""><p><l>խիթալ<s n="vblex"/></l><r>distrust<s n="vblex"/></r></p></e>
 <e c="archaic"><p><l>խիթալ<s n="vblex"/></l><r>look at with an evil eye<s n="vblex"/></r></p></e>
-<e c=""><p><l>խմբագրել<s n="vblex"/></l><r>edit<s n="vblex"/></r></p></e>
 <e c=""><p><l>խմել<s n="vblex"/><s n="tv"/></l><r>drink<s n="vblex"/></r></p></e>
 <e c=""><p><l>խմել<s n="vblex"/><s n="tv"/></l><r>get drunk<s n="vblex"/></r></p></e>
 <e c=""><p><l>խմել<s n="vblex"/><s n="tv"/></l><r>grow tipsy<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>խնդրել<s n="vblex"/></l><r>request<s n="vblex"/></r></p></e>
-<e c=""><p><l>խնդրել<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>խնդրել<s n="vblex"/></l><r>invite<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>խնդրել<s n="vblex"/></l><r>demand<s n="vblex"/></r></p></e>
 <e c="colloquial"><p><l>խնչել<s n="vblex"/></l><r>blow one's nose<s n="vblex"/></r></p></e>
 <e c="literary, over"><p><l>խոկալ<s n="vblex"/></l><r>muse<s n="vblex"/></r></p></e>
 <e c="over"><p><l>խոկալ<s n="vblex"/></l><r>ponder<s n="vblex"/></r></p></e>
-<e c=""><p><l>խոսել<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
-<e c=""><p><l>խոսել<s n="vblex"/></l><r>talk<s n="vblex"/></r></p></e>
 <e c=""><p><l>խոստանալ<s n="vblex"/></l><r>promise<s n="vblex"/></r></p></e>
 <e c=""><p><l>խորխել<s n="vblex"/></l><r>expectorate<s n="vblex"/></r></p></e>
 <e c=""><p><l>խորխել<s n="vblex"/></l><r>cough up sputum<s n="vblex"/></r></p></e>
-<e c=""><p><l>խորովել<s n="vblex"/></l><r>roast<s n="vblex"/></r></p></e>
-<e c=""><p><l>խորովել<s n="vblex"/></l><r>grill<s n="vblex"/></r></p></e>
 <e c=""><p><l>խոցել<s n="vblex"/></l><r>stab<s n="vblex"/></r></p></e>
 <e c=""><p><l>խոցել<s n="vblex"/></l><r>pierce<s n="vblex"/></r></p></e>
 <e c=""><p><l>խոցել<s n="vblex"/></l><r>wound<s n="vblex"/></r></p></e>
-<e c=""><p><l>խոցոտել<s n="vblex"/></l><r>ulcerate<s n="vblex"/></r></p></e>
-<e c=""><p><l>խուզել<s n="vblex"/></l><r>cut<s n="vblex"/></r></p></e>
-<e c=""><p><l>խուզել<s n="vblex"/></l><r>have a hair cut<s n="vblex"/></r></p></e>
 <e c="literary"><p><l>խրոխտալ<s n="vblex"/></l><r>threaten<s n="vblex"/></r></p></e>
 <e c=""><p><l>խրոխտալ<s n="vblex"/></l><r>put on a show of bravado<s n="vblex"/></r></p></e>
 <e c="of a horse"><p><l>խրտնել<s n="vblex"/></l><r>shy<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>ծածանել<s n="vblex"/></l><r>blow about<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծածանել<s n="vblex"/></l><r>wave<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծածանել<s n="vblex"/></l><r>sway<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծամել<s n="vblex"/></l><r>chew<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>ծամել<s n="vblex"/></l><r>crumble<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>ծամել<s n="vblex"/></l><r>repeat something with tiresome monotony<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծանոթացնել<s n="vblex"/></l><r>introduce<s n="vblex"/></r></p></e>
 <e c="formally"><p><l>ծանուցել<s n="vblex"/></l><r>notify<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծանուցել<s n="vblex"/></l><r>inform<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծառայել<s n="vblex"/></l><r>serve<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծեծել<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծեծել<s n="vblex"/></l><r>whip<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծեծել<s n="vblex"/></l><r>lash<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծեծել<s n="vblex"/></l><r>thrash<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծեծել<s n="vblex"/></l><r>pound<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծեծել<s n="vblex"/></l><r>grind<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծեծել<s n="vblex"/></l><r>forge<s n="vblex"/></r></p></e>
-<e c="door"><p><l>ծեծել<s n="vblex"/></l><r>knock on<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծիծաղալ<s n="vblex"/></l><r>laugh<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծիծաղել<s n="vblex"/></l><r>laugh<s n="vblex"/></r></p></e>
 <e c="slang"><p><l>շնչել<s n="vblex"/><s n="tv"/></l><r>smoke<s n="vblex"/></r></p></e>
-<e c="slang"><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>smoke<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծխել<s n="vblex"/><s n="tv"/></l><r>smoke<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծծել<s n="vblex"/></l><r>suck<s n="vblex"/></r></p></e>
-<e c="slang, vulgar"><p><l>ծծել<s n="vblex"/></l><r>perform fellatio<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծծել<s n="vblex"/></l><r>give a blowjob<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծնել<s n="vblex"/></l><r>give birth<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծնել<s n="vblex"/></l><r>bear<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>ծնել<s n="vblex"/></l><r>give rise something<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծնել<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծնվել<s n="vblex"/></l><r>be born<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>ծնվել<s n="vblex"/></l><r>come inbeing<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծնվել<s n="vblex"/></l><r>arise<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծնվել<s n="vblex"/></l><r>occur<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծուլանալ<s n="vblex"/></l><r>be lazy<s n="vblex"/></r></p></e>
-<e c=""><p><l>կազմակերպել<s n="vblex"/></l><r>organise<s n="vblex"/></r></p></e>
-<e c=""><p><l>կազմակերպել<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e>
-<e c=""><p><l>կալնել<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
-<e c=""><p><l>կալնել<s n="vblex"/></l><r>keep<s n="vblex"/></r></p></e>
-<e c="with"><p><l>կալնել<s n="vblex"/></l><r>stop up<s n="vblex"/></r></p></e>
-<e c=""><p><l>կալնել<s n="vblex"/></l><r>plug<s n="vblex"/></r></p></e>
-<e c=""><p><l>կալնել<s n="vblex"/></l><r>seize<s n="vblex"/></r></p></e>
-<e c=""><p><l>կալնել<s n="vblex"/></l><r>encase<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կախել<s n="vblex"/></l><r>hang<s n="vblex"/></r></p></e>
 <e c=""><p><l>կակազել<s n="vblex"/></l><r>stutter<s n="vblex"/></r></p></e>
 <e c=""><p><l>կամենալ<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
 <e c=""><p><l>կամենալ<s n="vblex"/></l><r>desire<s n="vblex"/></r></p></e>
@@ -11505,13 +11829,6 @@
 <e c=""><p><l>կանգնեցնել<s n="vblex"/></l><r>erect<s n="vblex"/></r></p></e>
 <e c=""><p><l>կանչել<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>
 <e c=""><p><l>կանչել<s n="vblex"/></l><r>invite<s n="vblex"/></r></p></e>
-<e c=""><p><l>կաշառել<s n="vblex"/></l><r>bribe<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կապել<s n="vblex"/></l><r>tie<s n="vblex"/></r></p></e>
-<e c=""><p><l>կապել<s n="vblex"/></l><r>tie up<s n="vblex"/></r></p></e>
-<e c=""><p><l>կապել<s n="vblex"/></l><r>bind<s n="vblex"/></r></p></e>
-<e c=""><p><l>կապել<s n="vblex"/></l><r>fasten<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կապել<s n="vblex"/></l><r>put inchains<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կապել<s n="vblex"/></l><r>connect<s n="vblex"/></r></p></e>
 <e c=""><p><l>կառավարել<s n="vblex"/></l><r>govern<s n="vblex"/></r></p></e>
 <e c=""><p><l>կառավարել<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
 <e c=""><p><l>կառուցել<s n="vblex"/></l><r>build<s n="vblex"/></r></p></e>
@@ -11574,39 +11891,12 @@
 <e c=""><p><l>կերակրել<s n="vblex"/></l><r>nurse<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>կերակրել<s n="vblex"/></l><r>support<s n="vblex"/></r></p></e>
 <e c="informal"><p><l>կերցնել<s n="vblex"/></l><r>feed<s n="vblex"/></r></p></e>
-<e c=""><p><l>կթել<s n="vblex"/></l><r>milk<s n="vblex"/></r></p></e>
-<e c="colloquial"><p><l>կթել<s n="vblex"/></l><r>milk<s n="vblex"/></r></p></e>
-<e c="exploit one's means"><p><l>կթել<s n="vblex"/></l><r>drain<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կիզել<s n="vblex"/></l><r>burn<s n="vblex"/></r></p></e>
-<e c=""><p><l>կիսել<s n="vblex"/></l><r>halve<s n="vblex"/></r></p></e>
-<e c=""><p><l>կիսել<s n="vblex"/></l><r>divide<s n="vblex"/></r></p></e>
-<e c=""><p><l>կլանել<s n="vblex"/></l><r>absorb<s n="vblex"/></r></p></e>
-<e c=""><p><l>կլանել<s n="vblex"/></l><r>devour<s n="vblex"/></r></p></e>
 <e c=""><p><l>կծել<s n="vblex"/></l><r>bite<s n="vblex"/></r></p></e>
 <e c=""><p><l>կծել<s n="vblex"/></l><r>bite off<s n="vblex"/></r></p></e>
 <e c=""><p><l>կծել<s n="vblex"/></l><r>tingle<s n="vblex"/></r></p></e>
 <e c=""><p><l>կծել<s n="vblex"/></l><r>prick<s n="vblex"/></r></p></e>
 <e c=""><p><l>կծել<s n="vblex"/></l><r>sting<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>seal<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>affix a seal<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>seal up<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>close<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>conclude<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>confirm<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>conclude<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>finish<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>baptise<s n="vblex"/></r></p></e>
-<e c=""><p><l>կնքել<s n="vblex"/></l><r>christen<s n="vblex"/></r></p></e>
 <e c=""><p><l>կոճկել<s n="vblex"/></l><r>button<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կոտրել<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>
-<e c=""><p><l>կործանել<s n="vblex"/></l><r>overthrow<s n="vblex"/></r></p></e>
-<e c=""><p><l>կործանել<s n="vblex"/></l><r>overturn<s n="vblex"/></r></p></e>
-<e c=""><p><l>կործանել<s n="vblex"/></l><r>destroy<s n="vblex"/></r></p></e>
-<e c=""><p><l>կործանել<s n="vblex"/></l><r>demolish<s n="vblex"/></r></p></e>
-<e c=""><p><l>կործանել<s n="vblex"/></l><r>wreck<s n="vblex"/></r></p></e>
-<e c="also a person"><p><l>կործանել<s n="vblex"/></l><r>ruin<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կործել<s n="vblex"/></l><r>turn over and empty a vessel<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կործել<s n="vblex"/></l><r>pour liquid from one vessel inanother<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>կորչել<s n="vblex"/></l><r>be lost<s n="vblex"/></r></p></e>
 <e c=""><p><l>կորչել<s n="vblex"/></l><r>get lost<s n="vblex"/></r></p></e>
 <e c=""><p><l>կորչել<s n="vblex"/></l><r>be mislaid<s n="vblex"/></r></p></e>
@@ -11642,31 +11932,16 @@
 <e c="card games"><p><l>կտրել<s n="vblex"/></l><r>cut the cards<s n="vblex"/></r></p></e>
 <e c=""><p><l>կրակել<s n="vblex"/></l><r>shoot<s n="vblex"/></r></p></e>
 <e c=""><p><l>կրակել<s n="vblex"/></l><r>fire<s n="vblex"/></r></p></e>
-<e c=""><p><l>կրել<s n="vblex"/></l><r>carry<s n="vblex"/></r></p></e>
-<e c=""><p><l>կրել<s n="vblex"/></l><r>wear<s n="vblex"/></r></p></e>
-<e c=""><p><l>կրել<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
 <e c=""><p><l>կրծել<s n="vblex"/></l><r>gnaw<s n="vblex"/></r></p></e>
 <e c=""><p><l>կրծել<s n="vblex"/></l><r>nibble<s n="vblex"/></r></p></e>
-<e c=""><p><l>կրկնել<s n="vblex"/></l><r>repeat<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>հագենալ<s n="vblex"/></l><r>satiate oneself<s n="vblex"/></r></p></e>
 <e c="chemistry"><p><l>հագենալ<s n="vblex"/></l><r>become saturated<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>հագնել<s n="vblex"/></l><r>put on clothes or shoes<s n="vblex"/></r></p></e>
-<e c=""><p><l>հագնել<s n="vblex"/></l><r>wear clothes<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>հագնվել<s n="vblex"/></l><r>put on clothes<s n="vblex"/></r></p></e>
 <e c=""><p><l>հազալ<s n="vblex"/></l><r>cough<s n="vblex"/></r></p></e>
-<e c=""><p><l>հալածել<s n="vblex"/></l><r>pursue<s n="vblex"/></r></p></e>
-<e c=""><p><l>հալածել<s n="vblex"/></l><r>persecute<s n="vblex"/></r></p></e>
-<e c=""><p><l>հալածել<s n="vblex"/></l><r>drive away<s n="vblex"/></r></p></e>
-<e c=""><p><l>հալածել<s n="vblex"/></l><r>oppress<s n="vblex"/></r></p></e>
-<e c=""><p><l>հալածել<s n="vblex"/></l><r>harass<s n="vblex"/></r></p></e>
-<e c=""><p><l>հաղթել<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
-<e c=""><p><l>հաղթել<s n="vblex"/></l><r>conquer<s n="vblex"/></r></p></e>
 <e c=""><p><l>հաղորդել<s n="vblex"/></l><r>announce<s n="vblex"/></r></p></e>
 <e c=""><p><l>հաղորդել<s n="vblex"/></l><r>inform<s n="vblex"/></r></p></e>
 <e c=""><p><l>հաղորդել<s n="vblex"/></l><r>impart<s n="vblex"/></r></p></e>
 <e c=""><p><l>հաճել<s n="vblex"/></l><r>be pleased<s n="vblex"/></r></p></e>
-<e c=""><p><l>համակարգել<s n="vblex"/></l><r>systematise<s n="vblex"/></r></p></e>
-<e c=""><p><l>համակարգել<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>համառել<s n="vblex"/></l><r>remain obstinate<s n="vblex"/></r></p></e>
 <e c=""><p><l>համառել<s n="vblex"/></l><r>grow stubborn<s n="vblex"/></r></p></e>
 <e c=""><p><l>համառել<s n="vblex"/></l><r>be stubbornly bent on<s n="vblex"/></r></p></e>
@@ -11680,7 +11955,6 @@
 <e c=""><p><l>համարել<s n="vblex"/></l><r>esteem<s n="vblex"/></r></p></e>
 <e c=""><p><l>համբերել<s n="vblex"/></l><r>be patient<s n="vblex"/></r></p></e>
 <e c=""><p><l>համբերել<s n="vblex"/></l><r>keep one's patience<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>համբուրել<s n="vblex"/></l><r>kiss<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>համբուրվել<s n="vblex"/></l><r>kiss<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>համենալ<s n="vblex"/></l><r>delay<s n="vblex"/></r></p></e>
 <e c=""><p><l>համենալ<s n="vblex"/></l><r>retard<s n="vblex"/></r></p></e>
@@ -11694,8 +11968,6 @@
 <e c=""><p><l>համենալ<s n="vblex"/></l><r>lag<s n="vblex"/></r></p></e>
 <e c=""><p><l>համենալ<s n="vblex"/></l><r>while<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>համենալ<s n="vblex"/></l><r>continue doing something<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>համոզել<s n="vblex"/></l><r>convince<s n="vblex"/></r></p></e>
-<e c=""><p><l>համոզել<s n="vblex"/></l><r>persuade<s n="vblex"/></r></p></e>
 <e c=""><p><l>հայել<s n="vblex"/></l><r>look intently<s n="vblex"/></r></p></e>
 <e c=""><p><l>հայհոյել<s n="vblex"/></l><r>curse<s n="vblex"/></r></p></e>
 <e c=""><p><l>հայհոյել<s n="vblex"/></l><r>swear<s n="vblex"/></r></p></e>
@@ -11717,13 +11989,6 @@
 <e c=""><p><l>հանգչել<s n="vblex"/></l><r>die<s n="vblex"/></r></p></e>
 <e c=""><p><l>հանդիմանել<s n="vblex"/></l><r>reprove<s n="vblex"/></r></p></e>
 <e c=""><p><l>հանդիմանել<s n="vblex"/></l><r>reprimand<s n="vblex"/></r></p></e>
-<e c=""><p><l>հանել<s n="vblex"/></l><r>pull out<s n="vblex"/></r></p></e>
-<e c=""><p><l>հանել<s n="vblex"/></l><r>extract<s n="vblex"/></r></p></e>
-<e c=""><p><l>հանել<s n="vblex"/></l><r>take off a cloth<s n="vblex"/></r></p></e>
-<e c=""><p><l>հանել<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
-<e c=""><p><l>հանել<s n="vblex"/></l><r>displace<s n="vblex"/></r></p></e>
-<e c=""><p><l>հանել<s n="vblex"/></l><r>withdraw<s n="vblex"/></r></p></e>
-<e c="mathematics"><p><l>հանել<s n="vblex"/></l><r>subtract<s n="vblex"/></r></p></e>
 <e c=""><p><l>հանձնարարել<s n="vblex"/></l><r>commit<s n="vblex"/></r></p></e>
 <e c=""><p><l>հանձնարարել<s n="vblex"/></l><r>charge with<s n="vblex"/></r></p></e>
 <e c=""><p><l>հանձնել<s n="vblex"/></l><r>pass over<s n="vblex"/></r></p></e>
@@ -11745,11 +12010,6 @@
 <e c=""><p><l>հասնել<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
 <e c=""><p><l>հասնել<s n="vblex"/></l><r>ripen<s n="vblex"/></r></p></e>
 <e c=""><p><l>հասնել<s n="vblex"/></l><r>mature<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>հաստատել<s n="vblex"/></l><r>establish<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>հաստատել<s n="vblex"/></l><r>strengthen<s n="vblex"/></r></p></e>
-<e c=""><p><l>հաստատել<s n="vblex"/></l><r>consolidate<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>հաստատել<s n="vblex"/></l><r>confirm<s n="vblex"/></r></p></e>
-<e c=""><p><l>հաստատել<s n="vblex"/></l><r>verify<s n="vblex"/></r></p></e>
 <e c=""><p><l>հասցնել<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
 <e c=""><p><l>հասցնել<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>
 <e c="for"><p><l>հասցնել<s n="vblex"/></l><r>be in time<s n="vblex"/></r></p></e>
@@ -11764,10 +12024,6 @@
 <e c=""><p><l>հարգել<s n="vblex"/></l><r>honour<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարգել<s n="vblex"/></l><r>hold in respect<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարգել<s n="vblex"/></l><r>pay homage<s n="vblex"/></r></p></e>
-<e c=""><p><l>հարել<s n="vblex"/></l><r>churn<s n="vblex"/></r></p></e>
-<e c=""><p><l>հարթուկել<s n="vblex"/></l><r>press<s n="vblex"/></r></p></e>
-<e c=""><p><l>հարթուկել<s n="vblex"/></l><r>iron<s n="vblex"/></r></p></e>
-<e c=""><p><l>հարթուկել<s n="vblex"/></l><r>pass an iron over<s n="vblex"/></r></p></e>
 <e c="idiomatic"><p><l>հարթուկել մեկի գլուխը<s n="vblex"/></l><r>try persuade<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարթուկել մեկի գլուխը<s n="vblex"/></l><r>convince<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարթուկել մեկի գլուխը<s n="vblex"/></l><r>make believe<s n="vblex"/></r></p></e>
@@ -11776,8 +12032,6 @@
 <e c="idiomatic"><p><l>հարթուկել մեկի գլուխը<s n="vblex"/></l><r>do a snow job on someone<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարթուկել մեկի գլուխը<s n="vblex"/></l><r>fuck someone around<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարթուկել մեկի գլուխը<s n="vblex"/></l><r>try cheat by words<s n="vblex"/></r></p></e>
-<e c="archaic"><p><l>հարկանել<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>
-<e c=""><p><l>հարկանել<s n="vblex"/></l><r>strike<s n="vblex"/></r></p></e>
 <e c="archaic"><p><l>հարնչել<s n="vblex"/></l><r>be close something<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարնչել<s n="vblex"/></l><r>adjoin<s n="vblex"/></r></p></e>
 <e c=""><p><l>հարվածել<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
@@ -11787,27 +12041,11 @@
 <e c="see"><p><l>հարցնել<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
 <e c="to"><p><l>հարցնել<s n="vblex"/></l><r>desire speak<s n="vblex"/></r></p></e>
 <e c="write or say the letters that form a word or part of a word"><p><l>հեգել<s n="vblex"/></l><r>spell<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեծնել<s n="vblex"/></l><r>mount<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեղել<s n="vblex"/></l><r>spill<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեղեղել<s n="vblex"/></l><r>flood<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեղեղել<s n="vblex"/></l><r>inundate<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>հեղեղել<s n="vblex"/></l><r>fill in great quantities<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեղուսել<s n="vblex"/></l><r>nail<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>հենել<s n="vblex"/></l><r>lean upon<s n="vblex"/></r></p></e>
-<e c=""><p><l>հենել<s n="vblex"/></l><r>on or against<s n="vblex"/></r></p></e>
 <e c=""><p><l>հեռանալ<s n="vblex"/></l><r>move off<s n="vblex"/></r></p></e>
 <e c="from"><p><l>հեռանալ<s n="vblex"/></l><r>move away<s n="vblex"/></r></p></e>
 <e c=""><p><l>հեռացնել<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
-<e c="transitive, archaic"><p><l>հեռել<s n="vblex"/></l><r>set<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեռել<s n="vblex"/></l><r>mount<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեռել<s n="vblex"/></l><r>enchase<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեռել<s n="vblex"/></l><r>stud<s n="vblex"/></r></p></e>
-<e c=""><p><l>հեռել<s n="vblex"/></l><r>fit in<s n="vblex"/></r></p></e>
 <e c="idiomatic"><p><l>հետ տալ<s n="vblex"/></l><r>vomit<s n="vblex"/></r></p></e>
 <e c="literally"><p><l>հետ տալ<s n="vblex"/></l><r>give back<s n="vblex"/></r></p></e>
-<e c=""><p><l>հերքել<s n="vblex"/></l><r>refute<s n="vblex"/></r></p></e>
-<e c=""><p><l>հերքել<s n="vblex"/></l><r>deny<s n="vblex"/></r></p></e>
-<e c=""><p><l>հերքել<s n="vblex"/></l><r>disclaim<s n="vblex"/></r></p></e>
 <e c="trick; make a fool of someone"><p><l>հիմարացնել<s n="vblex"/></l><r>fool<s n="vblex"/></r></p></e>
 <e c=""><p><l>հիշել<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
 <e c=""><p><l>հիշել<s n="vblex"/></l><r>recall<s n="vblex"/></r></p></e>
@@ -11818,9 +12056,6 @@
 <e c=""><p><l>հղփանալ<s n="vblex"/></l><r>swim in plenty<s n="vblex"/></r></p></e>
 <e c=""><p><l>հղփանալ<s n="vblex"/></l><r>wallow or roll in wealth<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>հղփանալ<s n="vblex"/></l><r>become insolent because of wealth<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>հյուծել<s n="vblex"/></l><r>weaken<s n="vblex"/></r></p></e>
-<e c=""><p><l>հյուսել<s n="vblex"/></l><r>plait<s n="vblex"/></r></p></e>
-<e c=""><p><l>հյուսել<s n="vblex"/></l><r>braid<s n="vblex"/></r></p></e>
 <e c="of"><p><l>հոգալ<s n="vblex"/></l><r>take care<s n="vblex"/></r></p></e>
 <e c=""><p><l>հոխորտալ<s n="vblex"/></l><r>swagger<s n="vblex"/></r></p></e>
 <e c=""><p><l>հոխորտալ<s n="vblex"/></l><r>be disdainful<s n="vblex"/></r></p></e>
@@ -11883,8 +12118,6 @@
 <e c=""><p><l>մածվել<s n="vblex"/></l><r>clot<s n="vblex"/></r></p></e>
 <e c=""><p><l>մածվել<s n="vblex"/></l><r>congeal<s n="vblex"/></r></p></e>
 <e c=""><p><l>մահանալ<s n="vblex"/></l><r>die<s n="vblex"/></r></p></e>
-<e c=""><p><l>մատուցել<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
-<e c=""><p><l>մատուցել<s n="vblex"/></l><r>serve<s n="vblex"/></r></p></e>
 <e c="archaic"><p><l>մատչել<s n="vblex"/></l><r>approach<s n="vblex"/></r></p></e>
 <e c=""><p><l>մատչել<s n="vblex"/></l><r>draw near<s n="vblex"/></r></p></e>
 <e c="archaic, poetic"><p><l>մարթել<s n="vblex"/></l><r>be able to<s n="vblex"/></r></p></e>
@@ -11899,11 +12132,6 @@
 <e c=""><p><l>մաքրել<s n="vblex"/></l><r>peel<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>մեծանալ<s n="vblex"/></l><r>grow<s n="vblex"/></r></p></e>
 <e c=""><p><l>մեծանալ<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>մեծարել<s n="vblex"/></l><r>honour<s n="vblex"/></r></p></e>
-<e c=""><p><l>մեծարել<s n="vblex"/></l><r>venerate<s n="vblex"/></r></p></e>
-<e c=""><p><l>մեծարել<s n="vblex"/></l><r>treat with distinction<s n="vblex"/></r></p></e>
-<e c=""><p><l>մեծարել<s n="vblex"/></l><r>pay respect to<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>մեծարել<s n="vblex"/></l><r>glorify<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>մեղկանալ<s n="vblex"/></l><r>soften<s n="vblex"/></r></p></e>
 <e c=""><p><l>մեղկանալ<s n="vblex"/></l><r>become loose<s n="vblex"/></r></p></e>
 <e c=""><p><l>մեղկանալ<s n="vblex"/></l><r>slacken<s n="vblex"/></r></p></e>
@@ -11926,17 +12154,12 @@
 <e c=""><p><l>միանալ<s n="vblex"/></l><r>join<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>միանալ<s n="vblex"/></l><r>be turned on<s n="vblex"/></r></p></e>
 <e c="about appliances"><p><l>միանալ<s n="vblex"/></l><r>go on<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>միացնել<s n="vblex"/></l><r>join<s n="vblex"/></r></p></e>
-<e c=""><p><l>միացնել<s n="vblex"/></l><r>unite<s n="vblex"/></r></p></e>
-<e c=""><p><l>միացնել<s n="vblex"/></l><r>connect<s n="vblex"/></r></p></e>
-<e c="an appliance"><p><l>միացնել<s n="vblex"/></l><r>turn on<s n="vblex"/></r></p></e>
 <e c="formal"><p><l>միզել<s n="vblex"/></l><r>urinate<s n="vblex"/></r></p></e>
 <e c=""><p><l>մկրտել<s n="vblex"/></l><r>baptise<s n="vblex"/></r></p></e>
 <e c=""><p><l>մնալ<s n="vblex"/></l><r>stay<s n="vblex"/></r></p></e>
 <e c=""><p><l>մնալ<s n="vblex"/></l><r>remain<s n="vblex"/></r></p></e>
 <e c=""><p><l>մոլորվել<s n="vblex"/></l><r>be lost<s n="vblex"/></r></p></e>
 <e c=""><p><l>մոլորվել<s n="vblex"/></l><r>not know the way<s n="vblex"/></r></p></e>
-<e c=""><p><l>մոռանալ<s n="vblex"/></l><r>forget<s n="vblex"/></r></p></e>
 <e c=""><p><l>մոտենալ<s n="vblex"/></l><r>approach<s n="vblex"/></r></p></e>
 <e c=""><p><l>մոտենալ<s n="vblex"/></l><r>draw near<s n="vblex"/></r></p></e>
 <e c=""><p><l>մոտեցնել<s n="vblex"/></l><r>make closer<s n="vblex"/></r></p></e>
@@ -11950,16 +12173,6 @@
 <e c=""><p><l>մտաբերել<s n="vblex"/></l><r>recall<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտաբերել<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտաբերել<s n="vblex"/></l><r>recollect<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>contemplate<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>reflect upon<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>believe<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>intend<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>plan<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>worry<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>be anxious<s n="vblex"/></r></p></e>
-<e c=""><p><l>մտածել<s n="vblex"/></l><r>have an idea<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>մտնել<s n="vblex"/></l><r>enter<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտցնել<s n="vblex"/></l><r>introduce<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտցնել<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>
@@ -11977,29 +12190,14 @@
 <e c=""><p><l>նազել<s n="vblex"/></l><r>coquet<s n="vblex"/></r></p></e>
 <e c=""><p><l>նախաճաշել<s n="vblex"/></l><r>breakfast<s n="vblex"/></r></p></e>
 <e c=""><p><l>նախաճաշել<s n="vblex"/></l><r>have breakfast<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>նախատել<s n="vblex"/></l><r>reproach<s n="vblex"/></r></p></e>
-<e c=""><p><l>նախատել<s n="vblex"/></l><r>blame<s n="vblex"/></r></p></e>
-<e c=""><p><l>նախատել<s n="vblex"/></l><r>censure<s n="vblex"/></r></p></e>
-<e c="at"><p><l>նայել<s n="vblex"/></l><r>look<s n="vblex"/></r></p></e>
 <e c=""><p><l>նեխել<s n="vblex"/></l><r>rot<s n="vblex"/></r></p></e>
 <e c=""><p><l>նեխել<s n="vblex"/></l><r>putrefy<s n="vblex"/></r></p></e>
 <e c=""><p><l>նեղանալ<s n="vblex"/></l><r>become narrow<s n="vblex"/></r></p></e>
 <e c=""><p><l>նեղանալ<s n="vblex"/></l><r>take offence/umbrage<s n="vblex"/></r></p></e>
 <e c=""><p><l>նեղանալ<s n="vblex"/></l><r>be/feel hurt<s n="vblex"/></r></p></e>
-<e c=""><p><l>նետել<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
-<e c=""><p><l>նետել<s n="vblex"/></l><r>cast<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>ներկել<s n="vblex"/></l><r>color<s n="vblex"/></r></p></e>
-<e c=""><p><l>ներկել<s n="vblex"/></l><r>paint<s n="vblex"/></r></p></e>
-<e c=""><p><l>ներկել<s n="vblex"/></l><r>stain<s n="vblex"/></r></p></e>
-<e c=""><p><l>ներկել<s n="vblex"/></l><r>dye<s n="vblex"/></r></p></e>
 <e c=""><p><l>նկատել<s n="vblex"/></l><r>note<s n="vblex"/></r></p></e>
 <e c=""><p><l>նկատել<s n="vblex"/></l><r>notice<s n="vblex"/></r></p></e>
 <e c=""><p><l>նկարագրել<s n="vblex"/></l><r>describe<s n="vblex"/></r></p></e>
-<e c=""><p><l>նկարել<s n="vblex"/></l><r>draw<s n="vblex"/></r></p></e>
-<e c=""><p><l>նկարել<s n="vblex"/></l><r>depict<s n="vblex"/></r></p></e>
-<e c=""><p><l>նկարել<s n="vblex"/></l><r>paint<s n="vblex"/></r></p></e>
-<e c=""><p><l>նկարել<s n="vblex"/></l><r>photograph<s n="vblex"/></r></p></e>
-<e c="a movie"><p><l>նկարել<s n="vblex"/></l><r>shoot<s n="vblex"/></r></p></e>
 <e c=""><p><l>նստել<s n="vblex"/></l><r>sit<s n="vblex"/></r></p></e>
 <e c=""><p><l>նստել<s n="vblex"/></l><r>sit down<s n="vblex"/></r></p></e>
 <e c=""><p><l>նստել<s n="vblex"/></l><r>take a seat<s n="vblex"/></r></p></e>
@@ -12010,13 +12208,6 @@
 <e c=""><p><l>նստել<s n="vblex"/></l><r>cost someone<s n="vblex"/></r></p></e>
 <e c=""><p><l>նվագել<s n="vblex"/></l><r>play an instrument<s n="vblex"/></r></p></e>
 <e c=""><p><l>շաչել<s n="vblex"/></l><r>make a noise<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>շարժել<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>շարժել<s n="vblex"/></l><r>set in motion<s n="vblex"/></r></p></e>
-<e c=""><p><l>շարժել<s n="vblex"/></l><r>set going<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>շարժել<s n="vblex"/></l><r>drive<s n="vblex"/></r></p></e>
-<e c=""><p><l>շարժել<s n="vblex"/></l><r>guide<s n="vblex"/></r></p></e>
-<e c="in some way"><p><l>շարժել<s n="vblex"/></l><r>make act<s n="vblex"/></r></p></e>
-<e c="behind"><p><l>շարժել<s n="vblex"/></l><r>be the motive force<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>շարժվել<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
 <e c="colloquial, intransitive"><p><l>շարժվել<s n="vblex"/></l><r>get going<s n="vblex"/></r></p></e>
 <e c=""><p><l>շարժվել<s n="vblex"/></l><r>start moving<s n="vblex"/></r></p></e>
@@ -12059,8 +12250,6 @@
 <e c=""><p><l>ողբալ<s n="vblex"/></l><r>lament<s n="vblex"/></r></p></e>
 <e c=""><p><l>ողորմել<s n="vblex"/></l><r>take pity or compassion on<s n="vblex"/></r></p></e>
 <e c="of a dog or wolf"><p><l>ոռնալ<s n="vblex"/></l><r>howl<s n="vblex"/></r></p></e>
-<e c=""><p><l>ոռոգել<s n="vblex"/></l><r>irrigate<s n="vblex"/></r></p></e>
-<e c=""><p><l>ոռոգել<s n="vblex"/></l><r>water<s n="vblex"/></r></p></e>
 <e c=""><p><l>ոստնել<s n="vblex"/></l><r>leap<s n="vblex"/></r></p></e>
 <e c=""><p><l>ոստնել<s n="vblex"/></l><r>jump<s n="vblex"/></r></p></e>
 <e c=""><p><l>ոստնել<s n="vblex"/></l><r>skip<s n="vblex"/></r></p></e>
@@ -12080,7 +12269,6 @@
 <e c=""><p><l>ուզել<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
 <e c=""><p><l>ուզենալ<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
 <e c=""><p><l>ուզենալ<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
-<e c=""><p><l>ուղարկել<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
 <e c=""><p><l>ուղեկցել<s n="vblex"/></l><r>accompany<s n="vblex"/></r></p></e>
 <e c=""><p><l>ուղղել<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
 <e c=""><p><l>ուղղել<s n="vblex"/></l><r>correct<s n="vblex"/></r></p></e>
@@ -12113,8 +12301,6 @@
 <e c=""><p><l>չիք<s n="vblex"/></l><r>there does not exist<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>չորանալ<s n="vblex"/></l><r>dry up<s n="vblex"/></r></p></e>
 <e c=""><p><l>չորանալ<s n="vblex"/></l><r>become dry<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>չորացնել<s n="vblex"/></l><r>dry<s n="vblex"/></r></p></e>
-<e c=""><p><l>չորացնել<s n="vblex"/></l><r>make dry<s n="vblex"/></r></p></e>
 <e c="of birds"><p><l>չվել<s n="vblex"/></l><r>migrate<s n="vblex"/></r></p></e>
 <e c=""><p><l>չվել<s n="vblex"/></l><r>move from one place another in a group<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>չվել<s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e>
@@ -12155,10 +12341,7 @@
 <e c="intransitive"><p><l>պայթել<s n="vblex"/></l><r>explode<s n="vblex"/></r></p></e>
 <e c=""><p><l>պայթել<s n="vblex"/></l><r>blow up<s n="vblex"/></r></p></e>
 <e c=""><p><l>պանծալ<s n="vblex"/></l><r>be proud<s n="vblex"/></r></p></e>
-<e c=""><p><l>պաշտել<s n="vblex"/></l><r>worship<s n="vblex"/></r></p></e>
-<e c=""><p><l>պաշտել<s n="vblex"/></l><r>adore<s n="vblex"/></r></p></e>
 <e c=""><p><l>պաշտպանել<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>
-<e c="transitive, colloquial"><p><l>պաչել<s n="vblex"/></l><r>kiss<s n="vblex"/></r></p></e>
 <e c=""><p><l>պապանձեցնել<s n="vblex"/></l><r>put silence<s n="vblex"/></r></p></e>
 <e c=""><p><l>պապանձվել<s n="vblex"/></l><r>grow dumb<s n="vblex"/></r></p></e>
 <e c=""><p><l>պապանձվել<s n="vblex"/></l><r>speechless<s n="vblex"/></r></p></e>
@@ -12169,13 +12352,7 @@
 <e c=""><p><l>պատկերել<s n="vblex"/></l><r>depict<s n="vblex"/></r></p></e>
 <e c=""><p><l>պատկերել<s n="vblex"/></l><r>portray<s n="vblex"/></r></p></e>
 <e c=""><p><l>պատռել<s n="vblex"/></l><r>tear<s n="vblex"/></r></p></e>
-<e c=""><p><l>պատրաստել<s n="vblex"/></l><r>prepare<s n="vblex"/></r></p></e>
-<e c=""><p><l>պատրաստել<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
-<e c=""><p><l>պատրաստել<s n="vblex"/></l><r>manufacture<s n="vblex"/></r></p></e>
-<e c=""><p><l>պատրաստել<s n="vblex"/></l><r>produce<s n="vblex"/></r></p></e>
-<e c=""><p><l>պատրաստել<s n="vblex"/></l><r>cook food<s n="vblex"/></r></p></e>
 <e c=""><p><l>պարել<s n="vblex"/></l><r>dance<s n="vblex"/></r></p></e>
-<e c="an archeological site"><p><l>պեղել<s n="vblex"/></l><r>excavate<s n="vblex"/></r></p></e>
 <e c="slang, colloquial"><p><l>պիլասոս անել<s n="vblex"/></l><r>vacuum<s n="vblex"/></r></p></e>
 <e c=""><p><l>պիլասոս անել<s n="vblex"/></l><r>clean with vacuum cleaner<s n="vblex"/></r></p></e>
 <e c=""><p><l>պոկել<s n="vblex"/></l><r>pull out<s n="vblex"/></r></p></e>
@@ -12183,9 +12360,6 @@
 <e c=""><p><l>պտտել<s n="vblex"/></l><r>turn<s n="vblex"/></r></p></e>
 <e c=""><p><l>ջանալ<s n="vblex"/></l><r>exert oneself<s n="vblex"/></r></p></e>
 <e c=""><p><l>ջանալ<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>ջեռուցել<s n="vblex"/></l><r>warm<s n="vblex"/></r></p></e>
-<e c=""><p><l>ջեռուցել<s n="vblex"/></l><r>heat<s n="vblex"/></r></p></e>
-<e c=""><p><l>ջեռուցել<s n="vblex"/></l><r>make hot or warm<s n="vblex"/></r></p></e>
 <e c=""><p><l>ջղայնացնել<s n="vblex"/></l><r>annoy<s n="vblex"/></r></p></e>
 <e c=""><p><l>ջնջել<s n="vblex"/></l><r>wipe off<s n="vblex"/></r></p></e>
 <e c=""><p><l>ջնջել<s n="vblex"/></l><r>clean<s n="vblex"/></r></p></e>
@@ -12206,11 +12380,8 @@
 <e c=""><p><l>սաղացնել<s n="vblex"/></l><r>revive<s n="vblex"/></r></p></e>
 <e c=""><p><l>սանձել<s n="vblex"/></l><r>bridle<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>սանձել<s n="vblex"/></l><r>restrain<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>սանրել<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
-<e c=""><p><l>սանրել<s n="vblex"/></l><r>brush<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>սանրվել<s n="vblex"/></l><r>comb oneself<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>սառչել<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>սասանել<s n="vblex"/></l><r>shake<s n="vblex"/></r></p></e>
 <e c=""><p><l>սարքել<s n="vblex"/></l><r>repair<s n="vblex"/></r></p></e>
 <e c=""><p><l>սարքել<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
 <e c=""><p><l>սարքել<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
@@ -12234,8 +12405,6 @@
 <e c="vulgar, slang"><p><l>սիկտիրվել<s n="vblex"/></l><r>fuck off<s n="vblex"/></r></p></e>
 <e c=""><p><l>սիկտիրվել<s n="vblex"/></l><r>get lost<s n="vblex"/></r></p></e>
 <e c=""><p><l>սիկտիրվել<s n="vblex"/></l><r>go hell<s n="vblex"/></r></p></e>
-<e c=""><p><l>սիրել<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
-<e c=""><p><l>սիրել<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
 <e c="idiomatic"><p><l>սիրտը խառնել<s n="vblex"/></l><r>feel nauseous<s n="vblex"/></r></p></e>
 <e c="idiomatic"><p><l>սիրտը շարժել<s n="vblex"/></l><r>affect emotionally<s n="vblex"/></r></p></e>
 <e c=""><p><l>սիրտը շարժել<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
@@ -12245,9 +12414,6 @@
 <e c=""><p><l>սլանալ<s n="vblex"/></l><r>speed along<s n="vblex"/></r></p></e>
 <e c=""><p><l>սխալվել<s n="vblex"/></l><r>make a mistake<s n="vblex"/></r></p></e>
 <e c=""><p><l>սխալվել<s n="vblex"/></l><r>be wrong<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>սկսել<s n="vblex"/></l><r>begin<s n="vblex"/></r></p></e>
-<e c=""><p><l>սկսել<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
-<e c=""><p><l>սկսել<s n="vblex"/></l><r>commence<s n="vblex"/></r></p></e>
 <e c=""><p><l>սողալ<s n="vblex"/></l><r>creep<s n="vblex"/></r></p></e>
 <e c=""><p><l>սողալ<s n="vblex"/></l><r>crawl<s n="vblex"/></r></p></e>
 <e c=""><p><l>սովորել<s n="vblex"/></l><r>study<s n="vblex"/></r></p></e>
@@ -12259,15 +12425,6 @@
 <e c="intransitive"><p><l>սորել<s n="vblex"/></l><r>flow<s n="vblex"/></r></p></e>
 <e c=""><p><l>սորել<s n="vblex"/></l><r>run out<s n="vblex"/></r></p></e>
 <e c="as if from a narrow hole"><p><l>սորել<s n="vblex"/></l><r>leak<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>սուզել<s n="vblex"/></l><r>plunge<s n="vblex"/></r></p></e>
-<e c=""><p><l>սուզել<s n="vblex"/></l><r>sink<s n="vblex"/></r></p></e>
-<e c=""><p><l>սուզել<s n="vblex"/></l><r>immerge<s n="vblex"/></r></p></e>
-<e c=""><p><l>սպանել<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>
-<e c=""><p><l>սպանել<s n="vblex"/></l><r>murder<s n="vblex"/></r></p></e>
-<e c=""><p><l>սպանել<s n="vblex"/></l><r>assassinate<s n="vblex"/></r></p></e>
-<e c=""><p><l>սպասել<s n="vblex"/></l><r>wait<s n="vblex"/></r></p></e>
-<e c=""><p><l>սպասել<s n="vblex"/></l><r>expect<s n="vblex"/></r></p></e>
-<e c=""><p><l>սպասել<s n="vblex"/></l><r>await<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>սպրդել<s n="vblex"/></l><r>glide or creep into<s n="vblex"/></r></p></e>
 <e c=""><p><l>սպրդել<s n="vblex"/></l><r>penetrate<s n="vblex"/></r></p></e>
 <e c=""><p><l>ստամբակել<s n="vblex"/></l><r>be obstinate<s n="vblex"/></r></p></e>
@@ -12279,45 +12436,17 @@
 <e c=""><p><l>ստանալ<s n="vblex"/></l><r>extract<s n="vblex"/></r></p></e>
 <e c=""><p><l>ստել<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
 <e c=""><p><l>ստել<s n="vblex"/></l><r>tell a lie<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>ստեղծել<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
-<e c=""><p><l>ստիպել<s n="vblex"/></l><r>compel<s n="vblex"/></r></p></e>
-<e c=""><p><l>ստիպել<s n="vblex"/></l><r>force<s n="vblex"/></r></p></e>
-<e c=""><p><l>ստիպել<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
 <e c=""><p><l>սրբել<s n="vblex"/></l><r>wipe<s n="vblex"/></r></p></e>
 <e c=""><p><l>սրբել<s n="vblex"/></l><r>clean<s n="vblex"/></r></p></e>
 <e c=""><p><l>սրբել<s n="vblex"/></l><r>cleanse<s n="vblex"/></r></p></e>
 <e c=""><p><l>սրբել<s n="vblex"/></l><r>dry by wiping<s n="vblex"/></r></p></e>
 <e c="colloquial"><p><l>սրբել<s n="vblex"/></l><r>rob<s n="vblex"/></r></p></e>
-<e c=""><p><l>սրել<s n="vblex"/></l><r>sharpen<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>սրել<s n="vblex"/></l><r>intensify<s n="vblex"/></r></p></e>
-<e c=""><p><l>սրել<s n="vblex"/></l><r>heighten<s n="vblex"/></r></p></e>
-<e c=""><p><l>սրել<s n="vblex"/></l><r>sharpen<s n="vblex"/></r></p></e>
-<e c=""><p><l>սրել<s n="vblex"/></l><r>bring a head<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>սրել<s n="vblex"/></l><r>worsen<s n="vblex"/></r></p></e>
-<e c=""><p><l>սրել<s n="vblex"/></l><r>aggravate<s n="vblex"/></r></p></e>
-<e c=""><p><l>սրել<s n="vblex"/></l><r>exacerbate<s n="vblex"/></r></p></e>
 <e c=""><p><l>սրճել<s n="vblex"/></l><r>drink coffee<s n="vblex"/></r></p></e>
 <e c="informal"><p><l>սրտառել<s n="vblex"/></l><r>take heart<s n="vblex"/></r></p></e>
 <e c=""><p><l>սրտառել<s n="vblex"/></l><r>be moved<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>վազել<s n="vblex"/></l><r>run<s n="vblex"/></r></p></e>
 <e c="of"><p><l>վախենալ<s n="vblex"/></l><r>be afraid<s n="vblex"/></r></p></e>
 <e c=""><p><l>վախենալ<s n="vblex"/></l><r>fear<s n="vblex"/></r></p></e>
-<e c=""><p><l>վաճառել<s n="vblex"/></l><r>sell<s n="vblex"/></r></p></e>
-<e c=""><p><l>վանել<s n="vblex"/></l><r>repulse<s n="vblex"/></r></p></e>
-<e c=""><p><l>վանել<s n="vblex"/></l><r>push away<s n="vblex"/></r></p></e>
-<e c=""><p><l>վանել<s n="vblex"/></l><r>drive away<s n="vblex"/></r></p></e>
-<e c="physics"><p><l>վանել<s n="vblex"/></l><r>repel<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>վառել<s n="vblex"/></l><r>set on fire<s n="vblex"/></r></p></e>
-<e c=""><p><l>վառել<s n="vblex"/></l><r>burn<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>վառել<s n="vblex"/></l><r>light<s n="vblex"/></r></p></e>
-<e c=""><p><l>վառել<s n="vblex"/></l><r>turn on a light-giving implement<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>վառել<s n="vblex"/></l><r>turn on a heat-giving implement<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>վառել<s n="vblex"/></l><r>heat<s n="vblex"/></r></p></e>
-<e c="transitive, slang"><p><l>վառել<s n="vblex"/></l><r>give away a secret<s n="vblex"/></r></p></e>
-<e c="transitive, figuratively"><p><l>վառել<s n="vblex"/></l><r>fire<s n="vblex"/></r></p></e>
-<e c=""><p><l>վառել<s n="vblex"/></l><r>inflame<s n="vblex"/></r></p></e>
-<e c=""><p><l>վառել<s n="vblex"/></l><r>enliven<s n="vblex"/></r></p></e>
-<e c=""><p><l>վառել<s n="vblex"/></l><r>inspirit<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>վառվել<s n="vblex"/></l><r>burn<s n="vblex"/></r></p></e>
 <e c=""><p><l>վառվել<s n="vblex"/></l><r>be consumed by fire<s n="vblex"/></r></p></e>
 <e c=""><p><l>վառվել<s n="vblex"/></l><r>give off light<s n="vblex"/></r></p></e>
@@ -12329,67 +12458,20 @@
 <e c=""><p><l>վիճել<s n="vblex"/></l><r>dispute<s n="vblex"/></r></p></e>
 <e c=""><p><l>վիճել<s n="vblex"/></l><r>have an argument<s n="vblex"/></r></p></e>
 <e c=""><p><l>տաղտկանալ<s n="vblex"/></l><r>become bored<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>տանել<s n="vblex"/></l><r>carry<s n="vblex"/></r></p></e>
-<e c=""><p><l>տանել<s n="vblex"/></l><r>carry away or off<s n="vblex"/></r></p></e>
-<e c=""><p><l>տանել<s n="vblex"/></l><r>take away<s n="vblex"/></r></p></e>
-<e c=""><p><l>տանել<s n="vblex"/></l><r>lead<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>տանել<s n="vblex"/></l><r>tolerate<s n="vblex"/></r></p></e>
-<e c=""><p><l>տանել<s n="vblex"/></l><r>endure<s n="vblex"/></r></p></e>
-<e c=""><p><l>տանել<s n="vblex"/></l><r>stand<s n="vblex"/></r></p></e>
-<e c=""><p><l>տանել<s n="vblex"/></l><r>brook<s n="vblex"/></r></p></e>
-<e c="transitive, in a game"><p><l>տանել<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>տանջել<s n="vblex"/></l><r>torment<s n="vblex"/></r></p></e>
-<e c=""><p><l>տանջել<s n="vblex"/></l><r>torture<s n="vblex"/></r></p></e>
-<e c="linguistics"><p><l>տառադարձել<s n="vblex"/></l><r>transcribe<s n="vblex"/></r></p></e>
-<e c="linguistics"><p><l>տառադարձել<s n="vblex"/></l><r>transliterate<s n="vblex"/></r></p></e>
-<e c="transitive, out"><p><l>տարածել<s n="vblex"/></l><r>spread<s n="vblex"/></r></p></e>
-<e c=""><p><l>տարածել<s n="vblex"/></l><r>stretch<s n="vblex"/></r></p></e>
-<e c=""><p><l>տարածել<s n="vblex"/></l><r>extend<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>տարածել<s n="vblex"/></l><r>spread<s n="vblex"/></r></p></e>
-<e c=""><p><l>տարածել<s n="vblex"/></l><r>diffuse<s n="vblex"/></r></p></e>
-<e c=""><p><l>տարածել<s n="vblex"/></l><r>disseminate<s n="vblex"/></r></p></e>
-<e c=""><p><l>տարածել<s n="vblex"/></l><r>propagate<s n="vblex"/></r></p></e>
-<e c=""><p><l>տարբերել<s n="vblex"/></l><r>distinguish<s n="vblex"/></r></p></e>
-<e c=""><p><l>տարբերել<s n="vblex"/></l><r>discern<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեղեկանալ<s n="vblex"/></l><r>become informed<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեղեկանալ<s n="vblex"/></l><r>learn<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեղեկանալ<s n="vblex"/></l><r>come know<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեղեկանալ<s n="vblex"/></l><r>inquire<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեղեկանալ<s n="vblex"/></l><r>make inquiries<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>տեղեկացնել<s n="vblex"/></l><r>inform<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեղեկացնել<s n="vblex"/></l><r>notify<s n="vblex"/></r></p></e>
 <e c="poetic"><p><l>տենչալ<s n="vblex"/></l><r>desire<s n="vblex"/></r></p></e>
 <e c=""><p><l>տենչալ<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>notice<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>look at<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>examine<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>meet<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>come across<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>visit<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>go see<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>understand<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>realise<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>know<s n="vblex"/></r></p></e>
-<e c=""><p><l>տեսնել<s n="vblex"/></l><r>experience<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեւել<s n="vblex"/></l><r>last<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեւել<s n="vblex"/></l><r>go on<s n="vblex"/></r></p></e>
 <e c=""><p><l>տեւել<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
 <e c=""><p><l>տժվժալ<s n="vblex"/></l><r>make hissing sounds<s n="vblex"/></r></p></e>
 <e c=""><p><l>տնքալ<s n="vblex"/></l><r>moan<s n="vblex"/></r></p></e>
 <e c=""><p><l>տնքալ<s n="vblex"/></l><r>groan<s n="vblex"/></r></p></e>
-<e c="colloquial"><p><l>տշել<s n="vblex"/></l><r>strike the "cat" in the game of tipcat<s n="vblex"/></r></p></e>
-<e c="colloquial"><p><l>տշել<s n="vblex"/></l><r>strike an object inthe distance<s n="vblex"/></r></p></e>
-<e c="colloquial"><p><l>տշել<s n="vblex"/></l><r>bounce<s n="vblex"/></r></p></e>
-<e c=""><p><l>տշել<s n="vblex"/></l><r>get rid of a person<s n="vblex"/></r></p></e>
-<e c=""><p><l>տպել<s n="vblex"/></l><r>print<s n="vblex"/></r></p></e>
-<e c=""><p><l>տպել<s n="vblex"/></l><r>type<s n="vblex"/></r></p></e>
-<e c=""><p><l>տպել<s n="vblex"/></l><r>publish<s n="vblex"/></r></p></e>
 <e c="vulgar, with a loud noise"><p><l>տռել<s n="vblex"/></l><r>fart<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>տրամադրել<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
-<e c=""><p><l>տրամադրել<s n="vblex"/></l><r>supply<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>տրամադրել<s n="vblex"/></l><r>dispose<s n="vblex"/></r></p></e>
 <e c=""><p><l>ցանկանալ<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
 <e c=""><p><l>ցանկանալ<s n="vblex"/></l><r>desire<s n="vblex"/></r></p></e>
 <e c=""><p><l>ցավել<s n="vblex"/></l><r>ache<s n="vblex"/></r></p></e>
@@ -12404,40 +12486,17 @@
 <e c="intransitive"><p><l>փախչել<s n="vblex"/></l><r>run away<s n="vblex"/></r></p></e>
 <e c=""><p><l>փախչել<s n="vblex"/></l><r>escape<s n="vblex"/></r></p></e>
 <e c=""><p><l>փախչել<s n="vblex"/></l><r>flee<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փախցնել<s n="vblex"/></l><r>put flight<s n="vblex"/></r></p></e>
-<e c=""><p><l>փախցնել<s n="vblex"/></l><r>cause flee<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փախցնել<s n="vblex"/></l><r>steal<s n="vblex"/></r></p></e>
-<e c=""><p><l>փախցնել<s n="vblex"/></l><r>kidnap<s n="vblex"/></r></p></e>
-<e c=""><p><l>փախցնել<s n="vblex"/></l><r>abduct<s n="vblex"/></r></p></e>
-<e c=""><p><l>փախցնել<s n="vblex"/></l><r>hijack<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փակել<s n="vblex"/></l><r>close<s n="vblex"/></r></p></e>
-<e c=""><p><l>փակել<s n="vblex"/></l><r>shut<s n="vblex"/></r></p></e>
-<e c=""><p><l>փակել<s n="vblex"/></l><r>lock<s n="vblex"/></r></p></e>
 <e c=""><p><l>փայլել<s n="vblex"/></l><r>shine<s n="vblex"/></r></p></e>
 <e c=""><p><l>փայլել<s n="vblex"/></l><r>glitter<s n="vblex"/></r></p></e>
 <e c=""><p><l>փայլել<s n="vblex"/></l><r>sparkle<s n="vblex"/></r></p></e>
 <e c=""><p><l>փայլել<s n="vblex"/></l><r>glisten<s n="vblex"/></r></p></e>
 <e c="figuratively, with"><p><l>փայլել<s n="vblex"/></l><r>shine<s n="vblex"/></r></p></e>
 <e c="by"><p><l>փայլել<s n="vblex"/></l><r>be conspicuous<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փլել<s n="vblex"/></l><r>destroy<s n="vblex"/></r></p></e>
-<e c=""><p><l>փլել<s n="vblex"/></l><r>demolish<s n="vblex"/></r></p></e>
-<e c=""><p><l>փլել<s n="vblex"/></l><r>pull down<s n="vblex"/></r></p></e>
 <e c=""><p><l>փլվել<s n="vblex"/></l><r>crash down<s n="vblex"/></r></p></e>
 <e c=""><p><l>փլվել<s n="vblex"/></l><r>tumble down<s n="vblex"/></r></p></e>
 <e c=""><p><l>փլվել<s n="vblex"/></l><r>collapse<s n="vblex"/></r></p></e>
 <e c=""><p><l>փլվել<s n="vblex"/></l><r>go ruin<s n="vblex"/></r></p></e>
 <e c=""><p><l>փլվել<s n="vblex"/></l><r>founder<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փոխանակել<s n="vblex"/></l><r>exchange<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փոխանակել<s n="vblex"/></l><r>swap<s n="vblex"/></r></p></e>
-<e c="for"><p><l>փոխարինել<s n="vblex"/></l><r>substitute<s n="vblex"/></r></p></e>
-<e c=""><p><l>փոխարինել<s n="vblex"/></l><r>replace<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փոխել<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
-<e c=""><p><l>փողոտել<s n="vblex"/></l><r>cut the throat<s n="vblex"/></r></p></e>
-<e c=""><p><l>փորել<s n="vblex"/></l><r>dig<s n="vblex"/></r></p></e>
-<e c=""><p><l>փորել<s n="vblex"/></l><r>excavate<s n="vblex"/></r></p></e>
-<e c=""><p><l>փորել<s n="vblex"/></l><r>hollow<s n="vblex"/></r></p></e>
-<e c=""><p><l>փորել<s n="vblex"/></l><r>gouge<s n="vblex"/></r></p></e>
-<e c=""><p><l>փորել<s n="vblex"/></l><r>chisel<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>փութալ<s n="vblex"/></l><r>hurry<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>փչանալ<s n="vblex"/></l><r>get spoilt<s n="vblex"/></r></p></e>
 <e c=""><p><l>փչանալ<s n="vblex"/></l><r>rot<s n="vblex"/></r></p></e>
@@ -12447,79 +12506,30 @@
 <e c=""><p><l>փչանալ<s n="vblex"/></l><r>worsen<s n="vblex"/></r></p></e>
 <e c=""><p><l>փչանալ<s n="vblex"/></l><r>become worse<s n="vblex"/></r></p></e>
 <e c=""><p><l>փչանալ<s n="vblex"/></l><r>go bad<s n="vblex"/></r></p></e>
-<e c=""><p><l>փչել<s n="vblex"/></l><r>blow<s n="vblex"/></r></p></e>
-<e c=""><p><l>փչել<s n="vblex"/></l><r>inflate<s n="vblex"/></r></p></e>
-<e c=""><p><l>փչել<s n="vblex"/></l><r>puff out<s n="vblex"/></r></p></e>
-<e c=""><p><l>փչել<s n="vblex"/></l><r>extinguish<s n="vblex"/></r></p></e>
-<e c=""><p><l>փչել<s n="vblex"/></l><r>blow out<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>փչել<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
-<e c=""><p><l>փչել<s n="vblex"/></l><r>talk nonsense<s n="vblex"/></r></p></e>
 <e c=""><p><l>փռշտալ<s n="vblex"/></l><r>sneeze<s n="vblex"/></r></p></e>
 <e c="formal"><p><l>փսխել<s n="vblex"/></l><r>vomit<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>փտել<s n="vblex"/></l><r>rot<s n="vblex"/></r></p></e>
 <e c=""><p><l>փտել<s n="vblex"/></l><r>decay<s n="vblex"/></r></p></e>
 <e c=""><p><l>փտել<s n="vblex"/></l><r>putrify<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>փրկել<s n="vblex"/></l><r>save<s n="vblex"/></r></p></e>
-<e c=""><p><l>փրկել<s n="vblex"/></l><r>rescue<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաղել<s n="vblex"/></l><r>pick<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաղել<s n="vblex"/></l><r>pluck<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաղել<s n="vblex"/></l><r>gather<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաղել<s n="vblex"/></l><r>mow<s n="vblex"/></r></p></e>
-<e c="also figuratively"><p><l>քաղել<s n="vblex"/></l><r>reap<s n="vblex"/></r></p></e>
 <e c=""><p><l>քաղցել<s n="vblex"/></l><r>be hungry<s n="vblex"/></r></p></e>
-<e c=""><p><l>քամել<s n="vblex"/></l><r>squeeze out<s n="vblex"/></r></p></e>
-<e c=""><p><l>քամել<s n="vblex"/></l><r>press out<s n="vblex"/></r></p></e>
-<e c=""><p><l>քամել<s n="vblex"/></l><r>wring<s n="vblex"/></r></p></e>
-<e c=""><p><l>քամել<s n="vblex"/></l><r>strain<s n="vblex"/></r></p></e>
-<e c=""><p><l>քամել<s n="vblex"/></l><r>filter<s n="vblex"/></r></p></e>
-<e c="colloquial"><p><l>քամել<s n="vblex"/></l><r>extort the last belongings<s n="vblex"/></r></p></e>
 <e c=""><p><l>քայլել<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>
 <e c=""><p><l>քայլել<s n="vblex"/></l><r>step<s n="vblex"/></r></p></e>
 <e c=""><p><l>քայլել<s n="vblex"/></l><r>pace<s n="vblex"/></r></p></e>
 <e c=""><p><l>քայլել<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
-<e c=""><p><l>քանդել<s n="vblex"/></l><r>destroy<s n="vblex"/></r></p></e>
-<e c=""><p><l>քանդել<s n="vblex"/></l><r>demolish<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաշել<s n="vblex"/></l><r>pull<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաշել<s n="vblex"/></l><r>drag<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաշել<s n="vblex"/></l><r>weigh<s n="vblex"/></r></p></e>
-<e c="figuratively"><p><l>քաշել<s n="vblex"/></l><r>endure<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաշել<s n="vblex"/></l><r>bear<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաշել<s n="vblex"/></l><r>take after<s n="vblex"/></r></p></e>
-<e c=""><p><l>քաշել<s n="vblex"/></l><r>resemble someone<s n="vblex"/></r></p></e>
-<e c="colloquial"><p><l>քաշել<s n="vblex"/></l><r>last<s n="vblex"/></r></p></e>
 <e c=""><p><l>քավել<s n="vblex"/></l><r>atone for<s n="vblex"/></r></p></e>
 <e c=""><p><l>քավել<s n="vblex"/></l><r>receive absolution<s n="vblex"/></r></p></e>
-<e c=""><p><l>քարոզել<s n="vblex"/></l><r>preach<s n="vblex"/></r></p></e>
-<e c=""><p><l>քարոզել<s n="vblex"/></l><r>sermonise<s n="vblex"/></r></p></e>
-<e c=""><p><l>քարոզել<s n="vblex"/></l><r>propagate<s n="vblex"/></r></p></e>
-<e c="views"><p><l>քարոզել<s n="vblex"/></l><r>advocate<s n="vblex"/></r></p></e>
 <e c="vulgar"><p><l>քաքել<s n="vblex"/></l><r>shit<s n="vblex"/></r></p></e>
 <e c=""><p><l>քաքել<s n="vblex"/></l><r>crap<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>քերել<s n="vblex"/></l><r>scrape<s n="vblex"/></r></p></e>
-<e c=""><p><l>քերել<s n="vblex"/></l><r>scrub<s n="vblex"/></r></p></e>
-<e c=""><p><l>քերծել<s n="vblex"/></l><r>scratch<s n="vblex"/></r></p></e>
-<e c="towards"><p><l>քծնել<s n="vblex"/></l><r>be obsequious<s n="vblex"/></r></p></e>
-<e c="upon"><p><l>քծնել<s n="vblex"/></l><r>fawn<s n="vblex"/></r></p></e>
-<e c="to"><p><l>քծնել<s n="vblex"/></l><r>cringe<s n="vblex"/></r></p></e>
 <e c=""><p><l>քնել<s n="vblex"/></l><r>sleep<s n="vblex"/></r></p></e>
 <e c=""><p><l>քնել<s n="vblex"/></l><r>go sleep<s n="vblex"/></r></p></e>
 <e c=""><p><l>քնել<s n="vblex"/></l><r>fall asleep<s n="vblex"/></r></p></e>
 <e c="euphemistic"><p><l>քնել<s n="vblex"/></l><r>have sex<s n="vblex"/></r></p></e>
 <e c=""><p><l>քնել<s n="vblex"/></l><r>make love<s n="vblex"/></r></p></e>
 <e c="euphemistic"><p><l>քնել<s n="vblex"/></l><r>die<s n="vblex"/></r></p></e>
-<e c=""><p><l>քննադատել<s n="vblex"/></l><r>criticise<s n="vblex"/></r></p></e>
-<e c=""><p><l>քննարկել<s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
-<e c=""><p><l>քննել<s n="vblex"/></l><r>examine<s n="vblex"/></r></p></e>
-<e c=""><p><l>քննել<s n="vblex"/></l><r>inspect<s n="vblex"/></r></p></e>
-<e c=""><p><l>քննել<s n="vblex"/></l><r>study<s n="vblex"/></r></p></e>
-<e c=""><p><l>քշել<s n="vblex"/></l><r>chase away<s n="vblex"/></r></p></e>
-<e c=""><p><l>քշել<s n="vblex"/></l><r>drive away<s n="vblex"/></r></p></e>
 <e c=""><p><l>քոչել<s n="vblex"/></l><r>roam from place place<s n="vblex"/></r></p></e>
 <e c=""><p><l>քոչել<s n="vblex"/></l><r>be a nomad<s n="vblex"/></r></p></e>
 <e c=""><p><l>քոչել<s n="vblex"/></l><r>lead a nomad's life<s n="vblex"/></r></p></e>
 <e c=""><p><l>քոչել<s n="vblex"/></l><r>migrate<s n="vblex"/></r></p></e>
-<e c="an itching body part"><p><l>քորել<s n="vblex"/></l><r>scratch<s n="vblex"/></r></p></e>
-<e c="vulgar, transitive"><p><l>քունել<s n="vblex"/></l><r>fuck<s n="vblex"/></r></p></e>
 <e c=""><p><l>քրտնել<s n="vblex"/></l><r>sweat<s n="vblex"/></r></p></e>
 <e c=""><p><l>քրտնել<s n="vblex"/></l><r>perspire<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>քրտնել<s n="vblex"/></l><r>toil<s n="vblex"/></r></p></e>
@@ -12528,15 +12538,6 @@
 <e c=""><p><l>օգնել<s n="vblex"/></l><r>help<s n="vblex"/></r></p></e>
 <e c=""><p><l>օգնել<s n="vblex"/></l><r>assist<s n="vblex"/></r></p></e>
 <e c=""><p><l>օգնել<s n="vblex"/></l><r>aid<s n="vblex"/></r></p></e>
-<e c=""><p><l>օգտագործել<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
-<e c=""><p><l>օգտագործել<s n="vblex"/></l><r>utilise<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>օծել<s n="vblex"/></l><r>perfume<s n="vblex"/></r></p></e>
-<e c=""><p><l>օծել<s n="vblex"/></l><r>scent<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>օծել<s n="vblex"/></l><r>spray<s n="vblex"/></r></p></e>
-<e c=""><p><l>օծել<s n="vblex"/></l><r>sprinkle<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>օծել<s n="vblex"/></l><r>anoint<s n="vblex"/></r></p></e>
-<e c="transitive, religion"><p><l>օծել<s n="vblex"/></l><r>consecrate<s n="vblex"/></r></p></e>
-<e c=""><p><l>օծել<s n="vblex"/></l><r>sanctify<s n="vblex"/></r></p></e>
 <e c=""><p><l>ֆշշալ<s n="vblex"/></l><r>hiss<s n="vblex"/></r></p></e>
 </section>
 </dictionary>
