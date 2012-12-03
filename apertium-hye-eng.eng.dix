@@ -43352,6 +43352,10 @@
     <e><i>'s</i><par n="'s__gen"/></e>
     <e lm="about"><i>about</i><par n="at__pr"/></e>
     <e lm="via"><i>via</i><par n="at__pr"/></e>
+    <e lm="across"><i>across</i><par n="at__pr"/></e>
+    <e lm="equal to"><i>equal<b/>to</i><par n="at__pr"/></e>
+    <e lm="higher than"><i>higher<b/>than</i><par n="at__pr"/></e>
+    <e lm="based on"><i>based<b/>on</i><par n="at__pr"/></e>
     <e lm="than"><i>than</i><par n="at__pr"/></e>
     <e lm="plus"><i>plus</i><par n="at__pr"/></e>
     <e lm="in the amount of"><i>in<b/>the<b/>amount<b/>of</i><par n="at__pr"/></e>

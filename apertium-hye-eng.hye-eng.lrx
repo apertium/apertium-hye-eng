@@ -9,10 +9,16 @@
     <match lemma="ծեծել" tags="vblex.*"><select lemma="thrash" tags="vblex.*"/></match>
   </rule>
   <rule>
+    <match lemma="օգտագործել" tags="vblex.*"><select lemma="use" tags="vblex.*"/></match>
+  </rule>
+  <rule>
     <match lemma="ուզել" tags="vblex.*"><select lemma="want" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="թռչել" tags="vblex.*"><select lemma="fly" tags="vblex.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="մարդկային" tags="adj.*"><select lemma="human" tags="adj"/></match>
   </rule>
   <rule>
     <match lemma="միակ" tags="adj"><select lemma="only" tags="adj"/></match>
