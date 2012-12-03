@@ -9334,6 +9334,8 @@
 
 <e c=""><p><l>համաձայն<s n="adj"/></l><r>in<b/>agreement<s n="adj"/></r></p></e>
 
+<e c=""><p><l>նորմալ<s n="adj"/></l><r>ordinary<s n="adj"/></r></p></e>
+<e c=""><p><l>նորմալ<s n="adj"/></l><r>normal<s n="adj"/></r></p></e>
 <e c=""><p><l>նախկին<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
 <e c=""><p><l>դիտորդական<s n="adj"/></l><r>observer<s n="adj"/></r></p></e>
 <e c=""><p><l>դիտորդական<s n="adj"/></l><r>observation<s n="adj"/></r></p></e>
@@ -11216,7 +11218,7 @@
 <e c="Western Armenian"><p><l>ըլլալ<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
 <e c="literary"><p><l>ըղձալ<s n="vblex"/></l><r>long for<s n="vblex"/></r></p></e>
 <e c="literary"><p><l>ըմպել<s n="vblex"/></l><r>imbibe<s n="vblex"/></r></p></e>
-<e c=""><p><l>ըմպել<s n="vblex"/></l><r>drink<s n="vblex"/></r></p></e>
+<e c=""><p><l>ըմպել<s n="vblex"/><s n="tv"/></l><r>drink<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդարմանալ<s n="vblex"/></l><r>be rendered senseless<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդարմանալ<s n="vblex"/></l><r>benumbed<s n="vblex"/></r></p></e>
 <e c=""><p><l>ընդարմանալ<s n="vblex"/></l><r>deadened<s n="vblex"/></r></p></e>
@@ -11422,9 +11424,9 @@
 <e c=""><p><l>խիթալ<s n="vblex"/></l><r>distrust<s n="vblex"/></r></p></e>
 <e c="archaic"><p><l>խիթալ<s n="vblex"/></l><r>look at with an evil eye<s n="vblex"/></r></p></e>
 <e c=""><p><l>խմբագրել<s n="vblex"/></l><r>edit<s n="vblex"/></r></p></e>
-<e c=""><p><l>խմել<s n="vblex"/></l><r>drink<s n="vblex"/></r></p></e>
-<e c=""><p><l>խմել<s n="vblex"/></l><r>get drunk<s n="vblex"/></r></p></e>
-<e c=""><p><l>խմել<s n="vblex"/></l><r>grow tipsy<s n="vblex"/></r></p></e>
+<e c=""><p><l>խմել<s n="vblex"/><s n="tv"/></l><r>drink<s n="vblex"/></r></p></e>
+<e c=""><p><l>խմել<s n="vblex"/><s n="tv"/></l><r>get drunk<s n="vblex"/></r></p></e>
+<e c=""><p><l>խմել<s n="vblex"/><s n="tv"/></l><r>grow tipsy<s n="vblex"/></r></p></e>
 <e c="transitive"><p><l>խնդրել<s n="vblex"/></l><r>request<s n="vblex"/></r></p></e>
 <e c=""><p><l>խնդրել<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
 <e c="transitive"><p><l>խնդրել<s n="vblex"/></l><r>invite<s n="vblex"/></r></p></e>
@@ -11468,7 +11470,9 @@
 <e c="door"><p><l>ծեծել<s n="vblex"/></l><r>knock on<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծիծաղալ<s n="vblex"/></l><r>laugh<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծիծաղել<s n="vblex"/></l><r>laugh<s n="vblex"/></r></p></e>
-<e c=""><p><l>ծխել<s n="vblex"/></l><r>smoke<s n="vblex"/></r></p></e>
+<e c="slang"><p><l>շնչել<s n="vblex"/><s n="tv"/></l><r>smoke<s n="vblex"/></r></p></e>
+<e c="slang"><p><l>քաշել<s n="vblex"/><s n="tv"/></l><r>smoke<s n="vblex"/></r></p></e>
+<e c=""><p><l>ծխել<s n="vblex"/><s n="tv"/></l><r>smoke<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծծել<s n="vblex"/></l><r>suck<s n="vblex"/></r></p></e>
 <e c="slang, vulgar"><p><l>ծծել<s n="vblex"/></l><r>perform fellatio<s n="vblex"/></r></p></e>
 <e c=""><p><l>ծծել<s n="vblex"/></l><r>give a blowjob<s n="vblex"/></r></p></e>
@@ -12032,7 +12036,6 @@
 <e c=""><p><l>շիջել<s n="vblex"/></l><r>be extinguished or quenched<s n="vblex"/></r></p></e>
 <e c=""><p><l>շնչել<s n="vblex"/></l><r>breathe<s n="vblex"/></r></p></e>
 <e c=""><p><l>շնչել<s n="vblex"/></l><r>respire<s n="vblex"/></r></p></e>
-<e c="slang"><p><l>շնչել<s n="vblex"/></l><r>smoke<s n="vblex"/></r></p></e>
 <e c=""><p><l>շողալ<s n="vblex"/></l><r>shine<s n="vblex"/></r></p></e>
 <e c=""><p><l>շպրտել<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
 <e c="vulgar, slang"><p><l>շռել<s n="vblex"/></l><r>piss<s n="vblex"/></r></p></e>
@@ -12483,7 +12486,6 @@
 <e c=""><p><l>քաշել<s n="vblex"/></l><r>bear<s n="vblex"/></r></p></e>
 <e c=""><p><l>քաշել<s n="vblex"/></l><r>take after<s n="vblex"/></r></p></e>
 <e c=""><p><l>քաշել<s n="vblex"/></l><r>resemble someone<s n="vblex"/></r></p></e>
-<e c="slang"><p><l>քաշել<s n="vblex"/></l><r>smoke<s n="vblex"/></r></p></e>
 <e c="colloquial"><p><l>քաշել<s n="vblex"/></l><r>last<s n="vblex"/></r></p></e>
 <e c=""><p><l>քավել<s n="vblex"/></l><r>atone for<s n="vblex"/></r></p></e>
 <e c=""><p><l>քավել<s n="vblex"/></l><r>receive absolution<s n="vblex"/></r></p></e>
