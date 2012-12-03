@@ -2617,9 +2617,9 @@
 <e c=""><p><l>իներտ<b/>գազ<s n="n"/><s n="aa"/></l><r>inert gas<s n="n"/></r></p></e>
 <e c=""><p><l>ինտերլինգվա<s n="n"/><s n="aa"/></l><r>Interlingua<s n="n"/></r></p></e>
 <e c=""><p><l>ինտերնետ<s n="n"/><s n="aa"/></l><r>Internet<s n="n"/></r></p></e>
-<e c=""><p><l>ինքնաթիռ<s n="n"/><s n="nn"/></l><r>airplane<s n="n"/></r></p></e>
+<e c=""><p><l>ինքնաթիռ<s n="n"/><s n="nn"/></l><r>aeroplane<s n="n"/></r></p></e>
 <e c=""><p><l>ինքնաշարժ<s n="n"/><s n="nn"/></l><r>automobile<s n="n"/></r></p></e>
-<e c=""><p><l>ինքնավար<b/>մարզ<s n="n"/><s n="nn"/></l><r>autonomous oblast<s n="n"/></r></p></e>
+<e c=""><p><l>ինքնավար<b/>մարզ<s n="n"/><s n="nn"/></l><r>autonomous<b/>oblast<s n="n"/></r></p></e>
 <e c=""><p><l>իշամեղու<s n="n"/><s n="nn"/></l><r>bumblebee<s n="n"/></r></p></e>
 <e c=""><p><l>իշլի<b/>քյուֆթա<s n="n"/><s n="nn"/></l><r>kibbeh<s n="n"/></r></p></e>
 <e c=""><p><l>իշխան<s n="n"/><s n="aa"/></l><r>prince<s n="n"/></r></p></e>
@@ -7520,19 +7520,19 @@
 <e c=""><p><l>քեն<s n="n"/><s n="nn"/></l><r>revenge<s n="n"/></r></p></e>
 <e c=""><p><l>քլոր<s n="n"/><s n="nn"/></l><r>chlorine<s n="n"/></r></p></e>
 <e c=""><p><l>քյուֆթա<s n="n"/><s n="nn"/></l><r>kofta<s n="n"/></r></p></e>
-<e c="dialectal"><p><l>քոչ<s n="n"/><s n="nn"/></l><r>camp of nomads<s n="n"/></r></p></e>
-<e c="dialectal, colloquial"><p><l>քոռ<s n="n"/><s n="nn"/></l><r>blind person<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>քոչ<s n="n"/><s n="nn"/></l><r>camp<g><b/>of<b/>nomads</g><s n="n"/></r></p></e>
+<e c="dialectal, colloquial"><p><l>քոռ<s n="n"/><s n="aa"/></l><r>blind<b/>person<s n="n"/></r></p></e>
 <e c=""><p><l>քուն<s n="n"/><s n="nn"/></l><r>sleep<s n="n"/></r></p></e>
 <e c=""><p><l>քուն<s n="n"/><s n="nn"/></l><r>slumber<s n="n"/></r></p></e>
 <e c=""><p><l>օդ<s n="n"/><s n="nn"/></l><r>air<s n="n"/></r></p></e>
 <e c="somewhat formal"><p><l>օդանավ<s n="n"/><s n="nn"/></l><r>plane<s n="n"/></r></p></e>
-<e c="somewhat formal"><p><l>օդանավ<s n="n"/><s n="nn"/></l><r>airplane<s n="n"/></r></p></e>
+<e c="somewhat formal"><p><l>օդանավ<s n="n"/><s n="nn"/></l><r>aeroplane<s n="n"/></r></p></e>
 <e c="dialectal, colloquial"><p><l>օյին<s n="n"/><s n="nn"/></l><r>trick<s n="n"/></r></p></e>
 <e c="dialectal, colloquial"><p><l>օյին<s n="n"/><s n="nn"/></l><r>prank<s n="n"/></r></p></e>
 <e c="dialectal, colloquial"><p><l>օյին<s n="n"/><s n="nn"/></l><r>turn<s n="n"/></r></p></e>
 <e c=""><p><l>օր<s n="n"/><s n="nn"/></l><r>day<s n="n"/></r></p></e>
 <e c=""><p><l>օր<s n="n"/><s n="nn"/></l><r>once<s n="n"/></r></p></e>
-<e c=""><p><l>ֆարերեն<s n="n"/><s n="nn"/></l><r>Faroese language<s n="n"/></r></p></e>
+<e c="language"><p><l>ֆարերեն<s n="n"/><s n="nn"/></l><r>Faroese<s n="n"/></r></p></e>
 <e c="colloquial"><p><l>ֆլոմ<s n="n"/><s n="nn"/></l><r>felt-tip pen<s n="n"/></r></p></e>
 <e c="different standards of weight"><p><l>ֆունտ<s n="n"/><s n="nn"/></l><r>pound<s n="n"/></r></p></e>
 <e c="numismatics"><p><l>ֆունտ<s n="n"/><s n="nn"/></l><r>pound sterling<s n="n"/></r></p></e>
@@ -7542,13 +7542,13 @@
 
 <e c=""><p><l>ադամանդագործ<s n="n"/><s n="aa"/></l><r>diamond-cutter<s n="n"/></r></p></e>
 <e c=""><p><l>ադամանդագործ<s n="n"/><s n="aa"/></l><r>diamond-maker<s n="n"/></r></p></e>
-<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>huge man<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>huge<b/>man<s n="n"/></r></p></e>
 <e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>giant<s n="n"/></r></p></e>
-<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>supernatural being<s n="n"/></r></p></e>
+<e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>supernatural<b/>being<s n="n"/></r></p></e>
 <e c="dialectal"><p><l>ազնավուր<s n="n"/><s n="aa"/></l><r>spirit<s n="n"/></r></p></e>
 <e c="historical"><p><l>ալան<s n="n"/><s n="aa"/></l><r>Alan<s n="n"/></r></p></e>
 <e c=""><p><l>ախազ<s n="n"/><s n="aa"/></l><r>ermine<s n="n"/></r></p></e>
-<e c="pejorative"><p><l>ախպար<s n="n"/><s n="aa"/></l><r>a Western Armenian<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>ախպար<s n="n"/><s n="aa"/></l><r>Western<b/>Armenian<s n="n"/></r></p></e> <!-- a-->
 <e c=""><p><l>աղանդավոր<s n="n"/><s n="aa"/></l><r>sectary<s n="n"/></r></p></e>
 <e c=""><p><l>աղանդավոր<s n="n"/><s n="aa"/></l><r>sectarian<s n="n"/></r></p></e>
 <!--<e c=""><p><l>աղանդավոր<s n="n"/><s n="aa"/></l><r>member of a sect<s n="n"/></r></p></e>-->
@@ -7556,15 +7556,16 @@
 <e c=""><p><l>աղավնի<s n="n"/><s n="aa"/></l><r>pigeon<s n="n"/></r></p></e>
 <e c="archaic, poetic"><p><l>աղիճ<s n="n"/><s n="aa"/></l><r>girl<s n="n"/></r></p></e>
 <e c=""><p><l>աղվես<s n="n"/><s n="aa"/></l><r>fox<s n="n"/></r></p></e>
-<e c="figuratively"><p><l>աղվես<s n="n"/><s n="aa"/></l><r>cunning person<s n="n"/></r></p></e>
+<e c="figuratively"><p><l>աղվես<s n="n"/><s n="aa"/></l><r>cunning<b/>person<s n="n"/></r></p></e>
 <e c=""><p><l>ամիկ<s n="n"/><s n="aa"/></l><r>one year old he-kid<s n="n"/></r></p></e>
 <!--<e c=""><p><l>ամլիկ<s n="n"/><s n="aa"/></l><r>a lamb or child of<s n="n"/></r></p></e>-->
 <e c=""><p><l>ամլիկ<s n="n"/><s n="aa"/></l><r>under one year age<s n="n"/></r></p></e>
 <e c=""><p><l>այծ<s n="n"/><s n="aa"/></l><r>goat<s n="n"/></r></p></e>
-<e c="archaic"><p><l>այս<s n="n"/><s n="aa"/></l><r>evil spirit<s n="n"/></r></p></e>
-<e c="usually a widow"><p><l>այրի<s n="n"/><s n="aa"/></l><r>widow or widower<s n="n"/></r></p></e>
-<e c="pejorative"><p><l>այրուկ<s n="n"/><s n="aa"/></l><r>small man<s n="n"/></r></p></e>
-<e c="pejorative"><p><l>այրուկ<s n="n"/><s n="aa"/></l><r>puny man<s n="n"/></r></p></e>
+<e c="archaic"><p><l>այս<s n="n"/><s n="aa"/></l><r>evil<b/>spirit<s n="n"/></r></p></e>
+<e c="usually a widow"><p><l>այրի<s n="n"/><s n="aa"/></l><r>widow<s n="n"/></r></p></e>
+<e c="usually a widow"><p><l>այրի<s n="n"/><s n="aa"/></l><r>widower<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>այրուկ<s n="n"/><s n="aa"/></l><r>small<b/>man<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>այրուկ<s n="n"/><s n="aa"/></l><r>puny<b/>man<s n="n"/></r></p></e>
 <e c="historical"><p><l>անարի<s n="n"/><s n="aa"/></l><r>non-Aryan<s n="n"/></r></p></e>
 <e c="historical"><p><l>անարի<s n="n"/><s n="aa"/></l><r>non-Iranian<s n="n"/></r></p></e>
 <e c="dialectal"><p><l>ապեր<s n="n"/><s n="aa"/></l><r>brother<s n="n"/></r></p></e>
