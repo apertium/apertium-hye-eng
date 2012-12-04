@@ -9,6 +9,7 @@
 /apertium-hye-eng.hye-eng.t3x -text
 /apertium-hye-eng.hye.dix -text
 dev/actions.txt -text
+dev/nouns-and-multiwords.txt -text
 dev/nouns.txt -text
 dev/testvoc/inconsistency-summary.sh -text
 dev/testvoc/inconsistency.sh -text
