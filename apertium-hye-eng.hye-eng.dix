@@ -12573,5 +12573,1399 @@
 <e c=""><p><l>օգնել<s n="vblex"/></l><r>assist<s n="vblex"/></r></p></e>
 <e c=""><p><l>օգնել<s n="vblex"/></l><r>aid<s n="vblex"/></r></p></e>
 <e c=""><p><l>ֆշշալ<s n="vblex"/></l><r>hiss<s n="vblex"/></r></p></e>
+
+
+<!-- unchecked adjectives: -->
+<e c=""><p><l>մյուս<s n="adj"/></l><r>other<s n="adj"/></r></p></e>
+<e c=""><p><l>կարմիր<s n="adj"/></l><r>red<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>վատ<s n="adj"/><s n="sint"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>վատ<s n="adj"/><s n="sint"/></l><r>the<b/>bad<s n="adj"/></r></p></e>
+<e c=""><p><l>վատ<s n="adj"/><s n="sint"/></l><r>fainthearted<s n="adj"/></r></p></e>
+<e c=""><p><l>վատ<s n="adj"/><s n="sint"/></l><r>cowardly<s n="adj"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>sizable<s n="adj"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>large-scale<s n="adj"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>great<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>important<s n="adj"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>well-known<s n="adj"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>prominent<s n="adj"/></r></p></e>
+<e c=""><p><l>խոշոր<s n="adj"/><s n="sint"/></l><r>outstanding<s n="adj"/></r></p></e>
+<e c=""><p><l>անգիր<s n="adj"/></l><r>having<b/>no<b/>written<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>անգիր<s n="adj"/></l><r>unwritten<s n="adj"/></r></p></e>
+<e c=""><p><l>անգիր<s n="adj"/></l><r>oral<s n="adj"/></r></p></e>
+<e c=""><p><l>անգիր<s n="adj"/></l><r>having<b/>no<b/>literary<b/>tradition<s n="adj"/></r></p></e>
+<e c=""><p><l>անգիր<s n="adj"/></l><r>unwritten<s n="adj"/></r></p></e>
+<e c=""><p><l>անգիր<s n="adj"/></l><r>oral<s n="adj"/></r></p></e>
+<e c=""><p><l>անգիր<s n="adj"/></l><r>unwritten<s n="adj"/></r></p></e>
+<e c=""><p><l>աքիլլեսյան<s n="adj"/></l><r>of<b/>or<b/>relating<b/>to<b/>Achilles<s n="adj"/></r></p></e>
+<e c=""><p><l>հայդուկական<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>hajduks<s n="adj"/></r></p></e>
+<e c=""><p><l>հոբելյանական<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>jubilee/anniversary<s n="adj"/></r></p></e>
+<e c=""><p><l>ռուսերեն<s n="adj"/></l><r>of<b/>or<b/>pertaing<b/>to<b/>the<b/>Russian<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>տնտեսագիտական<s n="adj"/></l><r>relating<b/>to<b/>the<b/>science<b/>of<b/>economics<b/>or<b/>to<b/>economists<s n="adj"/></r></p></e>
+<e c=""><p><l>քերականագիտական<s n="adj"/></l><r>relating<b/>to<b/>the<b/>study<b/>of<b/>grammar<s n="adj"/></r></p></e>
+<e c=""><p><l>ադամանդագործական<s n="adj"/></l><r>relating<b/>to<b/>diamond<b/>processing<s n="adj"/></r></p></e>
+<e c=""><p><l>ալեբաստրե<s n="adj"/></l><r>alabaster<s n="adj"/></r></p></e>
+<e c=""><p><l>ալեբաստրյա<s n="adj"/></l><r>alabaster<s n="adj"/></r></p></e>
+<e c=""><p><l>ականի<s n="adj"/></l><r>that<b/>has<b/>eyes<s n="adj"/></r></p></e>
+<e c=""><p><l>ականի<s n="adj"/></l><r>that<b/>sees<s n="adj"/></r></p></e>
+<e c=""><p><l>ականջատ<s n="adj"/></l><r>crop-eared<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>entire<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>all<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>without<b/>deficit<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբողջ<s n="adj"/></l><r>without<b/>interruptions<s n="adj"/></r></p></e>
+<e c=""><p><l>ամպեղեն<s n="adj"/></l><r>made<b/>of<b/>clouds<s n="adj"/></r></p></e>
+<e c=""><p><l>ամպեղեն<s n="adj"/></l><r>very<b/>high<s n="adj"/></r></p></e>
+<e c=""><p><l>ամպեղեն<s n="adj"/></l><r>reaching<b/>the<b/>clouds<s n="adj"/></r></p></e>
+<e c=""><p><l>այծենի<s n="adj"/></l><r>made<b/>of<b/>goat's<b/>hair<s n="adj"/></r></p></e>
+<e c=""><p><l>այծյա<s n="adj"/></l><r>made<b/>of<b/>goat's<b/>hair<s n="adj"/></r></p></e>
+<e c=""><p><l>այրի<s n="adj"/></l><r>widowed<s n="adj"/></r></p></e>
+<e c=""><p><l>անթառամ<s n="adj"/></l><r>unfading<s n="adj"/></r></p></e>
+<e c=""><p><l>անթառամ<s n="adj"/></l><r>everlasting<s n="adj"/></r></p></e>
+<e c=""><p><l>ապագա<s n="adj"/></l><r>future<s n="adj"/></r></p></e>
+<e c=""><p><l>ապրիլյան<s n="adj"/></l><r>April<s n="adj"/></r></p></e>
+<e c=""><p><l>առավոտյան<s n="adj"/></l><r>morning<s n="adj"/></r></p></e>
+<e c=""><p><l>ասուն<s n="adj"/></l><r>able<b/>to<b/>speak<s n="adj"/></r></p></e>
+<e c=""><p><l>ասուն<s n="adj"/></l><r>endowed<b/>with<b/>speech<s n="adj"/></r></p></e>
+<e c=""><p><l>ասպազեն<s n="adj"/></l><r>armoured<s n="adj"/></r></p></e>
+<e c=""><p><l>ասվեղ<s n="adj"/></l><r>shaggy<s n="adj"/></r></p></e>
+<e c=""><p><l>ասվեղ<s n="adj"/></l><r>woolly<s n="adj"/></r></p></e>
+<e c=""><p><l>ասվի<s n="adj"/></l><r>woolen<s n="adj"/></r></p></e>
+<e c=""><p><l>ասվյա<s n="adj"/></l><r>woollen<s n="adj"/></r></p></e>
+<e c=""><p><l>ասվյա<s n="adj"/></l><r>of<b/>wool<s n="adj"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>superfluous<s n="adj"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>unnecessary<s n="adj"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>needless<s n="adj"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>spare<s n="adj"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>unwarranted<s n="adj"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>unjust<s n="adj"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ավելորդ<s n="adj"/></l><r>wrongful<s n="adj"/></r></p></e>
+<e c=""><p><l>արամբի<s n="adj"/></l><r>married<s n="adj"/></r></p></e>
+<e c=""><p><l>արամբի<s n="adj"/></l><r>having<b/>a<b/>husband<s n="adj"/></r></p></e>
+<e c=""><p><l>արամբի<s n="adj"/></l><r>married<b/>woman<s n="adj"/></r></p></e>
+<e c=""><p><l>արգանդային<s n="adj"/></l><r>uterine<s n="adj"/></r></p></e>
+<e c=""><p><l>արդարեւ<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>արդարեւ<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
+<e c=""><p><l>արծաթ<s n="adj"/></l><r>silver<s n="adj"/></r></p></e>
+<e c=""><p><l>արծաթ<s n="adj"/></l><r>made<b/>of<b/>silver<s n="adj"/></r></p></e>
+<e c=""><p><l>արծաթ<s n="adj"/></l><r>silvery<s n="adj"/></r></p></e>
+<e c=""><p><l>արծաթ<s n="adj"/></l><r>of<b/>silver<b/>color<s n="adj"/></r></p></e>
+<e c=""><p><l>արծաթ<s n="adj"/></l><r>silvery<s n="adj"/></r></p></e>
+<e c=""><p><l>արծաթի<s n="adj"/></l><r>made<b/>of<b/>silver<s n="adj"/></r></p></e>
+<e c=""><p><l>արծրունյաց<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>w:Artsruni|Artsruni<b/>noble<b/>family<s n="adj"/></r></p></e>
+<e c=""><p><l>արշակունյաց<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>w:Arsacid|Arsacid<b/>dynasty<s n="adj"/></r></p></e>
+<e c=""><p><l>արու<s n="adj"/></l><r>male<s n="adj"/></r></p></e>
+<e c=""><p><l>արու<s n="adj"/></l><r>masculine<s n="adj"/></r></p></e>
+<e c=""><p><l>արքունի<s n="adj"/></l><r>royal<s n="adj"/></r></p></e>
+<e c=""><p><l>արքունի<s n="adj"/></l><r>regal<s n="adj"/></r></p></e>
+<e c=""><p><l>արքունի<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>royal<b/>court<s n="adj"/></r></p></e>
+<e c=""><p><l>բագրատունյաց<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>w:Bagratid|Bagratid<b/>dynasty<s n="adj"/></r></p></e>
+<e c=""><p><l>բանավոր<s n="adj"/></l><r>oral<s n="adj"/></r></p></e>
+<e c=""><p><l>բանավոր<s n="adj"/></l><r>verbal<s n="adj"/></r></p></e>
+<e c=""><p><l>բանավոր<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
+<e c=""><p><l>բանավոր<s n="adj"/></l><r>rational<s n="adj"/></r></p></e>
+<e c=""><p><l>բյուր<s n="adj"/></l><r>innumerable<s n="adj"/></r></p></e>
+<e c=""><p><l>բյուր<s n="adj"/></l><r>countless<s n="adj"/></r></p></e>
+<e c=""><p><l>բյուր<s n="adj"/></l><r>myriad<s n="adj"/></r></p></e>
+<e c=""><p><l>բոբիկ<s n="adj"/></l><r>barefooted<s n="adj"/></r></p></e>
+<e c=""><p><l>բոլորշի<s n="adj"/></l><r>round<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բոլորշի<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
+<e c=""><p><l>բոկ<s n="adj"/></l><r>barefooted<s n="adj"/></r></p></e>
+<e c=""><p><l>բունկեն<s n="adj"/></l><r>having<b/>holes<s n="adj"/></r></p></e>
+<e c=""><p><l>բրդյա<s n="adj"/></l><r>woolen<s n="adj"/></r></p></e>
+<e c=""><p><l>գայլենի<s n="adj"/></l><r>made<b/>of<b/>wolf's<b/>skin/fur<s n="adj"/></r></p></e>
+<e c=""><p><l>գեղմնավոր<s n="adj"/></l><r>woolly<s n="adj"/></r></p></e>
+<e c=""><p><l>գեղմնավոր<s n="adj"/></l><r>fleecy<s n="adj"/></r></p></e>
+<e c=""><p><l>գերի<s n="adj"/></l><r>captive<s n="adj"/></r></p></e>
+<e c=""><p><l>գլխագիր<s n="adj"/></l><r>capital<s n="adj"/></r></p></e>
+<e c=""><p><l>գլխագիր<s n="adj"/></l><r>uppercase<s n="adj"/></r></p></e>
+<e c=""><p><l>գրաբարյան<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>Old<b/>Armenian<b/>language<b/>(also<b/>called<b/>Grabar)<s n="adj"/></r></p></e>
+<e c=""><p><l>դեկտեմբերյան<s n="adj"/></l><r>December<s n="adj"/></r></p></e>
+<e c=""><p><l>դիեցիկ<s n="adj"/></l><r>suckling<s n="adj"/></r></p></e>
+<e c=""><p><l>եզակի<s n="adj"/></l><r>singular<s n="adj"/></r></p></e>
+<e c=""><p><l>երգեցիկ<s n="adj"/></l><r>singing<s n="adj"/></r></p></e>
+<e c=""><p><l>երեկոյան<s n="adj"/></l><r>evening<s n="adj"/></r></p></e>
+<e c=""><p><l>երեսնամյա<s n="adj"/></l><r>of<b/>thirty<b/>years<s n="adj"/></r></p></e>
+<e c=""><p><l>երեսնամյա<s n="adj"/></l><r>thirty-year<s n="adj"/></r></p></e>
+<e c=""><p><l>երեսնամյա<s n="adj"/></l><r>of<b/>thirty<s n="adj"/></r></p></e>
+<e c=""><p><l>երեսնամյա<s n="adj"/></l><r>thirty-year-old<s n="adj"/></r></p></e>
+<e c=""><p><l>երեքկին<s n="adj"/></l><r>triple<s n="adj"/></r></p></e>
+<e c=""><p><l>երթուղային<s n="adj"/></l><r>route<s n="adj"/></r></p></e>
+<e c=""><p><l>երթուղային<s n="adj"/></l><r>of<b/>a<b/>route<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթե<s n="adj"/></l><r>iron<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթե<s n="adj"/></l><r>made<b/>of<b/>iron<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթյա<s n="adj"/></l><r>iron<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթյա<s n="adj"/></l><r>made<b/>of<b/>iron<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթուղային<s n="adj"/></l><r>railroad<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթուղային<s n="adj"/></l><r>railway<s n="adj"/></r></p></e>
+<e c=""><p><l>երկսայրի<s n="adj"/></l><r>double-edged<s n="adj"/></r></p></e>
+<e c=""><p><l>երկսայրի<s n="adj"/></l><r>two-edged<s n="adj"/></r></p></e>
+<e c=""><p><l>երկսայրի<s n="adj"/></l><r>ambiguous<s n="adj"/></r></p></e>
+<e c=""><p><l>երկսայրի<s n="adj"/></l><r>that<b/>can<b/>be<b/>understood<b/>two<b/>ways<s n="adj"/></r></p></e>
+<e c=""><p><l>զուգահեռ<s n="adj"/></l><r>parallel<s n="adj"/></r></p></e>
+<e c=""><p><l>զույգ<s n="adj"/></l><r>even<s n="adj"/></r></p></e>
+<e c=""><p><l>զույգ<s n="adj"/></l><r>not<b/>odd<s n="adj"/></r></p></e>
+<e c=""><p><l>զուր<s n="adj"/></l><r>futile<s n="adj"/></r></p></e>
+<e c=""><p><l>զուր<s n="adj"/></l><r>fruitless<s n="adj"/></r></p></e>
+<e c=""><p><l>զուր<s n="adj"/></l><r>vain<s n="adj"/></r></p></e>
+<e c=""><p><l>զուր<s n="adj"/></l><r>unavailing<s n="adj"/></r></p></e>
+<e c=""><p><l>էգ<s n="adj"/></l><r>female<s n="adj"/></r></p></e>
+<e c=""><p><l>էտրուսկյան<s n="adj"/></l><r>Etruscan<s n="adj"/></r></p></e>
+<e c=""><p><l>ընդոծին<s n="adj"/></l><r>born<b/>in<b/>the<b/>house<b/>of<b/>his<b/>master<s n="adj"/></r></p></e>
+<e c=""><p><l>ընդոծին<s n="adj"/></l><r>native<s n="adj"/></r></p></e>
+<e c=""><p><l>ընդոծին<s n="adj"/></l><r>innate<s n="adj"/></r></p></e>
+<e c=""><p><l>ընդոծին<s n="adj"/></l><r>natural<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>domestic<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>domesticated<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>not<b/>wild<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>tame<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>relating<b/>to<b/>family<b/>life<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>kindred<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>own<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>not<b/>alien<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>friendly<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ընտանի<s n="adj"/></l><r>amicable<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտրյալ<s n="adj"/></l><r>select<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտրյալ<s n="adj"/></l><r>selected<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտրյալ<s n="adj"/></l><r>elect<s n="adj"/></r></p></e>
+<e c=""><p><l>թլփատ<s n="adj"/></l><r>circumcised<s n="adj"/></r></p></e>
+<e c=""><p><l>թունելային<s n="adj"/></l><r>tunnel<s n="adj"/></r></p></e>
+<e c=""><p><l>թուրծ<s n="adj"/></l><r>hardened<s n="adj"/></r></p></e>
+<e c=""><p><l>լազերային<s n="adj"/></l><r>laser<s n="adj"/></r></p></e>
+<e c=""><p><l>լալ<s n="adj"/></l><r>dumb<s n="adj"/></r></p></e>
+<e c=""><p><l>լալ<s n="adj"/></l><r>mute<s n="adj"/></r></p></e>
+<e c=""><p><l>լալ<s n="adj"/></l><r>not<b/>having<b/>a<b/>power<b/>to<b/>speak<s n="adj"/></r></p></e>
+<e c=""><p><l>լիակազմ<s n="adj"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>լիակազմ<s n="adj"/></l><r>in<b/>a<b/>body<s n="adj"/></r></p></e>
+<e c=""><p><l>լիակազմ<s n="adj"/></l><r>in<b/>full<b/>force<s n="adj"/></r></p></e>
+<e c=""><p><l>լուսունակ<s n="adj"/></l><r>having<b/>light<s n="adj"/></r></p></e>
+<e c=""><p><l>լքյալ<s n="adj"/></l><r>abandoned<s n="adj"/></r></p></e>
+<e c=""><p><l>լքյալ<s n="adj"/></l><r>castaway<s n="adj"/></r></p></e>
+<e c=""><p><l>խորանարդ<s n="adj"/></l><r>cubic<s n="adj"/></r></p></e>
+<e c=""><p><l>ծաղկյա<s n="adj"/></l><r>floral<s n="adj"/></r></p></e>
+<e c=""><p><l>ծաղկյա<s n="adj"/></l><r>of<b/>a<b/>flower<s n="adj"/></r></p></e>
+<e c=""><p><l>ծաղկյա<s n="adj"/></l><r>flowered<s n="adj"/></r></p></e>
+<e c=""><p><l>ծաղկյա<s n="adj"/></l><r>decorated<b/>with<b/>flowers<s n="adj"/></r></p></e>
+<e c=""><p><l>ծաղկյա<s n="adj"/></l><r>or<b/>images<b/>of<b/>flowers.<s n="adj"/></r></p></e>
+<e c=""><p><l>ծլիկային<s n="adj"/></l><r>clitoral<s n="adj"/></r></p></e>
+<e c=""><p><l>կանամբի<s n="adj"/></l><r>having<b/>a<b/>wife<s n="adj"/></r></p></e>
+<e c=""><p><l>կանամբի<s n="adj"/></l><r>married<s n="adj"/></r></p></e>
+<e c=""><p><l>կանամբի<s n="adj"/></l><r>conjugated<s n="adj"/></r></p></e>
+<e c=""><p><l>կանամբի<s n="adj"/></l><r>married<b/>man<s n="adj"/></r></p></e>
+<e c=""><p><l>կաստայական<s n="adj"/></l><r>caste<s n="adj"/></r></p></e>
+<e c=""><p><l>կավեղեն<s n="adj"/></l><r>made<b/>of<b/>clay<s n="adj"/></r></p></e>
+<e c=""><p><l>կենտ<s n="adj"/></l><r>odd<s n="adj"/></r></p></e>
+<e c=""><p><l>կենտ<s n="adj"/></l><r>not<b/>even<s n="adj"/></r></p></e>
+<e c=""><p><l>կենտրոնաձիգ<s n="adj"/></l><r>centripetal<s n="adj"/></r></p></e>
+<e c=""><p><l>կոկոսյան<s n="adj"/></l><r>coco<s n="adj"/></r></p></e>
+<e c=""><p><l>կոկոսյան<s n="adj"/></l><r>coconut<s n="adj"/></r></p></e>
+<e c=""><p><l>կոճկեն<s n="adj"/></l><r>ornamented<b/>with<b/>many<b/>buttons<s n="adj"/></r></p></e>
+<e c=""><p><l>կոնական<s n="adj"/></l><r>conic<s n="adj"/></r></p></e>
+<e c=""><p><l>կոնական<s n="adj"/></l><r>conical<s n="adj"/></r></p></e>
+<e c=""><p><l>կրավորական<s n="adj"/></l><r>passive<s n="adj"/></r></p></e>
+<e c=""><p><l>համաժամանակյա<s n="adj"/></l><r>synchronous<s n="adj"/></r></p></e>
+<e c=""><p><l>համաժամանակյա<s n="adj"/></l><r>synchronic<s n="adj"/></r></p></e>
+<e c=""><p><l>համակարգչային<s n="adj"/></l><r>computer<s n="adj"/></r></p></e>
+<e c=""><p><l>համր<s n="adj"/></l><r>dumb<s n="adj"/></r></p></e>
+<e c=""><p><l>համր<s n="adj"/></l><r>speechless<s n="adj"/></r></p></e>
+<e c=""><p><l>համր<s n="adj"/></l><r>mute<s n="adj"/></r></p></e>
+<e c=""><p><l>հայկյան<s n="adj"/></l><r>Armenian<s n="adj"/></r></p></e>
+<e c=""><p><l>հայկյան<s n="adj"/></l><r>of<b/>or<b/>relating<b/>to<b/>Hayk<s n="adj"/></r></p></e>
+<e c=""><p><l>հայոց<s n="adj"/></l><r>Armenian<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրենյաց<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>one's<b/>native<b/>country<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրենյաց<s n="adj"/></l><r>motherland<s n="adj"/></r></p></e>
+<e c=""><p><l>հեծյալ<s n="adj"/></l><r>mounted<s n="adj"/></r></p></e>
+<e c=""><p><l>հեծյալ<s n="adj"/></l><r>horseback<s n="adj"/></r></p></e>
+<e c=""><p><l>հյուսկեն<s n="adj"/></l><r>braided<s n="adj"/></r></p></e>
+<e c=""><p><l>հյուսկեն<s n="adj"/></l><r>wattled<s n="adj"/></r></p></e>
+<e c=""><p><l>հյուսկեն<s n="adj"/></l><r>woven<s n="adj"/></r></p></e>
+<e c=""><p><l>հոգնակի<s n="adj"/></l><r>plural<s n="adj"/></r></p></e>
+<e c=""><p><l>հոկտեմբերյան<s n="adj"/></l><r>October<s n="adj"/></r></p></e>
+<e c=""><p><l>հուլիսյան<s n="adj"/></l><r>July<s n="adj"/></r></p></e>
+<e c=""><p><l>հունիսյան<s n="adj"/></l><r>June<s n="adj"/></r></p></e>
+<e c=""><p><l>հունվարյան<s n="adj"/></l><r>January<s n="adj"/></r></p></e>
+<e c=""><p><l>հսկա<s n="adj"/></l><r>gigantic<s n="adj"/></r></p></e>
+<e c=""><p><l>հսկա<s n="adj"/></l><r>giant<s n="adj"/></r></p></e>
+<e c=""><p><l>հրեական<s n="adj"/></l><r>Jewish<s n="adj"/></r></p></e>
+<e c=""><p><l>ձերբակալ<s n="adj"/></l><r>arrested<s n="adj"/></r></p></e>
+<e c=""><p><l>ձկնորսական<s n="adj"/></l><r>fishing<s n="adj"/></r></p></e>
+<e c=""><p><l>ձկնորսական<s n="adj"/></l><r>piscatory<s n="adj"/></r></p></e>
+<e c=""><p><l>ձկնորսական<s n="adj"/></l><r>piscatorial<s n="adj"/></r></p></e>
+<e c=""><p><l>ձմեռային<s n="adj"/></l><r>winter<s n="adj"/></r></p></e>
+<e c=""><p><l>ձմեռային<s n="adj"/></l><r>wintry<s n="adj"/></r></p></e>
+<e c=""><p><l>ձույլ<s n="adj"/></l><r>cast<s n="adj"/></r></p></e>
+<e c=""><p><l>ձույլ<s n="adj"/></l><r>smelted<s n="adj"/></r></p></e>
+<e c=""><p><l>ձույլ<s n="adj"/></l><r>founded<s n="adj"/></r></p></e>
+<e c=""><p><l>ձրի<s n="adj"/></l><r>free<b/>(of<b/>charge)<s n="adj"/></r></p></e>
+<e c=""><p><l>ձրի<s n="adj"/></l><r>gratuitous<s n="adj"/></r></p></e>
+<e c=""><p><l>մայիսյան<s n="adj"/></l><r>May<s n="adj"/></r></p></e>
+<e c=""><p><l>մանվածքային<s n="adj"/></l><r>spinning<s n="adj"/></r></p></e>
+<e c=""><p><l>մաշկյա<s n="adj"/></l><r>made<b/>of<b/>skin/leather<s n="adj"/></r></p></e>
+<e c=""><p><l>մարտյան<s n="adj"/></l><r>March<s n="adj"/></r></p></e>
+<e c=""><p><l>մեն<s n="adj"/></l><r>one<s n="adj"/></r></p></e>
+<e c=""><p><l>մեն<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
+<e c=""><p><l>մեն<s n="adj"/></l><r>sole<s n="adj"/></r></p></e>
+<e c=""><p><l>մեն<s n="adj"/></l><r>each<s n="adj"/></r></p></e>
+<e c=""><p><l>միատոն<s n="adj"/></l><r>monotone<s n="adj"/></r></p></e>
+<e c=""><p><l>միզուկային<s n="adj"/></l><r>urethral<s n="adj"/></r></p></e>
+<e c=""><p><l>մնացյալ<s n="adj"/></l><r>remaining<s n="adj"/></r></p></e>
+<e c=""><p><l>մսացու<s n="adj"/></l><r>(intended)<b/>for<b/>slaughter<s n="adj"/></r></p></e>
+<e c=""><p><l>նեյտրոնային<s n="adj"/></l><r>neutron<s n="adj"/></r></p></e>
+<e c=""><p><l>նոյեմբերյան<s n="adj"/></l><r>November<s n="adj"/></r></p></e>
+<e c=""><p><l>նորմատիվ<s n="adj"/></l><r>normative<s n="adj"/></r></p></e>
+<e c=""><p><l>նորմատիվ<s n="adj"/></l><r>standard<s n="adj"/></r></p></e>
+<e c=""><p><l>շղթայական<s n="adj"/></l><r>chain<s n="adj"/></r></p></e>
+<e c=""><p><l>շնչավոր<s n="adj"/></l><r>animated<s n="adj"/></r></p></e>
+<e c=""><p><l>շնչավոր<s n="adj"/></l><r>animate<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկե<s n="adj"/></l><r>golden<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկեզօծ<s n="adj"/></l><r>gilded<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկեզօծ<s n="adj"/></l><r>gilt<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկի<s n="adj"/></l><r>golden<s n="adj"/></r></p></e>
+<e c=""><p><l>որբ<s n="adj"/></l><r>orphaned<s n="adj"/></r></p></e>
+<e c=""><p><l>ունչատ<s n="adj"/></l><r>noseless<s n="adj"/></r></p></e>
+<e c=""><p><l>չափազանց<s n="adj"/></l><r>extreme<s n="adj"/></r></p></e>
+<e c=""><p><l>չափազանց<s n="adj"/></l><r>excessive<s n="adj"/></r></p></e>
+<e c=""><p><l>չափազանց<s n="adj"/></l><r>undue<s n="adj"/></r></p></e>
+<e c=""><p><l>պալասատովի<s n="adj"/></l><r>striped<s n="adj"/></r></p></e>
+<e c=""><p><l>պալասատովի<s n="adj"/></l><r>stripy<s n="adj"/></r></p></e>
+<e c=""><p><l>պամիրյան<s n="adj"/></l><r>Pamir<s n="adj"/></r></p></e>
+<e c=""><p><l>պարկավոր<s n="adj"/></l><r>marsupial<s n="adj"/></r></p></e>
+<e c=""><p><l>պարսկերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Persian<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>պլենար<s n="adj"/></l><r>plenary<s n="adj"/></r></p></e>
+<e c=""><p><l>պլենար<s n="adj"/></l><r>in<b/>full<b/>attendance<s n="adj"/></r></p></e>
+<e c=""><p><l>պնչատ<s n="adj"/></l><r>flat-nosed<s n="adj"/></r></p></e>
+<e c=""><p><l>պնչատ<s n="adj"/></l><r>snub-nosed<s n="adj"/></r></p></e>
+<e c=""><p><l>պնչատ<s n="adj"/></l><r>noseless<s n="adj"/></r></p></e>
+<e c=""><p><l>ջրածնային<s n="adj"/></l><r>hydrogen<s n="adj"/></r></p></e>
+<e c=""><p><l>ռնգական<s n="adj"/></l><r>nasal<s n="adj"/></r></p></e>
+<e c=""><p><l>սահմանական<s n="adj"/></l><r>indicative<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>alive<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>not<b/>dead<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>unscathed<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>unhurt<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>harmless<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>all<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղ<s n="adj"/></l><r>entire<s n="adj"/></r></p></e>
+<e c=""><p><l>սեպտեմբերյան<s n="adj"/></l><r>September<s n="adj"/></r></p></e>
+<e c=""><p><l>ստերջ<s n="adj"/></l><r>barren<s n="adj"/></r></p></e>
+<e c=""><p><l>ստերջ<s n="adj"/></l><r>sterile<s n="adj"/></r></p></e>
+<e c=""><p><l>ստերջ<s n="adj"/></l><r>dry<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ստերջ<s n="adj"/></l><r>barren<b/>land<s n="adj"/></r></p></e>
+<e c=""><p><l>սրճագույն<s n="adj"/></l><r>coffee-coloured<s n="adj"/></r></p></e>
+<e c=""><p><l>վայրկենական<s n="adj"/></l><r>instantaneous<s n="adj"/></r></p></e>
+<e c=""><p><l>վայրկենական<s n="adj"/></l><r>momentary<s n="adj"/></r></p></e>
+<e c=""><p><l>վարդագույն<s n="adj"/></l><r>pink<s n="adj"/></r></p></e>
+<e c=""><p><l>վեր<s n="adj"/></l><r>more<b/>than<s n="adj"/></r></p></e>
+<e c=""><p><l>վեր<s n="adj"/></l><r>beyond<s n="adj"/></r></p></e>
+<e c=""><p><l>տաղտկավուն<s n="adj"/></l><r>dullish<s n="adj"/></r></p></e>
+<e c=""><p><l>տարաժամանակյա<s n="adj"/></l><r>diachronic<s n="adj"/></r></p></e>
+<e c=""><p><l>տարաժամանակյա<s n="adj"/></l><r>diachronic<s n="adj"/></r></p></e>
+<e c=""><p><l>տարածաժամանակային<s n="adj"/></l><r>spacetime<s n="adj"/></r></p></e>
+<e c=""><p><l>տափակաշուրթ<s n="adj"/></l><r>having<b/>flat<b/>lips<b/>or<b/>edges<s n="adj"/></r></p></e>
+<e c=""><p><l>տափաստանային<s n="adj"/></l><r>steppe<s n="adj"/></r></p></e>
+<e c=""><p><l>տաքավուն<s n="adj"/></l><r>warmish<s n="adj"/></r></p></e>
+<e c=""><p><l>տաքավուն<s n="adj"/></l><r>tepid<s n="adj"/></r></p></e>
+<e c=""><p><l>տեղեկատու<s n="adj"/></l><r>informative<s n="adj"/></r></p></e>
+<e c=""><p><l>տեղեկատու<s n="adj"/></l><r>information-giving<s n="adj"/></r></p></e>
+<e c=""><p><l>տերունի<s n="adj"/></l><r>pertaining<b/>to<b/>the<b/>lord/ruler/owner<s n="adj"/></r></p></e>
+<e c=""><p><l>տերունի<s n="adj"/></l><r>pertaining<b/>to<b/>the<b/>catholicos<b/>of<b/>Armenians<s n="adj"/></r></p></e>
+<e c=""><p><l>տերունի<s n="adj"/></l><r>Lord's<s n="adj"/></r></p></e>
+<e c=""><p><l>տերունի<s n="adj"/></l><r>dominical<s n="adj"/></r></p></e>
+<e c=""><p><l>տիկնիկային<s n="adj"/></l><r>doll's<s n="adj"/></r></p></e>
+<e c=""><p><l>տիկնիկային<s n="adj"/></l><r>doll-like<s n="adj"/></r></p></e>
+<e c=""><p><l>տնային<s n="adj"/></l><r>house<s n="adj"/></r></p></e>
+<e c=""><p><l>տնային<s n="adj"/></l><r>home<s n="adj"/></r></p></e>
+<e c=""><p><l>տնային<s n="adj"/></l><r>domestic<s n="adj"/></r></p></e>
+<e c=""><p><l>րոպեական<s n="adj"/></l><r>instantaneous<s n="adj"/></r></p></e>
+<e c=""><p><l>րոպեական<s n="adj"/></l><r>momentary<s n="adj"/></r></p></e>
+<e c=""><p><l>ցրտավուն<s n="adj"/></l><r>coldish<s n="adj"/></r></p></e>
+<e c=""><p><l>փակյալ<s n="adj"/></l><r>closed<s n="adj"/></r></p></e>
+<e c=""><p><l>փակյալ<s n="adj"/></l><r>shut<s n="adj"/></r></p></e>
+<e c=""><p><l>փայտյա<s n="adj"/></l><r>wooden<s n="adj"/></r></p></e>
+<e c=""><p><l>փետրվարյան<s n="adj"/></l><r>February<s n="adj"/></r></p></e>
+<e c=""><p><l>փոքրատառ<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>փոքրատառ<s n="adj"/></l><r>lowercase<s n="adj"/></r></p></e>
+<e c=""><p><l>փոքրատառ<s n="adj"/></l><r>minuscule<s n="adj"/></r></p></e>
+<e c=""><p><l>քաղցրավուն<s n="adj"/></l><r>sweetish<s n="adj"/></r></p></e>
+<e c=""><p><l>քառակուսի<s n="adj"/></l><r>square<s n="adj"/></r></p></e>
+<e c=""><p><l>քոռ<s n="adj"/></l><r>blind<s n="adj"/></r></p></e>
+<e c=""><p><l>քոռ<s n="adj"/></l><r>blunt<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>քոռ<s n="adj"/></l><r>dull<s n="adj"/></r></p></e>
+<e c=""><p><l>օգոստոսյան<s n="adj"/></l><r>August<s n="adj"/></r></p></e>
+<e c=""><p><l>օդաչու<s n="adj"/></l><r>traveling<b/>through<b/>the<b/>air<s n="adj"/></r></p></e>
+<e c=""><p><l>օդապար<s n="adj"/></l><r>floating<s n="adj"/></r></p></e>
+<e c=""><p><l>օդապար<s n="adj"/></l><r>flying<b/>through<b/>the<b/>air<s n="adj"/></r></p></e>
+<e c=""><p><l>օդապարիկ<s n="adj"/></l><r>floating<s n="adj"/></r></p></e>
+<e c=""><p><l>օդապարիկ<s n="adj"/></l><r>flying<b/>through<b/>the<b/>air<s n="adj"/></r></p></e>
+<e c=""><p><l>օդերեւութաբանական<s n="adj"/></l><r>meteorologic<s n="adj"/></r></p></e>
+<e c=""><p><l>օդերեւութաբանական<s n="adj"/></l><r>meteorological<s n="adj"/></r></p></e>
+<e c=""><p><l>օժանդակ<s n="adj"/></l><r>auxiliary<s n="adj"/></r></p></e>
+<e c=""><p><l>օժանդակ<s n="adj"/></l><r>subsidiary<s n="adj"/></r></p></e>
+<e c=""><p><l>օծյալ<s n="adj"/></l><r>anointed<s n="adj"/></r></p></e>
+<e c=""><p><l>օծյալ<s n="adj"/></l><r>Messiah<s n="adj"/></r></p></e>
+<e c=""><p><l>օծյալ<s n="adj"/></l><r>Jesus<s n="adj"/></r></p></e>
+<e c=""><p><l>օձամարտ<s n="adj"/></l><r>fighting<b/>against<b/>snakes<s n="adj"/></r></p></e>
+<e c=""><p><l>օմանյան<s n="adj"/></l><r>Omani<s n="adj"/></r></p></e>
+<e c=""><p><l>օպերային<s n="adj"/></l><r>opera<s n="adj"/></r></p></e>
+<e c=""><p><l>օպերային<s n="adj"/></l><r>operatic<s n="adj"/></r></p></e>
+<e c=""><p><l>օսեթերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Ossetian<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>օսերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Ossetian<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>օսմաներեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Ottoman<b/>Turkish<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>օսմանյան<s n="adj"/></l><r>Ottoman<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆալոպյան<s n="adj"/></l><r>Fallopian<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆարերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Faroese<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆեոդալական<s n="adj"/></l><r>feudal<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆիլիպինահայ<s n="adj"/></l><r>pertaining<b/>to<b/>the<b/>Armenians<b/>of<b/>the<b/>Philippines<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆիլիպիներեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Filipino<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆիլիպինյան<s n="adj"/></l><r>Philippine<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆիլիպինյան<s n="adj"/></l><r>Filipino<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆիններեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Finnish<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆիջիերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Fijian<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆոնոնային<s n="adj"/></l><r>phonon<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆոտոնային<s n="adj"/></l><r>photon<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆուտբոլային<s n="adj"/></l><r>football<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆուտբոլային<s n="adj"/></l><r>soccer<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆրանկերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Frankish<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆրանսերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>French<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆրիզերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Frisian<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ֆրիուլերեն<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>Friulian<b/>language<s n="adj"/></r></p></e>
+<e c=""><p><l>ագահ<s n="adj"/><s n="sint"/></l><r>greedy<s n="adj"/></r></p></e>
+<e c=""><p><l>ագահ<s n="adj"/><s n="sint"/></l><r>avaricious<s n="adj"/></r></p></e>
+<e c=""><p><l>ագահ<s n="adj"/><s n="sint"/></l><r>covetous<s n="adj"/></r></p></e>
+<e c=""><p><l>ածանցյալ<s n="adj"/><s n="sint"/></l><r>derivative<s n="adj"/></r></p></e>
+<e c=""><p><l>ահեղ<s n="adj"/><s n="sint"/></l><r>formidable<s n="adj"/></r></p></e>
+<e c=""><p><l>ահեղ<s n="adj"/><s n="sint"/></l><r>terrible<s n="adj"/></r></p></e>
+<e c=""><p><l>ահեղ<s n="adj"/><s n="sint"/></l><r>powerful<s n="adj"/></r></p></e>
+<e c=""><p><l>ահեղ<s n="adj"/><s n="sint"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>աղբուտ<s n="adj"/><s n="sint"/></l><r>dunged<s n="adj"/></r></p></e>
+<e c=""><p><l>աղբուտ<s n="adj"/><s n="sint"/></l><r>manured<s n="adj"/></r></p></e>
+<e c=""><p><l>աղեկ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>աղկաղկ<s n="adj"/><s n="sint"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>աղկաղկ<s n="adj"/><s n="sint"/></l><r>miserable<s n="adj"/></r></p></e>
+<e c=""><p><l>աղկաղկ<s n="adj"/><s n="sint"/></l><r>lean<s n="adj"/></r></p></e>
+<e c=""><p><l>աղկաղկ<s n="adj"/><s n="sint"/></l><r>meagre<s n="adj"/></r></p></e>
+<e c=""><p><l>աղոթկեր<s n="adj"/><s n="sint"/></l><r>relating<b/>to<b/>prayer<s n="adj"/></r></p></e>
+<e c=""><p><l>աղու<s n="adj"/><s n="sint"/></l><r>agreeable<s n="adj"/></r></p></e>
+<e c=""><p><l>աղու<s n="adj"/><s n="sint"/></l><r>pleasant<s n="adj"/></r></p></e>
+<e c=""><p><l>աղու<s n="adj"/><s n="sint"/></l><r>nice<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>աղու<s n="adj"/><s n="sint"/></l><r>sweet<s n="adj"/></r></p></e>
+<e c=""><p><l>աղու<s n="adj"/><s n="sint"/></l><r>pretending<b/>to<b/>be<b/>nice<s n="adj"/></r></p></e>
+<e c=""><p><l>աղու<s n="adj"/><s n="sint"/></l><r>knavish<s n="adj"/></r></p></e>
+<e c=""><p><l>աղվաշ<s n="adj"/><s n="sint"/></l><r>half-witted<s n="adj"/></r></p></e>
+<e c=""><p><l>աղվաշ<s n="adj"/><s n="sint"/></l><r>foolish<s n="adj"/></r></p></e>
+<e c=""><p><l>աղվոր<s n="adj"/><s n="sint"/></l><r>beautiful<s n="adj"/></r></p></e>
+<e c=""><p><l>աղվոր<s n="adj"/><s n="sint"/></l><r>lovely<s n="adj"/></r></p></e>
+<e c=""><p><l>աղվոր<s n="adj"/><s n="sint"/></l><r>fine<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>աղվոր<s n="adj"/><s n="sint"/></l><r>handsome<s n="adj"/></r></p></e>
+<e c=""><p><l>աղվոր<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ամայի<s n="adj"/><s n="sint"/></l><r>uninhabited<s n="adj"/></r></p></e>
+<e c=""><p><l>ամայի<s n="adj"/><s n="sint"/></l><r>deserted<s n="adj"/></r></p></e>
+<e c=""><p><l>ամայի<s n="adj"/><s n="sint"/></l><r>desolate<s n="adj"/></r></p></e>
+<e c=""><p><l>ամայի<s n="adj"/><s n="sint"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ամբարիշտ<s n="adj"/><s n="sint"/></l><r>godless<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբարիշտ<s n="adj"/><s n="sint"/></l><r>impious<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբարիշտ<s n="adj"/><s n="sint"/></l><r>evil<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբարիշտ<s n="adj"/><s n="sint"/></l><r>wicked<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբարիշտ<s n="adj"/><s n="sint"/></l><r>cruel<s n="adj"/></r></p></e>
+<e c=""><p><l>ամբարիշտ<s n="adj"/><s n="sint"/></l><r>quarrelsome<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>fierce<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>ferocious<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>savage<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>wild<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>unruly<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>untameable<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>raging<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>furious<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>ungovernable<s n="adj"/></r></p></e>
+<e c=""><p><l>ամեհի<s n="adj"/><s n="sint"/></l><r>violent<s n="adj"/></r></p></e>
+<e c=""><p><l>ամոք<s n="adj"/><s n="sint"/></l><r>soft<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ամոք<s n="adj"/><s n="sint"/></l><r>sweet<s n="adj"/></r></p></e>
+<e c=""><p><l>ամոք<s n="adj"/><s n="sint"/></l><r>gentle<s n="adj"/></r></p></e>
+<e c=""><p><l>ամոք<s n="adj"/><s n="sint"/></l><r>agreeable<s n="adj"/></r></p></e>
+<e c=""><p><l>ամրածածուկ<s n="adj"/><s n="sint"/></l><r>well-covered<s n="adj"/></r></p></e>
+<e c=""><p><l>ամրածածուկ<s n="adj"/><s n="sint"/></l><r>well-protected<s n="adj"/></r></p></e>
+<e c=""><p><l>այգեվետ<s n="adj"/><s n="sint"/></l><r>full<b/>of<b/>gardens<s n="adj"/></r></p></e>
+<e c=""><p><l>այգեվետ<s n="adj"/><s n="sint"/></l><r>having<b/>many<b/>gardens<s n="adj"/></r></p></e>
+<e c=""><p><l>այժմու<s n="adj"/><s n="sint"/></l><r>present<s n="adj"/></r></p></e>
+<e c=""><p><l>այժմու<s n="adj"/><s n="sint"/></l><r>modern<s n="adj"/></r></p></e>
+<e c=""><p><l>անագան<s n="adj"/><s n="sint"/></l><r>late<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>անագան<s n="adj"/><s n="sint"/></l><r>tardy<s n="adj"/></r></p></e>
+<e c=""><p><l>անալի<s n="adj"/><s n="sint"/></l><r>without<b/>salt<s n="adj"/></r></p></e>
+<e c=""><p><l>անալի<s n="adj"/><s n="sint"/></l><r>unsalted<s n="adj"/></r></p></e>
+<e c=""><p><l>անալի<s n="adj"/><s n="sint"/></l><r>insipid<s n="adj"/></r></p></e>
+<e c=""><p><l>անալի<s n="adj"/><s n="sint"/></l><r>vapid<s n="adj"/></r></p></e>
+<e c=""><p><l>անարի<s n="adj"/><s n="sint"/></l><r>cowardly<s n="adj"/></r></p></e>
+<e c=""><p><l>անարի<s n="adj"/><s n="sint"/></l><r>not<b/>courageous<s n="adj"/></r></p></e>
+<e c=""><p><l>անգի<s n="adj"/><s n="sint"/></l><r>thin<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>անգի<s n="adj"/><s n="sint"/></l><r>emaciated<s n="adj"/></r></p></e>
+<e c=""><p><l>անիծյալ<s n="adj"/><s n="sint"/></l><r>cursed<s n="adj"/></r></p></e>
+<e c=""><p><l>անիծյալ<s n="adj"/><s n="sint"/></l><r>damned<s n="adj"/></r></p></e>
+<e c=""><p><l>անկած<s n="adj"/><s n="sint"/></l><r>fallen<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>fallen<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>homeless<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>deprived<b/>of<b/>shelter<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>powerless<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>weak<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>feeble<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>invalid<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>disabled<s n="adj"/></r></p></e>
+<e c=""><p><l>անկյալ<s n="adj"/><s n="sint"/></l><r>lazy<s n="adj"/></r></p></e>
+<e c=""><p><l>անհեթեթ<s n="adj"/><s n="sint"/></l><r>absurd<s n="adj"/></r></p></e>
+<e c=""><p><l>անհեթեթ<s n="adj"/><s n="sint"/></l><r>ridiculous<s n="adj"/></r></p></e>
+<e c=""><p><l>անհեթեթ<s n="adj"/><s n="sint"/></l><r>nonsensical<s n="adj"/></r></p></e>
+<e c=""><p><l>անհույս<s n="adj"/><s n="sint"/></l><r>hopeless<s n="adj"/></r></p></e>
+<e c=""><p><l>անհույս<s n="adj"/><s n="sint"/></l><r>desperate<s n="adj"/></r></p></e>
+<e c=""><p><l>անհրաժեշտ<s n="adj"/><s n="sint"/></l><r>necessary<s n="adj"/></r></p></e>
+<e c=""><p><l>անհրաժեշտ<s n="adj"/><s n="sint"/></l><r>required<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնավոր<s n="adj"/><s n="sint"/></l><r>possessing<b/>a<b/>personality<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնավոր<s n="adj"/><s n="sint"/></l><r>possessing<b/>a<b/>body<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնեղ<s n="adj"/><s n="sint"/></l><r>personable<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնեղ<s n="adj"/><s n="sint"/></l><r>of<b/>good<b/>appearance<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնեղ<s n="adj"/><s n="sint"/></l><r>tall<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>անձնեղ<s n="adj"/><s n="sint"/></l><r>well-made<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնեղ<s n="adj"/><s n="sint"/></l><r>fine-limbed<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնյա<s n="adj"/><s n="sint"/></l><r>personable<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնյա<s n="adj"/><s n="sint"/></l><r>of<b/>good<b/>appearance<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնյա<s n="adj"/><s n="sint"/></l><r>tall<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>անձնյա<s n="adj"/><s n="sint"/></l><r>well-made<s n="adj"/></r></p></e>
+<e c=""><p><l>անձնյա<s n="adj"/><s n="sint"/></l><r>fine-limbed<s n="adj"/></r></p></e>
+<e c=""><p><l>անուշաբույր<s n="adj"/><s n="sint"/></l><r>fragrant<s n="adj"/></r></p></e>
+<e c=""><p><l>անուշաբույր<s n="adj"/><s n="sint"/></l><r>sweet-smelling<s n="adj"/></r></p></e>
+<e c=""><p><l>անվանի<s n="adj"/><s n="sint"/></l><r>famed<s n="adj"/></r></p></e>
+<e c=""><p><l>անվանի<s n="adj"/><s n="sint"/></l><r>renowned<s n="adj"/></r></p></e>
+<e c=""><p><l>անտեր<s n="adj"/><s n="sint"/></l><r>ownerless<s n="adj"/></r></p></e>
+<e c=""><p><l>անտեր<s n="adj"/><s n="sint"/></l><r>no<b/>man's<s n="adj"/></r></p></e>
+<e c=""><p><l>անտեր<s n="adj"/><s n="sint"/></l><r>unattended<s n="adj"/></r></p></e>
+<e c=""><p><l>անտեր<s n="adj"/><s n="sint"/></l><r>abandoned<s n="adj"/></r></p></e>
+<e c=""><p><l>անտեր<s n="adj"/><s n="sint"/></l><r>damned<s n="adj"/></r></p></e>
+<e c=""><p><l>անտեր<s n="adj"/><s n="sint"/></l><r>darned<s n="adj"/></r></p></e>
+<e c=""><p><l>աշխատասեր<s n="adj"/><s n="sint"/></l><r>industrious<s n="adj"/></r></p></e>
+<e c=""><p><l>աշխատասեր<s n="adj"/><s n="sint"/></l><r>diligent<s n="adj"/></r></p></e>
+<e c=""><p><l>աշխատասեր<s n="adj"/><s n="sint"/></l><r>hard-working<s n="adj"/></r></p></e>
+<e c=""><p><l>աշխատասեր<s n="adj"/><s n="sint"/></l><r>assiduous<s n="adj"/></r></p></e>
+<e c=""><p><l>աչեղ<s n="adj"/><s n="sint"/></l><r>having<b/>big<b/>and<b/>beautiful<b/>eyes<s n="adj"/></r></p></e>
+<e c=""><p><l>ապիրատ<s n="adj"/><s n="sint"/></l><r>wicked<s n="adj"/></r></p></e>
+<e c=""><p><l>ապիրատ<s n="adj"/><s n="sint"/></l><r>iniquitous<s n="adj"/></r></p></e>
+<e c=""><p><l>ապիրատ<s n="adj"/><s n="sint"/></l><r>unfit<s n="adj"/></r></p></e>
+<e c=""><p><l>ապիրատ<s n="adj"/><s n="sint"/></l><r>untalented<s n="adj"/></r></p></e>
+<e c=""><p><l>ապիրատ<s n="adj"/><s n="sint"/></l><r>useless<s n="adj"/></r></p></e>
+<e c=""><p><l>ապիրատ<s n="adj"/><s n="sint"/></l><r>lousy<s n="adj"/></r></p></e>
+<e c=""><p><l>ապստամբ<s n="adj"/><s n="sint"/></l><r>rebellious<s n="adj"/></r></p></e>
+<e c=""><p><l>ապստամբ<s n="adj"/><s n="sint"/></l><r>mutinous<s n="adj"/></r></p></e>
+<e c=""><p><l>աջ<s n="adj"/><s n="sint"/></l><r>right<s n="adj"/></r></p></e>
+<e c=""><p><l>աջ<s n="adj"/><s n="sint"/></l><r>not<b/>left<s n="adj"/></r></p></e>
+<e c=""><p><l>աստվածածանոթ<s n="adj"/><s n="sint"/></l><r>having<b/>the<b/>knowledge<b/>of<b/>God<s n="adj"/></r></p></e>
+<e c=""><p><l>աստվածաշունչ<s n="adj"/><s n="sint"/></l><r>inspired<b/>by<b/>God<s n="adj"/></r></p></e>
+<e c=""><p><l>աստվածեղեն<s n="adj"/><s n="sint"/></l><r>divine<s n="adj"/></r></p></e>
+<e c=""><p><l>աստվածյան<s n="adj"/><s n="sint"/></l><r>divine<s n="adj"/></r></p></e>
+<e c=""><p><l>ավազուտ<s n="adj"/><s n="sint"/></l><r>sandy<s n="adj"/></r></p></e>
+<e c=""><p><l>ատոք<s n="adj"/><s n="sint"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ատոք<s n="adj"/><s n="sint"/></l><r>full-grown<s n="adj"/></r></p></e>
+<e c=""><p><l>ատոք<s n="adj"/><s n="sint"/></l><r>fat<s n="adj"/></r></p></e>
+<e c=""><p><l>ատոք<s n="adj"/><s n="sint"/></l><r>ripe<s n="adj"/></r></p></e>
+<e c=""><p><l>արագ<s n="adj"/><s n="sint"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>արագ<s n="adj"/><s n="sint"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>արագ<s n="adj"/><s n="sint"/></l><r>swift<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>արդի<s n="adj"/><s n="sint"/></l><r>modern<s n="adj"/></r></p></e>
+<e c=""><p><l>արդի<s n="adj"/><s n="sint"/></l><r>contemporary<s n="adj"/></r></p></e>
+<e c=""><p><l>արդի<s n="adj"/><s n="sint"/></l><r>up-to-date<s n="adj"/></r></p></e>
+<e c=""><p><l>արդյան<s n="adj"/><s n="sint"/></l><r>modern<s n="adj"/></r></p></e>
+<e c=""><p><l>արդյան<s n="adj"/><s n="sint"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>արդյան<s n="adj"/><s n="sint"/></l><r>present<s n="adj"/></r></p></e>
+<e c=""><p><l>արի<s n="adj"/><s n="sint"/></l><r>valiant<s n="adj"/></r></p></e>
+<e c=""><p><l>արի<s n="adj"/><s n="sint"/></l><r>brave<s n="adj"/></r></p></e>
+<e c=""><p><l>արի<s n="adj"/><s n="sint"/></l><r>manly<s n="adj"/></r></p></e>
+<e c=""><p><l>արջն<s n="adj"/><s n="sint"/></l><r>black<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարակ<s n="adj"/><s n="sint"/></l><r>thin<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարակ<s n="adj"/><s n="sint"/></l><r>fine<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարակ<s n="adj"/><s n="sint"/></l><r>delicate<s n="adj"/></r></p></e>
+<e c=""><p><l>բարեսեր<s n="adj"/><s n="sint"/></l><r>kind<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարեսեր<s n="adj"/><s n="sint"/></l><r>virtuous<s n="adj"/></r></p></e>
+<e c=""><p><l>բարեսեր<s n="adj"/><s n="sint"/></l><r>kindness-loving<s n="adj"/></r></p></e>
+<e c=""><p><l>բարի<s n="adj"/><s n="sint"/></l><r>kind<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարի<s n="adj"/><s n="sint"/></l><r>kind-hearted<s n="adj"/></r></p></e>
+<e c=""><p><l>բարի<s n="adj"/><s n="sint"/></l><r>good-natured<s n="adj"/></r></p></e>
+<e c=""><p><l>բարի<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարի<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարկ<s n="adj"/><s n="sint"/></l><r>scorching<s n="adj"/></r></p></e>
+<e c=""><p><l>բարկ<s n="adj"/><s n="sint"/></l><r>burning<b/>hot<s n="adj"/></r></p></e>
+<e c=""><p><l>բարկ<s n="adj"/><s n="sint"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարկ<s n="adj"/><s n="sint"/></l><r>bitter<s n="adj"/></r></p></e>
+<e c=""><p><l>բարձրաբերձ<s n="adj"/><s n="sint"/></l><r>very<b/>high<s n="adj"/></r></p></e>
+<e c=""><p><l>բարվոք<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բարվոք<s n="adj"/><s n="sint"/></l><r>problem-free<s n="adj"/></r></p></e>
+<e c=""><p><l>բարվոք<s n="adj"/><s n="sint"/></l><r>well-off<s n="adj"/></r></p></e>
+<e c=""><p><l>բաց<s n="adj"/><s n="sint"/></l><r>open<s n="adj"/></r></p></e>
+<e c=""><p><l>բաց<s n="adj"/><s n="sint"/></l><r>not<b/>closed<s n="adj"/></r></p></e>
+<e c=""><p><l>բեխաբար<s n="adj"/><s n="sint"/></l><r>uninformed<s n="adj"/></r></p></e>
+<e c=""><p><l>բեխաբար<s n="adj"/><s n="sint"/></l><r>unaware<b/>(of)<s n="adj"/></r></p></e>
+<e c=""><p><l>բեխաբար<s n="adj"/><s n="sint"/></l><r>ignorant<s n="adj"/></r></p></e>
+<e c=""><p><l>բեղուն<s n="adj"/><s n="sint"/></l><r>fertile<s n="adj"/></r></p></e>
+<e c=""><p><l>բիլ<s n="adj"/><s n="sint"/></l><r>light-blue<s n="adj"/></r></p></e>
+<e c=""><p><l>բոկոտն<s n="adj"/><s n="sint"/></l><r>barefoot<s n="adj"/></r></p></e>
+<e c=""><p><l>բոկոտն<s n="adj"/><s n="sint"/></l><r>barefooted<s n="adj"/></r></p></e>
+<e c=""><p><l>բոսոր<s n="adj"/><s n="sint"/></l><r>blood-red<s n="adj"/></r></p></e>
+<e c=""><p><l>բոսոր<s n="adj"/><s n="sint"/></l><r>crimson<s n="adj"/></r></p></e>
+<e c=""><p><l>բորբ<s n="adj"/><s n="sint"/></l><r>bright<s n="adj"/></r></p></e>
+<e c=""><p><l>բորբ<s n="adj"/><s n="sint"/></l><r>aflame<s n="adj"/></r></p></e>
+<e c=""><p><l>բորբ<s n="adj"/><s n="sint"/></l><r>burning<s n="adj"/></r></p></e>
+<e c=""><p><l>բորբ<s n="adj"/><s n="sint"/></l><r>angry<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բորբ<s n="adj"/><s n="sint"/></l><r>inflamed<s n="adj"/></r></p></e>
+<e c=""><p><l>բոցեղեն<s n="adj"/><s n="sint"/></l><r>fiery<s n="adj"/></r></p></e>
+<e c=""><p><l>բոցեղեն<s n="adj"/><s n="sint"/></l><r>flaming<s n="adj"/></r></p></e>
+<e c=""><p><l>բոցեղեն<s n="adj"/><s n="sint"/></l><r>flaring<s n="adj"/></r></p></e>
+<e c=""><p><l>բութ<s n="adj"/><s n="sint"/></l><r>stupid<s n="adj"/></r></p></e>
+<e c=""><p><l>բութ<s n="adj"/><s n="sint"/></l><r>slow-witted<s n="adj"/></r></p></e>
+<e c=""><p><l>բութ<s n="adj"/><s n="sint"/></l><r>dull<s n="adj"/></r></p></e>
+<e c=""><p><l>բութ<s n="adj"/><s n="sint"/></l><r>blunt<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>բութ<s n="adj"/><s n="sint"/></l><r>not<b/>sharp<s n="adj"/></r></p></e>
+<e c=""><p><l>բութ<s n="adj"/><s n="sint"/></l><r>obtuse<s n="adj"/></r></p></e>
+<e c=""><p><l>բռի<s n="adj"/><s n="sint"/></l><r>uncouth<s n="adj"/></r></p></e>
+<e c=""><p><l>բռի<s n="adj"/><s n="sint"/></l><r>brusque<s n="adj"/></r></p></e>
+<e c=""><p><l>բռի<s n="adj"/><s n="sint"/></l><r>churlish<s n="adj"/></r></p></e>
+<e c=""><p><l>բռի<s n="adj"/><s n="sint"/></l><r>coarse<s n="adj"/></r></p></e>
+<e c=""><p><l>բռի<s n="adj"/><s n="sint"/></l><r>vulgar<s n="adj"/></r></p></e>
+<e c=""><p><l>գազարագույն<s n="adj"/><s n="sint"/></l><r>orange<s n="adj"/></r></p></e>
+<e c=""><p><l>գաղջ<s n="adj"/><s n="sint"/></l><r>warmish<s n="adj"/></r></p></e>
+<e c=""><p><l>գաղջ<s n="adj"/><s n="sint"/></l><r>lukewarm<s n="adj"/></r></p></e>
+<e c=""><p><l>գարշ<s n="adj"/><s n="sint"/></l><r>abominable<s n="adj"/></r></p></e>
+<e c=""><p><l>գեղանի<s n="adj"/><s n="sint"/></l><r>very<b/>beautiful<s n="adj"/></r></p></e>
+<e c=""><p><l>գեշ<s n="adj"/><s n="sint"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>գեշ<s n="adj"/><s n="sint"/></l><r>ugly<s n="adj"/></r></p></e>
+<e c=""><p><l>գեջ<s n="adj"/><s n="sint"/></l><r>moist<s n="adj"/></r></p></e>
+<e c=""><p><l>գեջ<s n="adj"/><s n="sint"/></l><r>humid<s n="adj"/></r></p></e>
+<e c=""><p><l>գեջ<s n="adj"/><s n="sint"/></l><r>dirty<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>գեջ<s n="adj"/><s n="sint"/></l><r>green<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>գեջ<s n="adj"/><s n="sint"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>գետ<s n="adj"/><s n="sint"/></l><r>knowing<s n="adj"/></r></p></e>
+<e c=""><p><l>գետ<s n="adj"/><s n="sint"/></l><r>having<b/>the<b/>knowledge<s n="adj"/></r></p></e>
+<e c=""><p><l>գինարբու<s n="adj"/><s n="sint"/></l><r>wine-lover<s n="adj"/></r></p></e>
+<e c=""><p><l>գինարբու<s n="adj"/><s n="sint"/></l><r>drunkard<s n="adj"/></r></p></e>
+<e c=""><p><l>գիտական<s n="adj"/><s n="sint"/></l><r>scientific<s n="adj"/></r></p></e>
+<e c=""><p><l>գիտուն<s n="adj"/><s n="sint"/></l><r>scientist<s n="adj"/></r></p></e>
+<e c=""><p><l>գիտուն<s n="adj"/><s n="sint"/></l><r>scholar<s n="adj"/></r></p></e>
+<e c=""><p><l>գյոզալ<s n="adj"/><s n="sint"/></l><r>beautiful<s n="adj"/></r></p></e>
+<e c=""><p><l>գյոզալ<s n="adj"/><s n="sint"/></l><r>pretty<s n="adj"/></r></p></e>
+<e c=""><p><l>գյոզալ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>bedridden<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>weak<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>flaccid<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>paralytic<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>ugly<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>lazy<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>idle<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>light-minded<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>crazy<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>ugly<s n="adj"/></r></p></e>
+<e c=""><p><l>գոդի<s n="adj"/><s n="sint"/></l><r>boasting<s n="adj"/></r></p></e>
+<e c=""><p><l>գոլ<s n="adj"/><s n="sint"/></l><r>lukewarm<s n="adj"/></r></p></e>
+<e c=""><p><l>գոհ<s n="adj"/><s n="sint"/></l><r>satisfied<b/>(with)<s n="adj"/></r></p></e>
+<e c=""><p><l>գոհ<s n="adj"/><s n="sint"/></l><r>content<b/>(with)<s n="adj"/></r></p></e>
+<e c=""><p><l>գոհ<s n="adj"/><s n="sint"/></l><r>pleased<b/>(with)<s n="adj"/></r></p></e>
+<e c=""><p><l>գոռ<s n="adj"/><s n="sint"/></l><r>fierce<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>դաժան<s n="adj"/><s n="sint"/></l><r>cruel<s n="adj"/></r></p></e>
+<e c=""><p><l>դաժան<s n="adj"/><s n="sint"/></l><r>harsh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>դաժան<s n="adj"/><s n="sint"/></l><r>ruthless<s n="adj"/></r></p></e>
+<e c=""><p><l>դալարուտ<s n="adj"/><s n="sint"/></l><r>with<b/>green<s n="adj"/></r></p></e>
+<e c=""><p><l>դալարուտ<s n="adj"/><s n="sint"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>դալարուտ<s n="adj"/><s n="sint"/></l><r>verdant<b/>vegetation<s n="adj"/></r></p></e>
+<e c=""><p><l>դանդաղ<s n="adj"/><s n="sint"/></l><r>slow<b/>''(about<b/>motion)''<s n="adj"/></r></p></e>
+<e c=""><p><l>դաշն<s n="adj"/><s n="sint"/></l><r>harmonious<s n="adj"/></r></p></e>
+<e c=""><p><l>դաշն<s n="adj"/><s n="sint"/></l><r>agreeable<b/>to<b/>the<b/>ear<s n="adj"/></r></p></e>
+<e c=""><p><l>դաշն<s n="adj"/><s n="sint"/></l><r>sweet<s n="adj"/></r></p></e>
+<e c=""><p><l>դաշն<s n="adj"/><s n="sint"/></l><r>gentle<s n="adj"/></r></p></e>
+<e c=""><p><l>դաշն<s n="adj"/><s n="sint"/></l><r>soft<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>դաշնակցական<s n="adj"/><s n="sint"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>the<b/>w:Armenian<b/>Revolutionary<b/>Federation|Armenian<b/>Revolutionary<b/>Federation<s n="adj"/></r></p></e>
+<e c=""><p><l>դառն<s n="adj"/><s n="sint"/></l><r>bitter<s n="adj"/></r></p></e>
+<e c=""><p><l>դառն<s n="adj"/><s n="sint"/></l><r>sorrowful<s n="adj"/></r></p></e>
+<e c=""><p><l>դառն<s n="adj"/><s n="sint"/></l><r>sad<s n="adj"/></r></p></e>
+<e c=""><p><l>դառն<s n="adj"/><s n="sint"/></l><r>stinging<s n="adj"/></r></p></e>
+<e c=""><p><l>դառն<s n="adj"/><s n="sint"/></l><r>poignant<s n="adj"/></r></p></e>
+<e c=""><p><l>դառնենի<s n="adj"/><s n="sint"/></l><r>whose<b/>fruits<b/>are<b/>bitter<s n="adj"/></r></p></e>
+<e c=""><p><l>դեղբ<s n="adj"/><s n="sint"/></l><r>yellow<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>դեղձան<s n="adj"/><s n="sint"/></l><r>light<b/>yellowish<s n="adj"/></r></p></e>
+<e c=""><p><l>դեղձան<s n="adj"/><s n="sint"/></l><r>flaxen<s n="adj"/></r></p></e>
+<e c=""><p><l>դիք<s n="adj"/><s n="sint"/></l><r>steep<s n="adj"/></r></p></e>
+<e c=""><p><l>դիք<s n="adj"/><s n="sint"/></l><r>protruding<s n="adj"/></r></p></e>
+<e c=""><p><l>դիք<s n="adj"/><s n="sint"/></l><r>upright<s n="adj"/></r></p></e>
+<e c=""><p><l>դիք<s n="adj"/><s n="sint"/></l><r>vertical<s n="adj"/></r></p></e>
+<e c=""><p><l>դուզնաքյա<s n="adj"/><s n="sint"/></l><r>little<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>դույզն<s n="adj"/><s n="sint"/></l><r>very<b/>little<s n="adj"/></r></p></e>
+<e c=""><p><l>դույզն<s n="adj"/><s n="sint"/></l><r>exiguous<s n="adj"/></r></p></e>
+<e c=""><p><l>դրակոնյան<s n="adj"/><s n="sint"/></l><r>draconian<s n="adj"/></r></p></e>
+<e c=""><p><l>երեց<s n="adj"/><s n="sint"/></l><r>elder<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթեղեն<s n="adj"/><s n="sint"/></l><r>made<b/>of<b/>iron<s n="adj"/></r></p></e>
+<e c=""><p><l>երկաթեղեն<s n="adj"/><s n="sint"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>երկաթեղեն<s n="adj"/><s n="sint"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>երկայն<s n="adj"/><s n="sint"/></l><r>long<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>երկչոտ<s n="adj"/><s n="sint"/></l><r>cowardly<s n="adj"/></r></p></e>
+<e c=""><p><l>երկչոտ<s n="adj"/><s n="sint"/></l><r>timid<s n="adj"/></r></p></e>
+<e c=""><p><l>երկչոտ<s n="adj"/><s n="sint"/></l><r>fearful<s n="adj"/></r></p></e>
+<e c=""><p><l>երկչոտ<s n="adj"/><s n="sint"/></l><r>pusillanimous<s n="adj"/></r></p></e>
+<e c=""><p><l>զգոն<s n="adj"/><s n="sint"/></l><r>vigilant<s n="adj"/></r></p></e>
+<e c=""><p><l>զգոն<s n="adj"/><s n="sint"/></l><r>watchful<s n="adj"/></r></p></e>
+<e c=""><p><l>զգոն<s n="adj"/><s n="sint"/></l><r>wary<s n="adj"/></r></p></e>
+<e c=""><p><l>զգոն<s n="adj"/><s n="sint"/></l><r>cautious<s n="adj"/></r></p></e>
+<e c=""><p><l>զգոն<s n="adj"/><s n="sint"/></l><r>wakeful<s n="adj"/></r></p></e>
+<e c=""><p><l>զիբիլ<s n="adj"/><s n="sint"/></l><r>worthless<s n="adj"/></r></p></e>
+<e c=""><p><l>զիբիլ<s n="adj"/><s n="sint"/></l><r>of<b/>low<b/>quality<s n="adj"/></r></p></e>
+<e c=""><p><l>զիբիլ<s n="adj"/><s n="sint"/></l><r>good-for-nothing<s n="adj"/></r></p></e>
+<e c=""><p><l>զոռ<s n="adj"/><s n="sint"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>զոռ<s n="adj"/><s n="sint"/></l><r>difficult<s n="adj"/></r></p></e>
+<e c=""><p><l>զով<s n="adj"/><s n="sint"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>զով<s n="adj"/><s n="sint"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>զով<s n="adj"/><s n="sint"/></l><r>coldish<s n="adj"/></r></p></e>
+<e c=""><p><l>զորեղ<s n="adj"/><s n="sint"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>զորեղ<s n="adj"/><s n="sint"/></l><r>powerful<s n="adj"/></r></p></e>
+<e c=""><p><l>զորեղ<s n="adj"/><s n="sint"/></l><r>vigorous<s n="adj"/></r></p></e>
+<e c=""><p><l>զորեղ<s n="adj"/><s n="sint"/></l><r>robust<s n="adj"/></r></p></e>
+<e c=""><p><l>զուտ<s n="adj"/><s n="sint"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>զուտ<s n="adj"/><s n="sint"/></l><r>unmixed<s n="adj"/></r></p></e>
+<e c=""><p><l>զուտ<s n="adj"/><s n="sint"/></l><r>net<s n="adj"/></r></p></e>
+<e c=""><p><l>էժան<s n="adj"/><s n="sint"/></l><r>cheap<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>էժան<s n="adj"/><s n="sint"/></l><r>inexpensive<s n="adj"/></r></p></e>
+<e c=""><p><l>էժան<s n="adj"/><s n="sint"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ընտիր<s n="adj"/><s n="sint"/></l><r>select<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտիր<s n="adj"/><s n="sint"/></l><r>selected<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտիր<s n="adj"/><s n="sint"/></l><r>choice<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտիր<s n="adj"/><s n="sint"/></l><r>picked<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտիր<s n="adj"/><s n="sint"/></l><r>exquisite<s n="adj"/></r></p></e>
+<e c=""><p><l>ընտիր<s n="adj"/><s n="sint"/></l><r>very<b/>good<s n="adj"/></r></p></e>
+<e c=""><p><l>թազա<s n="adj"/><s n="sint"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>moistened<s n="adj"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>immersed<s n="adj"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>soaked<s n="adj"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>imbued<s n="adj"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>very<b/>full<s n="adj"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>running<b/>over<s n="adj"/></r></p></e>
+<e c=""><p><l>թաթավուչ<s n="adj"/><s n="sint"/></l><r>full<b/>to<b/>the<b/>brim<s n="adj"/></r></p></e>
+<e c=""><p><l>թանկ<s n="adj"/><s n="sint"/></l><r>dear<s n="adj"/></r></p></e>
+<e c=""><p><l>թանկ<s n="adj"/><s n="sint"/></l><r>expensive<s n="adj"/></r></p></e>
+<e c=""><p><l>թանկ<s n="adj"/><s n="sint"/></l><r>precious<s n="adj"/></r></p></e>
+<e c=""><p><l>թանկարժեք<s n="adj"/><s n="sint"/></l><r>precious<s n="adj"/></r></p></e>
+<e c=""><p><l>թանկարժեք<s n="adj"/><s n="sint"/></l><r>valuable<s n="adj"/></r></p></e>
+<e c=""><p><l>թանկարժեք<s n="adj"/><s n="sint"/></l><r>expensive<s n="adj"/></r></p></e>
+<e c=""><p><l>թավուտ<s n="adj"/><s n="sint"/></l><r>thick<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թավուտ<s n="adj"/><s n="sint"/></l><r>bushy<s n="adj"/></r></p></e>
+<e c=""><p><l>թավուտ<s n="adj"/><s n="sint"/></l><r>tangled<s n="adj"/></r></p></e>
+<e c=""><p><l>թարմ<s n="adj"/><s n="sint"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թաց<s n="adj"/><s n="sint"/></l><r>wet<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թաց<s n="adj"/><s n="sint"/></l><r>soggy<s n="adj"/></r></p></e>
+<e c=""><p><l>թաց<s n="adj"/><s n="sint"/></l><r>moist<s n="adj"/></r></p></e>
+<e c=""><p><l>թթու<s n="adj"/><s n="sint"/></l><r>sour<s n="adj"/></r></p></e>
+<e c=""><p><l>թթու<s n="adj"/><s n="sint"/></l><r>bitter<s n="adj"/></r></p></e>
+<e c=""><p><l>թթու<s n="adj"/><s n="sint"/></l><r>harsh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թթու<s n="adj"/><s n="sint"/></l><r>grievous<s n="adj"/></r></p></e>
+<e c=""><p><l>թթվաշ<s n="adj"/><s n="sint"/></l><r>sourish<s n="adj"/></r></p></e>
+<e c=""><p><l>թիկնեղ<s n="adj"/><s n="sint"/></l><r>strong-backed<s n="adj"/></r></p></e>
+<e c=""><p><l>թիկնեղ<s n="adj"/><s n="sint"/></l><r>broad-shouldered<s n="adj"/></r></p></e>
+<e c=""><p><l>թուխ<s n="adj"/><s n="sint"/></l><r>swarthy<s n="adj"/></r></p></e>
+<e c=""><p><l>թուխ<s n="adj"/><s n="sint"/></l><r>dark-skinned<s n="adj"/></r></p></e>
+<e c=""><p><l>թույլ<s n="adj"/><s n="sint"/></l><r>weak<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թուրմ<s n="adj"/><s n="sint"/></l><r>wet<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>թուրմ<s n="adj"/><s n="sint"/></l><r>soaked<s n="adj"/></r></p></e>
+<e c=""><p><l>թուրմ<s n="adj"/><s n="sint"/></l><r>softened<b/>by<b/>moisture<s n="adj"/></r></p></e>
+<e c=""><p><l>ժաման<s n="adj"/><s n="sint"/></l><r>arriving<b/>quickly<s n="adj"/></r></p></e>
+<e c=""><p><l>ժաման<s n="adj"/><s n="sint"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ժաման<s n="adj"/><s n="sint"/></l><r>prompt<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>իներտ<s n="adj"/><s n="sint"/></l><r>inert<s n="adj"/></r></p></e>
+<e c=""><p><l>իներտ<s n="adj"/><s n="sint"/></l><r>sluggish<s n="adj"/></r></p></e>
+<e c=""><p><l>իներտ<s n="adj"/><s n="sint"/></l><r>inactive<s n="adj"/></r></p></e>
+<e c=""><p><l>ինքնյակ<s n="adj"/><s n="sint"/></l><r>spontaneous<s n="adj"/></r></p></e>
+<e c=""><p><l>ինքնյակ<s n="adj"/><s n="sint"/></l><r>natural<s n="adj"/></r></p></e>
+<e c=""><p><l>իսկական<s n="adj"/><s n="sint"/></l><r>real<s n="adj"/></r></p></e>
+<e c=""><p><l>իսկական<s n="adj"/><s n="sint"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>իսկական<s n="adj"/><s n="sint"/></l><r>genuine<s n="adj"/></r></p></e>
+<e c=""><p><l>իրավ<s n="adj"/><s n="sint"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>իրավ<s n="adj"/><s n="sint"/></l><r>just<s n="adj"/></r></p></e>
+<e c=""><p><l>լայն<s n="adj"/><s n="sint"/></l><r>wide<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>լայն<s n="adj"/><s n="sint"/></l><r>broad<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>լայնշի<s n="adj"/><s n="sint"/></l><r>wide<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>լեզվանի<s n="adj"/><s n="sint"/></l><r>talkative<s n="adj"/></r></p></e>
+<e c=""><p><l>լեզվանի<s n="adj"/><s n="sint"/></l><r>loquacious<s n="adj"/></r></p></e>
+<e c=""><p><l>լեզվանի<s n="adj"/><s n="sint"/></l><r>garrulous<s n="adj"/></r></p></e>
+<e c=""><p><l>լեզվանի<s n="adj"/><s n="sint"/></l><r>prating<s n="adj"/></r></p></e>
+<e c=""><p><l>լեզվանի<s n="adj"/><s n="sint"/></l><r>possessing<b/>a<b/>tongue<s n="adj"/></r></p></e>
+<e c=""><p><l>լիքը<s n="adj"/><s n="sint"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>լիքը<s n="adj"/><s n="sint"/></l><r>fat<s n="adj"/></r></p></e>
+<e c=""><p><l>լիքը<s n="adj"/><s n="sint"/></l><r>plump<s n="adj"/></r></p></e>
+<e c=""><p><l>լիքը<s n="adj"/><s n="sint"/></l><r>many<s n="adj"/></r></p></e>
+<e c=""><p><l>լիքը<s n="adj"/><s n="sint"/></l><r>a<b/>lot<b/>of<s n="adj"/></r></p></e>
+<e c=""><p><l>լկտի<s n="adj"/><s n="sint"/></l><r>insolent<s n="adj"/></r></p></e>
+<e c=""><p><l>լկտի<s n="adj"/><s n="sint"/></l><r>impudent<s n="adj"/></r></p></e>
+<e c=""><p><l>լկտի<s n="adj"/><s n="sint"/></l><r>impertinent<s n="adj"/></r></p></e>
+<e c=""><p><l>լկտի<s n="adj"/><s n="sint"/></l><r>lascivious<s n="adj"/></r></p></e>
+<e c=""><p><l>լկտի<s n="adj"/><s n="sint"/></l><r>wanton<s n="adj"/></r></p></e>
+<e c=""><p><l>լույծ<s n="adj"/><s n="sint"/></l><r>watery<s n="adj"/></r></p></e>
+<e c=""><p><l>լուսավոր<s n="adj"/><s n="sint"/></l><r>luminous<s n="adj"/></r></p></e>
+<e c=""><p><l>լուսավոր<s n="adj"/><s n="sint"/></l><r>bright<s n="adj"/></r></p></e>
+<e c=""><p><l>լուսավոր<s n="adj"/><s n="sint"/></l><r>brilliant<s n="adj"/></r></p></e>
+<e c=""><p><l>լուսավոր<s n="adj"/><s n="sint"/></l><r>well-lit<s n="adj"/></r></p></e>
+<e c=""><p><l>լուսավոր<s n="adj"/><s n="sint"/></l><r>enlightened<s n="adj"/></r></p></e>
+<e c=""><p><l>լուսավոր<s n="adj"/><s n="sint"/></l><r>educated<s n="adj"/></r></p></e>
+<e c=""><p><l>լուրջ<s n="adj"/><s n="sint"/></l><r>serious<s n="adj"/></r></p></e>
+<e c=""><p><l>լոքշ<s n="adj"/><s n="sint"/></l><r>boring<s n="adj"/></r></p></e>
+<e c=""><p><l>լռին<s n="adj"/><s n="sint"/></l><r>silent<s n="adj"/></r></p></e>
+<e c=""><p><l>լրիվ<s n="adj"/><s n="sint"/></l><r>complete<s n="adj"/></r></p></e>
+<e c=""><p><l>լրիվ<s n="adj"/><s n="sint"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խավար<s n="adj"/><s n="sint"/></l><r>dark<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խավար<s n="adj"/><s n="sint"/></l><r>obscure<s n="adj"/></r></p></e>
+<e c=""><p><l>խավար<s n="adj"/><s n="sint"/></l><r>gloomy<s n="adj"/></r></p></e>
+<e c=""><p><l>խավար<s n="adj"/><s n="sint"/></l><r>ignorant<s n="adj"/></r></p></e>
+<e c=""><p><l>խավարչուտ<s n="adj"/><s n="sint"/></l><r>dark<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խճող<s n="adj"/><s n="sint"/></l><r>filled<b/>up<s n="adj"/></r></p></e>
+<e c=""><p><l>խճող<s n="adj"/><s n="sint"/></l><r>stuffed<s n="adj"/></r></p></e>
+<e c=""><p><l>խճող<s n="adj"/><s n="sint"/></l><r>tightly<b/>packed<s n="adj"/></r></p></e>
+<e c=""><p><l>խմած<s n="adj"/><s n="sint"/></l><r>drunk<s n="adj"/></r></p></e>
+<e c=""><p><l>խմած<s n="adj"/><s n="sint"/></l><r>tipsy<s n="adj"/></r></p></e>
+<e c=""><p><l>խմած<s n="adj"/><s n="sint"/></l><r>intoxicated<s n="adj"/></r></p></e>
+<e c=""><p><l>խմած<s n="adj"/><s n="sint"/></l><r>tight<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խոնարհ<s n="adj"/><s n="sint"/></l><r>humble<s n="adj"/></r></p></e>
+<e c=""><p><l>խոնարհ<s n="adj"/><s n="sint"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խոնարհ<s n="adj"/><s n="sint"/></l><r>submissive<s n="adj"/></r></p></e>
+<e c=""><p><l>խոնարհ<s n="adj"/><s n="sint"/></l><r>lower<s n="adj"/></r></p></e>
+<e c=""><p><l>խոնարհ<s n="adj"/><s n="sint"/></l><r>feeble<s n="adj"/></r></p></e>
+<e c=""><p><l>խոնարհ<s n="adj"/><s n="sint"/></l><r>weak<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խոր<s n="adj"/><s n="sint"/></l><r>deep<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խուռն<s n="adj"/><s n="sint"/></l><r>crowded<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակ<s n="adj"/><s n="sint"/></l><r>having<b/>a<b/>hole<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակ<s n="adj"/><s n="sint"/></l><r>perforated<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակ<s n="adj"/><s n="sint"/></l><r>holed<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակոտ<s n="adj"/><s n="sint"/></l><r>hole-ridden<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակոտ<s n="adj"/><s n="sint"/></l><r>full<b/>of<b/>holes<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակոտ<s n="adj"/><s n="sint"/></l><r>torn<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակոտկեն<s n="adj"/><s n="sint"/></l><r>porous<s n="adj"/></r></p></e>
+<e c=""><p><l>ծակոտկեն<s n="adj"/><s n="sint"/></l><r>spongy<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>cumbersome<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>unwieldy<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>serious<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>grave<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>distressing<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>painful<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>excruciating<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>severe<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>difficult<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>tough<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>difficult<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>tough<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>ponderous<s n="adj"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ծանր<s n="adj"/><s n="sint"/></l><r>turbid<s n="adj"/></r></p></e>
+<e c=""><p><l>ծարավ<s n="adj"/><s n="sint"/></l><r>thirsty<s n="adj"/></r></p></e>
+<e c=""><p><l>ծարավի<s n="adj"/><s n="sint"/></l><r>thirsty<s n="adj"/></r></p></e>
+<e c=""><p><l>ծարավի<s n="adj"/><s n="sint"/></l><r>thirsty<b/>(for)<s n="adj"/></r></p></e>
+<e c=""><p><l>ծարավի<s n="adj"/><s n="sint"/></l><r>avid<b/>(for)<s n="adj"/></r></p></e>
+<e c=""><p><l>կաթնով<s n="adj"/><s n="sint"/></l><r>with<b/>milk<s n="adj"/></r></p></e>
+<e c=""><p><l>կաթնով<s n="adj"/><s n="sint"/></l><r>possessing<b/>milk<s n="adj"/></r></p></e>
+<e c=""><p><l>կախ<s n="adj"/><s n="sint"/></l><r>hanging<s n="adj"/></r></p></e>
+<e c=""><p><l>կախ<s n="adj"/><s n="sint"/></l><r>dangling<s n="adj"/></r></p></e>
+<e c=""><p><l>կախ<s n="adj"/><s n="sint"/></l><r>pendent<s n="adj"/></r></p></e>
+<e c=""><p><l>կախ<s n="adj"/><s n="sint"/></l><r>hung<b/>up<s n="adj"/></r></p></e>
+<e c=""><p><l>կախ<s n="adj"/><s n="sint"/></l><r>suspended<s n="adj"/></r></p></e>
+<e c=""><p><l>կամաց<s n="adj"/><s n="sint"/></l><r>slow<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կամաց<s n="adj"/><s n="sint"/></l><r>quiet<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կարճ<s n="adj"/><s n="sint"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կարճ<s n="adj"/><s n="sint"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կարճ<s n="adj"/><s n="sint"/></l><r>brief<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կարճ<s n="adj"/><s n="sint"/></l><r>succinct<s n="adj"/></r></p></e>
+<e c=""><p><l>կարճառոտ<s n="adj"/><s n="sint"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կարճառոտ<s n="adj"/><s n="sint"/></l><r>brief<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կարճառոտ<s n="adj"/><s n="sint"/></l><r>succinct<s n="adj"/></r></p></e>
+<e c=""><p><l>կարճառոտ<s n="adj"/><s n="sint"/></l><r>concise<s n="adj"/></r></p></e>
+<e c=""><p><l>կարճառոտ<s n="adj"/><s n="sint"/></l><r>laconic<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>sham<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>fake<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>artificial<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>counterfeit<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>fake<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>spurious<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>insincere<s n="adj"/></r></p></e>
+<e c=""><p><l>կեղծ<s n="adj"/><s n="sint"/></l><r>deceitful<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանավետ<s n="adj"/><s n="sint"/></l><r>vivifying<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանավետ<s n="adj"/><s n="sint"/></l><r>full<b/>of<b/>life<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="adj"/><s n="sint"/></l><r>alive<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="adj"/><s n="sint"/></l><r>living<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="adj"/><s n="sint"/></l><r>not<b/>dead<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="adj"/><s n="sint"/></l><r>lively<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="adj"/><s n="sint"/></l><r>brisk<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="adj"/><s n="sint"/></l><r>animal<s n="adj"/></r></p></e>
+<e c=""><p><l>կենդանի<s n="adj"/><s n="sint"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>animals<s n="adj"/></r></p></e>
+<e c=""><p><l>կլոր<s n="adj"/><s n="sint"/></l><r>round<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>bitter<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>spicy<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>caustic<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>biting<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>acrimonious<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>acrid<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>ironic<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>extreme<s n="adj"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կծու<s n="adj"/><s n="sint"/></l><r>piercing<s n="adj"/></r></p></e>
+<e c=""><p><l>կոմունիստական<s n="adj"/><s n="sint"/></l><r>communist<s n="adj"/></r></p></e>
+<e c=""><p><l>կոմունիստական<s n="adj"/><s n="sint"/></l><r>communistic<s n="adj"/></r></p></e>
+<e c=""><p><l>կոմունիստական<s n="adj"/><s n="sint"/></l><r>relating<b/>to<b/>communism<s n="adj"/></r></p></e>
+<e c=""><p><l>կործան<s n="adj"/><s n="sint"/></l><r>overturned<s n="adj"/></r></p></e>
+<e c=""><p><l>կործան<s n="adj"/><s n="sint"/></l><r>destroyed<s n="adj"/></r></p></e>
+<e c=""><p><l>կործան<s n="adj"/><s n="sint"/></l><r>ruined<s n="adj"/></r></p></e>
+<e c=""><p><l>կույր<s n="adj"/><s n="sint"/></l><r>blind<s n="adj"/></r></p></e>
+<e c=""><p><l>կույր<s n="adj"/><s n="sint"/></l><r>blunt<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>կույր<s n="adj"/><s n="sint"/></l><r>dull<s n="adj"/></r></p></e>
+<e c=""><p><l>հաղթ<s n="adj"/><s n="sint"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հաղթ<s n="adj"/><s n="sint"/></l><r>powerful<s n="adj"/></r></p></e>
+<e c=""><p><l>հաղթ<s n="adj"/><s n="sint"/></l><r>mighty<s n="adj"/></r></p></e>
+<e c=""><p><l>հաղթ<s n="adj"/><s n="sint"/></l><r>victorious<s n="adj"/></r></p></e>
+<e c=""><p><l>հաղթու<s n="adj"/><s n="sint"/></l><r>victorious<s n="adj"/></r></p></e>
+<e c=""><p><l>հաճ<s n="adj"/><s n="sint"/></l><r>content<s n="adj"/></r></p></e>
+<e c=""><p><l>հաճ<s n="adj"/><s n="sint"/></l><r>contented<s n="adj"/></r></p></e>
+<e c=""><p><l>հաճ<s n="adj"/><s n="sint"/></l><r>pleased<s n="adj"/></r></p></e>
+<e c=""><p><l>հաճ<s n="adj"/><s n="sint"/></l><r>satisfied<s n="adj"/></r></p></e>
+<e c=""><p><l>հաճո<s n="adj"/><s n="sint"/></l><r>pleasant<s n="adj"/></r></p></e>
+<e c=""><p><l>հաճո<s n="adj"/><s n="sint"/></l><r>pleasing<b/>(to)<s n="adj"/></r></p></e>
+<e c=""><p><l>հաճո<s n="adj"/><s n="sint"/></l><r>agreeable<s n="adj"/></r></p></e>
+<e c=""><p><l>համառոտ<s n="adj"/><s n="sint"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>համառոտ<s n="adj"/><s n="sint"/></l><r>brief<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>համառոտ<s n="adj"/><s n="sint"/></l><r>concise<s n="adj"/></r></p></e>
+<e c=""><p><l>համեղ<s n="adj"/><s n="sint"/></l><r>delicious<s n="adj"/></r></p></e>
+<e c=""><p><l>համեղ<s n="adj"/><s n="sint"/></l><r>tasty<s n="adj"/></r></p></e>
+<e c=""><p><l>համոզկեր<s n="adj"/><s n="sint"/></l><r>persuasive<s n="adj"/></r></p></e>
+<e c=""><p><l>համով<s n="adj"/><s n="sint"/></l><r>tasty<s n="adj"/></r></p></e>
+<e c=""><p><l>հայեցի<s n="adj"/><s n="sint"/></l><r>Armenian<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>impudent<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>immodest<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>wanton<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>unchaste<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>lecherous<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>lascivious<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>lustful<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>lewd<s n="adj"/></r></p></e>
+<e c=""><p><l>հայրատ<s n="adj"/><s n="sint"/></l><r>obscene<s n="adj"/></r></p></e>
+<e c=""><p><l>հանպատրաստից<s n="adj"/><s n="sint"/></l><r>extempore<s n="adj"/></r></p></e>
+<e c=""><p><l>հանպատրաստից<s n="adj"/><s n="sint"/></l><r>offhand<s n="adj"/></r></p></e>
+<e c=""><p><l>հանպատրաստից<s n="adj"/><s n="sint"/></l><r>impromptu<s n="adj"/></r></p></e>
+<e c=""><p><l>հաշտ<s n="adj"/><s n="sint"/></l><r>peaceful<s n="adj"/></r></p></e>
+<e c=""><p><l>հաշտ<s n="adj"/><s n="sint"/></l><r>peaceable<s n="adj"/></r></p></e>
+<e c=""><p><l>հաշտ<s n="adj"/><s n="sint"/></l><r>propitious<s n="adj"/></r></p></e>
+<e c=""><p><l>հաշտ<s n="adj"/><s n="sint"/></l><r>well-disposed<s n="adj"/></r></p></e>
+<e c=""><p><l>հաշտ<s n="adj"/><s n="sint"/></l><r>not<b/>fighting<s n="adj"/></r></p></e>
+<e c=""><p><l>հաշտ<s n="adj"/><s n="sint"/></l><r>not<b/>quarreling<s n="adj"/></r></p></e>
+<e c=""><p><l>հաչաղկոտ<s n="adj"/><s n="sint"/></l><r>envious<s n="adj"/></r></p></e>
+<e c=""><p><l>հաչաղկոտ<s n="adj"/><s n="sint"/></l><r>jealous<s n="adj"/></r></p></e>
+<e c=""><p><l>հաչաղկոտ<s n="adj"/><s n="sint"/></l><r>malicious<s n="adj"/></r></p></e>
+<e c=""><p><l>հաչաղկոտ<s n="adj"/><s n="sint"/></l><r>malevolent<s n="adj"/></r></p></e>
+<e c=""><p><l>հաչաղկոտ<s n="adj"/><s n="sint"/></l><r>giving<b/>the<b/>evil<b/>eye<s n="adj"/></r></p></e>
+<e c=""><p><l>հաչաղկոտ<s n="adj"/><s n="sint"/></l><r>bewitching<s n="adj"/></r></p></e>
+<e c=""><p><l>հապաղ<s n="adj"/><s n="sint"/></l><r>very<b/>patient<s n="adj"/></r></p></e>
+<e c=""><p><l>հապաղ<s n="adj"/><s n="sint"/></l><r>very<b/>hopeful<s n="adj"/></r></p></e>
+<e c=""><p><l>հապաղ<s n="adj"/><s n="sint"/></l><r>long-suffering<s n="adj"/></r></p></e>
+<e c=""><p><l>հապաղ<s n="adj"/><s n="sint"/></l><r>long-waiting<s n="adj"/></r></p></e>
+<e c=""><p><l>հաջող<s n="adj"/><s n="sint"/></l><r>successful<s n="adj"/></r></p></e>
+<e c=""><p><l>հաջող<s n="adj"/><s n="sint"/></l><r>lucky<s n="adj"/></r></p></e>
+<e c=""><p><l>հաջող<s n="adj"/><s n="sint"/></l><r>fortunate<s n="adj"/></r></p></e>
+<e c=""><p><l>հաստ<s n="adj"/><s n="sint"/></l><r>thick<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հաստ<s n="adj"/><s n="sint"/></l><r>fat<s n="adj"/></r></p></e>
+<e c=""><p><l>հաստ<s n="adj"/><s n="sint"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հաստույր<s n="adj"/><s n="sint"/></l><r>intense<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հաստույր<s n="adj"/><s n="sint"/></l><r>great<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հավան<s n="adj"/><s n="sint"/></l><r>consenting<s n="adj"/></r></p></e>
+<e c=""><p><l>հավան<s n="adj"/><s n="sint"/></l><r>agreeing<s n="adj"/></r></p></e>
+<e c=""><p><l>հավան<s n="adj"/><s n="sint"/></l><r>pleasant<s n="adj"/></r></p></e>
+<e c=""><p><l>հավան<s n="adj"/><s n="sint"/></l><r>agreeable<s n="adj"/></r></p></e>
+<e c=""><p><l>հավաստի<s n="adj"/><s n="sint"/></l><r>reliable<s n="adj"/></r></p></e>
+<e c=""><p><l>հավաստի<s n="adj"/><s n="sint"/></l><r>trustworthy<s n="adj"/></r></p></e>
+<e c=""><p><l>հավաստի<s n="adj"/><s n="sint"/></l><r>authentic<s n="adj"/></r></p></e>
+<e c=""><p><l>հավաստի<s n="adj"/><s n="sint"/></l><r>convinced<s n="adj"/></r></p></e>
+<e c=""><p><l>հավաստի<s n="adj"/><s n="sint"/></l><r>confirmed<s n="adj"/></r></p></e>
+<e c=""><p><l>հավաստի<s n="adj"/><s n="sint"/></l><r>persuaded<s n="adj"/></r></p></e>
+<e c=""><p><l>հավատարիմ<s n="adj"/><s n="sint"/></l><r>faithful<s n="adj"/></r></p></e>
+<e c=""><p><l>հավատարիմ<s n="adj"/><s n="sint"/></l><r>loyal<s n="adj"/></r></p></e>
+<e c=""><p><l>հավատարիմ<s n="adj"/><s n="sint"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հավես<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հավես<s n="adj"/><s n="sint"/></l><r>pleasing<s n="adj"/></r></p></e>
+<e c=""><p><l>հարազատ<s n="adj"/><s n="sint"/></l><r>directly<b/>related<b/>by<b/>blood<s n="adj"/></r></p></e>
+<e c=""><p><l>հարազատ<s n="adj"/><s n="sint"/></l><r>own<s n="adj"/></r></p></e>
+<e c=""><p><l>հարազատ<s n="adj"/><s n="sint"/></l><r>native<s n="adj"/></r></p></e>
+<e c=""><p><l>հարազատ<s n="adj"/><s n="sint"/></l><r>home<s n="adj"/></r></p></e>
+<e c=""><p><l>հարազատ<s n="adj"/><s n="sint"/></l><r>close<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հարազատ<s n="adj"/><s n="sint"/></l><r>kindred<s n="adj"/></r></p></e>
+<e c=""><p><l>հարավային<s n="adj"/><s n="sint"/></l><r>southern<s n="adj"/></r></p></e>
+<e c=""><p><l>հարավային<s n="adj"/><s n="sint"/></l><r>south<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հարբած<s n="adj"/><s n="sint"/></l><r>drunk<s n="adj"/></r></p></e>
+<e c=""><p><l>հարթ<s n="adj"/><s n="sint"/></l><r>smooth<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հարթ<s n="adj"/><s n="sint"/></l><r>even<s n="adj"/></r></p></e>
+<e c=""><p><l>հարթ<s n="adj"/><s n="sint"/></l><r>flat<s n="adj"/></r></p></e>
+<e c=""><p><l>հարթ<s n="adj"/><s n="sint"/></l><r>sleek<s n="adj"/></r></p></e>
+<e c=""><p><l>հարմար<s n="adj"/><s n="sint"/></l><r>comfortable<s n="adj"/></r></p></e>
+<e c=""><p><l>հարմար<s n="adj"/><s n="sint"/></l><r>convenient<s n="adj"/></r></p></e>
+<e c=""><p><l>հեռավոր<s n="adj"/><s n="sint"/></l><r>distant<s n="adj"/></r></p></e>
+<e c=""><p><l>հեռավոր<s n="adj"/><s n="sint"/></l><r>remote<s n="adj"/></r></p></e>
+<e c=""><p><l>հետաքրքիր<s n="adj"/><s n="sint"/></l><r>interesting<s n="adj"/></r></p></e>
+<e c=""><p><l>հետին<s n="adj"/><s n="sint"/></l><r>last<s n="adj"/></r></p></e>
+<e c=""><p><l>հետին<s n="adj"/><s n="sint"/></l><r>ulterior<s n="adj"/></r></p></e>
+<e c=""><p><l>հետին<s n="adj"/><s n="sint"/></l><r>posterior<s n="adj"/></r></p></e>
+<e c=""><p><l>հետին<s n="adj"/><s n="sint"/></l><r>back<s n="adj"/></r></p></e>
+<e c=""><p><l>հետին<s n="adj"/><s n="sint"/></l><r>rear<s n="adj"/></r></p></e>
+<e c=""><p><l>հետին<s n="adj"/><s n="sint"/></l><r>extreme<s n="adj"/></r></p></e>
+<e c=""><p><l>հետին<s n="adj"/><s n="sint"/></l><r>utmost<s n="adj"/></r></p></e>
+<e c=""><p><l>հզոր<s n="adj"/><s n="sint"/></l><r>mighty<s n="adj"/></r></p></e>
+<e c=""><p><l>հզոր<s n="adj"/><s n="sint"/></l><r>powerful<s n="adj"/></r></p></e>
+<e c=""><p><l>հիանալի<s n="adj"/><s n="sint"/></l><r>awesome<s n="adj"/></r></p></e>
+<e c=""><p><l>հիվանդ<s n="adj"/><s n="sint"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հիվանդ<s n="adj"/><s n="sint"/></l><r>ill<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հիվանդ<s n="adj"/><s n="sint"/></l><r>diseased<s n="adj"/></r></p></e>
+<e c=""><p><l>հիվանդագին<s n="adj"/><s n="sint"/></l><r>ailing<s n="adj"/></r></p></e>
+<e c=""><p><l>հիվանդագին<s n="adj"/><s n="sint"/></l><r>sickly<s n="adj"/></r></p></e>
+<e c=""><p><l>հիվանդագին<s n="adj"/><s n="sint"/></l><r>unhealthy<s n="adj"/></r></p></e>
+<e c=""><p><l>հյութեղ<s n="adj"/><s n="sint"/></l><r>juicy<s n="adj"/></r></p></e>
+<e c=""><p><l>հյութեղ<s n="adj"/><s n="sint"/></l><r>sappy<s n="adj"/></r></p></e>
+<e c=""><p><l>հյութեղ<s n="adj"/><s n="sint"/></l><r>succulent<s n="adj"/></r></p></e>
+<e c=""><p><l>հնոտի<s n="adj"/><s n="sint"/></l><r>old<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հնոտի<s n="adj"/><s n="sint"/></l><r>worn<s n="adj"/></r></p></e>
+<e c=""><p><l>հնոտի<s n="adj"/><s n="sint"/></l><r>worn<b/>out<s n="adj"/></r></p></e>
+<e c=""><p><l>հնոտի<s n="adj"/><s n="sint"/></l><r>old<b/>clothes<s n="adj"/></r></p></e>
+<e c=""><p><l>հոգեղեն<s n="adj"/><s n="sint"/></l><r>spiritual<s n="adj"/></r></p></e>
+<e c=""><p><l>հոգեղեն<s n="adj"/><s n="sint"/></l><r>immaterial<s n="adj"/></r></p></e>
+<e c=""><p><l>հողեղեն<s n="adj"/><s n="sint"/></l><r>earthly<s n="adj"/></r></p></e>
+<e c=""><p><l>հողեղեն<s n="adj"/><s n="sint"/></l><r>mortal<s n="adj"/></r></p></e>
+<e c=""><p><l>հողեղեն<s n="adj"/><s n="sint"/></l><r>perishable<s n="adj"/></r></p></e>
+<e c=""><p><l>հողեղեն<s n="adj"/><s n="sint"/></l><r>earthen<s n="adj"/></r></p></e>
+<e c=""><p><l>հոսնական<s n="adj"/><s n="sint"/></l><r>lustful<s n="adj"/></r></p></e>
+<e c=""><p><l>հոսնական<s n="adj"/><s n="sint"/></l><r>lewd<s n="adj"/></r></p></e>
+<e c=""><p><l>հոսնական<s n="adj"/><s n="sint"/></l><r>lascivious<s n="adj"/></r></p></e>
+<e c=""><p><l>հով<s n="adj"/><s n="sint"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հով<s n="adj"/><s n="sint"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>հով<s n="adj"/><s n="sint"/></l><r>chilly<s n="adj"/></r></p></e>
+<e c=""><p><l>հուժկու<s n="adj"/><s n="sint"/></l><r>powerful<s n="adj"/></r></p></e>
+<e c=""><p><l>հուժկու<s n="adj"/><s n="sint"/></l><r>mighty<s n="adj"/></r></p></e>
+<e c=""><p><l>հում<s n="adj"/><s n="sint"/></l><r>raw<s n="adj"/></r></p></e>
+<e c=""><p><l>հում<s n="adj"/><s n="sint"/></l><r>uncooked<s n="adj"/></r></p></e>
+<e c=""><p><l>հում<s n="adj"/><s n="sint"/></l><r>raw<s n="adj"/></r></p></e>
+<e c=""><p><l>հում<s n="adj"/><s n="sint"/></l><r>unprocessed<s n="adj"/></r></p></e>
+<e c=""><p><l>հում<s n="adj"/><s n="sint"/></l><r>crude<s n="adj"/></r></p></e>
+<e c=""><p><l>հում<s n="adj"/><s n="sint"/></l><r>unboiled<s n="adj"/></r></p></e>
+<e c=""><p><l>հուռթի<s n="adj"/><s n="sint"/></l><r>watered<s n="adj"/></r></p></e>
+<e c=""><p><l>հուռթի<s n="adj"/><s n="sint"/></l><r>irrigated<s n="adj"/></r></p></e>
+<e c=""><p><l>հուռթի<s n="adj"/><s n="sint"/></l><r>fecund<s n="adj"/></r></p></e>
+<e c=""><p><l>հուռթի<s n="adj"/><s n="sint"/></l><r>fertile<s n="adj"/></r></p></e>
+<e c=""><p><l>հուռթի<s n="adj"/><s n="sint"/></l><r>fruitful<s n="adj"/></r></p></e>
+<e c=""><p><l>հուռթի<s n="adj"/><s n="sint"/></l><r>productive<s n="adj"/></r></p></e>
+<e c=""><p><l>հրեղեն<s n="adj"/><s n="sint"/></l><r>fiery<s n="adj"/></r></p></e>
+<e c=""><p><l>հրեղեն<s n="adj"/><s n="sint"/></l><r>igneous<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախ<s n="adj"/><s n="sint"/></l><r>left<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախ<s n="adj"/><s n="sint"/></l><r>left-hand<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախ<s n="adj"/><s n="sint"/></l><r>unsuccessful<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախ<s n="adj"/><s n="sint"/></l><r>unfortunate<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախ<s n="adj"/><s n="sint"/></l><r>left<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախող<s n="adj"/><s n="sint"/></l><r>unlucky<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախող<s n="adj"/><s n="sint"/></l><r>sinister<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախող<s n="adj"/><s n="sint"/></l><r>unlucky<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախող<s n="adj"/><s n="sint"/></l><r>unsuccessful<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախող<s n="adj"/><s n="sint"/></l><r>unlucky<b/>person<s n="adj"/></r></p></e>
+<e c=""><p><l>ձախող<s n="adj"/><s n="sint"/></l><r>a<b/>failure<s n="adj"/></r></p></e>
+<e c=""><p><l>ձառ<s n="adj"/><s n="sint"/></l><r>twisted<s n="adj"/></r></p></e>
+<e c=""><p><l>ձառ<s n="adj"/><s n="sint"/></l><r>crooked<s n="adj"/></r></p></e>
+<e c=""><p><l>ձառ<s n="adj"/><s n="sint"/></l><r>ugly<s n="adj"/></r></p></e>
+<e c=""><p><l>ձառ<s n="adj"/><s n="sint"/></l><r>coarse<s n="adj"/></r></p></e>
+<e c=""><p><l>ձառ<s n="adj"/><s n="sint"/></l><r>rough<s n="adj"/></r></p></e>
+<e c=""><p><l>ձիգ<s n="adj"/><s n="sint"/></l><r>tight<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ձիգ<s n="adj"/><s n="sint"/></l><r>taut<s n="adj"/></r></p></e>
+<e c=""><p><l>ձիգ<s n="adj"/><s n="sint"/></l><r>long<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ձիգ<s n="adj"/><s n="sint"/></l><r>extended<s n="adj"/></r></p></e>
+<e c=""><p><l>ձիգ<s n="adj"/><s n="sint"/></l><r>slow<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ձիգ<s n="adj"/><s n="sint"/></l><r>monotonous<s n="adj"/></r></p></e>
+<e c=""><p><l>ղարաբաղյան<s n="adj"/><s n="sint"/></l><r>Karabakh<s n="adj"/></r></p></e>
+<e c=""><p><l>ղարաբաղյան<s n="adj"/><s n="sint"/></l><r>Karabakhi<b/>(of<b/>or<b/>pertaining<b/>to<b/>Karabakh<s n="adj"/></r></p></e>
+<e c=""><p><l>ղարաբաղյան<s n="adj"/><s n="sint"/></l><r>Nagorno-Karabakh<b/>or<b/>Nagorno-Karabakh<b/>Republic)<s n="adj"/></r></p></e>
+<e c=""><p><l>ղպտիական<s n="adj"/><s n="sint"/></l><r>Coptic<s n="adj"/></r></p></e>
+<e c=""><p><l>ճանճկեն<s n="adj"/><s n="sint"/></l><r>black<b/>and<b/>white<b/>spotted<s n="adj"/></r></p></e>
+<e c=""><p><l>ճանճկեն<s n="adj"/><s n="sint"/></l><r>flea-bitten<s n="adj"/></r></p></e>
+<e c=""><p><l>ճապոնական<s n="adj"/><s n="sint"/></l><r>Japanese<s n="adj"/></r></p></e>
+<e c=""><p><l>ճիշտ<s n="adj"/><s n="sint"/></l><r>right<s n="adj"/></r></p></e>
+<e c=""><p><l>ճիշտ<s n="adj"/><s n="sint"/></l><r>correct<s n="adj"/></r></p></e>
+<e c=""><p><l>ճիշտ<s n="adj"/><s n="sint"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ճիշտ<s n="adj"/><s n="sint"/></l><r>precise<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ճիշտ<s n="adj"/><s n="sint"/></l><r>exact<s n="adj"/></r></p></e>
+<e c=""><p><l>ճիշտ<s n="adj"/><s n="sint"/></l><r>accurate<s n="adj"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>little<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>petty<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>minute<s n="adj"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>fine<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>petty<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>unimportant<s n="adj"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>small-minded<s n="adj"/></r></p></e>
+<e c=""><p><l>մանր<s n="adj"/><s n="sint"/></l><r>pettifogging<s n="adj"/></r></p></e>
+<e c=""><p><l>մաքուր<s n="adj"/><s n="sint"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մաքուր<s n="adj"/><s n="sint"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մաքուր<s n="adj"/><s n="sint"/></l><r>genuine<s n="adj"/></r></p></e>
+<e c=""><p><l>մեղմ<s n="adj"/><s n="sint"/></l><r>soft<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մեղմ<s n="adj"/><s n="sint"/></l><r>mild<s n="adj"/></r></p></e>
+<e c=""><p><l>մեղմ<s n="adj"/><s n="sint"/></l><r>gentle<s n="adj"/></r></p></e>
+<e c=""><p><l>մեղմ<s n="adj"/><s n="sint"/></l><r>agreeable<s n="adj"/></r></p></e>
+<e c=""><p><l>մեղմ<s n="adj"/><s n="sint"/></l><r>tranquil<s n="adj"/></r></p></e>
+<e c=""><p><l>մեռյալ<s n="adj"/><s n="sint"/></l><r>dead<s n="adj"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>naked<s n="adj"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>bare<s n="adj"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>nude<s n="adj"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>devoid<b/>of<b/>vegetation<s n="adj"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>undisguised<s n="adj"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>barefaced<s n="adj"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մերկ<s n="adj"/><s n="sint"/></l><r>indigent<s n="adj"/></r></p></e>
+<e c=""><p><l>մերձ<s n="adj"/><s n="sint"/></l><r>near<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մերձ<s n="adj"/><s n="sint"/></l><r>close<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մթար<s n="adj"/><s n="sint"/></l><r>dark<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մոլի<s n="adj"/><s n="sint"/></l><r>ardent<s n="adj"/></r></p></e>
+<e c=""><p><l>մոլի<s n="adj"/><s n="sint"/></l><r>inveterate<s n="adj"/></r></p></e>
+<e c=""><p><l>մոլի<s n="adj"/><s n="sint"/></l><r>passionate<s n="adj"/></r></p></e>
+<e c=""><p><l>մոլոր<s n="adj"/><s n="sint"/></l><r>strayed<s n="adj"/></r></p></e>
+<e c=""><p><l>մոլոր<s n="adj"/><s n="sint"/></l><r>erred<s n="adj"/></r></p></e>
+<e c=""><p><l>մոլոր<s n="adj"/><s n="sint"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մոլոր<s n="adj"/><s n="sint"/></l><r>mistaken<s n="adj"/></r></p></e>
+<e c=""><p><l>մոլոր<s n="adj"/><s n="sint"/></l><r>with<b/>wandering<b/>thoughts<s n="adj"/></r></p></e>
+<e c=""><p><l>մռայլ<s n="adj"/><s n="sint"/></l><r>gloomy<s n="adj"/></r></p></e>
+<e c=""><p><l>մռայլ<s n="adj"/><s n="sint"/></l><r>sullen<s n="adj"/></r></p></e>
+<e c=""><p><l>մռայլ<s n="adj"/><s n="sint"/></l><r>morose<s n="adj"/></r></p></e>
+<e c=""><p><l>մռայլ<s n="adj"/><s n="sint"/></l><r>cloudy<s n="adj"/></r></p></e>
+<e c=""><p><l>մռայլ<s n="adj"/><s n="sint"/></l><r>dull<s n="adj"/></r></p></e>
+<e c=""><p><l>մռայլ<s n="adj"/><s n="sint"/></l><r>overcast<s n="adj"/></r></p></e>
+<e c=""><p><l>մռու<s n="adj"/><s n="sint"/></l><r>bitter<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղ<s n="adj"/><s n="sint"/></l><r>containing<b/>a<b/>lot<b/>of<b/>meat<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղ<s n="adj"/><s n="sint"/></l><r>fleshy<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղ<s n="adj"/><s n="sint"/></l><r>corpulent<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղ<s n="adj"/><s n="sint"/></l><r>chubby<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղ<s n="adj"/><s n="sint"/></l><r>plump<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղ<s n="adj"/><s n="sint"/></l><r>fat<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղ<s n="adj"/><s n="sint"/></l><r>brawny<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղեն<s n="adj"/><s n="sint"/></l><r>made<b/>of<b/>meat<s n="adj"/></r></p></e>
+<e c=""><p><l>մսեղեն<s n="adj"/><s n="sint"/></l><r>made<b/>of<b/>flesh<s n="adj"/></r></p></e>
+<e c=""><p><l>մտառու<s n="adj"/><s n="sint"/></l><r>clever<s n="adj"/></r></p></e>
+<e c=""><p><l>մտառու<s n="adj"/><s n="sint"/></l><r>bright<s n="adj"/></r></p></e>
+<e c=""><p><l>մտառու<s n="adj"/><s n="sint"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>մտառու<s n="adj"/><s n="sint"/></l><r>quick-witted<s n="adj"/></r></p></e>
+<e c=""><p><l>մտավոր<s n="adj"/><s n="sint"/></l><r>intellectual<s n="adj"/></r></p></e>
+<e c=""><p><l>մտավոր<s n="adj"/><s n="sint"/></l><r>mental<s n="adj"/></r></p></e>
+<e c=""><p><l>նախանձկոտ<s n="adj"/><s n="sint"/></l><r>envious<s n="adj"/></r></p></e>
+<e c=""><p><l>նախանձկոտ<s n="adj"/><s n="sint"/></l><r>jealous<s n="adj"/></r></p></e>
+<e c=""><p><l>նամ<s n="adj"/><s n="sint"/></l><r>damp<s n="adj"/></r></p></e>
+<e c=""><p><l>նեղ<s n="adj"/><s n="sint"/></l><r>narrow<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>նեղ<s n="adj"/><s n="sint"/></l><r>tight<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>նեղ<s n="adj"/><s n="sint"/></l><r>difficult<s n="adj"/></r></p></e>
+<e c=""><p><l>նեղ<s n="adj"/><s n="sint"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>նեղ<s n="adj"/><s n="sint"/></l><r>limited<s n="adj"/></r></p></e>
+<e c=""><p><l>նիդերլանդական<s n="adj"/><s n="sint"/></l><r>Dutch<s n="adj"/></r></p></e>
+<e c=""><p><l>նկարեն<s n="adj"/><s n="sint"/></l><r>painted<s n="adj"/></r></p></e>
+<e c=""><p><l>նկարեն<s n="adj"/><s n="sint"/></l><r>coloured<s n="adj"/></r></p></e>
+<e c=""><p><l>նկարեն<s n="adj"/><s n="sint"/></l><r>variegated<s n="adj"/></r></p></e>
+<e c=""><p><l>նկարեն<s n="adj"/><s n="sint"/></l><r>varied<b/>with<b/>many<b/>colours<s n="adj"/></r></p></e>
+<e c=""><p><l>նկարեն<s n="adj"/><s n="sint"/></l><r>embellished<b/>with<b/>imagery<s n="adj"/></r></p></e>
+<e c=""><p><l>նման<s n="adj"/><s n="sint"/></l><r>similar<s n="adj"/></r></p></e>
+<e c=""><p><l>նման<s n="adj"/><s n="sint"/></l><r>like<s n="adj"/></r></p></e>
+<e c=""><p><l>նման<s n="adj"/><s n="sint"/></l><r>resembling<s n="adj"/></r></p></e>
+<e c=""><p><l>նման<s n="adj"/><s n="sint"/></l><r>the<b/>same<b/>as<s n="adj"/></r></p></e>
+<e c=""><p><l>նվազ<s n="adj"/><s n="sint"/></l><r>less<s n="adj"/></r></p></e>
+<e c=""><p><l>նվազ<s n="adj"/><s n="sint"/></l><r>feeble<s n="adj"/></r></p></e>
+<e c=""><p><l>նվազ<s n="adj"/><s n="sint"/></l><r>frail<s n="adj"/></r></p></e>
+<e c=""><p><l>նվազ<s n="adj"/><s n="sint"/></l><r>sickly<s n="adj"/></r></p></e>
+<e c=""><p><l>շահավետ<s n="adj"/><s n="sint"/></l><r>profitable<s n="adj"/></r></p></e>
+<e c=""><p><l>շահավետ<s n="adj"/><s n="sint"/></l><r>advantageous<s n="adj"/></r></p></e>
+<e c=""><p><l>շահավետ<s n="adj"/><s n="sint"/></l><r>beneficial<s n="adj"/></r></p></e>
+<e c=""><p><l>շահեկան<s n="adj"/><s n="sint"/></l><r>profitable<s n="adj"/></r></p></e>
+<e c=""><p><l>շահեկան<s n="adj"/><s n="sint"/></l><r>lucrative<s n="adj"/></r></p></e>
+<e c=""><p><l>շահեկան<s n="adj"/><s n="sint"/></l><r>useful<s n="adj"/></r></p></e>
+<e c=""><p><l>շամբուտ<s n="adj"/><s n="sint"/></l><r>full<b/>of<b/>canes<b/>or<b/>reeds<s n="adj"/></r></p></e>
+<e c=""><p><l>շաշ<s n="adj"/><s n="sint"/></l><r>squint-eyed<s n="adj"/></r></p></e>
+<e c=""><p><l>շաշ<s n="adj"/><s n="sint"/></l><r>cross-eyed<s n="adj"/></r></p></e>
+<e c=""><p><l>շաշ<s n="adj"/><s n="sint"/></l><r>crazy<s n="adj"/></r></p></e>
+<e c=""><p><l>շաշ<s n="adj"/><s n="sint"/></l><r>nuts<s n="adj"/></r></p></e>
+<e c=""><p><l>շաշ<s n="adj"/><s n="sint"/></l><r>foolish<s n="adj"/></r></p></e>
+<e c=""><p><l>շատ<s n="adj"/><s n="sint"/></l><r>a<b/>lot<b/>of<s n="adj"/></r></p></e>
+<e c=""><p><l>շատ<s n="adj"/><s n="sint"/></l><r>many<s n="adj"/></r></p></e>
+<e c=""><p><l>շատ<s n="adj"/><s n="sint"/></l><r>much<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>inhabited<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>peopled<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>in<b/>good<b/>state<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>prosperous<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>undamaged<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>intact<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>uninjured<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>fertile<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>fruitful<s n="adj"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>healthy<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>շեն<s n="adj"/><s n="sint"/></l><r>shapely<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>luxurious<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>glorious<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>magnificent<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>rich<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>sumptuous<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>pompous<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>splendid<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>superb<s n="adj"/></r></p></e>
+<e c=""><p><l>շքեղ<s n="adj"/><s n="sint"/></l><r>majestic<s n="adj"/></r></p></e>
+<e c=""><p><l>ոխերիմ<s n="adj"/><s n="sint"/></l><r>harbouring<b/>rancour<s n="adj"/></r></p></e>
+<e c=""><p><l>ոխերիմ<s n="adj"/><s n="sint"/></l><r>wrathful<s n="adj"/></r></p></e>
+<e c=""><p><l>ոխերիմ<s n="adj"/><s n="sint"/></l><r>ill-willing<s n="adj"/></r></p></e>
+<e c=""><p><l>ողորկ<s n="adj"/><s n="sint"/></l><r>smooth<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ողորկ<s n="adj"/><s n="sint"/></l><r>glossy<s n="adj"/></r></p></e>
+<e c=""><p><l>ողորկ<s n="adj"/><s n="sint"/></l><r>sleek<s n="adj"/></r></p></e>
+<e c=""><p><l>ողորկ<s n="adj"/><s n="sint"/></l><r>polished<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկեղեն<s n="adj"/><s n="sint"/></l><r>golden<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկեղեն<s n="adj"/><s n="sint"/></l><r>of<b/>gold<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկեղեն<s n="adj"/><s n="sint"/></l><r>gilded<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկեղեն<s n="adj"/><s n="sint"/></l><r>gilt<s n="adj"/></r></p></e>
+<e c=""><p><l>որձ<s n="adj"/><s n="sint"/></l><r>male<s n="adj"/></r></p></e>
+<e c=""><p><l>որձ<s n="adj"/><s n="sint"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>որձ<s n="adj"/><s n="sint"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>որձ<s n="adj"/><s n="sint"/></l><r>rugged<s n="adj"/></r></p></e>
+<e c=""><p><l>ուրախավետ<s n="adj"/><s n="sint"/></l><r>giving<b/>or<b/>inspiring<b/>joy<s n="adj"/></r></p></e>
+<e c=""><p><l>ուրախավետ<s n="adj"/><s n="sint"/></l><r>joyous<s n="adj"/></r></p></e>
+<e c=""><p><l>ուրախավետ<s n="adj"/><s n="sint"/></l><r>pleasant<s n="adj"/></r></p></e>
+<e c=""><p><l>ուրուկ<s n="adj"/><s n="sint"/></l><r>leprous<s n="adj"/></r></p></e>
+<e c=""><p><l>չաղ<s n="adj"/><s n="sint"/></l><r>fat<s n="adj"/></r></p></e>
+<e c=""><p><l>չաղ<s n="adj"/><s n="sint"/></l><r>obese<s n="adj"/></r></p></e>
+<e c=""><p><l>չար<s n="adj"/><s n="sint"/></l><r>evil<s n="adj"/></r></p></e>
+<e c=""><p><l>չար<s n="adj"/><s n="sint"/></l><r>wicked<s n="adj"/></r></p></e>
+<e c=""><p><l>չար<s n="adj"/><s n="sint"/></l><r>mischievous<s n="adj"/></r></p></e>
+<e c=""><p><l>չար<s n="adj"/><s n="sint"/></l><r>prankish<s n="adj"/></r></p></e>
+<e c=""><p><l>չարախոս<s n="adj"/><s n="sint"/></l><r>slanderous<s n="adj"/></r></p></e>
+<e c=""><p><l>չարախոս<s n="adj"/><s n="sint"/></l><r>evil-speaking<s n="adj"/></r></p></e>
+<e c=""><p><l>չարախոս<s n="adj"/><s n="sint"/></l><r>evil-tounged<s n="adj"/></r></p></e>
+<e c=""><p><l>չոր<s n="adj"/><s n="sint"/></l><r>dry<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>չոր<s n="adj"/><s n="sint"/></l><r>arid<s n="adj"/></r></p></e>
+<e c=""><p><l>չոր<s n="adj"/><s n="sint"/></l><r>prim<s n="adj"/></r></p></e>
+<e c=""><p><l>չոր<s n="adj"/><s n="sint"/></l><r>stiff<s n="adj"/></r></p></e>
+<e c=""><p><l>չփլախ<s n="adj"/><s n="sint"/></l><r>naked<s n="adj"/></r></p></e>
+<e c=""><p><l>չփլախ<s n="adj"/><s n="sint"/></l><r>nude<s n="adj"/></r></p></e>
+<e c=""><p><l>չփլախ<s n="adj"/><s n="sint"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>չփլախ<s n="adj"/><s n="sint"/></l><r>indigent<s n="adj"/></r></p></e>
+<e c=""><p><l>չքավոր<s n="adj"/><s n="sint"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>չքավոր<s n="adj"/><s n="sint"/></l><r>indigent<s n="adj"/></r></p></e>
+<e c=""><p><l>չքավոր<s n="adj"/><s n="sint"/></l><r>poverty-stricken<s n="adj"/></r></p></e>
+<e c=""><p><l>պաշտոնական<s n="adj"/><s n="sint"/></l><r>official<s n="adj"/></r></p></e>
+<e c=""><p><l>պարապ<s n="adj"/><s n="sint"/></l><r>idle<s n="adj"/></r></p></e>
+<e c=""><p><l>պարապ<s n="adj"/><s n="sint"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>պերճ<s n="adj"/><s n="sint"/></l><r>splendid<s n="adj"/></r></p></e>
+<e c=""><p><l>պերճ<s n="adj"/><s n="sint"/></l><r>magnificent<s n="adj"/></r></p></e>
+<e c=""><p><l>պերճ<s n="adj"/><s n="sint"/></l><r>pompous<s n="adj"/></r></p></e>
+<e c=""><p><l>պերճ<s n="adj"/><s n="sint"/></l><r>rich<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>պերճ<s n="adj"/><s n="sint"/></l><r>opulent<s n="adj"/></r></p></e>
+<e c=""><p><l>պերճ<s n="adj"/><s n="sint"/></l><r>sumptuous<s n="adj"/></r></p></e>
+<e c=""><p><l>պիտանացու<s n="adj"/><s n="sint"/></l><r>necessary<s n="adj"/></r></p></e>
+<e c=""><p><l>պիտանացու<s n="adj"/><s n="sint"/></l><r>useful<s n="adj"/></r></p></e>
+<e c=""><p><l>պիտանացու<s n="adj"/><s n="sint"/></l><r>advantageous<s n="adj"/></r></p></e>
+<e c=""><p><l>պիտանացու<s n="adj"/><s n="sint"/></l><r>due<s n="adj"/></r></p></e>
+<e c=""><p><l>պիտանացու<s n="adj"/><s n="sint"/></l><r>proper<s n="adj"/></r></p></e>
+<e c=""><p><l>պիտանացու<s n="adj"/><s n="sint"/></l><r>fit<s n="adj"/></r></p></e>
+<e c=""><p><l>պիտո<s n="adj"/><s n="sint"/></l><r>necessary<s n="adj"/></r></p></e>
+<e c=""><p><l>պորտուգալական<s n="adj"/><s n="sint"/></l><r>Portuguese<s n="adj"/></r></p></e>
+<e c=""><p><l>պուճուրիկ<s n="adj"/><s n="sint"/></l><r>tiny<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ջեռ<s n="adj"/><s n="sint"/></l><r>warm<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ջեռ<s n="adj"/><s n="sint"/></l><r>bright<s n="adj"/></r></p></e>
+<e c=""><p><l>ջեռ<s n="adj"/><s n="sint"/></l><r>shining<s n="adj"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>warm<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>ardent<s n="adj"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>burning<s n="adj"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>fervid<s n="adj"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>fiery<s n="adj"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>passionate<s n="adj"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>tender<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ջերմ<s n="adj"/><s n="sint"/></l><r>affectionate<s n="adj"/></r></p></e>
+<e c=""><p><l>ջինջ<s n="adj"/><s n="sint"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ջինջ<s n="adj"/><s n="sint"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ջինջ<s n="adj"/><s n="sint"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ջրեղեն<s n="adj"/><s n="sint"/></l><r>watery<s n="adj"/></r></p></e>
+<e c=""><p><l>ջրեղեն<s n="adj"/><s n="sint"/></l><r>aqueous<s n="adj"/></r></p></e>
+<e c=""><p><l>սակավ<s n="adj"/><s n="sint"/></l><r>few<s n="adj"/></r></p></e>
+<e c=""><p><l>սակավ<s n="adj"/><s n="sint"/></l><r>little<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սակավ<s n="adj"/><s n="sint"/></l><r>rare<s n="adj"/></r></p></e>
+<e c=""><p><l>սակավ<s n="adj"/><s n="sint"/></l><r>scarce<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղլամ<s n="adj"/><s n="sint"/></l><r>unscathed<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղլամ<s n="adj"/><s n="sint"/></l><r>unharmed<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղլամ<s n="adj"/><s n="sint"/></l><r>whole<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղլամ<s n="adj"/><s n="sint"/></l><r>complete<s n="adj"/></r></p></e>
+<e c=""><p><l>սաղլամ<s n="adj"/><s n="sint"/></l><r>without<b/>deficit<s n="adj"/></r></p></e>
+<e c=""><p><l>սառն<s n="adj"/><s n="sint"/></l><r>cold<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սառն<s n="adj"/><s n="sint"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սառն<s n="adj"/><s n="sint"/></l><r>unfriendly<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սառն<s n="adj"/><s n="sint"/></l><r>cold<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սառուցյալ<s n="adj"/><s n="sint"/></l><r>frozen<s n="adj"/></r></p></e>
+<e c=""><p><l>սառուցյալ<s n="adj"/><s n="sint"/></l><r>ice-covered<s n="adj"/></r></p></e>
+<e c=""><p><l>սասան<s n="adj"/><s n="sint"/></l><r>shaking<s n="adj"/></r></p></e>
+<e c=""><p><l>սասան<s n="adj"/><s n="sint"/></l><r>trembling<s n="adj"/></r></p></e>
+<e c=""><p><l>սեգ<s n="adj"/><s n="sint"/></l><r>proud<s n="adj"/></r></p></e>
+<e c=""><p><l>սեգ<s n="adj"/><s n="sint"/></l><r>haughty<s n="adj"/></r></p></e>
+<e c=""><p><l>սեգ<s n="adj"/><s n="sint"/></l><r>arrogant<s n="adj"/></r></p></e>
+<e c=""><p><l>սինլքոր<s n="adj"/><s n="sint"/></l><r>déclassé<s n="adj"/></r></p></e>
+<e c=""><p><l>սինլքոր<s n="adj"/><s n="sint"/></l><r>belonging<b/>to<b/>the<b/>lower<b/>strata<b/>of<b/>society<s n="adj"/></r></p></e>
+<e c=""><p><l>սինլքոր<s n="adj"/><s n="sint"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սինլքոր<s n="adj"/><s n="sint"/></l><r>despicable<s n="adj"/></r></p></e>
+<e c=""><p><l>սինլքոր<s n="adj"/><s n="sint"/></l><r>vile<s n="adj"/></r></p></e>
+<e c=""><p><l>սխալ<s n="adj"/><s n="sint"/></l><r>wrong<s n="adj"/></r></p></e>
+<e c=""><p><l>սխալ<s n="adj"/><s n="sint"/></l><r>incorrect<s n="adj"/></r></p></e>
+<e c=""><p><l>սուտ<s n="adj"/><s n="sint"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սուտ<s n="adj"/><s n="sint"/></l><r>counterfeit<s n="adj"/></r></p></e>
+<e c=""><p><l>սուտ<s n="adj"/><s n="sint"/></l><r>mock<s n="adj"/></r></p></e>
+<e c=""><p><l>սուտ<s n="adj"/><s n="sint"/></l><r>wrong<s n="adj"/></r></p></e>
+<e c=""><p><l>սուտ<s n="adj"/><s n="sint"/></l><r>deceitful<s n="adj"/></r></p></e>
+<e c=""><p><l>սուր<s n="adj"/><s n="sint"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սուր<s n="adj"/><s n="sint"/></l><r>keen<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սուր<s n="adj"/><s n="sint"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սուր<s n="adj"/><s n="sint"/></l><r>acute<s n="adj"/></r></p></e>
+<e c=""><p><l>սուր<s n="adj"/><s n="sint"/></l><r>harsh<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>սուր<s n="adj"/><s n="sint"/></l><r>acute<s n="adj"/></r></p></e>
+<e c=""><p><l>ստամբակ<s n="adj"/><s n="sint"/></l><r>indocile<s n="adj"/></r></p></e>
+<e c=""><p><l>ստամբակ<s n="adj"/><s n="sint"/></l><r>disobedient<s n="adj"/></r></p></e>
+<e c=""><p><l>ստամբակ<s n="adj"/><s n="sint"/></l><r>untractable<s n="adj"/></r></p></e>
+<e c=""><p><l>սրտյա<s n="adj"/><s n="sint"/></l><r>courageous<s n="adj"/></r></p></e>
+<e c=""><p><l>սրտյա<s n="adj"/><s n="sint"/></l><r>intrepid<s n="adj"/></r></p></e>
+<e c=""><p><l>սրտյա<s n="adj"/><s n="sint"/></l><r>spirited<s n="adj"/></r></p></e>
+<e c=""><p><l>սրտյա<s n="adj"/><s n="sint"/></l><r>bold<s n="adj"/></r></p></e>
+<e c=""><p><l>սրտյա<s n="adj"/><s n="sint"/></l><r>lively<s n="adj"/></r></p></e>
+<e c=""><p><l>վառ<s n="adj"/><s n="sint"/></l><r>lighted<s n="adj"/></r></p></e>
+<e c=""><p><l>վառ<s n="adj"/><s n="sint"/></l><r>burning<s n="adj"/></r></p></e>
+<e c=""><p><l>վառ<s n="adj"/><s n="sint"/></l><r>bright<s n="adj"/></r></p></e>
+<e c=""><p><l>վառ<s n="adj"/><s n="sint"/></l><r>shining<s n="adj"/></r></p></e>
+<e c=""><p><l>վառ<s n="adj"/><s n="sint"/></l><r>brilliant<s n="adj"/></r></p></e>
+<e c=""><p><l>վառ<s n="adj"/><s n="sint"/></l><r>vivid<s n="adj"/></r></p></e>
+<e c=""><p><l>վառ<s n="adj"/><s n="sint"/></l><r>lively<s n="adj"/></r></p></e>
+<e c=""><p><l>վարժ<s n="adj"/><s n="sint"/></l><r>experienced<s n="adj"/></r></p></e>
+<e c=""><p><l>վարժ<s n="adj"/><s n="sint"/></l><r>skilled<s n="adj"/></r></p></e>
+<e c=""><p><l>վարժ<s n="adj"/><s n="sint"/></l><r>fluent<s n="adj"/></r></p></e>
+<e c=""><p><l>վարժ<s n="adj"/><s n="sint"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>վարժ<s n="adj"/><s n="sint"/></l><r>accustomed<s n="adj"/></r></p></e>
+<e c=""><p><l>վարժ<s n="adj"/><s n="sint"/></l><r>inured<s n="adj"/></r></p></e>
+<e c=""><p><l>վարժ<s n="adj"/><s n="sint"/></l><r>trained<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>lofty<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>exalted<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>sublime<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>majestic<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>grand<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>sublime<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>stately<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>imposing<s n="adj"/></r></p></e>
+<e c=""><p><l>վեհ<s n="adj"/><s n="sint"/></l><r>noble<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>վիժանուտ<s n="adj"/><s n="sint"/></l><r>dashing<b/>down<s n="adj"/></r></p></e>
+<e c=""><p><l>վիժանուտ<s n="adj"/><s n="sint"/></l><r>rushing<b/>down<s n="adj"/></r></p></e>
+<e c=""><p><l>վիժանուտ<s n="adj"/><s n="sint"/></l><r>crashing<b/>down<s n="adj"/></r></p></e>
+<e c=""><p><l>վիրագ<s n="adj"/><s n="sint"/></l><r>fierce<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>վիրագ<s n="adj"/><s n="sint"/></l><r>ferocious<s n="adj"/></r></p></e>
+<e c=""><p><l>վիրագ<s n="adj"/><s n="sint"/></l><r>brutal<s n="adj"/></r></p></e>
+<e c=""><p><l>տամուկ<s n="adj"/><s n="sint"/></l><r>humid<s n="adj"/></r></p></e>
+<e c=""><p><l>տամուկ<s n="adj"/><s n="sint"/></l><r>moist<s n="adj"/></r></p></e>
+<e c=""><p><l>տամուկ<s n="adj"/><s n="sint"/></l><r>wet<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>տամուկ<s n="adj"/><s n="sint"/></l><r>damp<s n="adj"/></r></p></e>
+<e c=""><p><l>տարօրինակ<s n="adj"/><s n="sint"/></l><r>strange<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>տարօրինակ<s n="adj"/><s n="sint"/></l><r>weird<s n="adj"/></r></p></e>
+<e c=""><p><l>տարօրինակ<s n="adj"/><s n="sint"/></l><r>odd<s n="adj"/></r></p></e>
+<e c=""><p><l>տաք<s n="adj"/><s n="sint"/></l><r>warm<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>տաք<s n="adj"/><s n="sint"/></l><r>hot<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>տաք<s n="adj"/><s n="sint"/></l><r>affectionate<s n="adj"/></r></p></e>
+<e c=""><p><l>տաք<s n="adj"/><s n="sint"/></l><r>warm-hearted<s n="adj"/></r></p></e>
+<e c=""><p><l>տաք<s n="adj"/><s n="sint"/></l><r>hot-tempered<s n="adj"/></r></p></e>
+<e c=""><p><l>տգեղ<s n="adj"/><s n="sint"/></l><r>ugly<s n="adj"/></r></p></e>
+<e c=""><p><l>տգեղ<s n="adj"/><s n="sint"/></l><r>unattractive<s n="adj"/></r></p></e>
+<e c=""><p><l>տգետ<s n="adj"/><s n="sint"/></l><r>unlearned<s n="adj"/></r></p></e>
+<e c=""><p><l>տգետ<s n="adj"/><s n="sint"/></l><r>uneducated<s n="adj"/></r></p></e>
+<e c=""><p><l>տգետ<s n="adj"/><s n="sint"/></l><r>ignorant<s n="adj"/></r></p></e>
+<e c=""><p><l>տգետ<s n="adj"/><s n="sint"/></l><r>stupid<s n="adj"/></r></p></e>
+<e c=""><p><l>տեղեկատվական<s n="adj"/><s n="sint"/></l><r>information<s n="adj"/></r></p></e>
+<e c=""><p><l>տեղեկատվական<s n="adj"/><s n="sint"/></l><r>informational<s n="adj"/></r></p></e>
+<e c=""><p><l>տեղեկատվական<s n="adj"/><s n="sint"/></l><r>data<s n="adj"/></r></p></e>
+<e c=""><p><l>տեղյակ<s n="adj"/><s n="sint"/></l><r>knowing<s n="adj"/></r></p></e>
+<e c=""><p><l>տեղյակ<s n="adj"/><s n="sint"/></l><r>informed<s n="adj"/></r></p></e>
+<e c=""><p><l>տիկնունի<s n="adj"/><s n="sint"/></l><r>pertaining<b/>to<b/>women<s n="adj"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>weak<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>feeble<s n="adj"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>faint<s n="adj"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>helpless<s n="adj"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>infirm<s n="adj"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>impotent<s n="adj"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>powerless<s n="adj"/></r></p></e>
+<e c=""><p><l>տկար<s n="adj"/><s n="sint"/></l><r>invalid<s n="adj"/></r></p></e>
+<e c=""><p><l>տհաճ<s n="adj"/><s n="sint"/></l><r>unpleasant<s n="adj"/></r></p></e>
+<e c=""><p><l>տհաճ<s n="adj"/><s n="sint"/></l><r>disagreeable<s n="adj"/></r></p></e>
+<e c=""><p><l>տհաս<s n="adj"/><s n="sint"/></l><r>unripe<s n="adj"/></r></p></e>
+<e c=""><p><l>տհաս<s n="adj"/><s n="sint"/></l><r>immature<s n="adj"/></r></p></e>
+<e c=""><p><l>տհաս<s n="adj"/><s n="sint"/></l><r>ignorant<s n="adj"/></r></p></e>
+<e c=""><p><l>տհաս<s n="adj"/><s n="sint"/></l><r>unpracticed<s n="adj"/></r></p></e>
+<e c=""><p><l>տձեւ<s n="adj"/><s n="sint"/></l><r>deformed<s n="adj"/></r></p></e>
+<e c=""><p><l>տձեւ<s n="adj"/><s n="sint"/></l><r>unshapely<s n="adj"/></r></p></e>
+<e c=""><p><l>տձեւ<s n="adj"/><s n="sint"/></l><r>ill-made<s n="adj"/></r></p></e>
+<e c=""><p><l>տձեւ<s n="adj"/><s n="sint"/></l><r>ugly<s n="adj"/></r></p></e>
+<e c=""><p><l>տղմուտ<s n="adj"/><s n="sint"/></l><r>full<b/>of<b/>mud<s n="adj"/></r></p></e>
+<e c=""><p><l>տղմուտ<s n="adj"/><s n="sint"/></l><r>muddy<s n="adj"/></r></p></e>
+<e c=""><p><l>տղմուտ<s n="adj"/><s n="sint"/></l><r>miry<s n="adj"/></r></p></e>
+<e c=""><p><l>տոթ<s n="adj"/><s n="sint"/></l><r>torrid<s n="adj"/></r></p></e>
+<e c=""><p><l>տոթ<s n="adj"/><s n="sint"/></l><r>stuffy<s n="adj"/></r></p></e>
+<e c=""><p><l>տոթ<s n="adj"/><s n="sint"/></l><r>sultry<s n="adj"/></r></p></e>
+<e c=""><p><l>տուտուզ<s n="adj"/><s n="sint"/></l><r>puffy<s n="adj"/></r></p></e>
+<e c=""><p><l>տուտուզ<s n="adj"/><s n="sint"/></l><r>swelling<s n="adj"/></r></p></e>
+<e c=""><p><l>ցած<s n="adj"/><s n="sint"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ցածր<s n="adj"/><s n="sint"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ցուրտ<s n="adj"/><s n="sint"/></l><r>cold<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ցուրտ<s n="adj"/><s n="sint"/></l><r>chilly<s n="adj"/></r></p></e>
+<e c=""><p><l>փակ<s n="adj"/><s n="sint"/></l><r>closed<s n="adj"/></r></p></e>
+<e c=""><p><l>փակ<s n="adj"/><s n="sint"/></l><r>shut<s n="adj"/></r></p></e>
+<e c=""><p><l>փակ<s n="adj"/><s n="sint"/></l><r>locked<s n="adj"/></r></p></e>
+<e c=""><p><l>փայտեղեն<s n="adj"/><s n="sint"/></l><r>wooden<s n="adj"/></r></p></e>
+<e c=""><p><l>փայտեղեն<s n="adj"/><s n="sint"/></l><r>made<b/>of<b/>wood<s n="adj"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>hollow<s n="adj"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>void<s n="adj"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>vain<s n="adj"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>futile<s n="adj"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>idle<s n="adj"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>worthless<s n="adj"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>փուչ<s n="adj"/><s n="sint"/></l><r>good-for-nothing<s n="adj"/></r></p></e>
+<e c=""><p><l>փուտ<s n="adj"/><s n="sint"/></l><r>rotten<s n="adj"/></r></p></e>
+<e c=""><p><l>փոքր<s n="adj"/><s n="sint"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>փոքր<s n="adj"/><s n="sint"/></l><r>little<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>փոքր<s n="adj"/><s n="sint"/></l><r>younger<s n="adj"/></r></p></e>
+<e c=""><p><l>փոքր<s n="adj"/><s n="sint"/></l><r>junior<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>քաոսական<s n="adj"/><s n="sint"/></l><r>chaotic<s n="adj"/></r></p></e>
+<e c=""><p><l>քաչալ<s n="adj"/><s n="sint"/></l><r>bald<s n="adj"/></r></p></e>
+<e c=""><p><l>քաչալ<s n="adj"/><s n="sint"/></l><r>hairless<s n="adj"/></r></p></e>
+<e c=""><p><l>քաջ<s n="adj"/><s n="sint"/></l><r>brave<s n="adj"/></r></p></e>
+<e c=""><p><l>քաջ<s n="adj"/><s n="sint"/></l><r>courageous<s n="adj"/></r></p></e>
+<e c=""><p><l>քաջ<s n="adj"/><s n="sint"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>քաջ<s n="adj"/><s n="sint"/></l><r>excellent<s n="adj"/></r></p></e>
+<e c=""><p><l>քարեղեն<s n="adj"/><s n="sint"/></l><r>made<b/>of<b/>stone<s n="adj"/></r></p></e>
+<e c=""><p><l>քարեղեն<s n="adj"/><s n="sint"/></l><r>stony<s n="adj"/></r></p></e>
+<e c=""><p><l>քիչ<s n="adj"/><s n="sint"/></l><r>few<s n="adj"/></r></p></e>
+<e c=""><p><l>քիչ<s n="adj"/><s n="sint"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>քիչ<s n="adj"/><s n="sint"/></l><r>little<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>քոչվոր<s n="adj"/><s n="sint"/></l><r>nomadic<s n="adj"/></r></p></e>
+<e c=""><p><l>քոչվոր<s n="adj"/><s n="sint"/></l><r>migratory<s n="adj"/></r></p></e>
+<e c=""><p><l>քոչվորական<s n="adj"/><s n="sint"/></l><r>nomadic<s n="adj"/></r></p></e>
+<e c=""><p><l>քրիստոնյա<s n="adj"/><s n="sint"/></l><r>Christian<s n="adj"/></r></p></e>
+<e c=""><p><l>օտար<s n="adj"/><s n="sint"/></l><r>strange<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>օտար<s n="adj"/><s n="sint"/></l><r>foreign<s n="adj"/></r></p></e>
+<e c=""><p><l>օտար<s n="adj"/><s n="sint"/></l><r>alien<s n="adj"/></r></p></e>
+<e c=""><p><l>օտարոտի<s n="adj"/><s n="sint"/></l><r>strange<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>օտարոտի<s n="adj"/><s n="sint"/></l><r>foreign<s n="adj"/></r></p></e>
+<e c=""><p><l>օտարոտի<s n="adj"/><s n="sint"/></l><r>alien<s n="adj"/></r></p></e>
+<e c=""><p><l>հավասար<s n="adj"/></l><r>equal<s n="adj"/></r></p></e>
+<e c=""><p><l>հավասար<s n="adj"/></l><r>even<s n="adj"/></r></p></e>
+<e c=""><p><l>ողջ<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
+<e c=""><p><l>ողջ<s n="adj"/></l><r>entire<s n="adj"/></r></p></e>
+<e c=""><p><l>ողջ<s n="adj"/></l><r>alive<s n="adj"/></r></p></e>
+<e c=""><p><l>ողջ<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
+<e c=""><p><l>ողջ<s n="adj"/></l><r>safe<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>ողջ<s n="adj"/></l><r>unharmed<s n="adj"/></r></p></e>
 </section>
 </dictionary>
