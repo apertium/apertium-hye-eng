@@ -6,6 +6,9 @@
     </or>
   </rule>
   <rule>
+    <match lemma="պահել" tags="vblex.*"><select lemma="keep" tags="vblex.*"/></match>
+  </rule>
+  <rule>
     <match lemma="ծեծել" tags="vblex.*"><select lemma="thrash" tags="vblex.*"/></match>
   </rule>
   <rule>

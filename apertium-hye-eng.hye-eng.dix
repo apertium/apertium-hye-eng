@@ -197,6 +197,9 @@
 <e c=""><p><l>այնտեղ<s n="prn"/><s n="adv"/></l><r>there<s n="adv"/></r></p></e>
 <e c=""><p><l>այստեղ<s n="prn"/><s n="adv"/></l><r>here<s n="adv"/></r></p></e>
 <e c=""><p><l>ամենայն<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p></e>
+<e c=""><p><l>յուրաքանչյուր<b/>ոք<s n="prn"/><s n="ind"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
+<e c=""><p><l>յուրաքանչյուր<b/>ոք<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
+<e c=""><p><l>ոք<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="ind"/></r></p></e>
 <e c=""><p><l>ոք<s n="prn"/><s n="ind"/></l><r>someone<s n="prn"/><s n="ind"/></r></p></e>
 <e c=""><p><l>ոք<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="ind"/></r></p></e>
 <e c=""><p><l>սա<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
@@ -9366,6 +9369,7 @@
 <e c="grammar"><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>compound<s n="adj"/></r></p></e>
 <e c="grammar"><p><l>բարդ<s n="adj"/><s n="sint"/></l><r>composite<s n="adj"/></r></p></e>
 
+<e c=""><p><l>հիմնական<s n="adj"/></l><r>fundamental<s n="adj"/></r></p></e>
 <e c=""><p><l>համաձայն<s n="adj"/></l><r>in<b/>agreement<s n="adj"/></r></p></e>
 
 <e c=""><p><l>նորմալ<s n="adj"/></l><r>ordinary<s n="adj"/></r></p></e>
@@ -10068,6 +10072,15 @@
 <e c=""><p><l>քանիցս<s n="adv"/></l><r>how<b/>many<b/>times<s n="adv"/></r></p></e>
 
 <e c=""><p><l>ինչու<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+
+<e c=""><p><l>ապա<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+<e c=""><p><l>ապա<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
+<e c=""><p><l>ապա<s n="adv"/></l><r>next<s n="adv"/></r></p></e>
+<e c=""><p><l>ապա<b/>ուրեմն<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+<e c=""><p><l>ապա<b/>ուրեմն<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+<e c=""><p><l>ապա<b/>թէ<b/>ոչ<s n="adv"/></l><r>otherwise<s n="adv"/></r></p></e>
+<e c=""><p><l>ապա<b/>թէ<b/>ոչ<s n="adv"/></l><r>if<b/>not<s n="adv"/></r></p></e>
+
 <e c=""><p><l>դեռ<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
 <e c=""><p><l>դեռ<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
 <e c=""><p><l>դեռ<s n="adv"/></l><r>newly<s n="adv"/></r></p></e>
@@ -11662,7 +11675,8 @@
 <e c=""><p><l>զարդարել<s n="vblex"/></l><r>embellish<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>զարթնել<s n="vblex"/></l><r>wake up<s n="vblex"/></r></p></e>
 <e c="at"><p><l>զարմանալ<s n="vblex"/></l><r>wonder<s n="vblex"/></r></p></e>
-<e c="at"><p><l>զարմանալ<s n="vblex"/></l><r>be surprised/amazed<s n="vblex"/></r></p></e>
+<e c="at"><p><l>զարմանալ<s n="vblex"/></l><r>be surprised<s n="vblex"/></r></p></e>
+<e c="at"><p><l>զարմանալ<s n="vblex"/></l><r>be surprised<s n="vblex"/></r></p></e>
 <e c=""><p><l>զարնվել<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
 <e c=""><p><l>զբաղվել<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
 <e c="with"><p><l>զբաղվել<s n="vblex"/></l><r>be busy<s n="vblex"/></r></p></e>
@@ -11753,7 +11767,8 @@
 <e c=""><p><l>թոշնել<s n="vblex"/></l><r>wilt<s n="vblex"/></r></p></e>
 <e c=""><p><l>թոշնել<s n="vblex"/></l><r>fade<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>թուլանալ<s n="vblex"/></l><r>weaken<s n="vblex"/></r></p></e>
-<e c=""><p><l>թուլանալ<s n="vblex"/></l><r>grow weak/feeble<s n="vblex"/></r></p></e>
+<e c=""><p><l>թուլանալ<s n="vblex"/></l><r>grow feeble<s n="vblex"/></r></p></e>
+<e c=""><p><l>թուլանալ<s n="vblex"/></l><r>grow weak<s n="vblex"/></r></p></e>
 <e c=""><p><l>թուլանալ<s n="vblex"/></l><r>slack off<s n="vblex"/></r></p></e>
 <e c=""><p><l>թուլանալ<s n="vblex"/></l><r>slacken<s n="vblex"/></r></p></e>
 <e c="slang"><p><l>թռնել<s n="vblex"/></l><r>run away<s n="vblex"/></r></p></e>
@@ -12101,7 +12116,7 @@
 <e c=""><p><l>հոտ քաշել<s n="vblex"/></l><r>nose<s n="vblex"/></r></p></e>
 <e c="literally"><p><l>հոտ քաշել<s n="vblex"/></l><r>draw a smell<s n="vblex"/></r></p></e>
 <e c="transitive"><p><l>հոտոտել<s n="vblex"/></l><r>smell<s n="vblex"/></r></p></e>
-<e c=""><p><l>հոտոտել<s n="vblex"/></l><r>sniff at something/someone<s n="vblex"/></r></p></e>
+<e c=""><p><l>հոտոտել<s n="vblex"/></l><r>sniff at<s n="vblex"/></r></p></e> <!-- something, someone -->
 <e c=""><p><l>հորանջել<s n="vblex"/></l><r>yawn<s n="vblex"/></r></p></e>
 <e c="of water"><p><l>հորդել<s n="vblex"/></l><r>overflow<s n="vblex"/></r></p></e>
 <e c=""><p><l>հորդել<s n="vblex"/></l><r>abound<s n="vblex"/></r></p></e>
@@ -12180,7 +12195,8 @@
 <e c=""><p><l>մերձենալ<s n="vblex"/></l><r>approach<s n="vblex"/></r></p></e>
 <e c=""><p><l>մերձենալ<s n="vblex"/></l><r>draw nearer<s n="vblex"/></r></p></e>
 <e c=""><p><l>մերձենալ<s n="vblex"/></l><r>come nearer<s n="vblex"/></r></p></e>
-<e c="with"><p><l>մերձենալ<s n="vblex"/></l><r>become good/close friends<s n="vblex"/></r></p></e>
+<e c="with"><p><l>մերձենալ<s n="vblex"/></l><r>become good friends<s n="vblex"/></r></p></e>
+<e c="with"><p><l>մերձենալ<s n="vblex"/></l><r>become close friends<s n="vblex"/></r></p></e>
 <e c="figuratively"><p><l>մերձենալ<s n="vblex"/></l><r>copulate<s n="vblex"/></r></p></e>
 <e c=""><p><l>մերձենալ<s n="vblex"/></l><r>have sexual relations<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>միանալ<s n="vblex"/></l><r>unite<s n="vblex"/></r></p></e>
@@ -12210,7 +12226,8 @@
 <e c="intransitive"><p><l>մտնել<s n="vblex"/></l><r>enter<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտցնել<s n="vblex"/></l><r>introduce<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտցնել<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>
-<e c="in"><p><l>մտցնել<s n="vblex"/></l><r>include/insert<s n="vblex"/></r></p></e>
+<e c="in"><p><l>մտցնել<s n="vblex"/></l><r>include<s n="vblex"/></r></p></e>
+<e c="in"><p><l>մտցնել<s n="vblex"/></l><r>insert<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտցնել<s n="vblex"/></l><r>poke<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտցնել<s n="vblex"/></l><r>thrust<s n="vblex"/></r></p></e>
 <e c=""><p><l>մտցնել<s n="vblex"/></l><r>shove<s n="vblex"/></r></p></e>
@@ -12227,8 +12244,10 @@
 <e c=""><p><l>նեխել<s n="vblex"/></l><r>rot<s n="vblex"/></r></p></e>
 <e c=""><p><l>նեխել<s n="vblex"/></l><r>putrefy<s n="vblex"/></r></p></e>
 <e c=""><p><l>նեղանալ<s n="vblex"/></l><r>become narrow<s n="vblex"/></r></p></e>
-<e c=""><p><l>նեղանալ<s n="vblex"/></l><r>take offence/umbrage<s n="vblex"/></r></p></e>
-<e c=""><p><l>նեղանալ<s n="vblex"/></l><r>be/feel hurt<s n="vblex"/></r></p></e>
+<e c=""><p><l>նեղանալ<s n="vblex"/></l><r>take offence<s n="vblex"/></r></p></e>
+<e c=""><p><l>նեղանալ<s n="vblex"/></l><r>take umbrage<s n="vblex"/></r></p></e>
+<e c=""><p><l>նեղանալ<s n="vblex"/></l><r>be hurt<s n="vblex"/></r></p></e>
+<e c=""><p><l>նեղանալ<s n="vblex"/></l><r>feel hurt<s n="vblex"/></r></p></e>
 <e c=""><p><l>նկատել<s n="vblex"/></l><r>note<s n="vblex"/></r></p></e>
 <e c=""><p><l>նկատել<s n="vblex"/></l><r>notice<s n="vblex"/></r></p></e>
 <e c=""><p><l>նկարագրել<s n="vblex"/></l><r>describe<s n="vblex"/></r></p></e>
@@ -12600,7 +12619,8 @@
 <e c=""><p><l>անգիր<s n="adj"/></l><r>unwritten<s n="adj"/></r></p></e>
 <e c=""><p><l>աքիլլեսյան<s n="adj"/></l><r>of<b/>or<b/>relating<b/>to<b/>Achilles<s n="adj"/></r></p></e>
 <e c=""><p><l>հայդուկական<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>hajduks<s n="adj"/></r></p></e>
-<e c=""><p><l>հոբելյանական<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>jubilee/anniversary<s n="adj"/></r></p></e>
+<e c=""><p><l>հոբելյանական<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>jubilee<s n="adj"/></r></p></e>
+<e c=""><p><l>հոբելյանական<s n="adj"/></l><r>of<b/>or<b/>pertaining<b/>to<b/>anniversary<s n="adj"/></r></p></e>
 <e c=""><p><l>ռուսերեն<s n="adj"/></l><r>of<b/>or<b/>pertaing<b/>to<b/>the<b/>Russian<b/>language<s n="adj"/></r></p></e>
 <e c=""><p><l>տնտեսագիտական<s n="adj"/></l><r>relating<b/>to<b/>the<b/>science<b/>of<b/>economics<b/>or<b/>to<b/>economists<s n="adj"/></r></p></e>
 <e c=""><p><l>քերականագիտական<s n="adj"/></l><r>relating<b/>to<b/>the<b/>study<b/>of<b/>grammar<s n="adj"/></r></p></e>
@@ -12678,7 +12698,8 @@
 <e c=""><p><l>բոկ<s n="adj"/></l><r>barefooted<s n="adj"/></r></p></e>
 <e c=""><p><l>բունկեն<s n="adj"/></l><r>having<b/>holes<s n="adj"/></r></p></e>
 <e c=""><p><l>բրդյա<s n="adj"/></l><r>woolen<s n="adj"/></r></p></e>
-<e c=""><p><l>գայլենի<s n="adj"/></l><r>made<b/>of<b/>wolf's<b/>skin/fur<s n="adj"/></r></p></e>
+<e c=""><p><l>գայլենի<s n="adj"/></l><r>made<b/>of<b/>wolf's<b/>skin<s n="adj"/></r></p></e>
+<e c=""><p><l>գայլենի<s n="adj"/></l><r>made<b/>of<b/>wolf's<b/>fur<s n="adj"/></r></p></e>
 <e c=""><p><l>գեղմնավոր<s n="adj"/></l><r>woolly<s n="adj"/></r></p></e>
 <e c=""><p><l>գեղմնավոր<s n="adj"/></l><r>fleecy<s n="adj"/></r></p></e>
 <e c=""><p><l>գերի<s n="adj"/></l><r>captive<s n="adj"/></r></p></e>
@@ -12805,7 +12826,8 @@
 <e c=""><p><l>ձրի<s n="adj"/></l><r>gratuitous<s n="adj"/></r></p></e>
 <e c=""><p><l>մայիսյան<s n="adj"/></l><r>May<s n="adj"/></r></p></e>
 <e c=""><p><l>մանվածքային<s n="adj"/></l><r>spinning<s n="adj"/></r></p></e>
-<e c=""><p><l>մաշկյա<s n="adj"/></l><r>made<b/>of<b/>skin/leather<s n="adj"/></r></p></e>
+<e c=""><p><l>մաշկյա<s n="adj"/></l><r>made<b/>of<b/>leather<s n="adj"/></r></p></e>
+<e c=""><p><l>մաշկյա<s n="adj"/></l><r>made<b/>of<b/>skin<s n="adj"/></r></p></e>
 <e c=""><p><l>մարտյան<s n="adj"/></l><r>March<s n="adj"/></r></p></e>
 <e c=""><p><l>մեն<s n="adj"/></l><r>one<s n="adj"/></r></p></e>
 <e c=""><p><l>մեն<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
@@ -12874,8 +12896,8 @@
 <e c=""><p><l>տաքավուն<s n="adj"/></l><r>tepid<s n="adj"/></r></p></e>
 <e c=""><p><l>տեղեկատու<s n="adj"/></l><r>informative<s n="adj"/></r></p></e>
 <e c=""><p><l>տեղեկատու<s n="adj"/></l><r>information-giving<s n="adj"/></r></p></e>
-<e c=""><p><l>տերունի<s n="adj"/></l><r>pertaining<b/>to<b/>the<b/>lord/ruler/owner<s n="adj"/></r></p></e>
-<e c=""><p><l>տերունի<s n="adj"/></l><r>pertaining<b/>to<b/>the<b/>catholicos<b/>of<b/>Armenians<s n="adj"/></r></p></e>
+<!--<e c=""><p><l>տերունի<s n="adj"/></l><r>pertaining<b/>to<b/>the<b/>lord/ruler/owner<s n="adj"/></r></p></e>-->
+<!--<e c=""><p><l>տերունի<s n="adj"/></l><r>pertaining<b/>to<b/>the<b/>catholicos<b/>of<b/>Armenians<s n="adj"/></r></p></e>-->
 <e c=""><p><l>տերունի<s n="adj"/></l><r>Lord's<s n="adj"/></r></p></e>
 <e c=""><p><l>տերունի<s n="adj"/></l><r>dominical<s n="adj"/></r></p></e>
 <e c=""><p><l>տիկնիկային<s n="adj"/></l><r>doll's<s n="adj"/></r></p></e>
