@@ -39,6 +39,10 @@
     <match lemma="երկիր" tags="n.*"><select lemma="country" tags="n.*"/></match>
   </rule>
   <rule>
+    <match lemma="տնային" tags="adj"><select lemma="home" tags="adj"/></match>
+    <match lemma="աշխատանք" tags="n.*"><select lemma="work" tags="n.*"/></match>
+  </rule>
+  <rule>
     <match lemma="պեչենի" tags="n.*"><select lemma="biscuit" tags="n.*"/></match>
   </rule>
   <rule>
