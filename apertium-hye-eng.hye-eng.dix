@@ -1315,9 +1315,9 @@
 <e c="pejorative"><p><l>աղա<s n="n"/><s n="aa"/></l><r>exploiter<s n="n"/></r></p></e>
 <e c="pejorative"><p><l>աղա<s n="n"/><s n="aa"/></l><r>someone<s n="n"/></r></p></e>
 <e c="pejorative"><p><l>անասուն<s n="n"/><s n="aa"/></l><r>brute<s n="n"/></r></p></e>
-<e c="pejorative"><p><l>թուլա<s n="n"/><s n="nn"/></l><r>bastard<s n="n"/></r></p></e>
-<e c="pejorative"><p><l>լակոտ<s n="n"/><s n="nn"/></l><r>bastard<s n="n"/></r></p></e>
-<e c="pejorative"><p><l>լակոտ<s n="n"/><s n="nn"/></l><r>child<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>թուլա<s n="n"/><s n="aa"/></l><r>bastard<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>լակոտ<s n="n"/><s n="aa"/></l><r>bastard<s n="n"/></r></p></e>
+<e c="pejorative"><p><l>լակոտ<s n="n"/><s n="aa"/></l><r>child<s n="n"/></r></p></e>
 <e c="philosophy"><p><l>իդեալիզմ<s n="n"/><s n="nn"/></l><r>idealism<s n="n"/></r></p></e>
 <e c="philosophy"><p><l>մատերիալիզմ<s n="n"/><s n="nn"/></l><r>materialism<s n="n"/></r></p></e>
 <e c="physics"><p><l>անիոն<s n="n"/><s n="nn"/></l><r>anion<s n="n"/></r></p></e>
@@ -1677,7 +1677,7 @@
 <e c=""><p><l>աստղադիտարան<s n="n"/><s n="aa"/></l><r>observatory<s n="n"/></r></p></e>
 <e c=""><p><l>աստղաֆիզիկա<s n="n"/><s n="aa"/></l><r>astrophysics<s n="n"/></r></p></e>
 <e c=""><p><l>աստուրիերեն<s n="n"/><s n="aa"/></l><r>Asturian<s n="n"/></r></p></e>
-<e c=""><p><l>աստված<s n="n"/><s n="nn"/></l><r>god<s n="n"/></r></p></e>
+<e c=""><p><l>աստված<s n="n"/><s n="aa"/></l><r>god<s n="n"/></r></p></e>
 <e c=""><p><l>աստվածաբան<s n="n"/><s n="nn"/></l><r>theologian<s n="n"/></r></p></e>
 <e c=""><p><l>ասր<s n="n"/><s n="nn"/></l><r>fine <s n="n"/></r></p></e>
 <e c=""><p><l>ասք<s n="n"/><s n="nn"/></l><r>saga<s n="n"/></r></p></e>
@@ -2568,9 +2568,9 @@
 <e c=""><p><l>թովչանք<s n="n"/><s n="nn"/></l><r>charms<s n="n"/></r></p></e>
 <e c=""><p><l>թորիում<s n="n"/><s n="nn"/></l><r>thorium<s n="n"/></r></p></e>
 <e c=""><p><l>թութակ<s n="n"/><s n="nn"/></l><r>parrot<s n="n"/></r></p></e>
-<e c=""><p><l>թուլա<s n="n"/><s n="nn"/></l><r>cad<s n="n"/></r></p></e>
-<e c=""><p><l>թուլա<s n="n"/><s n="nn"/></l><r>puppy<s n="n"/></r></p></e>
-<e c=""><p><l>թուլա<s n="n"/><s n="nn"/></l><r>pup<s n="n"/></r></p></e>
+<e c=""><p><l>թուլա<s n="n"/><s n="aa"/></l><r>cad<s n="n"/></r></p></e>
+<e c=""><p><l>թուլա<s n="n"/><s n="aa"/></l><r>puppy<s n="n"/></r></p></e>
+<e c=""><p><l>թուլա<s n="n"/><s n="aa"/></l><r>pup<s n="n"/></r></p></e>
 <e c=""><p><l>թուլիում<s n="n"/><s n="nn"/></l><r>thulium<s n="n"/></r></p></e>
 <e c=""><p><l>թուղթ<s n="n"/><s n="nn"/></l><r>paper<s n="n"/></r></p></e>
 <e c=""><p><l>թունել<s n="n"/><s n="nn"/></l><r>tunnel<s n="n"/></r></p></e>
@@ -2647,9 +2647,9 @@
 <e c=""><p><l>իրիդիում<s n="n"/><s n="nn"/></l><r>iridium<s n="n"/></r></p></e>
 <e c=""><p><l>լակ<s n="n"/><s n="nn"/></l><r>mash<s n="n"/></r></p></e>
 <e c=""><p><l>լակ<s n="n"/><s n="nn"/></l><r>swill<s n="n"/></r></p></e>
-<e c=""><p><l>լակոտ<s n="n"/><s n="nn"/></l><r>cad<s n="n"/></r></p></e>
-<e c=""><p><l>լակոտ<s n="n"/><s n="nn"/></l><r>puppy<s n="n"/></r></p></e>
-<e c=""><p><l>լակոտ<s n="n"/><s n="nn"/></l><r>pup<s n="n"/></r></p></e>
+<e c=""><p><l>լակոտ<s n="n"/><s n="aa"/></l><r>cad<s n="n"/></r></p></e>
+<e c=""><p><l>լակոտ<s n="n"/><s n="aa"/></l><r>puppy<s n="n"/></r></p></e>
+<e c=""><p><l>լակոտ<s n="n"/><s n="aa"/></l><r>pup<s n="n"/></r></p></e>
 <e c=""><p><l>լանթան<s n="n"/><s n="nn"/></l><r>lanthanum<s n="n"/></r></p></e>
 <e c=""><p><l>լաոսերեն<s n="n"/><s n="nn"/></l><r>Lao<s n="n"/></r></p></e>
 <e c=""><p><l>լաստանավ<s n="n"/><s n="nn"/></l><r>ferryboat<s n="n"/></r></p></e>
@@ -4073,7 +4073,7 @@
 <e c=""><p><l>ուշադրություն<s n="n"/><s n="aa"/></l><r>attention<s n="n"/></r></p></e>
 <e c=""><p><l>ուռենի<s n="n"/><s n="nn"/></l><r>willow<s n="n"/></r></p></e>
 <e c=""><p><l>ուս<s n="n"/><s n="nn"/></l><r>shoulder<s n="n"/></r></p></e>
-<e c=""><p><l>ուսանող<s n="n"/><s n="nn"/></l><r>university <s n="n"/></r></p></e>
+<e c=""><p><l>ուսանող<s n="n"/><s n="aa"/></l><r>student<s n="n"/></r></p></e>
 <e c=""><p><l>ուսում<s n="n"/><s n="aa"/></l><r>education<s n="n"/></r></p></e>
 <e c=""><p><l>ուտելիք<s n="n"/><s n="nn"/></l><r>food<s n="n"/></r></p></e>
 <e c=""><p><l>ուտեստ<s n="n"/><s n="nn"/></l><r>dish<s n="n"/></r></p></e>
@@ -4156,8 +4156,8 @@
 <e c=""><p><l>պայտար<s n="n"/><s n="aa"/></l><r>farrier<s n="n"/></r></p></e>
 <e c=""><p><l>պանդոկ<s n="n"/><s n="nn"/></l><r>tavern<s n="n"/></r></p></e>
 <e c=""><p><l>պանթեոն<s n="n"/><s n="nn"/></l><r>pantheon<s n="n"/></r></p></e>
-<e c=""><p><l>պանթուրքիզմ<s n="n"/><s n="aa"/></l><r>Pan<s n="n"/></r></p></e>
-<e c=""><p><l>պանթուրքիստ<s n="n"/><s n="aa"/></l><r>Pan<s n="n"/></r></p></e>
+<e c=""><p><l>պանթուրքիզմ<s n="n"/><s n="nn"/></l><r>Pan<b/>Turkism<s n="n"/></r></p></e>
+<e c=""><p><l>պանթուրքիստ<s n="n"/><s n="nn"/></l><r>Pan<b/>Turkism<s n="n"/></r></p></e>
 <e c=""><p><l>պանիր<s n="n"/><s n="nn"/></l><r>cheese<s n="n"/></r></p></e>
 <e c=""><p><l>պաշտոնակից<s n="n"/><s n="nn"/></l><r>colleague<s n="n"/></r></p></e>
 <e c=""><p><l>պաշտոնյա<s n="n"/><s n="aa"/></l><r>official<s n="n"/></r></p></e>
@@ -4328,7 +4328,6 @@
 <e c=""><p><l>ռենիում<s n="n"/><s n="nn"/></l><r>rhenium<s n="n"/></r></p></e>
 <e c=""><p><l>ռենտգենիում<s n="n"/><s n="nn"/></l><r>roentgenium<s n="n"/></r></p></e>
 <e c=""><p><l>ռեստորան<s n="n"/><s n="nn"/></l><r>restaurant<s n="n"/></r></p></e>
-<e c=""><p><l>ռոբոտ<s n="n"/><s n="nn"/></l><r>robot<s n="n"/></r></p></e>
 <e c=""><p><l>ռոդիում<s n="n"/><s n="nn"/></l><r>rhodium<s n="n"/></r></p></e>
 <e c=""><p><l>ռոմ<s n="n"/><s n="nn"/></l><r>rum<s n="n"/></r></p></e>
 <e c=""><p><l>ռոմանշ<s n="n"/><s n="aa"/></l><r>Romansh<s n="n"/></r></p></e>
@@ -4798,6 +4797,8 @@
 <e c=""><p><l>փոխվարչապետ<s n="n"/><s n="aa"/></l><r>vice<s n="n"/></r></p></e>
 <e c=""><p><l>փողկապ<s n="n"/><s n="nn"/></l><r>necktie<s n="n"/></r></p></e>
 <e c=""><p><l>փողկապ<s n="n"/><s n="nn"/></l><r>tie<s n="n"/></r></p></e>
+<e c=""><p><l>կիտել<s n="n"/><s n="nn"/></l><r>jacket<s n="n"/></r></p></e>
+<e c=""><p><l>կիտել<s n="n"/><s n="nn"/></l><r>kitel<s n="n"/></r></p></e>
 <!--<e c=""><p><l>կիտել<s n="n"/><s n="nn"/></l><r>а single-breasted military or naval jacket with high collar<s n="n"/></r></p></e>-->
 <!--<e c=""><p><l>հորովել<s n="n"/><s n="nn"/></l><r>the song sung during the tilling of soil intended to cheer up the animals and the peasants<s n="n"/></r></p></e>-->
 <!--<e c=""><p><l>արքատ<s n="n"/><s n="nn"/></l><r>superfluous branches cut off from vine and used for kindling<s n="n"/></r></p></e>-->
@@ -6275,6 +6276,7 @@
 <e c=""><p><l>ռեակցիա<s n="n"/><s n="nn"/></l><r>reaction<s n="n"/></r></p></e>
 <e c=""><p><l>ռինգ<s n="n"/><s n="nn"/></l><r>ring<s n="n"/></r></p></e>
 <e c=""><p><l>ռոբոտ<s n="n"/><s n="nn"/></l><r>robot<s n="n"/></r></p></e>
+<e c=""><p><l>ռոբոտ<s n="n"/><s n="aa"/></l><r>robot<s n="n"/></r></p></e>
 <e c=""><p><l>ռումբա<s n="n"/><s n="nn"/></l><r>rumba<s n="n"/></r></p></e>
 <e c=""><p><l>սաղավարտ<s n="n"/><s n="nn"/></l><r>helmet<s n="n"/></r></p></e>
 <e c=""><p><l>սաղավարտ<s n="n"/><s n="nn"/></l><r>helm<s n="n"/></r></p></e>
@@ -7665,6 +7667,7 @@
 <e c=""><p><l>դայակ<s n="n"/><s n="aa"/></l><r>nurse<s n="n"/></r></p></e>
 <e c="Western Armenian"><p><l>դայակ<s n="n"/><s n="aa"/></l><r>midwife<s n="n"/></r></p></e>
 <e c="archaic"><p><l>դայակ<s n="n"/><s n="aa"/></l><r>tutor<s n="n"/></r></p></e>
+<e c=""><p><l>դաշնակցական<s n="n"/><s n="aa"/></l><r>dashnak<s n="n"/></r></p></e>-->
 <!--<e c=""><p><l>դաշնակցական<s n="n"/><s n="nn"/></l><r>a member of the Armenian Revolutionary Federation<s n="n"/></r></p></e>-->
 <e c=""><p><l>դասախոս<s n="n"/><s n="aa"/></l><r>lecturer<s n="n"/></r></p></e>
 <e c=""><p><l>դասախոս<s n="n"/><s n="aa"/></l><r>university professor<s n="n"/></r></p></e>
@@ -7691,8 +7694,8 @@
 <e c="informal"><p><l>եղբայր<s n="n"/><s n="nn"/></l><r>bro<s n="n"/></r></p></e>
 <e c="informal"><p><l>եղբայր<s n="n"/><s n="nn"/></l><r>buddy<s n="n"/></r></p></e>
 <e c="informal"><p><l>եղբայր<s n="n"/><s n="nn"/></l><r>pal<s n="n"/></r></p></e>
-<e c=""><p><l>եղնորթ<s n="n"/><s n="nn"/></l><r>young of the deer<s n="n"/></r></p></e>
-<e c=""><p><l>եղնորթ<s n="n"/><s n="nn"/></l><r>fawn<s n="n"/></r></p></e>
+<e c=""><p><l>եղնորթ<s n="n"/><s n="aa"/></l><r>fawn<s n="n"/></r></p></e>
+<!--<e c=""><p><l>եղնորթ<s n="n"/><s n="aa"/></l><r>young of the deer<s n="n"/></r></p></e>-->
 <e c="historical"><p><l>ենիչերի<s n="n"/><s n="nn"/></l><r>janissary<s n="n"/></r></p></e>
 <e c=""><p><l>երե<s n="n"/><s n="aa"/></l><r>herbivorous game animal<s n="n"/></r></p></e>
 <e c=""><p><l>երեխա<s n="n"/><s n="aa"/></l><r>a son or daughter<s n="n"/></r></p></e>
