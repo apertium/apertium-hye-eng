@@ -33,6 +33,9 @@
     <match lemma="հանդես" tags="n.*"><select lemma="magazine" tags="n.*"/></match>
   </rule>
   <rule>
+    <match lemma="երկիր" tags="n.*"><select lemma="country" tags="n.*"/></match>
+  </rule>
+  <rule>
     <match lemma="պեչենի" tags="n.*"><select lemma="biscuit" tags="n.*"/></match>
   </rule>
   <rule>
