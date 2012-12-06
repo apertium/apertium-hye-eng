@@ -6,6 +6,7 @@ all: eng-hye.automorf.bin hye-eng.autogen.bin
 	cg-comp apertium-hye-eng.hye-eng.rlx hye-eng.rlx.bin
 	lrx-comp apertium-hye-eng.hye-eng.lrx hye-eng.autolex.bin
 	lt-comp lr apertium-hye-eng.hye-eng.dix hye-eng.autobil.bin
+	lt-comp rl apertium-hye-eng.hye-eng.dix eng-hye.autobil.bin
 	apertium-preprocess-transfer apertium-hye-eng.hye-eng.t1x hye-eng.t1x.bin
 	apertium-preprocess-transfer apertium-hye-eng.hye-eng.t1x hye-eng.t2x.bin
 	apertium-preprocess-transfer apertium-hye-eng.hye-eng.t3x hye-eng.t3x.bin
