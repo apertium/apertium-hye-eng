@@ -1,22 +1,22 @@
 
-* {{test|hye|այս փուլում:|at this stage.}}
+adv * {{test|hye|այս փուլում:|at this stage.}}
 * {{test|hye|կեղտոտ քաղաքականություն:|dirty politics.}}
 * {{test|hye|առաջին քայլեր:|first steps.}}
 * {{test|hye|մի քայլ առաջ:|one step ahead.}}
 * {{test|hye|խելացի քայլ:|clever move.}}
 * {{test|hye|քա՜վ լիցի:|God forbid!.}}
 * {{test|hye|օջախի կաքավ:|domestic woman.}}
-* {{test|hye|ամեն օր:|every day.}}
-* {{test|hye|մի օր:|one day.}}
+adv * {{test|hye|ամեն օր:|every day.}}
+adv * {{test|hye|մի օր:|one day.}}
 * {{test|hye|աշխատանքային օր:|workday.}}
-* {{test|hye|օրենքով:|according to the law.}}
+adv * {{test|hye|օրենքով:|according to the law.}}
 * {{test|hye|ֆիզիկայի օրենք:|law of physics.}}
-* {{test|hye|օրինակի համար:|for example.}}
-* {{test|hye|երկու օրինակով:|in duplicate.}}
+adv * {{test|hye|օրինակի համար:|for example.}}
+adv * {{test|hye|երկու օրինակով:|in duplicate.}}
 * {{test|hye|բարյավ մնա՛:|fare well!.}}
-* {{test|hye|մեկ և ընդմիշտ:|once and for all.}}
-* {{test|hye|նախ և առաջ:|first of all.}}
-* {{test|hye|վաղ թե ուշ:|sooner or later.}}
+adv * {{test|hye|մեկ և ընդմիշտ:|once and for all.}}
+adv * {{test|hye|նախ և առաջ:|first of all.}}
+adv * {{test|hye|վաղ թե ուշ:|sooner or later.}}
 * {{test|hye|առավել լավ:|much better.}}
 * {{test|hye|առավել քան:|more than.}}
 * {{test|hye|գլխի ցավ:|headache.}}
@@ -84,7 +84,7 @@
 * {{test|hye|խորհրդի նախագահ:|Chairman of the Board.}}
 * {{test|hye|էկոնոմիկայի նախարար:|minister of economy.}}
 * {{test|hye|շաբաթ օրը:|on Saturday.}}
-* {{test|hye|ամեն շաբաթ:|each week.}}
+adv * {{test|hye|ամեն շաբաթ:|each week.}}
 * {{test|hye|ցուցադրական շքեղություն:|ostentatious magnificence.}}
 * {{test|hye|ավտոբուսի ուղևոր:|bus passanger.}}
 * {{test|hye|սխալ պատասխան:|wrong answer.}}
@@ -99,11 +99,11 @@
 * {{test|hye|թեյի սպասք:|tea service.}}
 * {{test|hye|մի վագոն պաղպաղակ:|east.}}
 * {{test|hye|ֆիզիկական վարժություն:|physical exercise.}}
-* {{test|hye|վերջերս:|recently.}}
+adv * {{test|hye|վերջերս:|recently.}}
 * {{test|hye|տավարի միս:|beef.}}
 * {{test|hye|ծափահարությունների տարափ:|storm of applause.}}
 * {{test|hye|տարերքի մեջ լինել:|be in one's own element.}}
-* {{test|hye|այս տարի:|this year.}}
+adv * {{test|hye|այս տարի:|this year.}}
 * {{test|hye|դպրոցական տարիք:|school age.}}
 * {{test|hye|քիմիական տարր:|chemical element.}}
 * {{test|hye|գիտությունը և տեխնիկան:|science and technology.}}
@@ -120,7 +120,7 @@
 * {{test|hye|ծննդյան օր:|birthday.}}
 * {{test|hye|մտնել կազմի մեջ:|be included (in).}}
 * {{test|hye|սպայական կազմ:|complement of officers.}}
-* {{test|hye|ամբողջ կազմով:|in full strength.}}
+adv * {{test|hye|ամբողջ կազմով:|in full strength.}}
 * {{test|hye|ազատ կամք:|free will.}}
 * {{test|hye|կենացդ:|cheers!.}}
 * {{test|hye|գեղեցիկ կին:|beautiful woman.}}
@@ -132,16 +132,16 @@
 * {{test|hye|վերամբարձ կռունկ:|hoisting crane.}}
 * {{test|hye|Հին Կտակարան:|Old Testament.}}
 * {{test|hye|Նոր Կտակարան:|New Testament.}}
-* {{test|hye|հաճույքով:|with pleasure.}}
+adv * {{test|hye|հաճույքով:|with pleasure.}}
 * {{test|hye|սխալ հասցե:|wrong address.}}
 * {{test|hye|ընդունեք հարգանքիս հավաստիքը:|please accept my assurances (of).}}
 * {{test|hye|համակարգչային խաղ:|computer game.}}
 * {{test|hye|Օլիմպիական խաղեր:|Olympic Games.}}
 * {{test|hye|մեղվի խայթ:|sting of a bee.}}
 * {{test|hye|խղճի խայթ:|sting of conscience.}}
-* {{test|hye|խավարում:|in the darkness.}}
+adv * {{test|hye|խավարում:|in the darkness.}}
 * {{test|hye|լուծք:|a pair.}}
-* {{test|hye|լուծ լուծ:|in pairs.}}
+adv * {{test|hye|լուծ լուծ:|in pairs.}}
 * {{test|hye|լուծ կշռոց:|beam of a balance.}}
 * {{test|hye|աղոտ լույս:|faint light.}}
 * {{test|hye|ինքնաշարժ հեծելանիվ:|scooter.}}
@@ -154,11 +154,11 @@
 * {{test|hye|արքայի թագ:|crown of a king.}}
 * {{test|hye|ծաղիկների թագուհի:|queen of flowers.}}
 * {{test|hye|օձի թույն:|snake venom.}}
-* {{test|hye|կես ժամ:|half an hour.}}
+adv * {{test|hye|կես ժամ:|half an hour.}}
 * {{test|hye|սրտի արատ:|heart disease.}}
 * {{test|hye|փյունիկյան արմավենի:|date.}}
 * {{test|hye|կոկոսյան արմավենի:|coconut tree.}}
-* {{test|hye|ափ յափոյ:|without preparation.}}
+adv * {{test|hye|ափ յափոյ:|without preparation.}}
 * {{test|hye|մի բաժակ ջուր:|a glass of water.}}
 * {{test|hye|հեռու բարեկամ:|distant relation.}}
 * {{test|hye|չարի ու բարու պայքարը:|the conflict of good and evil.}}
@@ -189,12 +189,12 @@
 * {{test|hye|արծաթ ծիծաղ:|silvery laughter.}}
 * {{test|hye|բարի մարդիկ:|kind people.}}
 * {{test|hye|բարի գործ:|good deed.}}
-* {{test|hye|բարի օր:|good day!.}}
-* {{test|hye|բարի լույս:|good day!.}}
-* {{test|hye|բարի երեկո:|good evening!.}}
-* {{test|hye|բարի գիշեր:|good night!.}}
-* {{test|hye|բարի գալուստ:|welcome!.}}
-* {{test|hye|բարի ախորժակ:|bon appetit!.}}
+ij * {{test|hye|բարի օր:|good day!.}}
+ij * {{test|hye|բարի լույս:|good day!.}}
+ij * {{test|hye|բարի երեկո:|good evening!.}}
+ij * {{test|hye|բարի գիշեր:|good night!.}}
+ij * {{test|hye|բարի գալուստ:|welcome!.}}
+ij * {{test|hye|բարի ախորժակ:|bon appetit!.}}
 * {{test|hye|բարկ արև:|scorching sun.}}
 * {{test|hye|բարձր շենք:|high building.}}
 * {{test|hye|բարձր սար:|high mountain.}}
@@ -292,7 +292,7 @@
 * {{test|hye|Սուրբ Հոգի:|Holy Spirit.}}
 * {{test|hye|Սուրբ Ծնունդ:|Christmas.}}
 * {{test|hye|Սուրբ Գիրք:|Bible.}}
-* {{test|hye|վաղ առավոտյան:|early in the morning.}}
+adv * {{test|hye|վաղ առավոտյան:|early in the morning.}}
 * {{test|hye|վաղ շրջան:|early period.}}
 * {{test|hye|վատ մարդ:|bad person.}}
 * {{test|hye|վատ երազ:|bad dream.}}
@@ -307,7 +307,7 @@
 * {{test|hye|հայրենի երկիր:|native land.}}
 
 * {{test|hye|լրատու գործակալություն:|news agency.}}
-* {{test|hye|խավարում:|in the darkness.}}
+adv * {{test|hye|խավարում:|in the darkness.}}
 * {{test|hye|խելո՛ք մնա:|behave yourself!.}}
 * {{test|hye|Ձեր խոնարհ ծառան:|your most humble servant.}}
 * {{test|hye|խորանարդ արմատ:|cubic root.}}
