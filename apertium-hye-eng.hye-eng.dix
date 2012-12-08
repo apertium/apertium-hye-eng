@@ -9278,7 +9278,8 @@
 <e c=""><p><l>Տերպանդրոս<s n="np"/><s n="top"/></l><r>Terpander<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Տիբեթ<s n="np"/><s n="top"/></l><r>Tibet<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Տիբեր<s n="np"/><s n="al"/><s n="nn"/></l><r>Tiber<s n="np"/><s n="al"/></r></p></e>
-<e c=""><p><l>Տիգրան<s n="np"/><s n="ant"/><s n="m"/></l><r>Tigran<b/>or<b/>Dikran<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e c=""><p><l>Տիգրան<s n="np"/><s n="ant"/><s n="m"/></l><r>Tigran<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<!--<e c=""><p><l>Տիգրան<s n="np"/><s n="ant"/><s n="m"/></l><r>Tigran<b/>or<b/>Dikran<s n="np"/><s n="ant"/><s n="m"/></r></p></e>-->
 <e c=""><p><l>Տիգրանուհի<s n="np"/><s n="ant"/><s n="f"/></l><r>Tigranuhi<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e c=""><p><l>Տիգրիս<s n="np"/><s n="al"/><s n="nn"/></l><r>Tigris<s n="np"/><s n="al"/></r></p></e>
 <e c=""><p><l>Տիզբոն<s n="np"/><s n="top"/></l><r>Ctesiphon<s n="np"/><s n="top"/></r></p></e>
@@ -10081,6 +10082,7 @@
 <e c=""><p><l>սրճագոյն<s n="adj"/></l><r>response<s n="adj"/></r></p></e>
 <e c=""><p><l>աղի<s n="adj"/><s n="sint"/></l><r>with<b/>streaks<b/>of<b/>grey<s n="adj"/></r></p></e>
 <e c=""><p><l>աղի<s n="adj"/><s n="sint"/></l><r>grey-flecked<s n="adj"/></r></p></e>
+<e c=""><p><l>աղի<s n="adj"/><s n="sint"/></l><r>speckled<s n="adj"/></r></p></e>
 <e c=""><p><l>աղոթակեր<s n="adj"/><s n="sint"/></l><r>salt<s n="adj"/></r></p></e>
 <e c=""><p><l>աղոթակեր<s n="adj"/><s n="sint"/></l><r>salted<s n="adj"/></r></p></e>
 <e c=""><p><l>աղոթակեր<s n="adj"/><s n="sint"/></l><r>salty<s n="adj"/></r></p></e>
@@ -10103,6 +10105,22 @@
 <e c=""><p><l>ծեր<s n="adj"/><s n="sint"/></l><r>shut<s n="adj"/></r></p></e>
 <e c=""><p><l>համոզակեր<s n="adj"/><s n="sint"/></l><r>old<s n="adj"/><s n="sint"/></r></p></e>
 <e c=""><p><l>համոզակեր<s n="adj"/><s n="sint"/></l><r>aged<s n="adj"/></r></p></e>
+
+<e c=""><p><l>աղեբեկ<s n="adj"/></l><r>grey-flecked<s n="adj"/></r></p></e>
+<e c=""><p><l>աղեբեկ<s n="adj"/></l><r>speckled<s n="adj"/></r></p></e>
+<e c=""><p><l>արբուն<s n="adj"/></l><r>adult<s n="adj"/></r></p></e>
+<e c=""><p><l>արբուն<s n="adj"/></l><r>pubescent<s n="adj"/></r></p></e>
+<e c=""><p><l>զոր<s n="adj"/></l><r>powerful<s n="adj"/></r></p></e>
+<e c=""><p><l>զոր<s n="adj"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>զոր<s n="adj"/></l><r>mighty<s n="adj"/><s n="sint"/></r></p></e>
+<e c=""><p><l>խուփ<s n="adj"/></l><r>closed<s n="adj"/></r></p></e>
+<e c=""><p><l>խուփ<s n="adj"/></l><r>shut<s n="adj"/></r></p></e>
+<e c=""><p><l>խուփ<s n="adj"/></l><r>enclosed<s n="adj"/></r></p></e>
+<e c=""><p><l>խուփ<s n="adj"/></l><r>fenced<s n="adj"/></r></p></e>
+<e c=""><p><l>խուփ<s n="adj"/></l><r>unsociable<s n="adj"/></r></p></e>
+<e c=""><p><l>խուփ<s n="adj"/></l><r>reserved<s n="adj"/></r></p></e>
+<e c=""><p><l>ոսկեհուռ<s n="adj"/></l><r>gold-laced<s n="adj"/></r></p></e>
+
 
 <!-- SECTION: Adverbs -->
 
