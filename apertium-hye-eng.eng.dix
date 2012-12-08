@@ -18364,6 +18364,7 @@
     <e lm="presidency"><i>presidenc</i><par n="bab/y__n"/></e>
     <e lm="president"><i>president</i><par n="house__n"/></e>
     <e lm="American president"><par n="Aa"/><i>merican<b/>president</i><par n="house__n"/></e>
+    <e lm="Armenian president"><par n="Aa"/><i>rmenian<b/>president</i><par n="house__n"/></e>
     <e lm="French president"><par n="Ff"/><i>rench<b/>president</i><par n="house__n"/></e>
     <e lm="Russian president"><par n="Rr"/><i>ussian<b/>president</i><par n="house__n"/></e>
     <e lm="press"><i>press</i><par n="politics__n"/></e>

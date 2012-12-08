@@ -533,6 +533,9 @@
 <e c=""><p><l>արծաթ<s n="n"/><s n="nn"/></l><r>silver<b/>coin<s n="n"/></r></p></e>
 <e c=""><p><l>արծաթ<s n="n"/><s n="nn"/></l><r>silver<b/>object<s n="n"/></r></p></e>
 <e c=""><p><l>արծաթ<s n="n"/><s n="nn"/></l><r>silver<s n="n"/></r></p></e>
+<e c=""><p><l>ծի<s n="n"/><s n="nn"/></l><r>breast<s n="n"/></r></p></e>
+<e c=""><p><l>ծի<s n="n"/><s n="nn"/></l><r>boob<s n="n"/></r></p></e>
+<e c=""><p><l>ծի<s n="n"/><s n="nn"/></l><r>tit<s n="n"/></r></p></e>
 <e c=""><p><l>արծիվ<s n="n"/><s n="aa"/></l><r>eagle<s n="n"/></r></p></e>
 <e c="military"><p><l>արկ<s n="n"/><s n="nn"/></l><r>shell<s n="n"/></r></p></e>
 <e c="military"><p><l>արկ<s n="n"/><s n="nn"/></l><r>missile<s n="n"/></r></p></e>
@@ -1509,15 +1512,15 @@
 <e c=""><p><l>աճուկ<s n="n"/><s n="nn"/></l><r>groin<s n="n"/></r></p></e>
 <e c=""><p><l>աճուրդ<s n="n"/><s n="aa"/></l><r>auction<s n="n"/></r></p></e>
 <e c=""><p><l>ամ<s n="n"/><s n="nn"/></l><r>year<s n="n"/></r></p></e>
-<e c=""><p><l>ամանակ<s n="n"/><s n="nn"/></l><r>rate of movement<s n="n"/></r></p></e>
-<e c=""><p><l>Ամանոր<s n="n"/><s n="nn"/></l><r>New Year<s n="n"/></r></p></e>
-<e c=""><p><l>ամառանոց<s n="n"/><s n="nn"/></l><r>country house<s n="n"/></r></p></e>
+<e c=""><p><l>ամանակ<s n="n"/><s n="nn"/></l><r>rate<g><b/>of<b/>movement</g><s n="n"/></r></p></e>
+<e c=""><p><l>Ամանոր<s n="n"/><s n="nn"/></l><r>New<b/>Year<s n="n"/></r></p></e>
+<e c=""><p><l>ամառանոց<s n="n"/><s n="nn"/></l><r>country<b/>house<s n="n"/></r></p></e>
 <e c=""><p><l>ամառանոց<s n="n"/><s n="nn"/></l><r>summerhouse<s n="n"/></r></p></e>
 <e c=""><p><l>ամբողջություն<s n="n"/><s n="nn"/></l><r>entirety<s n="n"/></r></p></e>
 <e c=""><p><l>ամբողջություն<s n="n"/><s n="nn"/></l><r>whole<s n="n"/></r></p></e>
 <e c=""><p><l>ամեոբա<s n="n"/><s n="nn"/></l><r>amoeba<s n="n"/></r></p></e>
-<e c=""><p><l>ամերիկահայ<s n="n"/><s n="aa"/></l><r>an American person<s n="n"/></r></p></e>
-<e c=""><p><l>ամերիկացի<s n="n"/><s n="aa"/></l><r>an American person<s n="n"/></r></p></e>
+<e c="an American person"><p><l>ամերիկահայ<s n="n"/><s n="aa"/></l><r>American<s n="n"/></r></p></e>
+<e c="an American person"><p><l>ամերիկացի<s n="n"/><s n="aa"/></l><r>American<s n="n"/></r></p></e>
 <e c=""><p><l>ամհարերեն<s n="n"/><s n="aa"/></l><r>Amharic<s n="n"/></r></p></e>
 <e c=""><p><l>ամորձակալ<s n="n"/><s n="nn"/></l><r>jockstrap<s n="n"/></r></p></e>
 <e c=""><p><l>ամուսին<s n="n"/><s n="aa"/></l><r>husband<s n="n"/></r></p></e>
@@ -3835,6 +3838,7 @@
 <e c=""><p><l>նազ<s n="n"/><s n="nn"/></l><r>mincing manners<s n="n"/></r></p></e>
 <e c=""><p><l>նաժիշտ<s n="n"/><s n="aa"/></l><r>housemaid<s n="n"/></r></p></e>
 <e c=""><p><l>նախագահ<s n="n"/><s n="aa"/></l><r>president<s n="n"/></r></p></e>
+<e c=""><p><l>ՀՀ<b/>նախագահ<s n="n"/><s n="aa"/></l><r>Armenian<b/>president<s n="n"/></r></p></e>
 <e c=""><p><l>նախադպրոցական<s n="n"/><s n="nn"/></l><r>preschooler<s n="n"/></r></p></e>
 <e c=""><p><l>նախազգուշացում<s n="n"/><s n="aa"/></l><r>forewarning<s n="n"/></r></p></e>
 <e c=""><p><l>նախալեզու<s n="n"/><s n="nn"/></l><r>parent<s n="n"/></r></p></e>
@@ -6437,7 +6441,6 @@
 <e c=""><p><l>տոմս<s n="n"/><s n="nn"/></l><r>ticket<s n="n"/></r></p></e>
 <e c=""><p><l>տոմս<s n="n"/><s n="nn"/></l><r>letter<s n="n"/></r></p></e>
 <e c=""><p><l>տոնածառ<s n="n"/><s n="nn"/></l><r>Christmas<b/>tree<s n="n"/></r></p></e>
-<e c=""><p><l>տոնածառ<s n="n"/><s n="nn"/></l><r>an<b/>unconventionally-dressed<b/>person<s n="n"/></r></p></e>
 <e c=""><p><l>տոռն<s n="n"/><s n="nn"/></l><r>twine<s n="n"/></r></p></e>
 <e c=""><p><l>տոռն<s n="n"/><s n="nn"/></l><r>bond<s n="n"/></r></p></e>
 <e c=""><p><l>տոռն<s n="n"/><s n="nn"/></l><r>rope<s n="n"/></r></p></e>
@@ -9353,6 +9356,7 @@
 <e c=""><p><l>Ֆրանսիա<s n="np"/><s n="top"/></l><r>France<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>Ֆրիուլի<s n="np"/><s n="top"/></l><r>Friuli<s n="np"/><s n="top"/></r></p></e>
 <e c=""><p><l>բիշնուպրիյա-մանիպուրի<s n="np"/><s n="al"/><s n="nn"/></l><r>Bishnupriya<b/>Manipuri<s n="np"/><s n="al"/></r></p></e>
+<e c=""><p><l>ՀՀ<s n="np"/><s n="top"/></l><r>RA<s n="np"/><s n="top"/></r></p></e> <!-- Republic of Armenia -->
 
 
 <!-- SECTION: Adjectives -->
@@ -9408,7 +9412,7 @@
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>transparent<s n="adj"/></r></p></e>
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>simple<s n="adj"/></r></p></e>
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>modest<s n="adj"/></r></p></e>
-<e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>understandabl<s n="adj"/></r></p></e>
+<e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>understandable<s n="adj"/></r></p></e>
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>intelligible<s n="adj"/></r></p></e>
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>sincere<s n="adj"/></r></p></e>
 <e c=""><p><l>պարզ<s n="adj"/><s n="sint"/></l><r>candid<s n="adj"/></r></p></e>
@@ -10704,6 +10708,547 @@
 <e c=""><p><l>վաղ<b/>առավոտյան<s n="adv"/></l><r>early<b/>in<b/>the<b/>morning<s n="adv"/></r></p></e>
 <e c=""><p><l>խավարում<s n="adv"/></l><r>in<b/>the<b/>darkness<s n="adv"/></r></p></e>
 
+<e c=""><p><l>ազատորեն<s n="adv"/></l><r>freely<s n="adv"/></r></p></e>
+<e c=""><p><l>ազատորեն<s n="adv"/></l><r>without<b/>restraint<s n="adv"/></r></p></e>
+<e c=""><p><l>ակնհայտորեն<s n="adv"/></l><r>by<b/>far<s n="adv"/></r></p></e>
+<e c=""><p><l>ակնհայտորեն<s n="adv"/></l><r>evidently<s n="adv"/></r></p></e>
+<e c=""><p><l>ակնհայտորեն<s n="adv"/></l><r>obviously<s n="adv"/></r></p></e>
+<e c=""><p><l>ակնհայտորեն<s n="adv"/></l><r>patently<s n="adv"/></r></p></e>
+<e c=""><p><l>ակտիվ<s n="adv"/></l><r>actively<s n="adv"/></r></p></e>
+<e c=""><p><l>ակտիվորեն<s n="adv"/></l><r>actively<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջապես<s n="adv"/></l><r>totally<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջապես<s n="adv"/></l><r>wholly<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջովին<s n="adv"/></l><r>absolutely<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջովին<s n="adv"/></l><r>as<b/>a<b/>whole<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջովին<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջովին<s n="adv"/></l><r>en<b/>masse<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջովին<s n="adv"/></l><r>roundly<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջովին<s n="adv"/></l><r>whole<s n="adv"/></r></p></e>
+<e c=""><p><l>ամբողջովին<s n="adv"/></l><r>wholly<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուր<s n="adv"/></l><r>all<b/>over<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուր<s n="adv"/></l><r>and<b/>everywhere<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուր<s n="adv"/></l><r>everywhere<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուր<s n="adv"/></l><r>high<b/>and<b/>low<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուր<s n="adv"/></l><r>in<b/>every<b/>place<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուրեք<s n="adv"/></l><r>all<b/>over<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուրեք<s n="adv"/></l><r>and<b/>everywhere<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուրեք<s n="adv"/></l><r>everywhere<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուրեք<s n="adv"/></l><r>high<b/>and<b/>low<s n="adv"/></r></p></e>
+<e c=""><p><l>ամենուրեք<s n="adv"/></l><r>in<b/>every<b/>place<s n="adv"/></r></p></e>
+<e c=""><p><l>ամփոփ<s n="adv"/></l><r>compactly<s n="adv"/></r></p></e>
+<e c=""><p><l>այդպես<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+<e c=""><p><l>այդտեղ<s n="adv"/></l><r>in<b/>that<b/>place<s n="adv"/></r></p></e>
+<e c=""><p><l>այդտեղ<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
+<e c=""><p><l>այդտեղ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+<e c=""><p><l>այդտեղ<s n="adv"/></l><r>thither<s n="adv"/></r></p></e>
+<e c=""><p><l>այդտեղ<s n="adv"/></l><r>yonder<s n="adv"/></r></p></e>
+<e c=""><p><l>այլապես<s n="adv"/></l><r>differently<s n="adv"/></r></p></e>
+<e c=""><p><l>այլապես<s n="adv"/></l><r>in<b/>a<b/>different<b/>way<s n="adv"/></r></p></e>
+<e c=""><p><l>այլապես<s n="adv"/></l><r>or<b/>else<s n="adv"/></r></p></e>
+<e c=""><p><l>այլապես<s n="adv"/></l><r>otherwise<s n="adv"/></r></p></e>
+<e c=""><p><l>այլուր<s n="adv"/></l><r>anywhere<b/>else<s n="adv"/></r></p></e>
+<e c=""><p><l>այլուր<s n="adv"/></l><r>anywhere<s n="adv"/></r></p></e>
+<e c=""><p><l>այլուր<s n="adv"/></l><r>at<b/>some<b/>other<b/>point<s n="adv"/></r></p></e>
+<e c=""><p><l>այլուր<s n="adv"/></l><r>elsewhere<s n="adv"/></r></p></e>
+<e c=""><p><l>այլուր<s n="adv"/></l><r>in<b/>some<b/>other<b/>place<s n="adv"/></r></p></e>
+<e c=""><p><l>այլևս<s n="adv"/></l><r>any<b/>more<s n="adv"/></r></p></e>
+<e c=""><p><l>այլևս<s n="adv"/></l><r>anymore<s n="adv"/></r></p></e>
+<e c=""><p><l>այլևս<s n="adv"/></l><r>no<b/>longer<s n="adv"/></r></p></e>
+<e c=""><p><l>այլևս<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
+<e c=""><p><l>այլևս<s n="adv"/></l><r>not<b/>any<b/>longer<s n="adv"/></r></p></e>
+<e c=""><p><l>այնպես<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+<e c=""><p><l>այսուհետ<s n="adv"/></l><r>from<b/>now<b/>on<s n="adv"/></r></p></e>
+<e c=""><p><l>այսուհետ<s n="adv"/></l><r>from<b/>this<b/>time<b/>on<s n="adv"/></r></p></e>
+<e c=""><p><l>այսուհետ<s n="adv"/></l><r>onward<s n="adv"/></r></p></e>
+<e c=""><p><l>այսպես<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+<e c=""><p><l>անբավարար<s n="adv"/></l><r>inadequately<s n="adv"/></r></p></e>
+<e c=""><p><l>անբավարար<s n="adv"/></l><r>unsatisfactorily<s n="adv"/></r></p></e>
+<e c=""><p><l>անընդհատ<s n="adv"/></l><r>at<b/>a<b/>stretch<s n="adv"/></r></p></e>
+<e c=""><p><l>անընդհատ<s n="adv"/></l><r>continuously<s n="adv"/></r></p></e>
+<e c=""><p><l>անընդհատ<s n="adv"/></l><r>incessantly<s n="adv"/></r></p></e>
+<e c=""><p><l>անընդհատ<s n="adv"/></l><r>regularly<s n="adv"/></r></p></e>
+<e c=""><p><l>անընդմեջ<s n="adv"/></l><r>on<b/>end<s n="adv"/></r></p></e>
+<e c=""><p><l>անընդմեջ<s n="adv"/></l><r>running<s n="adv"/></r></p></e>
+<e c=""><p><l>անկախ<s n="adv"/></l><r>independently<s n="adv"/></r></p></e>
+<e c=""><p><l>անկախ<s n="adv"/></l><r>irregardless<b/>of<s n="adv"/></r></p></e>
+<e c=""><p><l>անկախ<s n="adv"/></l><r>irrespective<b/>of<s n="adv"/></r></p></e>
+<e c=""><p><l>անկախ<s n="adv"/></l><r>regardless<b/>of<s n="adv"/></r></p></e>
+<e c=""><p><l>անկանոն<s n="adv"/></l><r>disorderly<s n="adv"/></r></p></e>
+<e c=""><p><l>անկանոն<s n="adv"/></l><r>indiscriminate<s n="adv"/></r></p></e>
+<e c=""><p><l>անկեղծ<s n="adv"/></l><r>candidly<s n="adv"/></r></p></e>
+<e c=""><p><l>անկեղծ<s n="adv"/></l><r>frankly<s n="adv"/></r></p></e>
+<e c=""><p><l>անկեղծ<s n="adv"/></l><r>sincerely<s n="adv"/></r></p></e>
+<e c=""><p><l>անհավասար<s n="adv"/></l><r>unequally<s n="adv"/></r></p></e>
+<e c=""><p><l>անհիմն<s n="adv"/></l><r>without<b/>any<b/>proofs<s n="adv"/></r></p></e>
+<e c=""><p><l>անմիջականորեն<s n="adv"/></l><r>first-hand<s n="adv"/></r></p></e>
+<e c=""><p><l>անմիջականորեն<s n="adv"/></l><r>straight<b/>away<s n="adv"/></r></p></e>
+<e c=""><p><l>անմիջապես<s n="adv"/></l><r>ad<b/>locum<s n="adv"/></r></p></e>
+<e c=""><p><l>անմիջապես<s n="adv"/></l><r>forthwith<s n="adv"/></r></p></e>
+<e c=""><p><l>անմիջապես<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+<e c=""><p><l>անմիջապես<s n="adv"/></l><r>offhand<s n="adv"/></r></p></e>
+<e c=""><p><l>անմիջապես<s n="adv"/></l><r>right<b/>away<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>appallingly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>crucially<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>deadly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>exceedingly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>excessively<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>extremely<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>fiendishly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>grossly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>highly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>overly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>overwhelmingly<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>too<b/>much<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>too<s n="adv"/></r></p></e>
+<e c=""><p><l>անչափ<s n="adv"/></l><r>unduly<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելի<s n="adv"/></l><r>abruptly<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելի<s n="adv"/></l><r>all<b/>at<b/>once<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելի<s n="adv"/></l><r>unannounced<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելի<s n="adv"/></l><r>unexpectedly<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելիորեն<s n="adv"/></l><r>abruptly<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելիորեն<s n="adv"/></l><r>all<b/>at<b/>once<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելիորեն<s n="adv"/></l><r>unannounced<s n="adv"/></r></p></e>
+<e c=""><p><l>անսպասելիորեն<s n="adv"/></l><r>unexpectedly<s n="adv"/></r></p></e>
+<e c=""><p><l>անվճար<s n="adv"/></l><r>cost<b/>free<s n="adv"/></r></p></e>
+<e c=""><p><l>անվճար<s n="adv"/></l><r>free<b/>of<b/>charge<s n="adv"/></r></p></e>
+<e c=""><p><l>անվճար<s n="adv"/></l><r>gratis<s n="adv"/></r></p></e>
+<e c=""><p><l>անվճար<s n="adv"/></l><r>without<b/>payment<s n="adv"/></r></p></e>
+<e c=""><p><l>անտարբեր<s n="adv"/></l><r>apathetically<s n="adv"/></r></p></e>
+<e c=""><p><l>անտարբեր<s n="adv"/></l><r>blankly<s n="adv"/></r></p></e>
+<e c=""><p><l>անտարբեր<s n="adv"/></l><r>indifferently<s n="adv"/></r></p></e>
+<e c=""><p><l>անց<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
+<e c=""><p><l>անփոփոխ<s n="adv"/></l><r>invariably<s n="adv"/></r></p></e>
+<e c=""><p><l>անփոփոխ<s n="adv"/></l><r>unalterably<s n="adv"/></r></p></e>
+<e c=""><p><l>աշխույժ<s n="adv"/></l><r>animatedly<s n="adv"/></r></p></e>
+<e c=""><p><l>ապահով<s n="adv"/></l><r>well<b/>provided<b/>for<s n="adv"/></r></p></e>
+<e c=""><p><l>ապահով<s n="adv"/></l><r>well-to-do<s n="adv"/></r></p></e>
+<e c=""><p><l>առայժմ<s n="adv"/></l><r>for<b/>the<b/>present<s n="adv"/></r></p></e>
+<e c=""><p><l>առայժմ<s n="adv"/></l><r>in<b/>the<b/>meanwhile<s n="adv"/></r></p></e>
+<e c=""><p><l>առանձնապես<s n="adv"/></l><r>in<b/>particular<s n="adv"/></r></p></e>
+<e c=""><p><l>առանձնապես<s n="adv"/></l><r>more<b/>particularly<s n="adv"/></r></p></e>
+<e c=""><p><l>առընթեր<s n="adv"/></l><r>adjacent<s n="adv"/></r></p></e>
+<e c=""><p><l>առընթեր<s n="adv"/></l><r>contiguous<s n="adv"/></r></p></e>
+<e c=""><p><l>առընթեր<s n="adv"/></l><r>herewith<s n="adv"/></r></p></e>
+<e c=""><p><l>առժամանակ<s n="adv"/></l><r>awhile<s n="adv"/></r></p></e>
+<e c=""><p><l>առժամանակ<s n="adv"/></l><r>for<b/>a<b/>while<s n="adv"/></r></p></e>
+<e c=""><p><l>առժամանակ<s n="adv"/></l><r>for<b/>the<b/>time<b/>being<s n="adv"/></r></p></e>
+<e c=""><p><l>առժամանակ<s n="adv"/></l><r>in<b/>the<b/>meantime<s n="adv"/></r></p></e>
+<e c=""><p><l>առժամանակ<s n="adv"/></l><r>some<b/>time<s n="adv"/></r></p></e>
+<e c=""><p><l>առնչությամբ<s n="adv"/></l><r>in<b/>referense<b/>to<s n="adv"/></r></p></e>
+<e c=""><p><l>առնչությամբ<s n="adv"/></l><r>in<b/>regard.to<s n="adv"/></r></p></e>
+<e c=""><p><l>առնչությամբ<s n="adv"/></l><r>in<b/>relation<b/>to<s n="adv"/></r></p></e>
+<e c=""><p><l>աստիճանաբար<s n="adv"/></l><r>by<b/>degrees<s n="adv"/></r></p></e>
+<e c=""><p><l>աստիճանաբար<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
+<e c=""><p><l>ավանդաբար<s n="adv"/></l><r>by<b/>tradition<s n="adv"/></r></p></e>
+<e c=""><p><l>ավանդաբար<s n="adv"/></l><r>traditionally<s n="adv"/></r></p></e>
+<e c=""><p><l>արագորեն<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+<e c=""><p><l>արագորեն<s n="adv"/></l><r>with<b/>speed<s n="adv"/></r></p></e>
+<e c=""><p><l>արդյունավետ<s n="adv"/></l><r>effectively<s n="adv"/></r></p></e>
+<e c=""><p><l>արդյունավետ<s n="adv"/></l><r>efficiently<s n="adv"/></r></p></e>
+<e c=""><p><l>արդյունավետ<s n="adv"/></l><r>productively<s n="adv"/></r></p></e>
+<e c=""><p><l>արմատապես<s n="adv"/></l><r>radically<s n="adv"/></r></p></e>
+<e c=""><p><l>արտակարգ<s n="adv"/></l><r>out-of-turn<s n="adv"/></r></p></e>
+<e c=""><p><l>բառացիորեն<s n="adv"/></l><r>verbatim<s n="adv"/></r></p></e>
+<e c=""><p><l>բառացիորեն<s n="adv"/></l><r>word<b/>for<b/>word<s n="adv"/></r></p></e>
+<e c=""><p><l>բավականաչափ<s n="adv"/></l><r>sufficiently<s n="adv"/></r></p></e>
+<e c=""><p><l>բացահայտ<s n="adv"/></l><r>baldly<s n="adv"/></r></p></e>
+<e c=""><p><l>բացառապես<s n="adv"/></l><r>all<b/>out<s n="adv"/></r></p></e>
+<e c=""><p><l>բացառապես<s n="adv"/></l><r>all<b/>through<s n="adv"/></r></p></e>
+<e c=""><p><l>բացառապես<s n="adv"/></l><r>all<s n="adv"/></r></p></e>
+<e c=""><p><l>բացառապես<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
+<e c=""><p><l>բացառապես<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
+<e c=""><p><l>բացառապես<s n="adv"/></l><r>sheer<s n="adv"/></r></p></e>
+<e c=""><p><l>գերազանց<s n="adv"/></l><r>superior<s n="adv"/></r></p></e>
+<e c=""><p><l>գերազանցապես<s n="adv"/></l><r>superbly<s n="adv"/></r></p></e>
+<e c=""><p><l>գիտականորեն<s n="adv"/></l><r>scientifically<s n="adv"/></r></p></e>
+<e c=""><p><l>գլխավորապես<s n="adv"/></l><r>chiefly<s n="adv"/></r></p></e>
+<e c=""><p><l>գլխավորապես<s n="adv"/></l><r>mainly<s n="adv"/></r></p></e>
+<e c=""><p><l>գլխավորապես<s n="adv"/></l><r>principally<s n="adv"/></r></p></e>
+<e c=""><p><l>գործնականորեն<s n="adv"/></l><r>practically<s n="adv"/></r></p></e>
+<e c=""><p><l>գրագետ<s n="adv"/></l><r>correctly<s n="adv"/></r></p></e>
+<e c=""><p><l>գրագետ<s n="adv"/></l><r>grammatically<s n="adv"/></r></p></e>
+<e c=""><p><l>գրավոր<s n="adv"/></l><r>in<b/>writing<s n="adv"/></r></p></e>
+<e c=""><p><l>գրավոր<s n="adv"/></l><r>in<b/>written<b/>form<s n="adv"/></r></p></e>
+<e c=""><p><l>դեմ<s n="adv"/></l><r>against<s n="adv"/></r></p></e>
+<e c=""><p><l>դժվարությամբ<s n="adv"/></l><r>ado<s n="adv"/></r></p></e>
+<e c=""><p><l>դժվարությամբ<s n="adv"/></l><r>difficulty<s n="adv"/></r></p></e>
+<e c=""><p><l>դժվարությամբ<s n="adv"/></l><r>glitch<s n="adv"/></r></p></e>
+<e c=""><p><l>դժվարությամբ<s n="adv"/></l><r>hassle<s n="adv"/></r></p></e>
+<e c=""><p><l>ենթադրաբար<s n="adv"/></l><r>conceivably<s n="adv"/></r></p></e>
+<e c=""><p><l>ենթադրաբար<s n="adv"/></l><r>presumably<s n="adv"/></r></p></e>
+<e c=""><p><l>ենթադրաբար<s n="adv"/></l><r>supposedly<s n="adv"/></r></p></e>
+<e c=""><p><l>ետևից<s n="adv"/></l><r>after<s n="adv"/></r></p></e>
+<e c=""><p><l>ետևից<s n="adv"/></l><r>from<b/>back<s n="adv"/></r></p></e>
+<e c=""><p><l>ետևից<s n="adv"/></l><r>from<b/>behind<s n="adv"/></r></p></e>
+<e c=""><p><l>երբևէ<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
+<e c=""><p><l>երջանիկ<s n="adv"/></l><r>happily<s n="adv"/></r></p></e>
+<e c=""><p><l>զատ<s n="adv"/></l><r>detached<s n="adv"/></r></p></e>
+<e c=""><p><l>զատ<s n="adv"/></l><r>separately<s n="adv"/></r></p></e>
+<e c=""><p><l>զատ<s n="adv"/></l><r>severally<s n="adv"/></r></p></e>
+<e c=""><p><l>զուգընթաց<s n="adv"/></l><r>concurrently<s n="adv"/></r></p></e>
+<e c=""><p><l>զուգընթաց<s n="adv"/></l><r>in<b/>parallel<s n="adv"/></r></p></e>
+<e c=""><p><l>զուգընթաց<s n="adv"/></l><r>parallelly<s n="adv"/></r></p></e>
+<e c=""><p><l>զուգընթաց<s n="adv"/></l><r>parallel<s n="adv"/></r></p></e>
+<e c=""><p><l>զուսպ<s n="adv"/></l><r>reservedly<s n="adv"/></r></p></e>
+<e c=""><p><l>զուսպ<s n="adv"/></l><r>restrainedly<s n="adv"/></r></p></e>
+<e c=""><p><l>էականորեն<s n="adv"/></l><r>essentially<s n="adv"/></r></p></e>
+<e c=""><p><l>էականորեն<s n="adv"/></l><r>in<b/>essence<s n="adv"/></r></p></e>
+<e c=""><p><l>էականորեն<s n="adv"/></l><r>in<b/>the<b/>main<s n="adv"/></r></p></e>
+<e c=""><p><l>էականորեն<s n="adv"/></l><r>inherently<s n="adv"/></r></p></e>
+<e c=""><p><l>էականորեն<s n="adv"/></l><r>intrinsically<s n="adv"/></r></p></e>
+<e c=""><p><l>էականորեն<s n="adv"/></l><r>substantially<s n="adv"/></r></p></e>
+<e c=""><p><l>էականորեն<s n="adv"/></l><r>virtually<s n="adv"/></r></p></e>
+<e c=""><p><l>էապես<s n="adv"/></l><r>essentially<s n="adv"/></r></p></e>
+<e c=""><p><l>էապես<s n="adv"/></l><r>in<b/>essence<s n="adv"/></r></p></e>
+<e c=""><p><l>էապես<s n="adv"/></l><r>in<b/>the<b/>main<s n="adv"/></r></p></e>
+<e c=""><p><l>էապես<s n="adv"/></l><r>inherently<s n="adv"/></r></p></e>
+<e c=""><p><l>էապես<s n="adv"/></l><r>intrinsically<s n="adv"/></r></p></e>
+<e c=""><p><l>էապես<s n="adv"/></l><r>substantially<s n="adv"/></r></p></e>
+<e c=""><p><l>էապես<s n="adv"/></l><r>virtually<s n="adv"/></r></p></e>
+<e c=""><p><l>էլ<s n="adv"/></l><r>as<b/>well<s n="adv"/></r></p></e>
+<e c=""><p><l>էլ<s n="adv"/></l><r>either<s n="adv"/></r></p></e>
+<e c=""><p><l>ընդառաջ<s n="adv"/></l><r>towards<s n="adv"/></r></p></e>
+<e c=""><p><l>ընդհանրապես<s n="adv"/></l><r>generally<s n="adv"/></r></p></e>
+<e c=""><p><l>ընդհուպ<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>
+<e c=""><p><l>ընդհուպ<s n="adv"/></l><r>close<s n="adv"/></r></p></e>
+<e c=""><p><l>ընթացքում<s n="adv"/></l><r>motion<s n="adv"/></r></p></e>
+<e c=""><p><l>թարգմանաբար<s n="adv"/></l><r>in<b/>translation<s n="adv"/></r></p></e>
+<e c=""><p><l>թաքուն<s n="adv"/></l><r>secretly<s n="adv"/></r></p></e>
+<e c=""><p><l>թեթև<s n="adv"/></l><r>minor<s n="adv"/></r></p></e>
+<e c=""><p><l>թեք<s n="adv"/></l><r>acock<s n="adv"/></r></p></e>
+<e c=""><p><l>թեք<s n="adv"/></l><r>askew<s n="adv"/></r></p></e>
+<e c=""><p><l>թեք<s n="adv"/></l><r>slantingly<s n="adv"/></r></p></e>
+<e c=""><p><l>թեք<s n="adv"/></l><r>slopingly<s n="adv"/></r></p></e>
+<e c=""><p><l>ժամանակավորապես<s n="adv"/></l><r>provisionally<s n="adv"/></r></p></e>
+<e c=""><p><l>ժամանակավորապես<s n="adv"/></l><r>temporarily<s n="adv"/></r></p></e>
+<e c=""><p><l>ժամանակին<s n="adv"/></l><r>in<b/>time<s n="adv"/></r></p></e>
+<e c=""><p><l>ժառանգաբար<s n="adv"/></l><r>by<b/>right<b/>of<b/>succession<s n="adv"/></r></p></e>
+<e c=""><p><l>ժառանգաբար<s n="adv"/></l><r>devolve<s n="adv"/></r></p></e>
+<e c=""><p><l>իբրև<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+<e c=""><p><l>ինչևէ<s n="adv"/></l><r>anyhow<s n="adv"/></r></p></e>
+<e c=""><p><l>ինչևէ<s n="adv"/></l><r>in<b/>any<b/>case<s n="adv"/></r></p></e>
+<e c=""><p><l>ինչևէ<s n="adv"/></l><r>in<b/>either<b/>case<s n="adv"/></r></p></e>
+<e c=""><p><l>ինչևէ<s n="adv"/></l><r>in<b/>either<b/>event<s n="adv"/></r></p></e>
+<e c=""><p><l>ինչևէ<s n="adv"/></l><r>one<b/>way<b/>or<b/>another<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնաբերաբար<s n="adv"/></l><r>involuntarily<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնաբերաբար<s n="adv"/></l><r>spontaneously<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնաբերաբար<s n="adv"/></l><r>unintentionally<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնակամ<s n="adv"/></l><r>voluntarily<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>by<b/>herself<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>by<b/>himself<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>by<b/>myself<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>by<b/>ourselves<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>by<b/>themselves<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>by<b/>yourself<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>unaided<s n="adv"/></r></p></e>
+<e c=""><p><l>ինքնուրույն<s n="adv"/></l><r>without<b/>assistance<s n="adv"/></r></p></e>
+<e c=""><p><l>իսպառ<s n="adv"/></l><r>utterly<s n="adv"/></r></p></e>
+<e c=""><p><l>իրականում<s n="adv"/></l><r>in<b/>reality<s n="adv"/></r></p></e>
+<e c=""><p><l>լիարժեք<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
+<e c=""><p><l>լիովին<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
+<e c=""><p><l>լիովին<s n="adv"/></l><r>in<b/>full<s n="adv"/></r></p></e>
+<e c=""><p><l>լրացուցիչ<s n="adv"/></l><r>additionally<s n="adv"/></r></p></e>
+<e c=""><p><l>լրացուցիչ<s n="adv"/></l><r>extra<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>appallingly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>crucially<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>deadly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>exceedingly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>excessively<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>extremely<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>fiendishly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>grossly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>highly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>overly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>overwhelmingly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>too<b/>much<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>too<s n="adv"/></r></p></e>
+<e c=""><p><l>խիստ<s n="adv"/></l><r>unduly<s n="adv"/></r></p></e>
+<e c=""><p><l>խիտ<s n="adv"/></l><r>densely<s n="adv"/></r></p></e>
+<e c=""><p><l>խիտ<s n="adv"/></l><r>narrowly<s n="adv"/></r></p></e>
+<e c=""><p><l>խորապես<s n="adv"/></l><r>deeply<s n="adv"/></r></p></e>
+<e c=""><p><l>խորապես<s n="adv"/></l><r>piercingly<s n="adv"/></r></p></e>
+<e c=""><p><l>խորապես<s n="adv"/></l><r>soundly<s n="adv"/></r></p></e>
+<e c=""><p><l>խստորեն<s n="adv"/></l><r>strictly<s n="adv"/></r></p></e>
+<e c=""><p><l>ծագումով<s n="adv"/></l><r>genesis<s n="adv"/></r></p></e>
+<e c=""><p><l>ծագումով<s n="adv"/></l><r>origin<s n="adv"/></r></p></e>
+<e c=""><p><l>ծագումով<s n="adv"/></l><r>provenance<s n="adv"/></r></p></e>
+<e c=""><p><l>կատարյալ<s n="adv"/></l><r>deadly<s n="adv"/></r></p></e>
+<e c=""><p><l>կատարյալ<s n="adv"/></l><r>full-on<s n="adv"/></r></p></e>
+<e c=""><p><l>կատարյալ<s n="adv"/></l><r>perfect<s n="adv"/></r></p></e>
+<e c=""><p><l>կիսատ<s n="adv"/></l><r>half<s n="adv"/></r></p></e>
+<e c=""><p><l>կից<s n="adv"/></l><r>adjacent<s n="adv"/></r></p></e>
+<e c=""><p><l>կից<s n="adv"/></l><r>contiguous<s n="adv"/></r></p></e>
+<e c=""><p><l>կից<s n="adv"/></l><r>herewith<s n="adv"/></r></p></e>
+<e c=""><p><l>կողքին<s n="adv"/></l><r>beside<s n="adv"/></r></p></e>
+<e c=""><p><l>կողքին<s n="adv"/></l><r>close<b/>to<s n="adv"/></r></p></e>
+<e c=""><p><l>կողքին<s n="adv"/></l><r>close<s n="adv"/></r></p></e>
+<e c=""><p><l>կողքին<s n="adv"/></l><r>near<s n="adv"/></r></p></e>
+<e c=""><p><l>կողքով<s n="adv"/></l><r>abreast<s n="adv"/></r></p></e>
+<e c=""><p><l>կողքով<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
+<e c=""><p><l>կողքով<s n="adv"/></l><r>aslant<s n="adv"/></r></p></e>
+<e c=""><p><l>կոնկրետ<s n="adv"/></l><r>concretely<s n="adv"/></r></p></e>
+<e c=""><p><l>կոպիտ<s n="adv"/></l><r>coarse<s n="adv"/></r></p></e>
+<e c=""><p><l>կտրուկ<s n="adv"/></l><r>abruptly<s n="adv"/></r></p></e>
+<e c=""><p><l>կտրուկ<s n="adv"/></l><r>decisively<s n="adv"/></r></p></e>
+<e c=""><p><l>կտրուկ<s n="adv"/></l><r>drastically<s n="adv"/></r></p></e>
+<e c=""><p><l>հազիվ<s n="adv"/></l><r>barely<s n="adv"/></r></p></e>
+<e c=""><p><l>հազիվ<s n="adv"/></l><r>hardly<s n="adv"/></r></p></e>
+<e c=""><p><l>հազիվ<s n="adv"/></l><r>scarcely<s n="adv"/></r></p></e>
+<e c=""><p><l>հակիրճ<s n="adv"/></l><r>concisely<s n="adv"/></r></p></e>
+<e c=""><p><l>հակիրճ<s n="adv"/></l><r>shortly<s n="adv"/></r></p></e>
+<e c=""><p><l>հաղթական<s n="adv"/></l><r>victoriously<s n="adv"/></r></p></e>
+<e c=""><p><l>հաճախակի<s n="adv"/></l><r>frequently<s n="adv"/></r></p></e>
+<e c=""><p><l>համաչափ<s n="adv"/></l><r>proportionately<s n="adv"/></r></p></e>
+<e c=""><p><l>համաչափ<s n="adv"/></l><r>symmetrically<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>accordingly<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>appropriately<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>compliance<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>conformably<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>conformity<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>correspondingly<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>respectively<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>suitably<s n="adv"/></r></p></e>
+<e c=""><p><l>համապատասխանաբար<s n="adv"/></l><r>thereafter<s n="adv"/></r></p></e>
+<e c=""><p><l>համառ<s n="adv"/></l><r>intransigently<s n="adv"/></r></p></e>
+<e c=""><p><l>համառ<s n="adv"/></l><r>obstinately<s n="adv"/></r></p></e>
+<e c=""><p><l>համառ<s n="adv"/></l><r>persistently<s n="adv"/></r></p></e>
+<e c=""><p><l>համառ<s n="adv"/></l><r>stubbornly<s n="adv"/></r></p></e>
+<e c=""><p><l>համատարած<s n="adv"/></l><r>in<b/>all<b/>parts<s n="adv"/></r></p></e>
+<e c=""><p><l>համատարած<s n="adv"/></l><r>in<b/>all<b/>place<s n="adv"/></r></p></e>
+<e c=""><p><l>համատարած<s n="adv"/></l><r>ubiquitously<s n="adv"/></r></p></e>
+<e c=""><p><l>համատեղ<s n="adv"/></l><r>in<b/>common<s n="adv"/></r></p></e>
+<e c=""><p><l>համատեղ<s n="adv"/></l><r>jointly<s n="adv"/></r></p></e>
+<e c=""><p><l>համարձակ<s n="adv"/></l><r>boldly<s n="adv"/></r></p></e>
+<e c=""><p><l>համեմատաբար<s n="adv"/></l><r>by<b/>comparision<s n="adv"/></r></p></e>
+<e c=""><p><l>համեմատաբար<s n="adv"/></l><r>comparatively<s n="adv"/></r></p></e>
+<e c=""><p><l>համեմատաբար<s n="adv"/></l><r>in<b/>comparision<s n="adv"/></r></p></e>
+<e c=""><p><l>համեմատաբար<s n="adv"/></l><r>relatively<s n="adv"/></r></p></e>
+<e c=""><p><l>համընթաց<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>
+<e c=""><p><l>համընթաց<s n="adv"/></l><r>in<b/>doing<b/>so<s n="adv"/></r></p></e>
+<e c=""><p><l>համընթաց<s n="adv"/></l><r>in<b/>so<b/>doing<s n="adv"/></r></p></e>
+<e c=""><p><l>համընթաց<s n="adv"/></l><r>simultaneously<s n="adv"/></r></p></e>
+<e c=""><p><l>հանդարտ<s n="adv"/></l><r>quietly<s n="adv"/></r></p></e>
+<e c=""><p><l>հանդարտ<s n="adv"/></l><r>softly<s n="adv"/></r></p></e>
+<e c=""><p><l>հանկարծ<s n="adv"/></l><r>all<b/>of<b/>a<b/>sudden<s n="adv"/></r></p></e>
+<e c=""><p><l>հանկարծ<s n="adv"/></l><r>suddenly<s n="adv"/></r></p></e>
+<e c=""><p><l>հանկարծակի<s n="adv"/></l><r>all<b/>of<b/>a<b/>sudden<s n="adv"/></r></p></e>
+<e c=""><p><l>հանկարծակի<s n="adv"/></l><r>suddenly<s n="adv"/></r></p></e>
+<e c=""><p><l>հաջորդաբար<s n="adv"/></l><r>serially<s n="adv"/></r></p></e>
+<e c=""><p><l>հաջորդաբար<s n="adv"/></l><r>successively<s n="adv"/></r></p></e>
+<e c=""><p><l>հավանաբար<s n="adv"/></l><r>likely<s n="adv"/></r></p></e>
+<e c=""><p><l>հավանաբար<s n="adv"/></l><r>perhaps<s n="adv"/></r></p></e>
+<e c=""><p><l>հավանաբար<s n="adv"/></l><r>probably<s n="adv"/></r></p></e>
+<e c=""><p><l>հավասարաչափ<s n="adv"/></l><r>evenly<s n="adv"/></r></p></e>
+<e c=""><p><l>հավասարաչափ<s n="adv"/></l><r>uniformly<s n="adv"/></r></p></e>
+<e c=""><p><l>հավասարապես<s n="adv"/></l><r>equally<s n="adv"/></r></p></e>
+<e c=""><p><l>հավասարապես<s n="adv"/></l><r>in<b/>equal<b/>parts<s n="adv"/></r></p></e>
+<e c=""><p><l>հավասարապես<s n="adv"/></l><r>in<b/>equal<b/>portions<s n="adv"/></r></p></e>
+<e c=""><p><l>հավելյալ<s n="adv"/></l><r>adventitious<s n="adv"/></r></p></e>
+<e c=""><p><l>հավերժ<s n="adv"/></l><r>eternally<s n="adv"/></r></p></e>
+<e c=""><p><l>հավերժ<s n="adv"/></l><r>ever<b/>lastingly<s n="adv"/></r></p></e>
+<e c=""><p><l>հատկապես<s n="adv"/></l><r>especially<s n="adv"/></r></p></e>
+<e c=""><p><l>հատկապես<s n="adv"/></l><r>expressly<s n="adv"/></r></p></e>
+<e c=""><p><l>հատկապես<s n="adv"/></l><r>notably<s n="adv"/></r></p></e>
+<e c=""><p><l>հեշտությամբ<s n="adv"/></l><r>easily<s n="adv"/></r></p></e>
+<e c=""><p><l>հեշտությամբ<s n="adv"/></l><r>easy<s n="adv"/></r></p></e>
+<e c=""><p><l>հեշտությամբ<s n="adv"/></l><r>facile<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևաբար<s n="adv"/></l><r>consequently<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևաբար<s n="adv"/></l><r>hence<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևաբար<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+<e c=""><p><l>հետագայում<s n="adv"/></l><r>henceforward<s n="adv"/></r></p></e>
+<e c=""><p><l>հետագայում<s n="adv"/></l><r>in<b/>future<s n="adv"/></r></p></e>
+<e c=""><p><l>հետագայում<s n="adv"/></l><r>later<b/>on<s n="adv"/></r></p></e>
+<e c=""><p><l>հետագայում<s n="adv"/></l><r>subsequently<s n="adv"/></r></p></e>
+<e c=""><p><l>հետզհետե<s n="adv"/></l><r>step<b/>by<b/>step<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևից<s n="adv"/></l><r>after<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևից<s n="adv"/></l><r>from<b/>back<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևից<s n="adv"/></l><r>from<b/>behind<s n="adv"/></r></p></e>
+<e c=""><p><l>հետմահու<s n="adv"/></l><r>posthumously<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևում<s n="adv"/></l><r>arise<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևում<s n="adv"/></l><r>follow<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևում<s n="adv"/></l><r>go<b/>after<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևում<s n="adv"/></l><r>result<s n="adv"/></r></p></e>
+<e c=""><p><l>հետևում<s n="adv"/></l><r>take<b/>after<s n="adv"/></r></p></e>
+<e c=""><p><l>հերթականությամբ<s n="adv"/></l><r>in<b/>turn<s n="adv"/></r></p></e>
+<e c=""><p><l>հերթականությամբ<s n="adv"/></l><r>sequentially<s n="adv"/></r></p></e>
+<e c=""><p><l>հերթով<s n="adv"/></l><r>in<b/>turn<s n="adv"/></r></p></e>
+<e c=""><p><l>հերթով<s n="adv"/></l><r>sequentially<s n="adv"/></r></p></e>
+<e c=""><p><l>հիմնականում<s n="adv"/></l><r>basically<s n="adv"/></r></p></e>
+<e c=""><p><l>հիմնականում<s n="adv"/></l><r>in<b/>general<s n="adv"/></r></p></e>
+<e c=""><p><l>հիմնականում<s n="adv"/></l><r>in<b/>the<b/>main<s n="adv"/></r></p></e>
+<e c=""><p><l>հիմնականում<s n="adv"/></l><r>largely<s n="adv"/></r></p></e>
+<e c=""><p><l>հիմնովին<s n="adv"/></l><r>thoroughly<s n="adv"/></r></p></e>
+<e c=""><p><l>հնում<s n="adv"/></l><r>aforetime<s n="adv"/></r></p></e>
+<e c=""><p><l>հնում<s n="adv"/></l><r>in<b/>ancient<b/>times<s n="adv"/></r></p></e>
+<e c=""><p><l>հնում<s n="adv"/></l><r>in<b/>olden<b/>times<s n="adv"/></r></p></e>
+<e c=""><p><l>հնում<s n="adv"/></l><r>in<b/>the<b/>olden<b/>days<s n="adv"/></r></p></e>
+<e c=""><p><l>հնուց<s n="adv"/></l><r>long<b/>since<s n="adv"/></r></p></e>
+<e c=""><p><l>հնուց<s n="adv"/></l><r>since<b/>olden<b/>times<s n="adv"/></r></p></e>
+<e c=""><p><l>հոգեբանորեն<s n="adv"/></l><r>psychologically<s n="adv"/></r></p></e>
+<e c=""><p><l>հոյակապ<s n="adv"/></l><r>excellently<s n="adv"/></r></p></e>
+<e c=""><p><l>հոյակապ<s n="adv"/></l><r>splendidly<s n="adv"/></r></p></e>
+<e c=""><p><l>հստակ<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
+<e c=""><p><l>հստակ<s n="adv"/></l><r>distinctly<s n="adv"/></r></p></e>
+<e c=""><p><l>հստակ<s n="adv"/></l><r>explicitly<s n="adv"/></r></p></e>
+<e c=""><p><l>հստակորեն<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
+<e c=""><p><l>հստակորեն<s n="adv"/></l><r>distinctly<s n="adv"/></r></p></e>
+<e c=""><p><l>հստակորեն<s n="adv"/></l><r>explicitly<s n="adv"/></r></p></e>
+<e c=""><p><l>հրաշալի<s n="adv"/></l><r>wonderfully<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրիտ<s n="adv"/></l><r>accurately<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրիտ<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրիտ<s n="adv"/></l><r>precisely<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրիտ<s n="adv"/></l><r>punctually<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրտորեն<s n="adv"/></l><r>accurately<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրտորեն<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրտորեն<s n="adv"/></l><r>precisely<s n="adv"/></r></p></e>
+<e c=""><p><l>ճշգրտորեն<s n="adv"/></l><r>punctually<s n="adv"/></r></p></e>
+<e c=""><p><l>մազապուրծ<s n="adv"/></l><r>hardly<b/>saved<s n="adv"/></r></p></e>
+<e c=""><p><l>մանկուց<s n="adv"/></l><r>from<b/>childhood<s n="adv"/></r></p></e>
+<e c=""><p><l>մանկուց<s n="adv"/></l><r>since<b/>childhood<s n="adv"/></r></p></e>
+<e c=""><p><l>մանրակրկիտ<s n="adv"/></l><r>minutely<s n="adv"/></r></p></e>
+<e c=""><p><l>մասնակի<s n="adv"/></l><r>in<b/>part<s n="adv"/></r></p></e>
+<e c=""><p><l>մասնակի<s n="adv"/></l><r>in<b/>some<b/>measure<s n="adv"/></r></p></e>
+<e c=""><p><l>մասնակի<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
+<e c=""><p><l>մասնակի<s n="adv"/></l><r>rather<s n="adv"/></r></p></e>
+<e c=""><p><l>մասնակիորեն<s n="adv"/></l><r>partially<s n="adv"/></r></p></e>
+<e c=""><p><l>մասնավորապես<s n="adv"/></l><r>particularly<s n="adv"/></r></p></e>
+<e c=""><p><l>մասնավորապես<s n="adv"/></l><r>specifically<s n="adv"/></r></p></e>
+<e c=""><p><l>մատչելի<s n="adv"/></l><r>comprehensibly<s n="adv"/></r></p></e>
+<e c=""><p><l>մատչելի<s n="adv"/></l><r>intelligibly<s n="adv"/></r></p></e>
+<e c=""><p><l>մատչելի<s n="adv"/></l><r>perspicuously<s n="adv"/></r></p></e>
+<e c=""><p><l>մեծապես<s n="adv"/></l><r>big<b/>time<s n="adv"/></r></p></e>
+<e c=""><p><l>մեծապես<s n="adv"/></l><r>greatly<s n="adv"/></r></p></e>
+<e c=""><p><l>մեկուսի<s n="adv"/></l><r>solitarily<s n="adv"/></r></p></e>
+<e c=""><p><l>մեկտեղ<s n="adv"/></l><r>along<b/>with<s n="adv"/></r></p></e>
+<e c=""><p><l>մեկտեղ<s n="adv"/></l><r>together<b/>with<s n="adv"/></r></p></e>
+<e c=""><p><l>մենակ<s n="adv"/></l><r>alone<s n="adv"/></r></p></e>
+<e c=""><p><l>մենակ<s n="adv"/></l><r>lonely<s n="adv"/></r></p></e>
+<e c=""><p><l>մեջտեղում<s n="adv"/></l><r>mid<s n="adv"/></r></p></e>
+<e c=""><p><l>մերթ<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+<e c=""><p><l>միաժամանակ<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>
+<e c=""><p><l>միաժամանակ<s n="adv"/></l><r>simultaneously<s n="adv"/></r></p></e>
+<e c=""><p><l>միանգամից<s n="adv"/></l><r>all<b/>in<b/>one<s n="adv"/></r></p></e>
+<e c=""><p><l>միանգամից<s n="adv"/></l><r>at<b/>first<b/>sight<s n="adv"/></r></p></e>
+<e c=""><p><l>միանգամից<s n="adv"/></l><r>at<b/>once<s n="adv"/></r></p></e>
+<e c=""><p><l>միանման<s n="adv"/></l><r>identically<s n="adv"/></r></p></e>
+<e c=""><p><l>միմիայն<s n="adv"/></l><r>merely<s n="adv"/></r></p></e>
+<e c=""><p><l>միմիայն<s n="adv"/></l><r>only<s n="adv"/></r></p></e>
+<e c=""><p><l>մշտապես<s n="adv"/></l><r>constantly<s n="adv"/></r></p></e>
+<e c=""><p><l>մշտապես<s n="adv"/></l><r>permanently<s n="adv"/></r></p></e>
+<e c=""><p><l>մոտակայքում<s n="adv"/></l><r>alongside<s n="adv"/></r></p></e>
+<e c=""><p><l>մոտակայքում<s n="adv"/></l><r>around<s n="adv"/></r></p></e>
+<e c=""><p><l>մոտակայքում<s n="adv"/></l><r>close<b/>by<s n="adv"/></r></p></e>
+<e c=""><p><l>մոտակայքում<s n="adv"/></l><r>nearby<s n="adv"/></r></p></e>
+<e c=""><p><l>մոտիկ<s n="adv"/></l><r>near<s n="adv"/></r></p></e>
+<e c=""><p><l>մոտից<s n="adv"/></l><r>close<s n="adv"/></r></p></e>
+<e c=""><p><l>մոտով<s n="adv"/></l><r>close<s n="adv"/></r></p></e>
+<e c=""><p><l>նաև<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+<e c=""><p><l>նախապես<s n="adv"/></l><r>beforehand<s n="adv"/></r></p></e>
+<e c=""><p><l>նախապես<s n="adv"/></l><r>in<b/>advance<s n="adv"/></r></p></e>
+<e c=""><p><l>նախապես<s n="adv"/></l><r>preliminarily<s n="adv"/></r></p></e>
+<e c=""><p><l>նախկինում<s n="adv"/></l><r>before<s n="adv"/></r></p></e>
+<e c=""><p><l>նախկինում<s n="adv"/></l><r>formerly<s n="adv"/></r></p></e>
+<e c=""><p><l>նախկինում<s n="adv"/></l><r>previously<s n="adv"/></r></p></e>
+<e c=""><p><l>նախօրոք<s n="adv"/></l><r>beforehand<s n="adv"/></r></p></e>
+<e c=""><p><l>նախօրոք<s n="adv"/></l><r>in<b/>advance<s n="adv"/></r></p></e>
+<e c=""><p><l>նախօրոք<s n="adv"/></l><r>preliminarily<s n="adv"/></r></p></e>
+<e c=""><p><l>ներդաշնակ<s n="adv"/></l><r>harmoniously<s n="adv"/></r></p></e>
+<e c=""><p><l>ներդաշնակ<s n="adv"/></l><r>in<b/>harmony<s n="adv"/></r></p></e>
+<e c=""><p><l>ներկայումս<s n="adv"/></l><r>at<b/>present<s n="adv"/></r></p></e>
+<e c=""><p><l>ներկայումս<s n="adv"/></l><r>at<b/>the<b/>present<b/>time<s n="adv"/></r></p></e>
+<e c=""><p><l>ներկայումս<s n="adv"/></l><r>currently<s n="adv"/></r></p></e>
+<e c=""><p><l>ներկայումս<s n="adv"/></l><r>nowadays<s n="adv"/></r></p></e>
+<e c=""><p><l>ներսում<s n="adv"/></l><r>inside<s n="adv"/></r></p></e>
+<e c=""><p><l>ներքև<s n="adv"/></l><r>down<s n="adv"/></r></p></e>
+<e c=""><p><l>ներքևում<s n="adv"/></l><r>below<s n="adv"/></r></p></e>
+<e c=""><p><l>ներքևում<s n="adv"/></l><r>beneath<s n="adv"/></r></p></e>
+<e c=""><p><l>նմանապես<s n="adv"/></l><r>in<b/>like<b/>manner<s n="adv"/></r></p></e>
+<e c=""><p><l>նմանապես<s n="adv"/></l><r>in<b/>similar<b/>manner<s n="adv"/></r></p></e>
+<e c=""><p><l>նմանապես<s n="adv"/></l><r>likewise<s n="adv"/></r></p></e>
+<e c=""><p><l>նմանապես<s n="adv"/></l><r>similarly<s n="adv"/></r></p></e>
+<e c=""><p><l>նոսր<s n="adv"/></l><r>sparsely<s n="adv"/></r></p></e>
+<e c=""><p><l>նվիրված<s n="adv"/></l><r>devote<s n="adv"/></r></p></e>
+<e c=""><p><l>շարունակ<s n="adv"/></l><r>continually<s n="adv"/></r></p></e>
+<e c=""><p><l>շարունակ<s n="adv"/></l><r>invariably<s n="adv"/></r></p></e>
+<e c=""><p><l>շարունակ<s n="adv"/></l><r>running<s n="adv"/></r></p></e>
+<e c=""><p><l>շարունակաբար<s n="adv"/></l><r>in<b/>succession<s n="adv"/></r></p></e>
+<e c=""><p><l>շուրջը<s n="adv"/></l><r>all<b/>round<s n="adv"/></r></p></e>
+<e c=""><p><l>շուրջը<s n="adv"/></l><r>around<s n="adv"/></r></p></e>
+<e c=""><p><l>շուրջը<s n="adv"/></l><r>round<s n="adv"/></r></p></e>
+<e c=""><p><l>շուրջն<s n="adv"/></l><r>all<b/>round<s n="adv"/></r></p></e>
+<e c=""><p><l>շուրջն<s n="adv"/></l><r>around<s n="adv"/></r></p></e>
+<e c=""><p><l>շուրջն<s n="adv"/></l><r>round<s n="adv"/></r></p></e>
+<e c=""><p><l>շտապ<s n="adv"/></l><r>hurriedly<s n="adv"/></r></p></e>
+<e c=""><p><l>շտապ<s n="adv"/></l><r>promptly<s n="adv"/></r></p></e>
+<e c=""><p><l>շտապ<s n="adv"/></l><r>urgently<s n="adv"/></r></p></e>
+<e c=""><p><l>շրջանակներում<s n="adv"/></l><r>ambit<s n="adv"/></r></p></e>
+<e c=""><p><l>շրջանակներում<s n="adv"/></l><r>frame<s n="adv"/></r></p></e>
+<e c=""><p><l>շրջանակներում<s n="adv"/></l><r>framework<s n="adv"/></r></p></e>
+<e c=""><p><l>շրջանակներում<s n="adv"/></l><r>scope<s n="adv"/></r></p></e>
+<e c=""><p><l>որոշակիորեն<s n="adv"/></l><r>definitely<s n="adv"/></r></p></e>
+<e c=""><p><l>որպես<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+<e c=""><p><l>ուժգին<s n="adv"/></l><r>bitter<s n="adv"/></r></p></e>
+<e c=""><p><l>ուժգին<s n="adv"/></l><r>fierce<s n="adv"/></r></p></e>
+<e c=""><p><l>ուժգին<s n="adv"/></l><r>severe<s n="adv"/></r></p></e>
+<e c=""><p><l>ուղղակի<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
+<e c=""><p><l>ուղղակիորեն<s n="adv"/></l><r>straightforwardly<s n="adv"/></r></p></e>
+<e c=""><p><l>պայմանականորեն<s n="adv"/></l><r>conditionally<s n="adv"/></r></p></e>
+<e c=""><p><l>պայմանականորեն<s n="adv"/></l><r>conventionally<s n="adv"/></r></p></e>
+<e c=""><p><l>պաշտոնապես<s n="adv"/></l><r>officially<s n="adv"/></r></p></e>
+<e c=""><p><l>պատահականորեն<s n="adv"/></l><r>incidentally<s n="adv"/></r></p></e>
+<e c=""><p><l>պատահականորեն<s n="adv"/></l><r>randomly<s n="adv"/></r></p></e>
+<e c=""><p><l>պատմականորեն<s n="adv"/></l><r>historically<s n="adv"/></r></p></e>
+<e c=""><p><l>պարբերաբար<s n="adv"/></l><r>periodically<s n="adv"/></r></p></e>
+<e c=""><p><l>պարբերաբար<s n="adv"/></l><r>recurrently<s n="adv"/></r></p></e>
+<e c=""><p><l>պարտադիր<s n="adv"/></l><r>compulsory<s n="adv"/></r></p></e>
+<e c=""><p><l>պարտադիր<s n="adv"/></l><r>mandatory<s n="adv"/></r></p></e>
+<e c=""><p><l>պարտադիր<s n="adv"/></l><r>obligatory<s n="adv"/></r></p></e>
+<e c=""><p><l>պինդ<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+<e c=""><p><l>սահուն<s n="adv"/></l><r>smoothly<s n="adv"/></r></p></e>
+<e c=""><p><l>սարսափելի<s n="adv"/></l><r>appalling<s n="adv"/></r></p></e>
+<e c=""><p><l>սարսափելի<s n="adv"/></l><r>fearsome<s n="adv"/></r></p></e>
+<e c=""><p><l>սարսափելի<s n="adv"/></l><r>terrible<s n="adv"/></r></p></e>
+<e c=""><p><l>սերտորեն<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>
+<e c=""><p><l>սերտորեն<s n="adv"/></l><r>tightly<s n="adv"/></r></p></e>
+<e c=""><p><l>սխալմամբ<s n="adv"/></l><r>by<b/>mistake<s n="adv"/></r></p></e>
+<e c=""><p><l>սխալմամբ<s n="adv"/></l><r>erroneously<s n="adv"/></r></p></e>
+<e c=""><p><l>սկզբնապես<s n="adv"/></l><r>originally<s n="adv"/></r></p></e>
+<e c=""><p><l>սկզբունքորեն<s n="adv"/></l><r>as<b/>a<b/>matter<b/>of<b/>principle<s n="adv"/></r></p></e>
+<e c=""><p><l>սկզբունքորեն<s n="adv"/></l><r>in<b/>principle<s n="adv"/></r></p></e>
+<e c=""><p><l>սկզբունքորեն<s n="adv"/></l><r>on<b/>principle<s n="adv"/></r></p></e>
+<e c=""><p><l>ստորև<s n="adv"/></l><r>below<s n="adv"/></r></p></e>
+<e c=""><p><l>սրընթաց<s n="adv"/></l><r>by<b/>leaps<b/>and<b/>bounds<s n="adv"/></r></p></e>
+<e c=""><p><l>սրընթաց<s n="adv"/></l><r>in<b/>leaps<b/>and<b/>bounds<s n="adv"/></r></p></e>
+<e c=""><p><l>վաղաժամ<s n="adv"/></l><r>abortive<s n="adv"/></r></p></e>
+<e c=""><p><l>վաղուց<s n="adv"/></l><r>long<b/>ago<s n="adv"/></r></p></e>
+<e c=""><p><l>վարպետորեն<s n="adv"/></l><r>expertly<s n="adv"/></r></p></e>
+<e c=""><p><l>վարպետորեն<s n="adv"/></l><r>masterly<s n="adv"/></r></p></e>
+<e c=""><p><l>վերևից<s n="adv"/></l><r>from<b/>above<s n="adv"/></r></p></e>
+<e c=""><p><l>վերևում<s n="adv"/></l><r>aloft<s n="adv"/></r></p></e>
+<e c=""><p><l>վերևում<s n="adv"/></l><r>atop<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջապես<s n="adv"/></l><r>at<b/>last<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջապես<s n="adv"/></l><r>eventually<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջապես<s n="adv"/></l><r>finally<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջապես<s n="adv"/></l><r>in<b/>conclusion<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջիվերջո<s n="adv"/></l><r>after<b/>all<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջիվերջո<s n="adv"/></l><r>eventually<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջնականապես<s n="adv"/></l><r>finally<s n="adv"/></r></p></e>
+<e c=""><p><l>վերջնականորեն<s n="adv"/></l><r>finally<s n="adv"/></r></p></e>
+<e c=""><p><l>վրայով<s n="adv"/></l><r>over<s n="adv"/></r></p></e>
+<e c=""><p><l>տեսականորեն<s n="adv"/></l><r>in<b/>theory<s n="adv"/></r></p></e>
+<e c=""><p><l>տեսականորեն<s n="adv"/></l><r>theoretically<s n="adv"/></r></p></e>
+<e c=""><p><l>տնտեսապես<s n="adv"/></l><r>economically<s n="adv"/></r></p></e>
+<e c=""><p><l>տրամաբանորեն<s n="adv"/></l><r>logically<s n="adv"/></r></p></e>
+<e c=""><p><l>ցայտուն<s n="adv"/></l><r>boldly<s n="adv"/></r></p></e>
+<e c=""><p><l>ցայտուն<s n="adv"/></l><r>brightly<s n="adv"/></r></p></e>
+<e c=""><p><l>ցայտուն<s n="adv"/></l><r>in<b/>relief<s n="adv"/></r></p></e>
+<e c=""><p><l>փաստացիորեն<s n="adv"/></l><r>de<b/>facto<s n="adv"/></r></p></e>
+<e c=""><p><l>փաստացիորեն<s n="adv"/></l><r>factually<s n="adv"/></r></p></e>
+<e c=""><p><l>փաստացիորեն<s n="adv"/></l><r>virtually<s n="adv"/></r></p></e>
+<e c=""><p><l>օրական<s n="adv"/></l><r>per<b/>day<s n="adv"/></r></p></e>
+<e c=""><p><l>օրական<s n="adv"/></l><r>daily<s n="adv"/></r></p></e>
+
+
 
 <!-- SECTION: Verbs -->
 
@@ -11157,10 +11702,10 @@
 <e c="transitive"><p><l>կախել<s n="vblex"/><s n="tv"/></l><r>hang<s n="vblex"/></r></p></e>
 <e c=""><p><l>կաշառել<s n="vblex"/><s n="tv"/></l><r>bribe<s n="vblex"/></r></p></e>
 <e c="transitive"><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>tie<s n="vblex"/></r></p></e>
-<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>tie up<s n="vblex"/></r></p></e>
+<e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>tie<g><b/>up</g><s n="vblex"/></r></p></e>
 <e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>bind<s n="vblex"/></r></p></e>
 <e c=""><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>fasten<s n="vblex"/></r></p></e>
-<e c="transitive"><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>put inchains<s n="vblex"/></r></p></e>
+<e c="transitive"><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>put<g><b/>in<b/>chains</g><s n="vblex"/></r></p></e>
 <e c="transitive"><p><l>կապել<s n="vblex"/><s n="tv"/></l><r>connect<s n="vblex"/></r></p></e>
 <e c=""><p><l>կթել<s n="vblex"/><s n="tv"/></l><r>milk<s n="vblex"/></r></p></e>
 <e c="colloquial"><p><l>կթել<s n="vblex"/><s n="tv"/></l><r>milk<s n="vblex"/></r></p></e>
