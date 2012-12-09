@@ -77,6 +77,8 @@
 <e c=""><p><l>քան<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>ժամանակ<s n="cnjadv"/></l><r>during<s n="cnjadv"/></r></p></e>
 <e c=""><p><l>ժամանակ<s n="cnjadv"/></l><r>at<b/>the<b/>time<b/>of<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>սակայն<s n="cnjadv"/></l><r>but<s n="cnjcoo"/></r></p></e>
+<e c=""><p><l>սակայն<s n="cnjadv"/></l><r>however<s n="cnjadv"/></r></p></e>
 
 <e c=""><p><l>այլ<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>այլ<s n="cnjadv"/></l><r>however<s n="cnjadv"/></r></p></e>
@@ -108,6 +110,7 @@
 <e c=""><p><l>նույնպես<s n="cnjcoo"/></l><r>as<b/>well<s n="adv"/></r></p></e>
 
 <!-- SECTION: Adpositions -->
+<e c=""><p><l>ըստ<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
 <e c=""><p><l>դեպի<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
 <e c=""><p><l>դեպի<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
 <e c=""><p><l>առանց<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
@@ -4222,6 +4225,8 @@
 <e c=""><p><l>պարկավոր<b/>արջ<s n="n"/><s n="nn"/></l><r>koala<s n="n"/></r></p></e>
 <e c=""><p><l>պարող<s n="n"/><s n="nn"/></l><r>dancer<s n="n"/></r></p></e>
 <e c="form of address"><p><l>պարոն<s n="n"/><s n="aa"/></l><r>mister<s n="n"/></r></p></e>
+<e c="form of address"><p><l>պարոն<s n="n"/><s n="aa"/><s n="sg"/></l><r>Mr.<s n="abbr"/></r></p></e>
+<e c="form of address"><p><l>պարոն<s n="n"/><s n="aa"/><s n="pl"/></l><r>Mr.<s n="abbr"/></r></p></e>
 <e c=""><p><l>պարոն<s n="n"/><s n="nn"/></l><r>gentleman<s n="n"/></r></p></e>
 <e c=""><p><l>պարոն<s n="n"/><s n="nn"/></l><r>sir<s n="n"/></r></p></e>
 <e c=""><p><l>պարուհի<s n="n"/><s n="aa"/></l><r>dancer<s n="n"/></r></p></e>
@@ -10853,7 +10858,7 @@
 <e c=""><p><l>առժամանակ<s n="adv"/></l><r>in<b/>the<b/>meantime<s n="adv"/></r></p></e>
 <e c=""><p><l>առժամանակ<s n="adv"/></l><r>some<b/>time<s n="adv"/></r></p></e>
 <e c=""><p><l>առնչությամբ<s n="adv"/></l><r>in<b/>referense<b/>to<s n="adv"/></r></p></e>
-<e c=""><p><l>առնչությամբ<s n="adv"/></l><r>in<b/>regard.to<s n="adv"/></r></p></e>
+<e c=""><p><l>առնչությամբ<s n="adv"/></l><r>with<b/>regard<b/>to<s n="adv"/></r></p></e>
 <e c=""><p><l>առնչությամբ<s n="adv"/></l><r>in<b/>relation<b/>to<s n="adv"/></r></p></e>
 <e c=""><p><l>աստիճանաբար<s n="adv"/></l><r>by<b/>degrees<s n="adv"/></r></p></e>
 <e c=""><p><l>աստիճանաբար<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
