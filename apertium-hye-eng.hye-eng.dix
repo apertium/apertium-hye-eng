@@ -69,6 +69,7 @@
 <section id="main" type="standard">
 <!-- SECTION: Conjunctions -->
 
+<e c="formal"><p><l>Եվ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>և<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>կամ<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 <e c=""><p><l>որ<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -109,11 +110,19 @@
 <e c=""><p><l>նույնպես<s n="cnjcoo"/></l><r>too<s n="adv"/></r></p></e>
 <e c=""><p><l>նույնպես<s n="cnjcoo"/></l><r>as<b/>well<s n="adv"/></r></p></e>
 
+<e c=""><p><l>այսինքն<s n="cnjadv"/></l><r>that<b/>is<s n="cnjadv"/></r></p></e>
+<e c=""><p><l>այսինքն<s n="cnjadv"/></l><r>i.e.<s n="abbr"/></r></p></e>
+
 <!-- SECTION: Adpositions -->
 <e c=""><p><l>ըստ<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
 <e c=""><p><l>դեպի<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
 <e c=""><p><l>դեպի<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
 <e c=""><p><l>առանց<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
+<e c=""><p><l>որպեսզի<s n="pr"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
+<e c=""><p><l>որպեսզի<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+<e c=""><p><l>մինչեւ<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
+<e c=""><p><l>մինչեւ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+<e c=""><p><l>մինչեւ<s n="pr"/></l><r>as<b/>far<b/>as<s n="pr"/></r></p></e>
 <e c="archaic"><p><l>հաղագս<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
 <e c="archaic"><p><l>հաղագս<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
 <e c="archaic"><p><l>հաղագս<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
@@ -10154,7 +10163,7 @@
 <e c=""><p><l>չ<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
 
 <e c=""><p><l>ինչպես<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
-<e c=""><p><l>քանի<s n="adv"/></l><r>how<b/>many<s n="adv"/></r></p></e>
+<e c=""><p><l>քանի<s n="adv"/></l><r>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
 <e c=""><p><l>քանիցս<s n="adv"/></l><r>how<b/>many<b/>times<s n="adv"/></r></p></e>
 
 <e c=""><p><l>ինչու<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
