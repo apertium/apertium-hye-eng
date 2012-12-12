@@ -1,6 +1,12 @@
 <rules>
   <rule>
     <or>
+      <match lemma="ժամ" tags="n.nn.*.*.*.px1sg"><select lemma="watch" tags="n.*"/></match>
+      <match lemma="ժամ" tags="n.nn.*.*.*.px2sg"><select lemma="watch" tags="n.*"/></match>
+    </or>
+  </rule>
+  <rule>
+    <or>
       <match lemma="մարդ" tags="n.aa.*.*.*.px1sg"><select lemma="husband" tags="n.*"/></match>
       <match lemma="մարդ" tags="n.aa.*.*.*.px2sg"><select lemma="husband" tags="n.*"/></match>
     </or>

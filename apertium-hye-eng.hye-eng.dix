@@ -2608,6 +2608,7 @@
 <e c=""><p><l>թվական<s n="n"/><s n="nn"/></l><r>numeral<s n="n"/></r></p></e>
 <e c=""><p><l>թևք<s n="n"/><s n="nn"/></l><r>sleeve<s n="n"/></r></p></e>
 <e c=""><p><l>ժամ<s n="n"/><s n="nn"/></l><r>hour<s n="n"/></r></p></e>
+<e c=""><p><l>ժամ<s n="n"/><s n="nn"/></l><r>watch<s n="n"/></r></p></e>
 <e c=""><p><l>ժամադրություն<s n="n"/><s n="aa"/></l><r>appointment<s n="n"/></r></p></e>
 <e c=""><p><l>ժամանակ<s n="n"/><s n="nn"/></l><r>time<s n="n"/></r></p></e>
 <e c=""><p><l>ժամանակացույց<s n="n"/><s n="nn"/></l><r>timetable<s n="n"/></r></p></e>
@@ -11052,8 +11053,8 @@
     <e c=""><p><l>օրինակ<s n="adv"/></l><r>e.g.<s n="adv"/></r></p></e>
     <e c="language"><p><l>ֆարերեն<s n="adv"/></l><r>in<b/>Faroese<s n="adv"/></r></p></e>
     <e c="language"><p><l>ֆարյորերեն<s n="adv"/></l><r>in<b/>Faroese<s n="adv"/></r></p></e>
-    <e c=""><p><l>ֆիզիկապես<s n="adv"/></l><r>phisically<s n="adv"/></r></p></e>
-    <e c=""><p><l>ֆիզիկորեն<s n="adv"/></l><r>phisically<s n="adv"/></r></p></e>
+    <e c=""><p><l>ֆիզիկապես<s n="adv"/></l><r>physically<s n="adv"/></r></p></e>
+    <e c=""><p><l>ֆիզիկորեն<s n="adv"/></l><r>physically<s n="adv"/></r></p></e>
     <e c="language"><p><l>ֆիլիպիներեն<s n="adv"/></l><r>in<b/>Filipino<s n="adv"/></r></p></e>
     <e c="language"><p><l>ֆիններեն<s n="adv"/></l><r>in<b/>Finnish<s n="adv"/></r></p></e>
     <e c="language"><p><l>ֆիջիերեն<s n="adv"/></l><r>in<b/>Fijan<s n="adv"/></r></p></e>
@@ -12747,8 +12748,8 @@
 <e c="intransitive"><p><l>ընկնել<s n="vblex"/></l><r>fall on<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>ընկնել<s n="vblex"/></l><r>find oneself<s n="vblex"/></r></p></e>
 <e c="somewhere"><p><l>ընկնել<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընկնել<s n="vblex"/></l><r>wind up<s n="vblex"/></r></p></e>
-<e c=""><p><l>ընկնել<s n="vblex"/></l><r>end up<s n="vblex"/></r></p></e>
+<e c=""><p><l>ընկնել<s n="vblex"/></l><r>wind<g><b/>up</g><s n="vblex"/></r></p></e>
+<e c=""><p><l>ընկնել<s n="vblex"/></l><r>end<g><b/>up</g><s n="vblex"/></r></p></e>
 <e c="intransitive, colloquial, in"><p><l>ընկնել<s n="vblex"/></l><r>get caught<s n="vblex"/></r></p></e>
 <e c="into"><p><l>ընկնել<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
 <e c="intransitive"><p><l>ընկնել<s n="vblex"/></l><r>lose<s n="vblex"/></r></p></e>
@@ -13592,6 +13593,7 @@
 <e c=""><p><l>օգնել<s n="vblex"/></l><r>assist<s n="vblex"/></r></p></e>
 <e c=""><p><l>օգնել<s n="vblex"/></l><r>aid<s n="vblex"/></r></p></e>
 <e c=""><p><l>ֆշշալ<s n="vblex"/></l><r>hiss<s n="vblex"/></r></p></e>
+<e c=""><p><l>կորել<s n="vblex"/><s n="tv"/></l><r>lose<s n="vblex"/></r></p></e>
 
 
 <!-- unchecked adjectives: -->
