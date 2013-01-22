@@ -18,3 +18,6 @@ hye-eng.autogen.bin:
 eng-hye.automorf.bin:
 	lt-comp lr apertium-hye-eng.eng.dix eng-hye.automorf.bin
 
+
+clean:
+	rm -rf eng-hye.automorf.bin hye-eng.autogen.bin hye-eng.t3x.bin hye-eng.t2x.bin hye-eng.t1x.bin eng-hye.autobil.bin hye-eng.autobil.bin hye-eng.autolex.bin hye-eng.rlx.bin hye-eng.automorf.bin modes

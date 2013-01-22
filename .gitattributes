@@ -19,3 +19,4 @@ dev/visualisations/verbs.dot -text
 dev/visualisations/verbs.pdf -text svneol=unset#unset
 /eng-hye.prob -text svneol=unset#unset
 /modes.xml -text
+/pending-tests.sh -text
